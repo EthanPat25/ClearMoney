@@ -14,7 +14,7 @@ interface airlineprops {
 export const Plant = React.memo(({ animate }: airlineprops) => {
     // Component code
     const [windowsize, updatewindowsize] = React.useState(window.innerWidth)
-      const [size,updatesize] = React.useState(200) 
+      const [size,updatesize] = React.useState(160) 
 
   const playerRef = React.useRef<any>(null);
 

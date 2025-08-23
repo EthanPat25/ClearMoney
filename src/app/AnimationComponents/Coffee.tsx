@@ -10,7 +10,7 @@ import { Player } from '@lordicon/react';
 export const Coffee = React.memo(() => {
     // Component code
     const [windowsize, updatewindowsize] = React.useState(window.innerWidth);
-      const [size,updatesize] = React.useState(250)  
+      const [size,updatesize] = React.useState(150)  
   const playerRef = React.useRef<any>(null);
 
 

@@ -26,25 +26,58 @@ import { AreaChart, Area, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContai
 import { Button } from "@/components/ui/button";
 import BarGraph from "./BarGraph";
 import SideBySide from "./SideBySide";
+import { PopoverPop } from "./Popover";
+import { Superannuation } from "../AnimationComponents/Superannuation";
 
 
 export default function SuperContributions() {
-  const [showInfo, setShowInfo] = useState(false);
-  const [extraSuper, setExtraSuper] = useState(0);
   
   const salary = 70000;
   const marginalTaxRate = 0.325; // Example: 32.5% tax rate
   const superTaxRate = 0.15;
 
   // Calculate the tax savings if contributing extra to super
-  const taxSavings = extraSuper * (marginalTaxRate - superTaxRate);
-  const takeHomePay = salary - salary * marginalTaxRate - extraSuper + taxSavings;
 
   // bg-[RGB(250,251,252)]
   //  bg-gray-100
 
   return (
     <div className="w-screen p-6 bg-[RGB(250,251,252)] relative">
+
+          <div className="bg-gradient-to-b from-[rgb(3,181,183)] to-[#9bdbdc] p-6 pb-16">
+              <div className="mt-24 flex flex-col items-center p-10">
+                <div className="flex rounded-full bg-[RGB(82,105,127)] w-24 h-24 justify-center items-center mb-5">
+                  <Superannuation animate={true} />
+                </div>
+                <h2 className="text-center text-[RGB(255,255,255)] font-bold xs:text-[2.2rem] sm:text-[3rem] md:text-[3.7rem]">
+                  Boost your desposit <br /> 
+                </h2>
+              </div>
+      
+                    <div className="flex justify-center mb-5">
+      
+                      <div className="flex w-[31rem] justify-center">
+                <Button className="flex items-center justify-center gap-2 bg-[rgb(251,99,64)] xs:w-[13.5rem] sm:w-[15rem] h-12 text-[0.9rem] font-bold text-white">
+                  FHSS Calc
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    className="w-4 h-4"
+                    viewBox="0 0 24 24"
+                    fill="none"
+                    stroke="currentColor"
+                    strokeWidth="2"
+                  >
+                    <path d="M5 12h14M13 5l7 7-7 7" />
+                  </svg>
+                </Button>
+    
+      
+                </div>
+              </div>
+      
+          
+            </div>
+      
         <div className="mt-10">
         </div>
 

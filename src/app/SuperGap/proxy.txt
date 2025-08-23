@@ -1,0 +1,372 @@
+# Proxy Assignment - Ethan Paterson <z5316736>
+# This Python Program acts as a proxy server between
+# web Server and Client. It Parses and Forwards
+# HTTP requests and responses.
+
+import sys
+import socket 
+import datetime
+from urllib.parse import urlparse
+from threading import Thread
+
+port = int(sys.argv[1])
+time_out = int(sys.argv[2])
+max_object_size = int(sys.argv[3])
+max_cache_size = int(sys.argv[4])
+cache = {}
+
+# Create Socket that listens for clients
+def configure_proxy():
+    proxy_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+    proxy_socket.bind(('', port))
+    proxy_socket.listen()
+    return proxy_socket
+
+# Accept Incoming Connections from clients
+def client_connections(proxy_socket):
+    while True:
+        #TCP Sends in packets: Loop Through Packets 
+        (clientsocket, address) = proxy_socket.accept()
+        client = Thread_Handler(clientsocket, address)
+        client.start()
+
+def start_proxy():
+    proxy_socket = configure_proxy()
+    client_connections(proxy_socket)
+
+class Thread_Handler(Thread):
+    def __init__(self, clientsocket, address):
+        super().__init__()
+        self.clientActive = True
+        self.clientsocket = clientsocket
+        self.address = address
+        self.content_length_header = False
+        self.content_length_value = 0
+        self.incoming_data = b""
+        self.header_data = b""
+        self.body_data = b""
+        self.Http_method = ""
+        self.absolute_target = ""
+        self.protocol = ""
+        self.server_response_incoming_data = b""
+        self.cache_indicator = "-"
+
+    def run(self):
+        # Loop Through multiple request on connection
+        while self.clientActive:
+            self.read_client_message()
+            self.extract_req_headers(self.header_data.decode().split("\r\n"))
+            self.handle_method(self.url_obj, self.body_data)
+            self.clear_request_data()
+
+
+    def read_client_message(self):
+        while True:
+            client_request_data = self.clientsocket.recv(max_object_size)
+            self.incoming_data = self.incoming_data + client_request_data
+            if b"\r\n\r\n" not in self.incoming_data:
+                    continue
+            self.header_data, self.body_data = self.incoming_data.split(b"\r\n\r\n", 1)
+            self.parse_client_request_line()
+            self.set_date()
+            break
+
+        if self.content_length_header:
+            while len(self.body_data) < self.content_length_value:
+                self.body_data += self.clientsocket.recv(max_object_size)
+
+    def set_date(self):
+        time = datetime.datetime.now().astimezone()
+        self.request_received_data = time.strftime("[%d/%b/%Y:%H:%M:%S %z]")
+                
+    def parse_client_request_line(self):   
+        self.Http_method, self.absolute_target, self.protocol = self.header_data.decode().split("\r\n")[0].split(" ")
+        self.url_obj = urlparse(self.absolute_target)
+        if self.url_obj.port == 80:
+            port = ""
+        else:
+            port = ":" + str(self.url_obj.port)
+
+        path = self.url_obj.path or "/"
+        self.normalised_url = self.url_obj.scheme + "://" + self.url_obj.hostname.lower() + port + path
+        if self.url_obj.query:
+            self.normalised_url += "?" + self.url_obj.query
+
+    # Place field-name and field-values in a dictionary
+    def process_headers(self, Array):
+
+        headers = {}
+
+        for line in Array:
+            if ": " in line:
+                line_split = line.split(":",1)
+                field_name = line_split[0].lower().strip()
+                field_value = line_split[1].strip()
+                headers[field_name] = field_value
+
+        return headers
+
+    # Calls process_headers to extract headers from client Request
+    def extract_req_headers(self, RequestArray):
+
+        self.Request_headers = self.process_headers(RequestArray)
+
+        for field_name, field_value in self.Request_headers.items():
+            self.connection_check(field_name, field_value)
+            self.check_content(field_name, field_value)
+
+        for key in ["proxy-connection", "connection", "via", "host"]:
+            if key in self.Request_headers:
+                self.Request_headers.pop(key, None)
+
+        if self.clientActive:
+            self.Request_headers["connection"] = "keep-alive"
+        else:
+            self.Request_headers["connection"] = "close"
+
+        self.Request_headers["via"] = "1.1 z5316736"
+        self.Request_headers["host"] = str(self.url_obj.hostname)
+
+    # Calls process_headers to extract headers from server response
+    def extract_res_headers(self, RequestArray):
+
+        self.Response_headers = self.process_headers(RequestArray)
+
+        for key in ["connection", "via"]:
+            if key in self.Response_headers:
+                self.Response_headers.pop(key, None)
+        if self.clientActive:
+            self.Response_headers["connection"] = "keep-alive"
+        else:
+            self.Response_headers["connection"] = "close"
+        self.Response_headers["via"] = "1.1 z5316736"
+
+    def connection_check(self, field_name, field_value):
+        if field_name == "connection" and "close" in field_value:
+            self.clientActive = False
+
+    def check_content(self, field_name, field_value):
+        if field_name == "content-length":
+            self.content_length_header = True
+            self.content_length_value = int(field_value)
+    
+    # Calls process_headers to extract headers from server response
+    def handle_method(self, url_parsed_object, body_data):
+        if "GET" == self.Http_method:
+            self.handle_get(url_parsed_object, body_data)
+    
+        elif "HEAD" == self.Http_method:
+            self.handle_head(url_parsed_object)
+
+        elif "POST" == self.Http_method:
+            if not self.content_length_header:
+                self.error_411()
+            else:
+                self.handle_post(url_parsed_object, body_data)
+
+    def handle_get(self, url_parsed_object, body_data):
+
+        # Send Cached response to client if present in cache
+        if self.check_cache():
+            cache_data = cache.get(self.normalised_url)
+            self.cache_indicator = "H"
+            self.log_handler(self.normalised_url)
+            self.clientsocket.sendall(cache_data["resp"])
+        
+        else:
+            self.cache_indicator = "M"
+            request_data = self.Http_method + " " + self.absolute_target + " " + self.protocol + "\r\n"
+
+            for header, value in self.Request_headers.items():
+                request_data += header + ": " + value + "\r\n"
+            request_data += "\r\n"
+            self.configure_server_connection(url_parsed_object, request_data)
+     
+    def handle_head(self, url_parsed_object): 
+        
+        request_data = self.Http_method + " " + self.absolute_target + " " + self.protocol + "\r\n"
+
+        for header, value in self.Request_headers.items():
+            request_data += header + ": " + value + "\r\n"
+        request_data += "\r\n"
+
+        self.configure_server_connection(url_parsed_object, request_data)
+
+    def handle_post(self, url_parsed_object, body_data): 
+
+        request_data = self.Http_method + " " + self.absolute_target + " " + self.protocol + "\r\n"
+
+        for header, value in self.Request_headers.items():
+            request_data += header + ": " + value + "\r\n"
+        
+        request_data += "\r\n"
+        request_data += body_data.decode()
+
+        self.configure_server_connection(url_parsed_object, request_data)
+
+    # Establishes connection and sends request to Server. Forwards response
+    # to Client
+    def configure_server_connection(self, url_parsed_object, request_data):
+        port = self.url_obj.port
+        if not port:
+            port = 80
+        serverAddress = (socket.gethostbyname(url_parsed_object.hostname), int(port))
+        serverSocket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+        serverSocket.connect(serverAddress)
+        serverSocket.sendall(request_data.encode())
+
+        while True:
+            server_response_data = serverSocket.recv(max_object_size)  # <-- fix missing recv
+            self.server_response_incoming_data += server_response_data 
+            if b"\r\n\r\n" not in self.server_response_incoming_data:
+                    continue
+
+            break
+
+        self.server_header, self.server_body = self.server_response_incoming_data.split(b"\r\n\r\n", 1)
+        self.extract_res_headers(self.server_header.decode().split("\r\n"))
+        self.parse_server_response_line()
+
+
+        if self.Http_method == "HEAD" or self.server_code == 204 or self.server_code == 304:
+            #No Body
+            self.forward_response(serverSocket)
+
+        elif "content-length" in self.Response_headers and "transfer-encoding" not in self.Response_headers:
+            while len(self.server_body) < int(self.Response_headers.get("content-length")):
+                self.server_body += serverSocket.recv(max_object_size)
+            self.forward_response(serverSocket)
+    
+        else:
+            while True:
+                server_response_data = serverSocket.recv(max_object_size)
+                if server_response_data == b'':
+                    break
+                self.server_body += server_response_data
+            self.forward_response(serverSocket)
+
+
+    def error_411(self):
+        body = "411 Length Required"
+        content_length = str(len(body)) 
+        response = (
+            "HTTP/1.1 411 Length Required\r\n"
+            "Content-Length: " + content_length + "\r\n"
+            "Connection: close\r\n"
+            "\r\n"
+            + body
+        )
+        self.clientsocket.sendall(response.encode())
+        self.clientsocket.close()
+        self.clientActive = False
+
+    def error_400(self):
+        body = "no host"
+        content_length = str(len(body)) 
+        response = (
+            "HTTP/1.1 400 Bad Request\r\n"
+            "Content-Length: " + content_length + "\r\n"
+            "Connection: close\r\n"
+            "\r\n"
+            + body
+        )
+        self.clientsocket.sendall(response.encode())
+        self.clientsocket.close()
+        self.clientActive = False
+
+    # Sends the response to the client
+    def forward_response(self,serverSocket):
+        serverSocket.close()
+        response_line = ""
+        for line in self.response_status_line:
+            response_line = response_line + line + " "
+        response_line += "\r\n"
+
+        header = ""
+        for field, value in self.Response_headers.items():
+            header += field + ": " + value + "\r\n"
+        header += "\r\n"
+
+        response = response_line.encode() + header.encode() + self.server_body
+
+        # Caches Response if conditions met
+        if self.Http_method == "GET" and self.server_code == 200 and len(response) <= max_object_size:
+            cache[self.normalised_url] = {
+                "resp": response,
+                "status_code": self.server_code,
+                "bytes": len(self.server_body)
+            }
+
+        self.log_handler(self.normalised_url)
+        self.clientsocket.sendall(response)
+        self.clear_response_data()
+
+    def parse_server_response_line(self):
+        self.response_status_line = self.server_header.decode().split("\r\n")[0].split(" ")
+        self.server_code = int(self.response_status_line[1])
+
+    def clear_response_data(self):
+        self.server_code = 0
+        self.response_status_line = []
+        self.Response_headers = {}
+        self.server_body = b""
+        self.server_header = b""
+        self.server_response_incoming_data = b""
+        self.cache_indicator = "-"
+
+    # Reset Variables
+    def clear_request_data(self):
+        self.incoming_data = b""
+        self.header_data = b""
+        self.body_data = b""
+        self.Http_method = ""
+        self.absolute_target = ""
+        self.protocol = ""
+        self.url_obj = None
+        self.normalised_url = ""
+        self.Request_headers = {}
+        self.content_length_header = False
+        self.content_length_value = 0
+
+    # Reset Variables
+    def check_cache(self):
+        if self.normalised_url in cache:
+            return True
+        else:
+            return False
+
+    def log_handler(self, url_normalised):
+
+        host, port = self.address
+        
+        client_request_line = (
+            self.Http_method + " " +
+            self.absolute_target + " " + 
+            self.protocol
+        )
+
+        cache_data = cache.get(url_normalised)
+
+        if self.cache_indicator == "H":
+            log_bytes = cache_data["bytes"]
+            server_code = cache_data["status_code"]
+        elif self.cache_indicator == "M":
+            log_bytes = len(self.server_body)
+            server_code = self.server_code
+        else:
+            log_bytes = 0
+            server_code = 0
+
+
+        log = (
+            str(host) + " " +
+            str(port) + " " +
+            self.cache_indicator + " " +
+            self.request_received_data + " " +
+            "\"" + client_request_line +"\"" + " " +
+            str(server_code) + " " +
+            str(log_bytes)
+        )
+        print(log)
+
+start_proxy()

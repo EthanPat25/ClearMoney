@@ -5,7 +5,6 @@ import { Money } from '../AnimationComponents/Money'
 import { Superannuation } from '../AnimationComponents/Superannuation'
 import Info from '../FHSS/Info'
 import { Plant } from '../AnimationComponents/Plant'
-import { TaxCalculator } from '../AnimationComponents/TaxCalculator'
 import Home from '../page'
 import { House } from '../AnimationComponents/House'
 import { Calculator } from '../AnimationComponents/Calculator'
@@ -38,7 +37,6 @@ const [Basics, updatebasics] = React.useState(false);
                 </motion.div>
                 <motion.div className="relative bg-[RGB(82,105,127)] rounded-3xl p-6 shadow-md text-center w-72 h-72 flex flex-col justify-center items-center" whileHover={{scale: 1.05}} transition={{type: "spring", stiffness: 200, damping: 10 }}>
                     <Info className = {"absolute top-4 right-4 w-8 h-8 flex justify-center items-center"}></Info>
-                    <TaxCalculator animate = {true}></TaxCalculator>
                     <h2 className="font-semibold text-white">Super and Tax</h2>
                 </motion.div>
                 <motion.div className="relative bg-[RGB(82,105,127)] rounded-3xl p-6 shadow-md text-center w-72 h-72 flex flex-col justify-center items-center" whileHover={{scale: 1.05}} transition={{type: "spring", stiffness: 200, damping: 10 }}>

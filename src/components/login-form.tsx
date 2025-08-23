@@ -12,10 +12,8 @@ import { Label } from "@/components/ui/label"
 import { SwitchDemo } from "@/app/FHSS/Switch"
 import {
   Tabs,
-  TabsContent,
-  TabsList,
-  TabsTrigger,
 } from "@/components/ui/tabs"
+import { PopoverPop } from "@/app/FHSS/Popover"
 
 export function LoginForm({
   className,
@@ -23,12 +21,6 @@ export function LoginForm({
 }: React.ComponentPropsWithoutRef<"div">) {
   return (
     <div className={cn("flex flex-col gap-6", className)} {...props}>
-         <Tabs defaultValue="account" className="">
-         <TabsList className="grid w-full grid-cols-2 h-12 mb-4">
-  <TabsTrigger value="account" className="py-2 text-sm font-semibold">Before Tax (Salary Sacrifice)</TabsTrigger>
-  <TabsTrigger value="password" className="py-2 text-sm">After Tax (Notice of Intent)</TabsTrigger>
-</TabsList>
-
       <Card>
         <CardHeader>
           <CardTitle className="text-2xl">FHSS Calculator</CardTitle>
@@ -38,7 +30,7 @@ export function LoginForm({
         </CardHeader>
         <CardContent>
           <form>
-            <div className="flex flex-col gap-6">
+                 <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="relative flex flex-col">
                 <div className="relative"> {/* Make input wrapper relative */}
                   <Label htmlFor="number">Salary</Label>
@@ -49,7 +41,7 @@ export function LoginForm({
                 </div>
               </div>
 
-              <div className="relative flex flex-col">
+              <div className="relative">
                 <div className="relative"> {/* Make input wrapper relative */}
                   <Label htmlFor="number">Duration</Label>
                   <Input id="number" type="number" required className="pl-6 h-10" /> {/* Add padding for spacing */} 
@@ -57,23 +49,23 @@ export function LoginForm({
               </div>
 
 
-              <div className="relative flex flex-col">
+              <div className="relative">
                 <div className="relative"> {/* Make input wrapper relative */}
-                  <Label htmlFor="number">Bank Savings Rate %</Label>
+                  <Label htmlFor="number">Bank Savings Interest %</Label>
                   <Input id="number" type="number" required className="pl-6 h-10" /> {/* Add padding for spacing */} 
                 </div>
               </div>
 
-              <div className="relative flex flex-col">
+              <div className="relative">
                 <div className="relative"> {/* Make input wrapper relative */}
                   <Label htmlFor="number">Superannuation Return %</Label>
                   <Input id="number" type="number" required className="pl-6 h-10" /> {/* Add padding for spacing */} 
                 </div>
               </div>
 
-              <div className="relative flex flex-col">
+                      <div className="relative col-span-2">
                 <div className="relative"> {/* Make input wrapper relative */}
-                  <Label htmlFor="number">Voluntary After-Tax Contributions</Label>
+                  <Label htmlFor="number">Before Tax Contributions (Sacrifice)</Label>
                   <Input id="number" type="number" required className="pl-6 h-10" /> {/* Add padding for spacing */}
                   <div className="absolute bottom-0 left-2 pr-2 pl-2 flex items-center h-[40px]">
                     <p>$</p>
@@ -81,13 +73,17 @@ export function LoginForm({
                 </div>
               </div>
 
+
               <div className="flex justify-evenly  mr-12">
                   <Button className="rounded-3xl">Weekly</Button>
                   <Button className="rounded-3xl">Monthly</Button>
                   <Button className="rounded-3xl">Annually</Button>
                 </div>
 
-                <SwitchDemo></SwitchDemo>
+                <div className="relative col-span-2">
+
+                {/*<SwitchDemo></SwitchDemo>*/}
+                </div>
 
                 <Button type="submit" className="w-full">
                 Calculate
@@ -96,11 +92,9 @@ export function LoginForm({
 
               </div>
 
-          
           </form>
         </CardContent>
       </Card>
-      </Tabs>
     </div>
   )
 }

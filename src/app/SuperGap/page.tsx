@@ -1,91 +1,200 @@
 "use client";
 
 import React, { useState } from "react";
-import { ResponsiveContainer, BarChart, Bar, Tooltip, YAxis, XAxis, LineChart, Line } from "recharts";
 import EverydayTerms from "./EverydayTerms";
 import Breakdown from "./Breakdown";
 import { Calc } from "./Calc";
 import Graph from "./Graph";
 import { Button } from "@/components/ui/button";
+import UnderStand from "./UnderStand";
+import InsightCard from "./InsightCard";
+import Info from "../FHSS/Info";
+import { MitigationCalc } from "./Calc copy";
+import { Tabs } from "@/components/ui/tabs";
+import { Superannuation } from "../AnimationComponents/Superannuation";
 
-const userActivity = [
-  {
-    Title: "FHSS",
-    Contributions: 35000,
-    Refunded: 11000,
-    Interest: 4000,
-  },
-  {
-    Title: "Savings Account",
-    Contributions: 35000,
-    Refunded: 0,
-    Interest: 4000,
-  }
-];
 
 export default function SuperContributions() {
-  const [extraSuper, setExtraSuper] = useState(0);
-  const [timeOff, setTimeOff] = useState(6); // Default: 6 months off
-  const [contributionMethod, setContributionMethod] = useState("before");
+  const [inflation, setInflation] = useState(true);
+  const [view, setView] = useState<"terms" | "case" | "close">("terms");
 
-  const salary = 70000;
-  const superRate = 0.115;
-  const superTaxRate = 0.15;
-  const expectedReturn = 0.07;
-  const inflationRate = 0.04;
-  const yearsUntilRetirement = 34;
-  
-  // Calculate lost super from taking time off
-  const lostSuper = ((salary * superRate) * (timeOff / 12)) * (1 + expectedReturn) ** yearsUntilRetirement;
-  
-  // Calculate weekly voluntary contribution to offset loss
-  const weeksToContribute = contributionMethod === "before" ? 104 : contributionMethod === "during" ? timeOff * 4 : 104;
-  const weeklyContribution = lostSuper / weeksToContribute;
-
-  // Graph Data: Super Growth Scenarios
-  const graphData = Array.from({ length: yearsUntilRetirement }, (_, i) => {
-    const year = i + 1;
-    return {
-      year: 2024 + year,
-      Baseline: (salary * superRate) * (1 + expectedReturn) ** year,
-      WithoutContributions: (salary * superRate) * (1 + expectedReturn) ** (year - (timeOff / 12)),
-      WithVoluntary: (salary * superRate + weeklyContribution * 52) * (1 + expectedReturn) ** year,
-    };
-  });
+    const tabs = [
+    {
+      title: "Product",
+      value: "product",
+      content: (
+         <div className="w-full overflow-hidden relative h-full rounded-2xl p-10 text-xl md:text-4xl font-bold text-white bg-gradient-to-br from-purple-700 to-violet-900">
+          <p>Playground tab</p>
+        </div>
+      ),
+    },
+    {
+      title: "Services",
+      value: "services",
+      content: (
+        <div className="w-full overflow-hidden relative h-full rounded-2xl p-10 text-xl md:text-4xl font-bold">
+           <EverydayTerms />
+        </div>
+      ),
+    },
+    {
+      title: "Playground",
+      value: "playground",
+      content: (
+        <div className="w-full overflow-hidden relative h-full rounded-2xl p-10 text-xl md:text-4xl font-bold text-white bg-gradient-to-br from-purple-700 to-violet-900">
+          <p>Playground tab</p>
+        </div>
+      ),
+    },
+    {
+      title: "Content",
+      value: "content",
+      content: (
+        <div className="w-full overflow-hidden relative h-full rounded-2xl p-10 text-xl md:text-4xl font-bold text-white bg-gradient-to-br from-purple-700 to-violet-900">
+          <p>Content tab</p>
+        </div>
+      ),
+    },
+    {
+      title: "Random",
+      value: "random",
+      content: (
+        <div className="w-full overflow-hidden relative h-full rounded-2xl p-10 text-xl md:text-4xl font-bold text-white bg-gradient-to-br from-purple-700 to-violet-900">
+          <p>Random tab</p>
+        </div>
+      ),
+    },
+  ];
 
   return (
+
+    <>
+        <div className="w-screen min-h-screen flex flex-col">
+
+        <div className="bg-gradient-to-b from-[rgb(3,181,183)] to-[#9bdbdc] p-6 pb-16">
+            <div className="mt-24 flex flex-col items-center p-10">
+              <div className="flex rounded-full bg-[RGB(82,105,127)] w-24 h-24 justify-center items-center mb-5">
+                <Superannuation animate={true} />
+              </div>
+              <h2 className="text-center text-[RGB(255,255,255)] font-bold xs:text-[2rem] sm:text-[3rem] md:text-[3.7rem]">
+                The Super Gap is Real <br /> 
+              </h2>
+              <h3 className="text-center xs:text-[1rem] sm:text-[1.3rem] text-[RGB(255,255,255)]">Life happens — caring, part-time work, or time off can mean less super.
+<br></br>Check your gap and help raise awareness.</h3>
+            </div>
+    
+                  <div className="flex justify-center mb-5">
+    
+                 
+              <Button className="flex items-center justify-center gap-2 bg-[rgb(251,99,64)] w-[15rem] h-12 text-[0.9rem] font-bold text-white">
+                Calculate My Gap
+                <svg
+  xmlns="http://www.w3.org/2000/svg"
+  className="w-4 h-4"
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="currentColor"
+  strokeWidth="2"
+>
+  <path d="M19 9l-7 7-7-7" />
+</svg>
+             
+              </Button>
+  
+    
+             
+            </div>
+    
+        
+          </div>
+    
     <div className="w-screen p-6 bg-[RGB(250,251,252)] relative">
+      
       <div className="mt-10"></div>
 
+      {/* TOP SECTION */}
       <div className="flex mt-20 justify-evenly">
-        <div className="flex justify-center items-center">
+        <div className="flex justify-center">
           <div className="w-[30rem]">
-  
             <Calc />
           </div>
         </div>
+
         <div className="flex flex-col w-1/2 items-center">
-        <div className="flex justify-start mb-5">
-                  <Button className="rounded-3xl mr-5 w-36">Inflation Adjusted</Button>
-                  <Button className="rounded-3xl w-36">Non Inflation</Button>
-                </div>
+          <div className="flex justify-start mb-5 w-full ml-12 items-center">
+            <Button
+              onClick={() => setInflation(true)}
+              className="rounded-3xl mr-5 w-36"
+              variant={inflation ? "default" : "outline"}
+            >
+              Adjust For Inflation
+            </Button>
+            <Button
+              onClick={() => setInflation(false)}
+              variant={inflation ? "outline" : "default"}
+              className="rounded-3xl w-36"
+            >
+              Ignore Inflation
+            </Button>
+            <Info className="w-6 h-6 flex justify-center items-center ml-2" />
+          </div>
+
           <Breakdown />
-          <div className="mt-10 w-full flex flex-col items-center">
-        <h2 className="text-xl font-bold">Mitigate Your Super Gap</h2>
-        <p className="text-gray-600 text-sm">See How Voluntary Contributions can close the Gap</p>
-        <div className="w-[40rem] h-[20rem] mt-6 bg-gray-100 p-4 rounded-lg">
-<Graph></Graph>         
-        </div>
-
-        <p className="mt-4 text-gray-700 font-semibold">To fully offset your super loss, contribute <span className="text-blue-500">${weeklyContribution.toFixed(2)} per week</span> for {weeksToContribute} weeks.</p>
-      </div>
-
-
+          <InsightCard />
         </div>
       </div>
 
-      
-      <EverydayTerms />
+      {/* FULL-WIDTH TOGGLE + CONTENT */}
+     
     </div>
+     <section className="mt-16 w-screen">
+        <div className="max-w-7xl mx-auto px-6 py-8">
+          {/* Toggle */}
+          <div className="flex flex-wrap gap-2 mb-6">
+            <button
+              onClick={() => setView("terms")}
+              className={`px-4 py-2 w-[9.7rem] rounded-3xl text-sm ${view === "terms" ? "bg-gray-900 text-white" : "border"}`}
+            >
+              In Everyday Terms
+            </button>
+            <button
+              onClick={() => setView("case")}
+              className={`px-4 py-2 w-[9.7rem] rounded-3xl text-sm ${view === "case" ? "bg-gray-900 text-white" : "border"}`}
+            >
+              Why Gaps Matter
+            </button>
+            <button
+              onClick={() => setView("close")}
+              className={`px-4 py-2 w-[9.7rem] rounded-3xl text-sm ${view === "close" ? "bg-gray-900 text-white" : "border"}`}
+            >
+              Close the Gap
+            </button>
+          </div>
+
+          {/* Content */}
+          {view === "terms" && <EverydayTerms />}
+          {view === "case" && <UnderStand />}
+          {view === "close" && (
+            <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 items-start">
+              <div className="bg-white rounded-2xl border border-gray-200 shadow-sm p-6">
+                <MitigationCalc />
+              </div>
+              <div className="bg-white rounded-2xl border border-gray-200 shadow-sm p-6">
+                <h4 className="text-base font-medium mb-2">Impact</h4>
+                <div className="h-[360px] bg-gray-50 rounded-xl p-3">
+                  <Graph />
+                </div>
+                <p className="text-sm text-gray-600 mt-3">
+                  Adjust the weekly amount to see how your trajectory changes.
+                </p>
+              </div>
+            </div>
+          )}
+        </div>
+      </section>
+
+    </div>
+
+    </>
   );
 }

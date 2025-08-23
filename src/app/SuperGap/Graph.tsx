@@ -186,10 +186,31 @@ const data = [
     Baseline: 20000,
     WithoutContributions: 27000,
   },
-
-
-
-
+  {
+    name: '2061',
+    Baseline: 20000,
+    WithoutContributions: 27000,
+  },
+  {
+    name: '2062',
+    Baseline: 20000,
+    WithoutContributions: 27000,
+  },
+  {
+    name: '2063',
+    Baseline: 20000,
+    WithoutContributions: 27000,
+  },
+  {
+    name: '2064',
+    Baseline: 20000,
+    WithoutContributions: 27000,
+  },
+  {
+    name: '2065',
+    Baseline: 20000,
+    WithoutContributions: 27000,
+  },
 ];
 
   const salary = 70000;
