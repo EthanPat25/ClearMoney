@@ -1,7 +1,6 @@
 "use client";
 
 import * as React from "react";
-import Link from "next/link";
 
 import { cn } from "@/lib/utils";
 import {
@@ -15,7 +14,6 @@ import {
 } from "@/components/ui/navigation-menu";
 import { Learn } from "../AnimationComponents/Learn";
 import House from "./NavBarIcons/House";
-import Coffee from "./NavBarIcons/Coffee";
 import Pie from "./NavBarIcons/Pie";
 
 const components: {

@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
 import NavBar from "../app/financeOverview/NavBar";
+import { Footer } from "./components/ui/Footer";
 
 const inter = Inter({
   subsets: ["latin"],
@@ -21,10 +22,11 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={inter.className}>
-        <main className="flex flex-grow w-screen">
+        <main className="flex flex-grow w-screen mb-10">
           <NavBar></NavBar>
           {children}
         </main>
+        <Footer></Footer>
       </body>
     </html>
   );
