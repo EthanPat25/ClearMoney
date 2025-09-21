@@ -22,6 +22,7 @@ const EverydayTerms: React.FC<EverydayTermsProps> = ({ holdingsData }) => {
   return (
     <div className="bg-gray-100 h-[67rem] w-full rounded-[5rem]">
       {/* Floating circle summary */}
+
       <div className="flex-col font-semibold flex justify-center items-center absolute h-20 w-32 rounded-full bg-[RGB(82,105,127)] text-white right-32 top-[84rem]">
         <p className="text-md text-[RGB(251,99,64)]">36.85%</p>
         <h2 className="text-lg">$2,579.50</h2>
