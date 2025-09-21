@@ -1,0 +1,2227 @@
+Asset_Class,Management_Type,Name,Dollar_Value,Weighting_Percentage,Security_Identifier,Currency,Source_Name,Listing_Status,Super_Fund,Option_Name
+Cash,-,-,9186196,0.53,-,AUD,-,,Rest,Balanced
+Cash,-,-,7332234,0.42,-,AUD,-,,Rest,Balanced
+Cash,-,-,6960862,0.40,-,AUD,-,,Rest,Balanced
+Cash,-,-,6750966,0.39,-,AUD,-,,Rest,Balanced
+Cash,-,-,5725980,0.33,-,AUD,-,,Rest,Balanced
+Cash,-,-,4668817,0.27,-,USD,-,,Rest,Balanced
+Cash,-,-,4466021,0.26,-,AUD,-,,Rest,Balanced
+Cash,-,-,4319570,0.25,-,AUD,-,,Rest,Balanced
+Cash,-,-,4094774,0.24,-,AUD,-,,Rest,Balanced
+Cash,-,-,4077306,0.24,-,AUD,-,,Rest,Balanced
+Cash,-,-,2464004,0.14,-,AUD,-,,Rest,Balanced
+Cash,-,-,1970762,0.11,-,AUD,-,,Rest,Balanced
+Cash,-,-,1229257,0.07,-,AUD,-,,Rest,Balanced
+Cash,-,-,404333,0.02,-,EUR,-,,Rest,Balanced
+Cash,-,-,373040,0.02,-,USD,-,,Rest,Balanced
+Cash,-,-,248008,0.01,-,USD,-,,Rest,Balanced
+Cash,-,-,176620,0.01,-,USD,-,,Rest,Balanced
+Cash,-,-,132393,0.01,-,GBP,-,,Rest,Balanced
+Cash,-,-,131904,0.01,-,USD,-,,Rest,Balanced
+Cash,-,-,92520,0.01,-,USD,-,,Rest,Balanced
+Cash,-,-,84119,0.00,-,CAD,-,,Rest,Balanced
+Cash,-,-,79106,0.00,-,USD,-,,Rest,Balanced
+Cash,-,-,50514,0.00,-,NZD,-,,Rest,Balanced
+Cash,-,-,47497,0.00,-,JPY,-,,Rest,Balanced
+Cash,-,-,31322,0.00,-,MXN,-,,Rest,Balanced
+Cash,-,-,28213,0.00,-,USD,-,,Rest,Balanced
+Cash,-,-,24966,0.00,-,CNY,-,,Rest,Balanced
+Cash,-,-,18490,0.00,-,USD,-,,Rest,Balanced
+Cash,-,-,10991,0.00,-,IDR,-,,Rest,Balanced
+Cash,-,-,10224,0.00,-,DKK,-,,Rest,Balanced
+Cash,-,-,10155,0.00,-,HUF,-,,Rest,Balanced
+Cash,-,-,8367,0.00,-,SGD,-,,Rest,Balanced
+Cash,-,-,7920,0.00,-,USD,-,,Rest,Balanced
+Cash,-,-,6867,0.00,-,SEK,-,,Rest,Balanced
+Cash,-,-,5087,0.00,-,CHF,-,,Rest,Balanced
+Cash,-,-,3605,0.00,-,ILS,-,,Rest,Balanced
+Cash,-,-,3450,0.00,-,HKD,-,,Rest,Balanced
+Cash,-,-,3193,0.00,-,INR,-,,Rest,Balanced
+Cash,-,-,2869,0.00,-,VND,-,,Rest,Balanced
+Cash,-,-,2852,0.00,-,ZAR,-,,Rest,Balanced
+Cash,-,-,2701,0.00,-,BRL,-,,Rest,Balanced
+Cash,-,-,2583,0.00,-,PLN,-,,Rest,Balanced
+Cash,-,-,1133,0.00,-,NOK,-,,Rest,Balanced
+Cash,-,-,1029,0.00,-,CZK,-,,Rest,Balanced
+Cash,-,-,798,0.00,-,TRY,-,,Rest,Balanced
+Cash,-,-,210,0.00,-,TWD,-,,Rest,Balanced
+Cash,-,-,176,0.00,-,AUD,-,,Rest,Balanced
+Cash,-,-,79,0.00,-,AUD,-,,Rest,Balanced
+Cash,-,-,30,0.00,-,AUD,-,,Rest,Balanced
+Cash,-,-,18,0.00,-,AUD,-,,Rest,Balanced
+Cash,-,-,15,0.00,-,EUR,-,,Rest,Balanced
+Cash,-,-,3,0.00,-,THB,-,,Rest,Balanced
+Cash,-,-,2,0.00,-,KRW,-,,Rest,Balanced
+Cash,-,-,-4093977,-0.24,-,AUD,-,,Rest,Balanced
+Sub Total Cash,,,61160174,3.53,,,,,Rest,Balanced
+Fixed Income,Internally,-,45070226,2.60,-,-,-,,Rest,Balanced
+Fixed Income,Internally,-,19440969,1.12,-,-,-,,Rest,Balanced
+Fixed Income,Internally,-,19376883,1.12,-,-,-,,Rest,Balanced
+Fixed Income,Internally,-,16593263,0.96,-,-,-,,Rest,Balanced
+Fixed Income,Internally,-,16438089,0.95,-,-,-,,Rest,Balanced
+Fixed Income,Internally,-,14672876,0.85,-,-,-,,Rest,Balanced
+Fixed Income,Internally,-,13336929,0.77,-,-,-,,Rest,Balanced
+Fixed Income,Internally,-,11464232,0.66,-,-,-,,Rest,Balanced
+Fixed Income,Internally,-,10564885,0.61,-,-,-,,Rest,Balanced
+Fixed Income,Internally,-,9360861,0.54,-,-,-,,Rest,Balanced
+Fixed Income,Internally,-,8939938,0.52,-,-,-,,Rest,Balanced
+Fixed Income,Internally,-,7735295,0.45,-,-,-,,Rest,Balanced
+Fixed Income,Internally,-,6290024,0.36,-,-,-,,Rest,Balanced
+Fixed Income,Internally,-,6140182,0.35,-,-,-,,Rest,Balanced
+Fixed Income,Internally,-,4885814,0.28,-,-,-,,Rest,Balanced
+Fixed Income,Internally,-,4877540,0.28,-,-,-,,Rest,Balanced
+Fixed Income,Internally,-,4333683,0.25,-,-,-,,Rest,Balanced
+Fixed Income,Internally,-,4330449,0.25,-,-,-,,Rest,Balanced
+Fixed Income,Internally,-,4164254,0.24,-,-,-,,Rest,Balanced
+Fixed Income,Internally,-,3839752,0.22,-,-,-,,Rest,Balanced
+Fixed Income,Internally,-,3479370,0.20,-,-,-,,Rest,Balanced
+Fixed Income,Internally,-,3360456,0.19,-,-,-,,Rest,Balanced
+Fixed Income,Internally,-,3323585,0.19,-,-,-,,Rest,Balanced
+Fixed Income,Internally,-,3235722,0.19,-,-,-,,Rest,Balanced
+Fixed Income,Internally,-,2801039,0.16,-,-,-,,Rest,Balanced
+Fixed Income,Internally,-,2530584,0.15,-,-,-,,Rest,Balanced
+Fixed Income,Internally,-,2311094,0.13,-,-,-,,Rest,Balanced
+Fixed Income,Internally,-,2254307,0.13,-,-,-,,Rest,Balanced
+Fixed Income,Internally,-,1996610,0.12,-,-,-,,Rest,Balanced
+Fixed Income,Internally,-,1575283,0.09,-,-,-,,Rest,Balanced
+Fixed Income,Internally,-,1503303,0.09,-,-,-,,Rest,Balanced
+Fixed Income,Internally,-,1168767,0.07,-,-,-,,Rest,Balanced
+Fixed Income,Internally,-,956130,0.06,-,-,-,,Rest,Balanced
+Fixed Income,Internally,-,950071,0.05,-,-,-,,Rest,Balanced
+Fixed Income,Internally,-,869256,0.05,-,-,-,,Rest,Balanced
+Fixed Income,Internally,-,675133,0.04,-,-,-,,Rest,Balanced
+Fixed Income,Internally,-,634862,0.04,-,-,-,,Rest,Balanced
+Fixed Income,Internally,-,616745,0.04,-,-,-,,Rest,Balanced
+Fixed Income,Internally,-,487589,0.03,-,-,-,,Rest,Balanced
+Fixed Income,Internally,-,399323,0.02,-,-,-,,Rest,Balanced
+Fixed Income,Internally,-,387556,0.02,-,-,-,,Rest,Balanced
+Fixed Income,Internally,-,373451,0.02,-,-,-,,Rest,Balanced
+Fixed Income,Internally,-,369015,0.02,-,-,-,,Rest,Balanced
+Fixed Income,Internally,-,361659,0.02,-,-,-,,Rest,Balanced
+Fixed Income,Internally,-,354729,0.02,-,-,-,,Rest,Balanced
+Fixed Income,Internally,-,343136,0.02,-,-,-,,Rest,Balanced
+Fixed Income,Internally,-,288109,0.02,-,-,-,,Rest,Balanced
+Fixed Income,Internally,-,273807,0.02,-,-,-,,Rest,Balanced
+Fixed Income,Internally,-,261306,0.02,-,-,-,,Rest,Balanced
+Fixed Income,Internally,-,257569,0.01,-,-,-,,Rest,Balanced
+Fixed Income,Internally,-,254527,0.01,-,-,-,,Rest,Balanced
+Fixed Income,Internally,-,249450,0.01,-,-,-,,Rest,Balanced
+Fixed Income,Internally,-,219381,0.01,-,-,-,,Rest,Balanced
+Fixed Income,Internally,-,186491,0.01,-,-,-,,Rest,Balanced
+Fixed Income,Internally,-,38288,0.00,-,-,-,,Rest,Balanced
+Sub Total Fixed Income Internally,,,271203847,15.64,,,,,Rest,Balanced
+Fixed Income,Externally,-,205345742,11.84,-,-,-,,Rest,Balanced
+Fixed Income,Externally,-,30866238,1.78,-,-,-,,Rest,Balanced
+Fixed Income,Externally,-,19271412,1.11,-,-,-,,Rest,Balanced
+Fixed Income,Externally,-,13361234,0.77,-,-,-,,Rest,Balanced
+Fixed Income,Externally,-,11873853,0.68,-,-,-,,Rest,Balanced
+Fixed Income,Externally,-,11325661,0.65,-,-,-,,Rest,Balanced
+Fixed Income,Externally,-,4960033,0.29,-,-,-,,Rest,Balanced
+Fixed Income,Externally,-,2215831,0.13,-,-,-,,Rest,Balanced
+Sub Total Fixed Income Externally,,,299220004,17.25,,,,,Rest,Balanced
+Equity,-,BHP,20948607,1.21,BHP AU,-,BHP GROUP LTD.,Listed,Rest,Balanced
+Equity,-,CommBank,18462615,1.06,CBA AU,-,COMMONWEALTH BANK OF AUSTRALIA LTD.,Listed,Rest,Balanced
+Equity,-,Apple,16009349,0.92,AAPL US,-,"APPLE, INC.",Listed,Rest,Balanced
+Equity,-,Csl,15329001,0.88,CSL AU,-,CSL LTD.,Listed,Rest,Balanced
+Equity,-,Nvidia,14312758,0.83,NVDA US,-,NVIDIA CORP.,Listed,Rest,Balanced
+Equity,-,Microsoft,13678604,0.79,MSFT US,-,MICROSOFT CORP.,Listed,Rest,Balanced
+Equity,-,NAB,11542941,0.67,NAB AU,-,NATIONAL AUSTRALIA BANK LTD.,Listed,Rest,Balanced
+Equity,-,Amazon,10690438,0.62,AMZN US,-,"AMAZON.COM, INC.",Listed,Rest,Balanced
+Equity,-,Macquarie,10106730,0.58,MQG AU,-,MACQUARIE GROUP LTD.,Listed,Rest,Balanced
+Equity,-,Anz,8668768,0.50,ANZ AU,-,ANZ GROUP HOLDINGS LTD.,Listed,Rest,Balanced
+Equity,-,Westpac,6359158,0.37,WBC AU,-,WESTPAC BANKING CORP.,Listed,Rest,Balanced
+Equity,-,Meta Platforms,6018071,0.35,META US,-,"META PLATFORMS, INC.",Listed,Rest,Balanced
+Equity,-,Alphabet,5786197,0.33,GOOGL US,-,"ALPHABET, INC.",Listed,Rest,Balanced
+Equity,-,Qbe Insurance,5519309,0.32,QBE AU,-,QBE INSURANCE GROUP LTD.,Listed,Rest,Balanced
+Equity,-,Rio Tinto,5222826,0.30,RIO AU,-,RIO TINTO LTD.,Listed,Rest,Balanced
+Equity,-,Wesfarmers,4900418,0.28,WES AU,-,WESFARMERS LTD.,Listed,Rest,Balanced
+Equity,-,Tesla,4841637,0.28,TSLA US,-,"TESLA, INC.",Listed,Rest,Balanced
+Equity,-,Telstra,4652234,0.27,TLS AU,-,TELSTRA GROUP LTD.,Listed,Rest,Balanced
+Equity,-,Wisetech Global,4394931,0.25,WTC AU,-,WISETECH GLOBAL LTD.,Listed,Rest,Balanced
+Equity,-,Resmed,4312531,0.25,RMD AU,-,"RESMED, INC.",Listed,Rest,Balanced
+Equity,-,TSMC,4052299,0.23,2330 TT,-,TAIWAN SEMICONDUCTOR MANUFACTURING CO. LTD.,Listed,Rest,Balanced
+Equity,-,Broadcom,3953347,0.23,AVGO US,-,"BROADCOM, INC.",Listed,Rest,Balanced
+Equity,-,Aristocrat Leisure,3902911,0.23,ALL AU,-,ARISTOCRAT LEISURE LTD.,Listed,Rest,Balanced
+Equity,-,Xero,3605460,0.21,XRO AU,-,XERO LTD.,Listed,Rest,Balanced
+Equity,-,Santos,3584271,0.21,STO AU,-,SANTOS LTD.,Listed,Rest,Balanced
+Equity,-,Eli Lilly,3574457,0.21,LLY US,-,ELI LILLY & CO.,Listed,Rest,Balanced
+Equity,-,Coles,3417358,0.20,COL AU,-,COLES GROUP LTD.,Listed,Rest,Balanced
+Equity,-,Alphabet,3391269,0.20,GOOG US,-,"ALPHABET, INC.",Listed,Rest,Balanced
+Equity,-,Block,3265106,0.19,SQ2 AU,-,"BLOCK, INC.",Listed,Rest,Balanced
+Equity,-,Alcoa,3053342,0.18,AAI AU,-,ALCOA CORP.,Listed,Rest,Balanced
+Equity,-,Northern Star Resources,2886544,0.17,NST AU,-,NORTHERN STAR RESOURCES LTD.,Listed,Rest,Balanced
+Equity,-,Orica,2873750,0.17,ORI AU,-,ORICA LTD.,Listed,Rest,Balanced
+Equity,-,Incitec Pivot,2784135,0.16,IPL AU,-,INCITEC PIVOT LTD.,Listed,Rest,Balanced
+Equity,-,Woolworths,2667684,0.15,WOW AU,-,WOOLWORTHS GROUP LTD.,Listed,Rest,Balanced
+Equity,-,Woodside Energy,2654514,0.15,WDS AU,-,WOODSIDE ENERGY GROUP LTD.,Listed,Rest,Balanced
+Equity,-,Amcor,2624660,0.15,AMC AU,-,AMCOR PLC,Listed,Rest,Balanced
+Equity,-,Visa,2620036,0.15,V US,-,"VISA, INC.",Listed,Rest,Balanced
+Equity,-,JPMORGAN,2514632,0.15,JPM US,-,JPMORGAN CHASE & CO.,Listed,Rest,Balanced
+Equity,-,Tencent,2441526,0.14,700 HK,-,TENCENT HOLDINGS LTD.,Listed,Rest,Balanced
+Equity,-,Origin Energy,2340365,0.13,ORG AU,-,ORIGIN ENERGY LTD.,Listed,Rest,Balanced
+Equity,-,Transurban,2337222,0.13,TCL AU,-,TRANSURBAN GROUP,Listed,Rest,Balanced
+Equity,-,Worley,2321507,0.13,WOR AU,-,WORLEY LTD.,Listed,Rest,Balanced
+Equity,-,Bank Of America,2309244,0.13,BAC US,-,BANK OF AMERICA CORP.,Listed,Rest,Balanced
+Equity,-,Brambles,2262750,0.13,BXB AU,-,BRAMBLES LTD.,Listed,Rest,Balanced
+Equity,-,Insurance Australia,2252607,0.13,IAG AU,-,INSURANCE AUSTRALIA GROUP LTD.,Listed,Rest,Balanced
+Equity,-,Pro Medicus,2244204,0.13,PME AU,-,PRO MEDICUS LTD.,Listed,Rest,Balanced
+Equity,-,Newmont,2145181,0.12,NEM AU,-,NEWMONT CORP.,Listed,Rest,Balanced
+Equity,-,Procter & Gamble,2136270,0.12,PG US,-,PROCTER & GAMBLE CO.,Listed,Rest,Balanced
+Equity,-,Netflix,2117811,0.12,NFLX US,-,"NETFLIX, INC.",Listed,Rest,Balanced
+Equity,-,Sgh,2063938,0.12,SGH AU,-,SGH LTD.,Listed,Rest,Balanced
+Equity,-,Light & Wonder,2039951,0.12,LNW AU,-,"LIGHT & WONDER, INC.",Listed,Rest,Balanced
+Equity,-,Downer Group,1981040,0.11,DOW AU,-,DOWNER EDI LTD.,Listed,Rest,Balanced
+Equity,-,Lendlease,1954802,0.11,LLC AU,-,LENDLEASE CORP. LTD.,Listed,Rest,Balanced
+Equity,-,Cleanaway Waste Management,1930569,0.11,CWY AU,-,CLEANAWAY WASTE MANAGEMENT LTD.,Listed,Rest,Balanced
+Equity,-,Sigma Healthcare,1870245,0.11,SIG AU,-,SIGMA HEALTHCARE LTD.,Listed,Rest,Balanced
+Equity,-,Costco,1856031,0.11,COST US,-,COSTCO WHOLESALE CORP.,Listed,Rest,Balanced
+Equity,-,South32,1853147,0.11,S32 AU,-,SOUTH32 LTD.,Listed,Rest,Balanced
+Equity,-,Steadfast,1808170,0.10,SDF AU,-,STEADFAST GROUP LTD.,Listed,Rest,Balanced
+Equity,-,Merck,1749843,0.10,MRK US,-,"MERCK & CO., INC.",Listed,Rest,Balanced
+Equity,-,Seek,1746346,0.10,SEK AU,-,SEEK LTD.,Listed,Rest,Balanced
+Equity,-,James Hardie Industries,1738271,0.10,JHX AU,-,JAMES HARDIE INDUSTRIES PLC,Listed,Rest,Balanced
+Equity,-,Servicenow,1670766,0.10,NOW US,-,"SERVICENOW, INC.",Listed,Rest,Balanced
+Equity,-,Berkshire Hathaway,1662700,0.10,BRKB US,-,"BERKSHIRE HATHAWAY, INC.",Listed,Rest,Balanced
+Equity,-,Mercadolibre,1648349,0.10,MELI US,-,"MERCADOLIBRE, INC.",Listed,Rest,Balanced
+Equity,-,Fortescue Metals,1636288,0.09,FMG AU,-,FORTESCUE METALS GROUP LTD.,Listed,Rest,Balanced
+Equity,-,Exxon Mobil,1617875,0.09,XOM US,-,EXXON MOBIL CORP.,Listed,Rest,Balanced
+Equity,-,Aia,1598901,0.09,1299 HK,-,AIA GROUP LTD.,Listed,Rest,Balanced
+Equity,-,Rea,1592676,0.09,REA AU,-,REA GROUP LTD.,Listed,Rest,Balanced
+Equity,-,Abbvie,1548419,0.09,ABBV US,-,"ABBVIE, INC.",Listed,Rest,Balanced
+Equity,-,Qantas Airways,1545840,0.09,QAN AU,-,QANTAS AIRWAYS LTD.,Listed,Rest,Balanced
+Equity,-,Accenture,1521240,0.09,ACN US,-,ACCENTURE PLC,Listed,Rest,Balanced
+Equity,-,Treasury Wine Estates,1510976,0.09,TWE AU,-,TREASURY WINE ESTATES LTD.,Listed,Rest,Balanced
+Equity,-,Novartis Ag,1506782,0.09,NOVN SW,-,NOVARTIS AG,Listed,Rest,Balanced
+Equity,-,Home Depot,1497360,0.09,HD US,-,"HOME DEPOT, INC.",Listed,Rest,Balanced
+Equity,-,Asml Nv,1464030,0.08,ASML NA,-,ASML HOLDING NV,Listed,Rest,Balanced
+Equity,-,Pfizer,1449970,0.08,PFE US,-,"PFIZER, INC.",Listed,Rest,Balanced
+Equity,-,Morgan Stanley,1436595,0.08,MS US,-,MORGAN STANLEY,Listed,Rest,Balanced
+Equity,-,Deere &,1431942,0.08,DE US,-,DEERE & CO.,Listed,Rest,Balanced
+Equity,-,Ansell,1406779,0.08,ANN AU,-,ANSELL LTD.,Listed,Rest,Balanced
+Equity,-,Qualcomm,1403068,0.08,QCOM US,-,"QUALCOMM, INC.",Listed,Rest,Balanced
+Equity,-,Igo,1389552,0.08,IGO AU,-,IGO LTD.,Listed,Rest,Balanced
+Equity,-,Mastercard,1378114,0.08,MA US,-,"MASTERCARD, INC.",Listed,Rest,Balanced
+Equity,-,Walmart,1369500,0.08,WMT US,-,"WALMART, INC.",Listed,Rest,Balanced
+Equity,-,Unitedhealth,1369136,0.08,UNH US,-,"UNITEDHEALTH GROUP, INC.",Listed,Rest,Balanced
+Equity,-,Adobe,1364896,0.08,ADBE US,-,"ADOBE, INC.",Listed,Rest,Balanced
+Equity,-,Johnson & Johnson,1354022,0.08,JNJ US,-,JOHNSON & JOHNSON,Listed,Rest,Balanced
+Equity,-,Carsales,1338656,0.08,CAR AU,-,CARSALES.COM LTD.,Listed,Rest,Balanced
+Equity,-,Engie Sa,1336935,0.08,ENGI FP,-,ENGIE SA,Listed,Rest,Balanced
+Equity,-,Conocophillips,1326362,0.08,COP US,-,CONOCOPHILLIPS,Listed,Rest,Balanced
+Equity,-,Infratil,1319764,0.08,IFT AU,-,INFRATIL LTD.,Listed,Rest,Balanced
+Equity,-,Unilever,1313580,0.08,ULVR LN,-,UNILEVER PLC,Listed,Rest,Balanced
+Equity,-,Ramsay Health Care,1280611,0.07,RHC AU,-,RAMSAY HEALTH CARE LTD.,Listed,Rest,Balanced
+Equity,-,Chevron,1262291,0.07,CVX US,-,CHEVRON CORP.,Listed,Rest,Balanced
+Equity,-,Viva Energy,1241316,0.07,VEA AU,-,VIVA ENERGY GROUP LTD.,Listed,Rest,Balanced
+Equity,-,Recruit,1231996,0.07,6098 JP,-,RECRUIT HOLDINGS CO. LTD.,Listed,Rest,Balanced
+Equity,-,Salesforce,1229527,0.07,CRM US,-,"SALESFORCE, INC.",Listed,Rest,Balanced
+Equity,-,Citi Bank,1226520,0.07,C US,-,"CITIGROUP, INC.",Listed,Rest,Balanced
+Equity,-,Colgate-Palmolive,1219864,0.07,CL US,-,COLGATE-PALMOLIVE CO.,Listed,Rest,Balanced
+Equity,-,Cme,1208427,0.07,CME US,-,"CME GROUP, INC.",Listed,Rest,Balanced
+Equity,-,Booking.com,1208275,0.07,BKNG US,-,"BOOKING HOLDINGS, INC.",Listed,Rest,Balanced
+Equity,-,Uber Technologies,1205327,0.07,UBER US,-,"UBER TECHNOLOGIES, INC.",Listed,Rest,Balanced
+Equity,-,Bristol-Myers Squibb,1202911,0.07,BMY US,-,BRISTOL-MYERS SQUIBB CO.,Listed,Rest,Balanced
+Equity,-,Cochlear,1191709,0.07,COH AU,-,COCHLEAR LTD.,Listed,Rest,Balanced
+Equity,-,Sap Se,1188001,0.07,SAP GR,-,SAP SE,Listed,Rest,Balanced
+Equity,-,Orora,1176284,0.07,ORA AU,-,ORORA LTD.,Listed,Rest,Balanced
+Equity,-,Trane Technologies,1163625,0.07,TT US,-,TRANE TECHNOLOGIES PLC,Listed,Rest,Balanced
+Equity,-,Automatic Data Processing,1158802,0.07,ADP US,-,"AUTOMATIC DATA PROCESSING, INC.",Listed,Rest,Balanced
+Equity,-,Tpg Telecom,1157795,0.07,TPG AU,-,TPG TELECOM LTD.,Listed,Rest,Balanced
+Equity,-,Icici Bank,1151443,0.07,ICICIBC IN,-,ICICI BANK LTD.,Listed,Rest,Balanced
+Equity,-,Aub,1137480,0.07,AUB AU,-,AUB GROUP LTD.,Listed,Rest,Balanced
+Equity,-,Intact Financial,1136226,0.07,IFC CN,-,INTACT FINANCIAL CORP.,Listed,Rest,Balanced
+Equity,-,Finecobank Banca Fineco Spa,1123723,0.06,FBK IM,-,FINECOBANK BANCA FINECO SPA,Listed,Rest,Balanced
+Equity,-,Ampol,1116438,0.06,ALD AU,-,AMPOL LTD.,Listed,Rest,Balanced
+Equity,-,Adyen Nv,1116105,0.06,ADYEN NA,-,ADYEN NV,Listed,Rest,Balanced
+Equity,-,Novo Nordisk As,1109517,0.06,NOVOB DC,-,NOVO NORDISK AS,Listed,Rest,Balanced
+Equity,-,Lottery,1106182,0.06,TLC AU,-,LOTTERY CORP. LTD.,Listed,Rest,Balanced
+Equity,-,Intuitive Surgical,1104286,0.06,ISRG US,-,"INTUITIVE SURGICAL, INC.",Listed,Rest,Balanced
+Equity,-,Dbs,1094023,0.06,DBS SP,-,DBS GROUP HOLDINGS LTD.,Listed,Rest,Balanced
+Equity,-,Endeavour,1086958,0.06,EDV AU,-,ENDEAVOUR GROUP LTD.,Listed,Rest,Balanced
+Equity,-,Pilbara Minerals,1086867,0.06,PLS AU,-,PILBARA MINERALS LTD.,Listed,Rest,Balanced
+Equity,-,Motorola Solutions,1085361,0.06,MSI US,-,"MOTOROLA SOLUTIONS, INC.",Listed,Rest,Balanced
+Equity,-,Mitsubishi Ufj Financial,1085352,0.06,8306 JP,-,"MITSUBISHI UFJ FINANCIAL GROUP, INC.",Listed,Rest,Balanced
+Equity,-,Verizon Communications,1080953,0.06,VZ US,-,"VERIZON COMMUNICATIONS, INC.",Listed,Rest,Balanced
+Equity,-,Iluka Resources,1069710,0.06,ILU AU,-,ILUKA RESOURCES LTD.,Listed,Rest,Balanced
+Equity,-,Lynas Rare Earths,1065408,0.06,LYC AU,-,LYNAS RARE EARTHS LTD.,Listed,Rest,Balanced
+Equity,-,General Electric,1034573,0.06,GE US,-,GENERAL ELECTRIC CO.,Listed,Rest,Balanced
+Equity,-,Hub24,1032752,0.06,HUB AU,-,HUB24 LTD.,Listed,Rest,Balanced
+Equity,-,Aurizon,1027740,0.06,AZJ AU,-,AURIZON HOLDINGS LTD.,Listed,Rest,Balanced
+Equity,-,Constellation Software,1011734,0.06,CSU CN,-,"CONSTELLATION SOFTWARE, INC.",Listed,Rest,Balanced
+Equity,-,Schneider Electric Se,1002668,0.06,SU FP,-,SCHNEIDER ELECTRIC SE,Listed,Rest,Balanced
+Equity,-,Goldman Sachs,997410,0.06,GS US,-,"GOLDMAN SACHS GROUP, INC.",Listed,Rest,Balanced
+Equity,-,S&P Global,992080,0.06,SPGI US,-,"S&P GLOBAL, INC.",Listed,Rest,Balanced
+Equity,-,Hdfc Bank,982574,0.06,HDFCB IN,-,HDFC BANK LTD.,Listed,Rest,Balanced
+Equity,-,Edwards Lifesciences,977405,0.06,EW US,-,EDWARDS LIFESCIENCES CORP.,Listed,Rest,Balanced
+Equity,-,Wells Fargo &,973786,0.06,WFC US,-,WELLS FARGO & CO.,Listed,Rest,Balanced
+Equity,-,Medtronic,956819,0.06,MDT US,-,MEDTRONIC PLC,Listed,Rest,Balanced
+Equity,-,Kenvue,954478,0.06,KVUE US,-,"KENVUE, INC.",Listed,Rest,Balanced
+Equity,-,Tjx Cos,951590,0.05,TJX US,-,"TJX COS., INC.",Listed,Rest,Balanced
+Equity,-,Metcash,940238,0.05,MTS AU,-,METCASH LTD.,Listed,Rest,Balanced
+Equity,-,Iberdrola Sa,938917,0.05,IBE SM,-,IBERDROLA SA,Listed,Rest,Balanced
+Equity,-,Meituan,935199,0.05,3690 HK,-,MEITUAN,Listed,Rest,Balanced
+Equity,-,Advanced Micro Devices,931865,0.05,AMD US,-,"ADVANCED MICRO DEVICES, INC.",Listed,Rest,Balanced
+Equity,-,American Express,926764,0.05,AXP US,-,AMERICAN EXPRESS CO.,Listed,Rest,Balanced
+Equity,-,Reece,925290,0.05,REH AU,-,REECE LTD.,Listed,Rest,Balanced
+Equity,-,Applied Materials,922499,0.05,AMAT US,-,"APPLIED MATERIALS, INC.",Listed,Rest,Balanced
+Equity,-,Northern Trust,917308,0.05,NTRS US,-,NORTHERN TRUST CORP.,Listed,Rest,Balanced
+Equity,-,Industria De Diseno Textil Sa,899899,0.05,ITX SM,-,INDUSTRIA DE DISENO TEXTIL SA,Listed,Rest,Balanced
+Equity,-,Sonic Healthcare,897054,0.05,SHL AU,-,SONIC HEALTHCARE LTD.,Listed,Rest,Balanced
+Equity,-,Ryman Healthcare,892525,0.05,RYM NZ,-,RYMAN HEALTHCARE LTD.,Listed,Rest,Balanced
+Equity,-,Gilead Sciences,888155,0.05,GILD US,-,"GILEAD SCIENCES, INC.",Listed,Rest,Balanced
+Equity,-,Sandfire Resources,866310,0.05,SFR AU,-,SANDFIRE RESOURCES LTD.,Listed,Rest,Balanced
+Equity,-,Oracle,863308,0.05,ORCL US,-,ORACLE CORP.,Listed,Rest,Balanced
+Equity,-,Charles Schwab,844658,0.05,SCHW US,-,CHARLES SCHWAB CORP.,Listed,Rest,Balanced
+Equity,-,Progressive,842920,0.05,PGR US,-,PROGRESSIVE CORP.,Listed,Rest,Balanced
+Equity,-,Texas Instruments,841284,0.05,TXN US,-,"TEXAS INSTRUMENTS, INC.",Listed,Rest,Balanced
+Equity,-,Hca Healthcare,814905,0.05,HCA US,-,"HCA HEALTHCARE, INC.",Listed,Rest,Balanced
+Equity,-,Ing Groep Nv,814141,0.05,INGA NA,-,ING GROEP NV,Listed,Rest,Balanced
+Equity,-,Abb,811010,0.05,ABBN SW,-,ABB LTD.,Listed,Rest,Balanced
+Equity,-,A2 Milk,803217,0.05,A2M AU,-,A2 MILK CO. LTD.,Listed,Rest,Balanced
+Equity,-,Rtx,802970,0.05,RTX US,-,RTX CORP.,Listed,Rest,Balanced
+Equity,-,Life360,800965,0.05,360 AU,-,"LIFE360, INC.",Listed,Rest,Balanced
+Equity,-,Astrazeneca,789749,0.05,AZN LN,-,ASTRAZENECA PLC,Listed,Rest,Balanced
+Equity,-,Shopify,785263,0.05,SHOP US,-,"SHOPIFY, INC.",Listed,Rest,Balanced
+Equity,-,Vault Minerals,781279,0.05,VAU AU,-,VAULT MINERALS LTD.,Listed,Rest,Balanced
+Equity,-,Spotify Technology Sa,775604,0.04,SPOT US,-,SPOTIFY TECHNOLOGY SA,Listed,Rest,Balanced
+Equity,-,Tyson Foods,773503,0.04,TSN US,-,"TYSON FOODS, INC.",Listed,Rest,Balanced
+Equity,-,Dsm-Firmenich Ag,772230,0.04,DSFIR NA,-,DSM-FIRMENICH AG,Listed,Rest,Balanced
+Equity,-,Monadelphous,768594,0.04,MND AU,-,MONADELPHOUS GROUP LTD.,Listed,Rest,Balanced
+Equity,-,Genesis Minerals,761615,0.04,GMD AU,-,GENESIS MINERALS LTD.,Listed,Rest,Balanced
+Equity,-,Freeport-Mcmoran,761376,0.04,FCX US,-,"FREEPORT-MCMORAN, INC.",Listed,Rest,Balanced
+Equity,-,Performance Food,758119,0.04,PFGC US,-,PERFORMANCE FOOD GROUP CO.,Listed,Rest,Balanced
+Equity,-,Webjet,751978,0.04,WEB AU,-,WEBJET LTD.,Listed,Rest,Balanced
+Equity,-,London Stock Exchange,750865,0.04,LSEG LN,-,LONDON STOCK EXCHANGE GROUP PLC,Listed,Rest,Balanced
+Equity,-,Roche Ag,726878,0.04,ROG SW,-,ROCHE HOLDING AG,Listed,Rest,Balanced
+Equity,-,Eaton,723541,0.04,ETN US,-,EATON CORP. PLC,Listed,Rest,Balanced
+Equity,-,Contemporary Amperex Technology,712739,0.04,300750 C2,-,CONTEMPORARY AMPEREX TECHNOLOGY CO. LTD.,Listed,Rest,Balanced
+Equity,-,Capricorn Metals,706778,0.04,CMM AU,-,CAPRICORN METALS LTD.,Listed,Rest,Balanced
+Equity,-,Medibank Pvt,706619,0.04,MPL AU,-,MEDIBANK PVT LTD.,Listed,Rest,Balanced
+Equity,-,Lam Research,703164,0.04,LRCX US,-,LAM RESEARCH CORP.,Listed,Rest,Balanced
+Equity,-,Diageo,695386,0.04,DGE LN,-,DIAGEO PLC,Listed,Rest,Balanced
+Equity,-,At&T,690674,0.04,T US,-,"AT&T, INC.",Listed,Rest,Balanced
+Equity,-,Anta Sports Products,689711,0.04,2020 HK,-,ANTA SPORTS PRODUCTS LTD.,Listed,Rest,Balanced
+Equity,-,Caterpillar,677245,0.04,CAT US,-,"CATERPILLAR, INC.",Listed,Rest,Balanced
+Equity,-,Qube,676416,0.04,QUB AU,-,QUBE HOLDINGS LTD.,Listed,Rest,Balanced
+Equity,-,Globe Life,670443,0.04,GL US,-,"GLOBE LIFE, INC.",Listed,Rest,Balanced
+Equity,-,Prosus Nv,665135,0.04,PRX SJ,-,PROSUS NV,Listed,Rest,Balanced
+Equity,-,Boston Scientific,663231,0.04,BSX US,-,BOSTON SCIENTIFIC CORP.,Listed,Rest,Balanced
+Equity,-,Peet,659257,0.04,PPC AU,-,PEET LTD.,Listed,Rest,Balanced
+Equity,-,Cisco Systems,659050,0.04,CSCO US,-,"CISCO SYSTEMS, INC.",Listed,Rest,Balanced
+Equity,-,Suncorp,658037,0.04,SUN AU,-,SUNCORP GROUP LTD.,Listed,Rest,Balanced
+Equity,-,Sea,655931,0.04,SE US,-,SEA LTD.,Listed,Rest,Balanced
+Equity,-,Applovin,655029,0.04,APP US,-,APPLOVIN CORP.,Listed,Rest,Balanced
+Equity,-,Bank Central Asia Tbk Pt,654940,0.04,BBCA IJ,-,BANK CENTRAL ASIA TBK PT,Listed,Rest,Balanced
+Equity,-,Intermediate Capital,654619,0.04,ICG LN,-,INTERMEDIATE CAPITAL GROUP PLC,Listed,Rest,Balanced
+Equity,-,Molina Healthcare,648373,0.04,MOH US,-,"MOLINA HEALTHCARE, INC.",Listed,Rest,Balanced
+Equity,-,Hdfc Bank,640617,0.04,HDB US,-,HDFC BANK LTD.,Listed,Rest,Balanced
+Equity,-,Cie Generale Des Etablissements Michelin Sca,640092,0.04,ML FP,-,CIE GENERALE DES ETABLISSEMENTS MICHELIN SCA,Listed,Rest,Balanced
+Equity,-,Alsea Sab De Cv,635601,0.04,ALSEA MM,-,ALSEA SAB DE CV,Listed,Rest,Balanced
+Equity,-,Shell,630477,0.04,SHEL LN,-,SHELL PLC,Listed,Rest,Balanced
+Equity,-,Capitec Bank,630008,0.04,CPI SJ,-,CAPITEC BANK HOLDINGS LTD.,Listed,Rest,Balanced
+Equity,-,Paypal,629515,0.04,PYPL US,-,"PAYPAL HOLDINGS, INC.",Listed,Rest,Balanced
+Equity,-,Arthur J Gallagher &,629405,0.04,AJG US,-,ARTHUR J GALLAGHER & CO.,Listed,Rest,Balanced
+Equity,-,Micron Technology,618584,0.04,MU US,-,"MICRON TECHNOLOGY, INC.",Listed,Rest,Balanced
+Equity,-,Moody'S,618490,0.04,MCO US,-,MOODY'S CORP.,Listed,Rest,Balanced
+Equity,-,Intuit,616133,0.04,INTU US,-,"INTUIT, INC.",Listed,Rest,Balanced
+Equity,-,Sk Hynix,616070,0.04,000660 KS,-,"SK HYNIX, INC.",Listed,Rest,Balanced
+Equity,-,Wolters Kluwer Nv,613996,0.04,WKL NA,-,WOLTERS KLUWER NV,Listed,Rest,Balanced
+Equity,-,Copart,612806,0.04,CPRT US,-,"COPART, INC.",Listed,Rest,Balanced
+Equity,-,Comcast,610374,0.04,CMCSA US,-,COMCAST CORP.,Listed,Rest,Balanced
+Equity,-,Reliance,610201,0.04,RS US,-,"RELIANCE, INC.",Listed,Rest,Balanced
+Equity,-,Valero Energy,608952,0.04,VLO US,-,VALERO ENERGY CORP.,Listed,Rest,Balanced
+Equity,-,Trade Desk,607331,0.04,TTD US,-,"TRADE DESK, INC.",Listed,Rest,Balanced
+Equity,-,Sony,605200,0.03,6758 JP,-,SONY GROUP CORP.,Listed,Rest,Balanced
+Equity,-,Old Dominion Freight Line,594112,0.03,ODFL US,-,"OLD DOMINION FREIGHT LINE, INC.",Listed,Rest,Balanced
+Equity,-,Sims,593913,0.03,SGM AU,-,SIMS LTD.,Listed,Rest,Balanced
+Equity,-,Tokyo Electron,591041,0.03,8035 JP,-,TOKYO ELECTRON LTD.,Listed,Rest,Balanced
+Equity,-,Chugai Pharmaceutical,587510,0.03,4519 JP,-,CHUGAI PHARMACEUTICAL CO. LTD.,Listed,Rest,Balanced
+Equity,-,Nintendo,586324,0.03,7974 JP,-,NINTENDO CO. LTD.,Listed,Rest,Balanced
+Equity,-,Fletcher Building,585874,0.03,FBU AU,-,FLETCHER BUILDING LTD.,Listed,Rest,Balanced
+Equity,-,Mediatek,585744,0.03,2454 TT,-,"MEDIATEK, INC.",Listed,Rest,Balanced
+Equity,-,Walt Disney,585051,0.03,DIS US,-,WALT DISNEY CO.,Listed,Rest,Balanced
+Equity,-,Shell,580721,0.03,SHELL NA,-,SHELL PLC,Listed,Rest,Balanced
+Equity,-,Arista Networks,578079,0.03,ANET US,-,"ARISTA NETWORKS, INC.",Listed,Rest,Balanced
+Equity,-,Coca-Cola,577770,0.03,KO US,-,COCA-COLA CO.,Listed,Rest,Balanced
+Equity,-,Cie Financiere Richemont Sa,575341,0.03,CFR SW,-,CIE FINANCIERE RICHEMONT SA,Listed,Rest,Balanced
+Equity,-,Tsingtao Brewery,574625,0.03,168 HK,-,TSINGTAO BREWERY CO. LTD.,Listed,Rest,Balanced
+Equity,-,Palantir Technologies,573398,0.03,PLTR US,-,"PALANTIR TECHNOLOGIES, INC.",Listed,Rest,Balanced
+Equity,-,Sanofi,565729,0.03,SAN FP,-,SANOFI,Listed,Rest,Balanced
+Equity,-,Gsk,564807,0.03,GSK LN,-,GSK PLC,Listed,Rest,Balanced
+Equity,-,Omni Bridgeway,563979,0.03,OBL AU,-,OMNI BRIDGEWAY LTD.,Listed,Rest,Balanced
+Equity,-,L'Oreal Sa,563267,0.03,OR FP,-,L'OREAL SA,Listed,Rest,Balanced
+Equity,-,Danaher,563110,0.03,DHR US,-,DANAHER CORP.,Listed,Rest,Balanced
+Equity,-,Credicorp,560219,0.03,BAP US,-,CREDICORP LTD.,Listed,Rest,Balanced
+Equity,-,Eog Resources,559604,0.03,EOG US,-,"EOG RESOURCES, INC.",Listed,Rest,Balanced
+Equity,-,TSMC,558625,0.03,TSM US,-,TAIWAN SEMICONDUCTOR MANUFACTURING CO. LTD.,Listed,Rest,Balanced
+Equity,-,Intesa Sanpaolo Spa,555926,0.03,ISP IM,-,INTESA SANPAOLO SPA,Listed,Rest,Balanced
+Equity,-,International Business Machines,554689,0.03,IBM US,-,INTERNATIONAL BUSINESS MACHINES CORP.,Listed,Rest,Balanced
+Equity,-,Abbott Laboratories,554680,0.03,ABT US,-,ABBOTT LABORATORIES,Listed,Rest,Balanced
+Equity,-,Cloudflare,551489,0.03,NET US,-,"CLOUDFLARE, INC.",Listed,Rest,Balanced
+Equity,-,Kla,551385,0.03,KLAC US,-,KLA CORP.,Listed,Rest,Balanced
+Equity,-,Thermo Fisher Scientific,550650,0.03,TMO US,-,"THERMO FISHER SCIENTIFIC, INC.",Listed,Rest,Balanced
+Equity,-,Keurig Dr Pepper,541221,0.03,KDP US,-,"KEURIG DR PEPPER, INC.",Listed,Rest,Balanced
+Equity,-,Nexgen Energy,540374,0.03,NXG AU,-,NEXGEN ENERGY LTD.,Listed,Rest,Balanced
+Equity,-,Despegarcom,536825,0.03,DESP US,-,DESPEGAR.COM CORP.,Listed,Rest,Balanced
+Equity,-,Ecolab,534581,0.03,ECL US,-,"ECOLAB, INC.",Listed,Rest,Balanced
+Equity,-,Atlassian,533919,0.03,TEAM US,-,ATLASSIAN CORP.,Listed,Rest,Balanced
+Equity,-,Nrw,528502,0.03,NWH AU,-,NRW HOLDINGS LTD.,Listed,Rest,Balanced
+Equity,-,Marriott International,528135,0.03,MAR US,-,"MARRIOTT INTERNATIONAL, INC.",Listed,Rest,Balanced
+Equity,-,Workday,527553,0.03,WDAY US,-,"WORKDAY, INC.",Listed,Rest,Balanced
+Equity,-,3M,522253,0.03,MMM US,-,3M CO.,Listed,Rest,Balanced
+Equity,-,Airbus Se,520467,0.03,AIR FP,-,AIRBUS SE,Listed,Rest,Balanced
+Equity,-,Deutsche Telekom Ag,520226,0.03,DTE GR,-,DEUTSCHE TELEKOM AG,Listed,Rest,Balanced
+Equity,-,Asics,515599,0.03,7936 JP,-,ASICS CORP.,Listed,Rest,Balanced
+Equity,-,Ptc,508214,0.03,PTC US,-,"PTC, INC.",Listed,Rest,Balanced
+Equity,-,Compass,507681,0.03,CPG LN,-,COMPASS GROUP PLC,Listed,Rest,Balanced
+Equity,-,Hubspot,507355,0.03,HUBS US,-,"HUBSPOT, INC.",Listed,Rest,Balanced
+Equity,-,Travelers Cos,506578,0.03,TRV US,-,"TRAVELERS COS., INC.",Listed,Rest,Balanced
+Equity,-,Clean Harbors,504617,0.03,CLH US,-,"CLEAN HARBORS, INC.",Listed,Rest,Balanced
+Equity,-,Fortinet,501188,0.03,FTNT US,-,"FORTINET, INC.",Listed,Rest,Balanced
+Equity,-,Icon,501164,0.03,ICLR US,-,ICON PLC,Listed,Rest,Balanced
+Equity,-,Netapp,500500,0.03,NTAP US,-,"NETAPP, INC.",Listed,Rest,Balanced
+Equity,-,Eversource Energy,496771,0.03,ES US,-,EVERSOURCE ENERGY,Listed,Rest,Balanced
+Equity,-,Hitachi,492521,0.03,6501 JP,-,HITACHI LTD.,Listed,Rest,Balanced
+Equity,-,Te Connectivity,491448,0.03,TEL US,-,TE CONNECTIVITY PLC,Listed,Rest,Balanced
+Equity,-,Schlumberger Nv,487930,0.03,SLB US,-,SCHLUMBERGER NV,Listed,Rest,Balanced
+Equity,-,Atmos Energy,486875,0.03,ATO US,-,ATMOS ENERGY CORP.,Listed,Rest,Balanced
+Equity,-,Computershare,485137,0.03,CPU AU,-,COMPUTERSHARE LTD.,Listed,Rest,Balanced
+Equity,-,Rs,481154,0.03,RS1 LN,-,RS GROUP PLC,Listed,Rest,Balanced
+Equity,-,Beach Energy,480737,0.03,BPT AU,-,BEACH ENERGY LTD.,Listed,Rest,Balanced
+Equity,-,News,479844,0.03,NWSLV AU,-,NEWS CORP.,Listed,Rest,Balanced
+Equity,-,Bnp Paribas Sa,476127,0.03,BNP FP,-,BNP PARIBAS SA,Listed,Rest,Balanced
+Equity,-,Raymond James Financial,475668,0.03,RJF US,-,"RAYMOND JAMES FINANCIAL, INC.",Listed,Rest,Balanced
+Equity,-,Infineon Technologies Ag,475265,0.03,IFX GR,-,INFINEON TECHNOLOGIES AG,Listed,Rest,Balanced
+Equity,-,Amgen,472467,0.03,AMGN US,-,"AMGEN, INC.",Listed,Rest,Balanced
+Equity,-,Lowe'S Cos,471842,0.03,LOW US,-,"LOWE'S COS., INC.",Listed,Rest,Balanced
+Equity,-,Airbnb,469546,0.03,ABNB US,-,"AIRBNB, INC.",Listed,Rest,Balanced
+Equity,-,Itochu,465623,0.03,8001 JP,-,ITOCHU CORP.,Listed,Rest,Balanced
+Equity,-,Vertex Pharmaceuticals,465035,0.03,VRTX US,-,"VERTEX PHARMACEUTICALS, INC.",Listed,Rest,Balanced
+Equity,-,Waste Connections,462969,0.03,WCN US,-,"WASTE CONNECTIONS, INC.",Listed,Rest,Balanced
+Equity,-,Banco Bilbao Vizcaya Argentaria Sa,460670,0.03,BBVA SM,-,BANCO BILBAO VIZCAYA ARGENTARIA SA,Listed,Rest,Balanced
+Equity,-,Hartford Financial Services,460513,0.03,HIG US,-,"HARTFORD FINANCIAL SERVICES GROUP, INC.",Listed,Rest,Balanced
+Equity,-,Reckitt Benckiser,460408,0.03,RKT LN,-,RECKITT BENCKISER GROUP PLC,Listed,Rest,Balanced
+Equity,-,Electronic Arts,459108,0.03,EA US,-,"ELECTRONIC ARTS, INC.",Listed,Rest,Balanced
+Equity,-,Danone Sa,458906,0.03,BN FP,-,DANONE SA,Listed,Rest,Balanced
+Equity,-,Kroger,457661,0.03,KR US,-,KROGER CO.,Listed,Rest,Balanced
+Equity,-,Telefonaktiebolaget Lm Ericsson,455628,0.03,ERICB SS,-,TELEFONAKTIEBOLAGET LM ERICSSON,Listed,Rest,Balanced
+Equity,-,Parker-Hannifin,454259,0.03,PH US,-,PARKER-HANNIFIN CORP.,Listed,Rest,Balanced
+Equity,-,Starbucks,453616,0.03,SBUX US,-,STARBUCKS CORP.,Listed,Rest,Balanced
+Equity,-,Nasdaq,451841,0.03,NDAQ US,-,"NASDAQ, INC.",Listed,Rest,Balanced
+Equity,-,Westinghouse Air Brake Technologies,449357,0.03,WAB US,-,WESTINGHOUSE AIR BRAKE TECHNOLOGIES CORP.,Listed,Rest,Balanced
+Equity,-,Als,448205,0.03,ALQ AU,-,ALS LTD.,Listed,Rest,Balanced
+Equity,-,Agilent Technologies,446116,0.03,A US,-,"AGILENT TECHNOLOGIES, INC.",Listed,Rest,Balanced
+Equity,-,Ping An Insurance Of China,445361,0.03,2318 HK,-,PING AN INSURANCE GROUP CO. OF CHINA LTD.,Listed,Rest,Balanced
+Equity,-,Fiserv,444780,0.03,FI US,-,"FISERV, INC.",Listed,Rest,Balanced
+Equity,-,Metals Acquisition,444676,0.03,MAC AU,-,METALS ACQUISITION LTD.,Listed,Rest,Balanced
+Equity,-,National Grid,443658,0.03,NG LN,-,NATIONAL GRID PLC,Listed,Rest,Balanced
+Equity,-,Synopsys,438547,0.03,SNPS US,-,"SYNOPSYS, INC.",Listed,Rest,Balanced
+Equity,-,Totalenergies Se,437925,0.03,TTE FP,-,TOTALENERGIES SE,Listed,Rest,Balanced
+Equity,-,Constellation Energy,437649,0.03,CEG US,-,CONSTELLATION ENERGY CORP.,Listed,Rest,Balanced
+Equity,-,Pnc Financial Services,436976,0.03,PNC US,-,"PNC FINANCIAL SERVICES GROUP, INC.",Listed,Rest,Balanced
+Equity,-,Adidas Ag,435512,0.03,ADS GR,-,ADIDAS AG,Listed,Rest,Balanced
+Equity,-,Exelon,433100,0.02,EXC US,-,EXELON CORP.,Listed,Rest,Balanced
+Equity,-,Nxp Semiconductors Nv,432831,0.02,NXPI US,-,NXP SEMICONDUCTORS NV,Listed,Rest,Balanced
+Equity,-,Centene,431939,0.02,CNC US,-,CENTENE CORP.,Listed,Rest,Balanced
+Equity,-,Unicredit Spa,428116,0.02,UCG IM,-,UNICREDIT SPA,Listed,Rest,Balanced
+Equity,-,Guzman Y Gomez,425222,0.02,GYG AU,-,GUZMAN Y GOMEZ LTD.,Listed,Rest,Balanced
+Equity,-,Marsh & Mclennan Cos,424045,0.02,MMC US,-,"MARSH & MCLENNAN COS., INC.",Listed,Rest,Balanced
+Equity,-,Sichuan Swellfun,423211,0.02,600779 C1,-,SICHUAN SWELLFUN CO. LTD.,Listed,Rest,Balanced
+Equity,-,Ora Banda Mining,423142,0.02,OBM AU,-,ORA BANDA MINING LTD.,Listed,Rest,Balanced
+Equity,-,Autodesk,421767,0.02,ADSK US,-,"AUTODESK, INC.",Listed,Rest,Balanced
+Equity,-,Idp Education,416771,0.02,IEL AU,-,IDP EDUCATION LTD.,Listed,Rest,Balanced
+Equity,-,Sartorius Ag,416024,0.02,SRT3 GR,-,SARTORIUS AG,Listed,Rest,Balanced
+Equity,-,Aercap Nv,415893,0.02,AER US,-,AERCAP HOLDINGS NV,Listed,Rest,Balanced
+Equity,-,Technology One,411348,0.02,TNE AU,-,TECHNOLOGY ONE LTD.,Listed,Rest,Balanced
+Equity,-,Icici Lombard General Insurance,409860,0.02,ICICIGI IN,-,ICICI LOMBARD GENERAL INSURANCE CO. LTD.,Listed,Rest,Balanced
+Equity,-,General Motors,407406,0.02,GM US,-,GENERAL MOTORS CO.,Listed,Rest,Balanced
+Equity,-,Nextera Energy,406223,0.02,NEE US,-,"NEXTERA ENERGY, INC.",Listed,Rest,Balanced
+Equity,-,Brenntag Se,405895,0.02,BNR GR,-,BRENNTAG SE,Listed,Rest,Balanced
+Equity,-,Kimberly-Clark,404347,0.02,KMB US,-,KIMBERLY-CLARK CORP.,Listed,Rest,Balanced
+Equity,-,Sonova Ag,403949,0.02,SOON SW,-,SONOVA HOLDING AG,Listed,Rest,Balanced
+Equity,-,Amplitude Energy,403330,0.02,AEL AU,-,AMPLITUDE ENERGY LTD.,Listed,Rest,Balanced
+Equity,-,Edison International,401866,0.02,EIX US,-,EDISON INTERNATIONAL,Listed,Rest,Balanced
+Equity,-,Emerson Electric,400881,0.02,EMR US,-,EMERSON ELECTRIC CO.,Listed,Rest,Balanced
+Equity,-,Bwx Technologies,400434,0.02,BWXT US,-,"BWX TECHNOLOGIES, INC.",Listed,Rest,Balanced
+Equity,-,T-Mobile Us,399508,0.02,TMUS US,-,"T-MOBILE U.S., INC.",Listed,Rest,Balanced
+Equity,-,Suncor Energy,399123,0.02,SU CN,-,"SUNCOR ENERGY, INC.",Listed,Rest,Balanced
+Equity,-,Howmet Aerospace,398825,0.02,HWM US,-,"HOWMET AEROSPACE, INC.",Listed,Rest,Balanced
+Equity,-,Nike,397551,0.02,NKE US,-,"NIKE, INC.",Listed,Rest,Balanced
+Equity,-,Nestle Sa,397125,0.02,NESN SW,-,NESTLE SA,Listed,Rest,Balanced
+Equity,-,Block,394085,0.02,XYZ US,-,"BLOCK, INC.",Listed,Rest,Balanced
+Equity,-,Jb Hi-Fi,393199,0.02,JBH AU,-,JB HI-FI LTD.,Listed,Rest,Balanced
+Equity,-,Domino'S Pizza Enterprises,391084,0.02,DMP AU,-,DOMINO'S PIZZA ENTERPRISES LTD.,Listed,Rest,Balanced
+Equity,-,Tesco,390323,0.02,TSCO LN,-,TESCO PLC,Listed,Rest,Balanced
+Equity,-,Repligen,388555,0.02,RGEN US,-,REPLIGEN CORP.,Listed,Rest,Balanced
+Equity,-,Stryker,387629,0.02,SYK US,-,STRYKER CORP.,Listed,Rest,Balanced
+Equity,-,Roblox,386433,0.02,RBLX US,-,ROBLOX CORP.,Listed,Rest,Balanced
+Equity,-,Pinduoduo,383765,0.02,PDD US,-,"PINDUODUO, INC.",Listed,Rest,Balanced
+Equity,-,Expedia,383635,0.02,EXPE US,-,"EXPEDIA GROUP, INC.",Listed,Rest,Balanced
+Equity,-,Datadog,382189,0.02,DDOG US,-,"DATADOG, INC.",Listed,Rest,Balanced
+Equity,-,Cintas,376465,0.02,CTAS US,-,CINTAS CORP.,Listed,Rest,Balanced
+Equity,-,Deep Yellow,374939,0.02,DYL AU,-,DEEP YELLOW LTD.,Listed,Rest,Balanced
+Equity,-,Alibaba,370997,0.02,9988 HK,-,ALIBABA GROUP HOLDING LTD.,Listed,Rest,Balanced
+Equity,-,Nomura Research Institute,370451,0.02,4307 JP,-,NOMURA RESEARCH INSTITUTE LTD.,Listed,Rest,Balanced
+Equity,-,Kuaishou Technology,370297,0.02,1024 HK,-,KUAISHOU TECHNOLOGY,Listed,Rest,Balanced
+Equity,-,Banco Santander Sa,370074,0.02,SAN SM,-,BANCO SANTANDER SA,Listed,Rest,Balanced
+Equity,-,Dropbox,369763,0.02,DBX US,-,"DROPBOX, INC.",Listed,Rest,Balanced
+Equity,-,Lennar,369263,0.02,LEN US,-,LENNAR CORP.,Listed,Rest,Balanced
+Equity,-,Bank Of New York Mellon,368173,0.02,BK US,-,BANK OF NEW YORK MELLON CORP.,Listed,Rest,Balanced
+Equity,-,United Overseas Bank,363171,0.02,UOB SP,-,UNITED OVERSEAS BANK LTD.,Listed,Rest,Balanced
+Equity,-,Synchrony Financial,361402,0.02,SYF US,-,SYNCHRONY FINANCIAL,Listed,Rest,Balanced
+Equity,-,Samsung Electronics,360841,0.02,005930 KS,-,SAMSUNG ELECTRONICS CO. LTD.,Listed,Rest,Balanced
+Equity,-,Verisk Analytics,360810,0.02,VRSK US,-,"VERISK ANALYTICS, INC.",Listed,Rest,Balanced
+Equity,-,Crh,358688,0.02,CRH LN,-,CRH PLC,Listed,Rest,Balanced
+Equity,-,Twilio,358193,0.02,TWLO US,-,"TWILIO, INC.",Listed,Rest,Balanced
+Equity,-,Coupang,357465,0.02,CPNG US,-,"COUPANG, INC.",Listed,Rest,Balanced
+Equity,-,Hsbc,357415,0.02,HSBA LN,-,HSBC HOLDINGS PLC,Listed,Rest,Balanced
+Equity,-,Allianz Se,355524,0.02,ALV GR,-,ALLIANZ SE,Listed,Rest,Balanced
+Equity,-,Longfor,355209,0.02,960 HK,-,LONGFOR GROUP HOLDINGS LTD.,Listed,Rest,Balanced
+Equity,-,Dupont De Nemours,354014,0.02,DD US,-,"DUPONT DE NEMOURS, INC.",Listed,Rest,Balanced
+Equity,-,Apollo Global Management,353673,0.02,APO US,-,"APOLLO GLOBAL MANAGEMENT, INC.",Listed,Rest,Balanced
+Equity,-,Intel,353077,0.02,INTC US,-,INTEL CORP.,Listed,Rest,Balanced
+Equity,-,Becton Dickinson &,351491,0.02,BDX US,-,BECTON DICKINSON & CO.,Listed,Rest,Balanced
+Equity,-,Bapcor,347691,0.02,BAP AU,-,BAPCOR LTD.,Listed,Rest,Balanced
+Equity,-,Samsara,347623,0.02,IOT US,-,"SAMSARA, INC.",Listed,Rest,Balanced
+Equity,-,Doordash,346727,0.02,DASH US,-,"DOORDASH, INC.",Listed,Rest,Balanced
+Equity,-,Cigna,346659,0.02,CI US,-,CIGNA GROUP,Listed,Rest,Balanced
+Equity,-,Bluescope Steel,346457,0.02,BSL AU,-,BLUESCOPE STEEL LTD.,Listed,Rest,Balanced
+Equity,-,Bank Rakyat Indonesia Persero Tbk Pt,345429,0.02,BBRI IJ,-,BANK RAKYAT INDONESIA PERSERO TBK. PT,Listed,Rest,Balanced
+Equity,-,Mercedes-Benz Ag,344410,0.02,MBG GR,-,MERCEDES-BENZ GROUP AG,Listed,Rest,Balanced
+Equity,-,Tradeweb Markets,344153,0.02,TW US,-,"TRADEWEB MARKETS, INC.",Listed,Rest,Balanced
+Equity,-,Northrop Grumman,342903,0.02,NOC US,-,NORTHROP GRUMMAN CORP.,Listed,Rest,Balanced
+Equity,-,Cbre,342295,0.02,CBRE US,-,"CBRE GROUP, INC.",Listed,Rest,Balanced
+Equity,-,Cadence Design Systems,341468,0.02,CDNS US,-,"CADENCE DESIGN SYSTEMS, INC.",Listed,Rest,Balanced
+Equity,-,Union Pacific,340619,0.02,UNP US,-,UNION PACIFIC CORP.,Listed,Rest,Balanced
+Equity,-,Nomura,339243,0.02,8604 JP,-,"NOMURA HOLDINGS, INC.",Listed,Rest,Balanced
+Equity,-,Regeneron Pharmaceuticals,338572,0.02,REGN US,-,"REGENERON PHARMACEUTICALS, INC.",Listed,Rest,Balanced
+Equity,-,Shenzhen Mindray Bio-Medical Electronics,338067,0.02,300760 C2,-,SHENZHEN MINDRAY BIO-MEDICAL ELECTRONICS CO. LTD.,Listed,Rest,Balanced
+Equity,-,Be Semiconductor Industries Nv,337635,0.02,BESI NA,-,BE SEMICONDUCTOR INDUSTRIES NV,Listed,Rest,Balanced
+Equity,-,Kotak Mahindra Bank,336161,0.02,KMB IN,-,KOTAK MAHINDRA BANK LTD.,Listed,Rest,Balanced
+Equity,-,Prada Spa,335385,0.02,1913 HK,-,PRADA SPA,Listed,Rest,Balanced
+Equity,-,Deckers Outdoor,335129,0.02,DECK US,-,DECKERS OUTDOOR CORP.,Listed,Rest,Balanced
+Equity,-,Capgemini Se,335039,0.02,CAP FP,-,CAPGEMINI SE,Listed,Rest,Balanced
+Equity,-,Bendigo And Adelaide Bank,334560,0.02,BEN AU,-,BENDIGO AND ADELAIDE BANK LTD.,Listed,Rest,Balanced
+Equity,-,Zoom Video Communications,333506,0.02,ZM US,-,"ZOOM VIDEO COMMUNICATIONS, INC.",Listed,Rest,Balanced
+Equity,-,Allstate,333458,0.02,ALL US,-,ALLSTATE CORP.,Listed,Rest,Balanced
+Equity,-,Cheniere Energy,332935,0.02,LNG US,-,"CHENIERE ENERGY, INC.",Listed,Rest,Balanced
+Equity,-,Flight Centre Travel,332732,0.02,FLT AU,-,FLIGHT CENTRE TRAVEL GROUP LTD.,Listed,Rest,Balanced
+Equity,-,Everest,332188,0.02,EG US,-,EVEREST GROUP LTD.,Listed,Rest,Balanced
+Equity,-,Nokia Oyj,331160,0.02,NOKIA FH,-,NOKIA OYJ,Listed,Rest,Balanced
+Equity,-,Keyence,330287,0.02,6861 JP,-,KEYENCE CORP.,Listed,Rest,Balanced
+Equity,-,Regional Sab De Cv,329639,0.02,RA MM,-,REGIONAL SAB DE CV,Listed,Rest,Balanced
+Equity,-,Mckesson,326617,0.02,MCK US,-,MCKESSON CORP.,Listed,Rest,Balanced
+Equity,-,Houlihan Lokey,324807,0.02,HLI US,-,"HOULIHAN LOKEY, INC.",Listed,Rest,Balanced
+Equity,-,H World,323415,0.02,1179 HK,-,H WORLD GROUP LTD.,Listed,Rest,Balanced
+Equity,-,Ivanhoe Mines,323054,0.02,IVN CN,-,IVANHOE MINES LTD.,Listed,Rest,Balanced
+Equity,-,Garmin,322474,0.02,GRMN US,-,GARMIN LTD.,Listed,Rest,Balanced
+Equity,-,Dino Polska Sa,321682,0.02,DNP PW,-,DINO POLSKA SA,Listed,Rest,Balanced
+Equity,-,Skyworks Solutions,321479,0.02,SWKS US,-,"SKYWORKS SOLUTIONS, INC.",Listed,Rest,Balanced
+Equity,-,Consolidated Edison,319474,0.02,ED US,-,"CONSOLIDATED EDISON, INC.",Listed,Rest,Balanced
+Equity,-,Mcdonald'S,318996,0.02,MCD US,-,MCDONALD'S CORP.,Listed,Rest,Balanced
+Equity,-,Pepsico,318215,0.02,PEP US,-,"PEPSICO, INC.",Listed,Rest,Balanced
+Equity,-,Enphase Energy,317671,0.02,ENPH US,-,"ENPHASE ENERGY, INC.",Listed,Rest,Balanced
+Equity,-,Eagers Automotive,311979,0.02,APE AU,-,EAGERS AUTOMOTIVE LTD.,Listed,Rest,Balanced
+Equity,-,Godaddy,311811,0.02,GDDY US,-,"GODADDY, INC.",Listed,Rest,Balanced
+Equity,-,First Quantum Minerals,310951,0.02,FM CN,-,FIRST QUANTUM MINERALS LTD.,Listed,Rest,Balanced
+Equity,-,Hermes International,310318,0.02,RMS FP,-,HERMES INTERNATIONAL,Listed,Rest,Balanced
+Equity,-,Delta Air Lines,309515,0.02,DAL US,-,"DELTA AIR LINES, INC.",Listed,Rest,Balanced
+Equity,-,Aecom,309469,0.02,ACM US,-,AECOM,Listed,Rest,Balanced
+Equity,-,Bae Systems,309338,0.02,BA LN,-,BAE SYSTEMS PLC,Listed,Rest,Balanced
+Equity,-,Emcor,307120,0.02,EME US,-,"EMCOR GROUP, INC.",Listed,Rest,Balanced
+Equity,-,Givaudan Sa,306962,0.02,GIVN SW,-,GIVAUDAN SA,Listed,Rest,Balanced
+Equity,-,Constellation Brands,306628,0.02,STZ US,-,"CONSTELLATION BRANDS, INC.",Listed,Rest,Balanced
+Equity,-,Transdigm,305816,0.02,TDG US,-,"TRANSDIGM GROUP, INC.",Listed,Rest,Balanced
+Equity,-,United Therapeutics,304058,0.02,UTHR US,-,UNITED THERAPEUTICS CORP.,Listed,Rest,Balanced
+Equity,-,Accton Technology,303962,0.02,2345 TT,-,ACCTON TECHNOLOGY CORP.,Listed,Rest,Balanced
+Equity,-,Amphenol,302702,0.02,APH US,-,AMPHENOL CORP.,Listed,Rest,Balanced
+Equity,-,Netwealth,302291,0.02,NWL AU,-,NETWEALTH GROUP LTD.,Listed,Rest,Balanced
+Equity,-,Us Bancorp,301058,0.02,USB US,-,U.S. BANCORP,Listed,Rest,Balanced
+Equity,-,Dexcom,301053,0.02,DXCM US,-,"DEXCOM, INC.",Listed,Rest,Balanced
+Equity,-,Live Nation Entertainment,298771,0.02,LYV US,-,"LIVE NATION ENTERTAINMENT, INC.",Listed,Rest,Balanced
+Equity,-,Cardinal Health,297927,0.02,CAH US,-,"CARDINAL HEALTH, INC.",Listed,Rest,Balanced
+Equity,-,Ebay,297153,0.02,EBAY US,-,"EBAY, INC.",Listed,Rest,Balanced
+Equity,-,Leidos,295967,0.02,LDOS US,-,"LEIDOS HOLDINGS, INC.",Listed,Rest,Balanced
+Equity,-,Ciena,295496,0.02,CIEN US,-,CIENA CORP.,Listed,Rest,Balanced
+Equity,-,Wyndham Hotels & Resorts,294988,0.02,WH US,-,"WYNDHAM HOTELS & RESORTS, INC.",Listed,Rest,Balanced
+Equity,-,Diamondback Energy,294150,0.02,FANG US,-,"DIAMONDBACK ENERGY, INC.",Listed,Rest,Balanced
+Equity,-,Barclays,294096,0.02,BARC LN,-,BARCLAYS PLC,Listed,Rest,Balanced
+Equity,-,Nufarm,293968,0.02,NUF AU,-,NUFARM LTD.,Listed,Rest,Balanced
+Equity,-,Societe Generale Sa,293892,0.02,GLE FP,-,SOCIETE GENERALE SA,Listed,Rest,Balanced
+Equity,-,Marathon Petroleum,292984,0.02,MPC US,-,MARATHON PETROLEUM CORP.,Listed,Rest,Balanced
+Equity,-,Daikin Industries,292388,0.02,6367 JP,-,DAIKIN INDUSTRIES LTD.,Listed,Rest,Balanced
+Equity,-,Super Retail,292279,0.02,SUL AU,-,SUPER RETAIL GROUP LTD.,Listed,Rest,Balanced
+Equity,-,Techtronic Industries,290489,0.02,669 HK,-,TECHTRONIC INDUSTRIES CO. LTD.,Listed,Rest,Balanced
+Equity,-,Totvs Sa,289572,0.02,TOTS3 BZ,-,TOTVS SA,Listed,Rest,Balanced
+Equity,-,Misumi,289300,0.02,9962 JP,-,"MISUMI GROUP, INC.",Listed,Rest,Balanced
+Equity,-,Barrick Gold,289159,0.02,ABX CN,-,BARRICK GOLD CORP.,Listed,Rest,Balanced
+Equity,-,Ss&C Technologies,288680,0.02,SSNC US,-,"SS&C TECHNOLOGIES HOLDINGS, INC.",Listed,Rest,Balanced
+Equity,-,Waste Management,288295,0.02,WM US,-,"WASTE MANAGEMENT, INC.",Listed,Rest,Balanced
+Equity,-,Mizuho Financial,286486,0.02,8411 JP,-,"MIZUHO FINANCIAL GROUP, INC.",Listed,Rest,Balanced
+Equity,-,Chubb,285407,0.02,CB US,-,CHUBB LTD.,Listed,Rest,Balanced
+Equity,-,Nordea Bank Abp,285407,0.02,NDA FH,-,NORDEA BANK ABP,Listed,Rest,Balanced
+Equity,-,Petroleo Brasileiro Sa,285134,0.02,PBR US,-,PETROLEO BRASILEIRO SA,Listed,Rest,Balanced
+Equity,-,United Parcel Service,285032,0.02,UPS US,-,"UNITED PARCEL SERVICE, INC.",Listed,Rest,Balanced
+Equity,-,Bp,284227,0.02,BP LN,-,BP PLC,Listed,Rest,Balanced
+Equity,-,Pinnacle Investment Management,284004,0.02,PNI AU,-,PINNACLE INVESTMENT MANAGEMENT GROUP LTD.,Listed,Rest,Balanced
+Equity,-,Zip,283301,0.02,ZIP AU,-,ZIP CO. LTD.,Listed,Rest,Balanced
+Equity,-,Daiichi Sankyo,282749,0.02,4568 JP,-,DAIICHI SANKYO CO. LTD.,Listed,Rest,Balanced
+Equity,-,Lloyds Banking,281674,0.02,LLOY LN,-,LLOYDS BANKING GROUP PLC,Listed,Rest,Balanced
+Equity,-,Siteminder,281666,0.02,SDR AU,-,SITEMINDER LTD.,Listed,Rest,Balanced
+Equity,-,Reliance Worldwide,279192,0.02,RWC AU,-,RELIANCE WORLDWIDE CORP. LTD.,Listed,Rest,Balanced
+Equity,-,United Breweries,279125,0.02,UBBL IN,-,UNITED BREWERIES LTD.,Listed,Rest,Balanced
+Equity,-,Aegon,278200,0.02,AGN NA,-,AEGON LTD.,Listed,Rest,Balanced
+Equity,-,Baker Hughes,278174,0.02,BKR US,-,BAKER HUGHES CO.,Listed,Rest,Balanced
+Equity,-,Rockwell Automation,277824,0.02,ROK US,-,"ROCKWELL AUTOMATION, INC.",Listed,Rest,Balanced
+Equity,-,Loblaw Cos,276609,0.02,L CN,-,LOBLAW COS. LTD.,Listed,Rest,Balanced
+Equity,-,Axon Enterprise,276509,0.02,AXON US,-,"AXON ENTERPRISE, INC.",Listed,Rest,Balanced
+Equity,-,Royal Bank Of Canada,276215,0.02,RY CN,-,ROYAL BANK OF CANADA,Listed,Rest,Balanced
+Equity,-,Honda Motor,275483,0.02,7267 JP,-,HONDA MOTOR CO. LTD.,Listed,Rest,Balanced
+Equity,-,Wal-Mart De Mexico Sab De Cv,275280,0.02,WALMEX MM,-,WAL-MART DE MEXICO SAB DE CV,Listed,Rest,Balanced
+Equity,-,Sandvik Ab,272677,0.02,SAND SS,-,SANDVIK AB,Listed,Rest,Balanced
+Equity,-,Kb Financial,271416,0.02,105560 KS,-,"KB FINANCIAL GROUP, INC.",Listed,Rest,Balanced
+Equity,-,Elf Beauty,270546,0.02,ELF US,-,"ELF BEAUTY, INC.",Listed,Rest,Balanced
+Equity,-,Illumina,267990,0.02,ILMN US,-,"ILLUMINA, INC.",Listed,Rest,Balanced
+Equity,-,Veeva Systems,266471,0.02,VEEV US,-,"VEEVA SYSTEMS, INC.",Listed,Rest,Balanced
+Equity,-,Intercontinental Exchange,265995,0.02,ICE US,-,"INTERCONTINENTAL EXCHANGE, INC.",Listed,Rest,Balanced
+Equity,-,State Street,265549,0.02,STT US,-,STATE STREET CORP.,Listed,Rest,Balanced
+Equity,-,Carvana,265164,0.02,CVNA US,-,CARVANA CO.,Listed,Rest,Balanced
+Equity,-,Computer Age Management Services,265159,0.02,CAMS IN,-,COMPUTER AGE MANAGEMENT SERVICES LTD.,Listed,Rest,Balanced
+Equity,-,Cummins,264890,0.02,CMI US,-,"CUMMINS, INC.",Listed,Rest,Balanced
+Equity,-,Corning,264641,0.02,GLW US,-,"CORNING, INC.",Listed,Rest,Balanced
+Equity,-,Illinois Tool Works,264121,0.02,ITW US,-,"ILLINOIS TOOL WORKS, INC.",Listed,Rest,Balanced
+Equity,-,Axa Sa,263016,0.02,CS FP,-,AXA SA,Listed,Rest,Balanced
+Equity,-,Toyota Motor,262351,0.02,7203 JP,-,TOYOTA MOTOR CORP.,Listed,Rest,Balanced
+Equity,-,Palo Alto Networks,261190,0.02,PANW US,-,"PALO ALTO NETWORKS, INC.",Listed,Rest,Balanced
+Equity,-,Kraft Heinz,260623,0.02,KHC US,-,KRAFT HEINZ CO.,Listed,Rest,Balanced
+Equity,-,Moncler Spa,258417,0.01,MONC IM,-,MONCLER SPA,Listed,Rest,Balanced
+Equity,-,Auckland Airport,257331,0.01,AIA AU,-,AUCKLAND INTERNATIONAL AIRPORT LTD.,Listed,Rest,Balanced
+Equity,-,Ppg Industries,257012,0.01,PPG US,-,"PPG INDUSTRIES, INC.",Listed,Rest,Balanced
+Equity,-,Cenovus Energy,256941,0.01,CVE CN,-,"CENOVUS ENERGY, INC.",Listed,Rest,Balanced
+Equity,-,Novartis Ag,255174,0.01,NVS US,-,NOVARTIS AG,Listed,Rest,Balanced
+Equity,-,Fidelity National Information Services,254222,0.01,FIS US,-,"FIDELITY NATIONAL INFORMATION SERVICES, INC.",Listed,Rest,Balanced
+Equity,-,Rolls-Royce,253981,0.01,RR LN,-,ROLLS-ROYCE HOLDINGS PLC,Listed,Rest,Balanced
+Equity,-,Nu,252244,0.01,NU US,-,NU HOLDINGS LTD.,Listed,Rest,Balanced
+Equity,-,Takeda Pharmaceutical,252071,0.01,4502 JP,-,TAKEDA PHARMACEUTICAL CO. LTD.,Listed,Rest,Balanced
+Equity,-,Asml Nv,251849,0.01,ASML US,-,ASML HOLDING NV,Listed,Rest,Balanced
+Equity,-,G8 Education,251270,0.01,GEM AU,-,G8 EDUCATION LTD.,Listed,Rest,Balanced
+Equity,-,Incyte,250452,0.01,INCY US,-,INCYTE CORP.,Listed,Rest,Balanced
+Equity,-,Subaru,250404,0.01,7270 JP,-,SUBARU CORP.,Listed,Rest,Balanced
+Equity,-,Sumitomo Mitsui Financial,250261,0.01,8316 JP,-,"SUMITOMO MITSUI FINANCIAL GROUP, INC.",Listed,Rest,Balanced
+Equity,-,Brookfield,248769,0.01,BN CN,-,BROOKFIELD CORP.,Listed,Rest,Balanced
+Equity,-,Knight-Swift Transportation,247924,0.01,KNX US,-,"KNIGHT-SWIFT TRANSPORTATION HOLDINGS, INC.",Listed,Rest,Balanced
+Equity,-,Gold Fields,247908,0.01,GFI US,-,GOLD FIELDS LTD.,Listed,Rest,Balanced
+Equity,-,Tongwei,247268,0.01,600438 C1,-,TONGWEI CO. LTD.,Listed,Rest,Balanced
+Equity,-,Capital One Financial,246417,0.01,COF US,-,CAPITAL ONE FINANCIAL CORP.,Listed,Rest,Balanced
+Equity,-,Silergy,246363,0.01,6415 TT,-,SILERGY CORP.,Listed,Rest,Balanced
+Equity,-,Lvmh Moet Hennessy Louis Vuitton Se,245587,0.01,MC FP,-,LVMH MOET HENNESSY LOUIS VUITTON SE,Listed,Rest,Balanced
+Equity,-,Kia,245335,0.01,000270 KS,-,KIA CORP.,Listed,Rest,Balanced
+Equity,-,Bim Birlesik Magazalar As,245079,0.01,BIMAS TI,-,BIM BIRLESIK MAGAZALAR AS,Listed,Rest,Balanced
+Equity,-,Charles River Laboratories International,245070,0.01,CRL US,-,"CHARLES RIVER LABORATORIES INTERNATIONAL, INC.",Listed,Rest,Balanced
+Equity,-,Truist Financial,244664,0.01,TFC US,-,TRUIST FINANCIAL CORP.,Listed,Rest,Balanced
+Equity,-,Enel Spa,241934,0.01,ENEL IM,-,ENEL SPA,Listed,Rest,Balanced
+Equity,-,Akbank Tas,240984,0.01,AKBNK TI,-,AKBANK TAS,Listed,Rest,Balanced
+Equity,-,Vodafone,240733,0.01,VOD LN,-,VODAFONE GROUP PLC,Listed,Rest,Balanced
+Equity,-,Biontech Se,239851,0.01,BNTX US,-,BIONTECH SE,Listed,Rest,Balanced
+Equity,-,Qualitas Controladora Sab De Cv,239496,0.01,Q MM,-,QUALITAS CONTROLADORA SAB DE CV,Listed,Rest,Balanced
+Equity,-,Hasbro,239109,0.01,HAS US,-,"HASBRO, INC.",Listed,Rest,Balanced
+Equity,-,Halliburton,238838,0.01,HAL US,-,HALLIBURTON CO.,Listed,Rest,Balanced
+Equity,-,M&T Bank,235302,0.01,MTB US,-,M&T BANK CORP.,Listed,Rest,Balanced
+Equity,-,Fisher & Paykel Healthcare,234071,0.01,FPH AU,-,FISHER & PAYKEL HEALTHCARE CORP. LTD.,Listed,Rest,Balanced
+Equity,-,Interglobe Aviation,233966,0.01,INDIGO IN,-,INTERGLOBE AVIATION LTD.,Listed,Rest,Balanced
+Equity,-,Perseus Mining,232748,0.01,PRU AU,-,PERSEUS MINING LTD.,Listed,Rest,Balanced
+Equity,-,Voya Financial,232266,0.01,VOYA US,-,"VOYA FINANCIAL, INC.",Listed,Rest,Balanced
+Equity,-,Kinross Gold,231421,0.01,K CN,-,KINROSS GOLD CORP.,Listed,Rest,Balanced
+Equity,-,Manulife Financial,230566,0.01,MFC CN,-,MANULIFE FINANCIAL CORP.,Listed,Rest,Balanced
+Equity,-,Biogen,229605,0.01,BIIB US,-,"BIOGEN, INC.",Listed,Rest,Balanced
+Equity,-,Willis Towers Watson,229583,0.01,WTW US,-,WILLIS TOWERS WATSON PLC,Listed,Rest,Balanced
+Equity,-,Cboe Global Markets,229091,0.01,CBOE US,-,"CBOE GLOBAL MARKETS, INC.",Listed,Rest,Balanced
+Equity,-,Merck,229014,0.01,MRK GR,-,MERCK KGAA,Listed,Rest,Balanced
+Equity,-,Chipotle Mexican Grill,227685,0.01,CMG US,-,"CHIPOTLE MEXICAN GRILL, INC.",Listed,Rest,Balanced
+Equity,-,Targa Resources,227102,0.01,TRGP US,-,TARGA RESOURCES CORP.,Listed,Rest,Balanced
+Equity,-,Zijin Mining,225595,0.01,2899 HK,-,ZIJIN MINING GROUP CO. LTD.,Listed,Rest,Balanced
+Equity,-,Hyundai Motor,225312,0.01,005380 KS,-,HYUNDAI MOTOR CO.,Listed,Rest,Balanced
+Equity,-,Macmahon,224955,0.01,MAH AU,-,MACMAHON HOLDINGS LTD.,Listed,Rest,Balanced
+Equity,-,Canadian Imperial Bank Of Commerce,224356,0.01,CM CN,-,CANADIAN IMPERIAL BANK OF COMMERCE,Listed,Rest,Balanced
+Equity,-,Ventia Services,224328,0.01,VNT AU,-,VENTIA SERVICES GROUP PTY. LTD.,Listed,Rest,Balanced
+Equity,-,Premier Investments,223707,0.01,PMV AU,-,PREMIER INVESTMENTS LTD.,Listed,Rest,Balanced
+Equity,-,Silgan,221847,0.01,SLGN US,-,"SILGAN HOLDINGS, INC.",Listed,Rest,Balanced
+Equity,-,Honeywell International,221622,0.01,HON US,-,"HONEYWELL INTERNATIONAL, INC.",Listed,Rest,Balanced
+Equity,-,Borgwarner,220604,0.01,BWA US,-,"BORGWARNER, INC.",Listed,Rest,Balanced
+Equity,-,Glencore,219880,0.01,GLEN LN,-,GLENCORE PLC,Listed,Rest,Balanced
+Equity,-,Li Auto,219753,0.01,LI US,-,"LI AUTO, INC.",Listed,Rest,Balanced
+Equity,-,Koninklijke Philips Nv,218540,0.01,PHIA NA,-,KONINKLIJKE PHILIPS NV,Listed,Rest,Balanced
+Equity,-,Gold Road Resources,218459,0.01,GOR AU,-,GOLD ROAD RESOURCES LTD.,Listed,Rest,Balanced
+Equity,-,Advantest,217914,0.01,6857 JP,-,ADVANTEST CORP.,Listed,Rest,Balanced
+Equity,-,Ramelius Resources,217584,0.01,RMS AU,-,RAMELIUS RESOURCES LTD.,Listed,Rest,Balanced
+Equity,-,First Solar,216536,0.01,FSLR US,-,"FIRST SOLAR, INC.",Listed,Rest,Balanced
+Equity,-,Mccormick &,214733,0.01,MKC US,-,"MCCORMICK & CO., INC.",Listed,Rest,Balanced
+Equity,-,Ubs Ag,213405,0.01,UBSG SW,-,UBS GROUP AG,Listed,Rest,Balanced
+Equity,-,Thomson Reuters,213363,0.01,TRI CN,-,THOMSON REUTERS CORP.,Listed,Rest,Balanced
+Equity,-,Ge Vernova,213018,0.01,GEV US,-,"GE VERNOVA, INC.",Listed,Rest,Balanced
+Equity,-,Gentex,212668,0.01,GNTX US,-,GENTEX CORP.,Listed,Rest,Balanced
+Equity,-,Arch Capital,210285,0.01,ACGL US,-,ARCH CAPITAL GROUP LTD.,Listed,Rest,Balanced
+Equity,-,Fedex,209985,0.01,FDX US,-,FEDEX CORP.,Listed,Rest,Balanced
+Equity,-,China International Capital,208314,0.01,3908 HK,-,CHINA INTERNATIONAL CAPITAL CORP. LTD.,Listed,Rest,Balanced
+Equity,-,Champion Iron,207218,0.01,CIA AU,-,CHAMPION IRON LTD.,Listed,Rest,Balanced
+Equity,-,Nvr,207005,0.01,NVR US,-,"NVR, INC.",Listed,Rest,Balanced
+Equity,-,Li Auto,206953,0.01,2015 HK,-,"LI AUTO, INC.",Listed,Rest,Balanced
+Equity,-,Equinor Asa,206319,0.01,EQNR NO,-,EQUINOR ASA,Listed,Rest,Balanced
+Equity,-,Ally Financial,205443,0.01,ALLY US,-,"ALLY FINANCIAL, INC.",Listed,Rest,Balanced
+Equity,-,Warner Bros Discovery,204575,0.01,WBD US,-,"WARNER BROS DISCOVERY, INC.",Listed,Rest,Balanced
+Equity,-,Metlife,204333,0.01,MET US,-,"METLIFE, INC.",Listed,Rest,Balanced
+Equity,-,Titan,203308,0.01,TTAN IN,-,TITAN CO. LTD.,Listed,Rest,Balanced
+Equity,-,Cemex Sab De Cv,202938,0.01,CX US,-,CEMEX SAB DE CV,Listed,Rest,Balanced
+Equity,-,Archer-Daniels-Midland,202890,0.01,ADM US,-,ARCHER-DANIELS-MIDLAND CO.,Listed,Rest,Balanced
+Equity,-,Clorox,201805,0.01,CLX US,-,CLOROX CO.,Listed,Rest,Balanced
+Equity,-,Neurocrine Biosciences,201768,0.01,NBIX US,-,"NEUROCRINE BIOSCIENCES, INC.",Listed,Rest,Balanced
+Equity,-,Canadian Natural Resources,201144,0.01,CNQ US,-,CANADIAN NATURAL RESOURCES LTD.,Listed,Rest,Balanced
+Equity,-,Agnico Eagle Mines,200459,0.01,AEM CN,-,AGNICO EAGLE MINES LTD.,Listed,Rest,Balanced
+Equity,-,Pultegroup,199731,0.01,PHM US,-,"PULTEGROUP, INC.",Listed,Rest,Balanced
+Equity,-,International Flavors & Fragrances,199590,0.01,IFF US,-,"INTERNATIONAL FLAVORS & FRAGRANCES, INC.",Listed,Rest,Balanced
+Equity,-,Blackrock,199497,0.01,BLK US,-,"BLACKROCK, INC.",Listed,Rest,Balanced
+Equity,-,Mondelez International,198637,0.01,MDLZ US,-,"MONDELEZ INTERNATIONAL, INC.",Listed,Rest,Balanced
+Equity,-,Eqt,198516,0.01,EQT US,-,EQT CORP.,Listed,Rest,Balanced
+Equity,-,Unimicron Technology,196625,0.01,3037 TT,-,UNIMICRON TECHNOLOGY CORP.,Listed,Rest,Balanced
+Equity,-,Grupo Financiero Banorte Sab De Cv,196470,0.01,GFNORTEO MM,-,GRUPO FINANCIERO BANORTE SAB DE CV,Listed,Rest,Balanced
+Equity,-,Bank Of Ireland,195664,0.01,BIRG LN,-,BANK OF IRELAND GROUP PLC,Listed,Rest,Balanced
+Equity,-,Evonik Industries Ag,195294,0.01,EVK GR,-,EVONIK INDUSTRIES AG,Listed,Rest,Balanced
+Equity,-,Resmed,194703,0.01,RMD US,-,"RESMED, INC.",Listed,Rest,Balanced
+Equity,-,Zoetis,194227,0.01,ZTS US,-,"ZOETIS, INC.",Listed,Rest,Balanced
+Equity,-,Hoa Phat Jsc,194090,0.01,HPG VN,-,HOA PHAT GROUP JSC,Listed,Rest,Balanced
+Equity,-,Spartan Resources,193369,0.01,SPR AU,-,SPARTAN RESOURCES LTD.,Listed,Rest,Balanced
+Equity,-,Bank Of Queensland,192987,0.01,BOQ AU,-,BANK OF QUEENSLAND LTD.,Listed,Rest,Balanced
+Equity,-,Dover,192357,0.01,DOV US,-,DOVER CORP.,Listed,Rest,Balanced
+Equity,-,Carlisle Cos,192302,0.01,CSL US,-,"CARLISLE COS., INC.",Listed,Rest,Balanced
+Equity,-,Robinhood Markets,192277,0.01,HOOD US,-,"ROBINHOOD MARKETS, INC.",Listed,Rest,Balanced
+Equity,-,Swedbank Ab,191684,0.01,SWEDA SS,-,SWEDBANK AB,Listed,Rest,Balanced
+Equity,-,Breville,191571,0.01,BRG AU,-,BREVILLE GROUP LTD.,Listed,Rest,Balanced
+Equity,-,Qorvo,191395,0.01,QRVO US,-,"QORVO, INC.",Listed,Rest,Balanced
+Equity,-,Koninklijke Ahold Delhaize Nv,190498,0.01,AD NA,-,KONINKLIJKE AHOLD DELHAIZE NV,Listed,Rest,Balanced
+Equity,-,Harvey Norman,190427,0.01,HVN AU,-,HARVEY NORMAN HOLDINGS LTD.,Listed,Rest,Balanced
+Equity,-,Tpg,188810,0.01,TPG US,-,"TPG, INC.",Listed,Rest,Balanced
+Equity,-,Booz Allen Hamilton,188783,0.01,BAH US,-,BOOZ ALLEN HAMILTON HOLDING CORP.,Listed,Rest,Balanced
+Equity,-,Alibaba,188478,0.01,BABA US,-,ALIBABA GROUP HOLDING LTD.,Listed,Rest,Balanced
+Equity,-,Wixcom,187565,0.01,WIX US,-,WIX.COM LTD.,Listed,Rest,Balanced
+Equity,-,Paladin Energy,187460,0.01,PDN AU,-,PALADIN ENERGY LTD.,Listed,Rest,Balanced
+Equity,-,Skycity Entertainment,185777,0.01,SKC AU,-,SKYCITY ENTERTAINMENT GROUP LTD.,Listed,Rest,Balanced
+Equity,-,Codan,185693,0.01,CDA AU,-,CODAN LTD.,Listed,Rest,Balanced
+Equity,-,Raia Drogasil Sa,185226,0.01,RADL3 BZ,-,RAIA DROGASIL SA,Listed,Rest,Balanced
+Equity,-,Tokio Marine,185092,0.01,8766 JP,-,"TOKIO MARINE HOLDINGS, INC.",Listed,Rest,Balanced
+Equity,-,Informa,184830,0.01,INF LN,-,INFORMA PLC,Listed,Rest,Balanced
+Equity,-,Haleon,184558,0.01,HLN LN,-,HALEON PLC,Listed,Rest,Balanced
+Equity,-,Ansys,183627,0.01,ANSS US,-,"ANSYS, INC.",Listed,Rest,Balanced
+Equity,-,Fair Isaac,183478,0.01,FICO US,-,FAIR ISAAC CORP.,Listed,Rest,Balanced
+Equity,-,Fresenius Se & Kgaa,183195,0.01,FRE GR,-,FRESENIUS SE & CO. KGAA,Listed,Rest,Balanced
+Equity,-,Assurant,183140,0.01,AIZ US,-,"ASSURANT, INC.",Listed,Rest,Balanced
+Equity,-,Kweichow Moutai,183121,0.01,600519 C1,-,KWEICHOW MOUTAI CO. LTD.,Listed,Rest,Balanced
+Equity,-,Beigene,182353,0.01,ONC US,-,BEIGENE LTD.,Listed,Rest,Balanced
+Equity,-,Crowdstrike,181796,0.01,CRWD US,-,"CROWDSTRIKE HOLDINGS, INC.",Listed,Rest,Balanced
+Equity,-,Ford Motor,181071,0.01,F US,-,FORD MOTOR CO.,Listed,Rest,Balanced
+Equity,-,Matsukiyococokara &,180952,0.01,3088 JP,-,MATSUKIYOCOCOKARA & CO.,Listed,Rest,Balanced
+Equity,-,Canadian Natural Resources,180577,0.01,CNQ CN,-,CANADIAN NATURAL RESOURCES LTD.,Listed,Rest,Balanced
+Equity,-,Sands China,179878,0.01,1928 HK,-,SANDS CHINA LTD.,Listed,Rest,Balanced
+Equity,-,Ball,179235,0.01,BALL US,-,BALL CORP.,Listed,Rest,Balanced
+Equity,-,Nrg Energy,179019,0.01,NRG US,-,"NRG ENERGY, INC.",Listed,Rest,Balanced
+Equity,-,Bank Mandiri Persero Tbk Pt,178836,0.01,BMRI IJ,-,BANK MANDIRI PERSERO TBK PT,Listed,Rest,Balanced
+Equity,-,Textron,178699,0.01,TXT US,-,"TEXTRON, INC.",Listed,Rest,Balanced
+Equity,-,Amp,178689,0.01,AMP AU,-,AMP LTD.,Listed,Rest,Balanced
+Equity,-,Acuity Brands,178616,0.01,AYI US,-,"ACUITY BRANDS, INC.",Listed,Rest,Balanced
+Equity,-,Fairfax Financial,178187,0.01,FFH CN,-,FAIRFAX FINANCIAL HOLDINGS LTD.,Listed,Rest,Balanced
+Equity,-,Target,178150,0.01,TGT US,-,TARGET CORP.,Listed,Rest,Balanced
+Equity,-,Mitsubishi Electric,177844,0.01,6503 JP,-,MITSUBISHI ELECTRIC CORP.,Listed,Rest,Balanced
+Equity,-,Haci Omer Sabanci As,176971,0.01,SAHOL TI,-,HACI OMER SABANCI HOLDING AS,Listed,Rest,Balanced
+Equity,-,Macrotech Developers,176789,0.01,LODHA IN,-,MACROTECH DEVELOPERS LTD.,Listed,Rest,Balanced
+Equity,-,Yum China,176684,0.01,YUMC US,-,"YUM CHINA HOLDINGS, INC.",Listed,Rest,Balanced
+Equity,-,Brown & Brown,176105,0.01,BRO US,-,"BROWN & BROWN, INC.",Listed,Rest,Balanced
+Equity,-,Wh,174954,0.01,288 HK,-,WH GROUP LTD.,Listed,Rest,Balanced
+Equity,-,Axis Bank,174563,0.01,AXSB IN,-,AXIS BANK LTD.,Listed,Rest,Balanced
+Equity,-,Naver,173924,0.01,035420 KS,-,NAVER CORP.,Listed,Rest,Balanced
+Equity,-,Ferguson Enterprises,173200,0.01,FERG US,-,"FERGUSON ENTERPRISES, INC.",Listed,Rest,Balanced
+Equity,-,China Construction Bank,172737,0.01,939 HK,-,CHINA CONSTRUCTION BANK CORP.,Listed,Rest,Balanced
+Equity,-,Delta Electronics,171717,0.01,2308 TT,-,"DELTA ELECTRONICS, INC.",Listed,Rest,Balanced
+Equity,-,Fortis,170477,0.01,FTS CN,-,"FORTIS, INC.",Listed,Rest,Balanced
+Equity,-,Rivian Automotive,170419,0.01,RIVN US,-,"RIVIAN AUTOMOTIVE, INC.",Listed,Rest,Balanced
+Equity,-,Quest Diagnostics,169353,0.01,DGX US,-,"QUEST DIAGNOSTICS, INC.",Listed,Rest,Balanced
+Equity,-,Hp,168176,0.01,HPQ US,-,"HP, INC.",Listed,Rest,Balanced
+Equity,-,China Resources Beer,168088,0.01,291 HK,-,CHINA RESOURCES BEER HOLDINGS CO. LTD.,Listed,Rest,Balanced
+Equity,-,Best Buy,167845,0.01,BBY US,-,"BEST BUY CO., INC.",Listed,Rest,Balanced
+Equity,-,Rentokil Initial,167182,0.01,RTO LN,-,RENTOKIL INITIAL PLC,Listed,Rest,Balanced
+Equity,-,Challenger,167005,0.01,CGF AU,-,CHALLENGER LTD.,Listed,Rest,Balanced
+Equity,-,Kongsberg Gruppen Asa,166814,0.01,KOG NO,-,KONGSBERG GRUPPEN ASA,Listed,Rest,Balanced
+Equity,-,Conagra Brands,166809,0.01,CAG US,-,"CONAGRA BRANDS, INC.",Listed,Rest,Balanced
+Equity,-,Power Grid Of India,166025,0.01,PWGR IN,-,POWER GRID CORP. OF INDIA LTD.,Listed,Rest,Balanced
+Equity,-,Panasonic,165991,0.01,6752 JP,-,PANASONIC HOLDINGS CORP.,Listed,Rest,Balanced
+Equity,-,Skandinaviska Enskilda Banken Ab,165918,0.01,SEBA SS,-,SKANDINAVISKA ENSKILDA BANKEN AB,Listed,Rest,Balanced
+Equity,-,Karoon Energy,165617,0.01,KAR AU,-,KAROON ENERGY LTD.,Listed,Rest,Balanced
+Equity,-,Xiaomi,165210,0.01,1810 HK,-,XIAOMI CORP.,Listed,Rest,Balanced
+Equity,-,Deutsche Post Ag,165150,0.01,DHL GR,-,DEUTSCHE POST AG,Listed,Rest,Balanced
+Equity,-,Etsy,164778,0.01,ETSY US,-,"ETSY, INC.",Listed,Rest,Balanced
+Equity,-,Owens Corning,164078,0.01,OC US,-,OWENS CORNING,Listed,Rest,Balanced
+Equity,-,Westgold Resources,163838,0.01,WGX AU,-,WESTGOLD RESOURCES LTD.,Listed,Rest,Balanced
+Equity,-,Piraeus Financial Sa,163479,0.01,TPEIR GA,-,PIRAEUS FINANCIAL HOLDINGS SA,Listed,Rest,Balanced
+Equity,-,Rh,163261,0.01,RH US,-,RH,Listed,Rest,Balanced
+Equity,-,Blackstone,163033,0.01,BX US,-,"BLACKSTONE, INC.",Listed,Rest,Balanced
+Equity,-,Unilever,162387,0.01,UNA NA,-,UNILEVER PLC,Listed,Rest,Balanced
+Equity,-,Barrick Gold,162224,0.01,GOLD US,-,BARRICK GOLD CORP.,Listed,Rest,Balanced
+Equity,-,Itau Unibanco Sa,161934,0.01,ITUB4 BZ,-,ITAU UNIBANCO HOLDING SA,Listed,Rest,Balanced
+Equity,-,Dlf,161531,0.01,DLFU IN,-,DLF LTD.,Listed,Rest,Balanced
+Equity,-,Kao,161301,0.01,4452 JP,-,KAO CORP.,Listed,Rest,Balanced
+Equity,-,Service Stream,161131,0.01,SSM AU,-,SERVICE STREAM LTD.,Listed,Rest,Balanced
+Equity,-,Corteva,159673,0.01,CTVA US,-,"CORTEVA, INC.",Listed,Rest,Balanced
+Equity,-,Safran Sa,159648,0.01,SAF FP,-,SAFRAN SA,Listed,Rest,Balanced
+Equity,-,West African Resources,159220,0.01,WAF AU,-,WEST AFRICAN RESOURCES LTD.,Listed,Rest,Balanced
+Equity,-,Docusign,159175,0.01,DOCU US,-,"DOCUSIGN, INC.",Listed,Rest,Balanced
+Equity,-,Mitsubishi Estate,158042,0.01,8802 JP,-,MITSUBISHI ESTATE CO. LTD.,Listed,Rest,Balanced
+Equity,-,Spark New Zealand,157921,0.01,SPK AU,-,SPARK NEW ZEALAND LTD.,Listed,Rest,Balanced
+Equity,-,Pexa,157581,0.01,PXA AU,-,PEXA GROUP LTD.,Listed,Rest,Balanced
+Equity,-,Dr Horton,157213,0.01,DHI US,-,"DR HORTON, INC.",Listed,Rest,Balanced
+Equity,-,Insignia Financial,157075,0.01,IFL AU,-,INSIGNIA FINANCIAL LTD.,Listed,Rest,Balanced
+Equity,-,Select Harvests,156880,0.01,SHV AU,-,SELECT HARVESTS LTD.,Listed,Rest,Balanced
+Equity,-,Graincorp,156748,0.01,GNC AU,-,GRAINCORP LTD.,Listed,Rest,Balanced
+Equity,-,Mettler-Toledo International,154527,0.01,MTD US,-,"METTLER-TOLEDO INTERNATIONAL, INC.",Listed,Rest,Balanced
+Equity,-,J Sainsbury,154318,0.01,SBRY LN,-,J SAINSBURY PLC,Listed,Rest,Balanced
+Equity,-,Lotus Resources,154294,0.01,LOT AU,-,LOTUS RESOURCES LTD.,Listed,Rest,Balanced
+Equity,-,National Bank Of Greece Sa,154124,0.01,ETE GA,-,NATIONAL BANK OF GREECE SA,Listed,Rest,Balanced
+Equity,-,Eon Se,153546,0.01,EOAN GR,-,E.ON SE,Listed,Rest,Balanced
+Equity,-,Coca-Cola Hbc Ag,153444,0.01,CCH LN,-,COCA-COLA HBC AG,Listed,Rest,Balanced
+Equity,-,Infosys,152475,0.01,INFY US,-,INFOSYS LTD.,Listed,Rest,Balanced
+Equity,-,Guidewire Software,152310,0.01,GWRE US,-,"GUIDEWIRE SOFTWARE, INC.",Listed,Rest,Balanced
+Equity,-,Elevance Health,152236,0.01,ELV US,-,"ELEVANCE HEALTH, INC.",Listed,Rest,Balanced
+Equity,-,Ambev Sa,151535,0.01,ABEV3 BZ,-,AMBEV SA,Listed,Rest,Balanced
+Equity,-,Emeco,151322,0.01,EHL AU,-,EMECO HOLDINGS LTD.,Listed,Rest,Balanced
+Equity,-,Equinor Asa,151125,0.01,EQNR US,-,EQUINOR ASA,Listed,Rest,Balanced
+Equity,-,Netease,149811,0.01,9999 HK,-,"NETEASE, INC.",Listed,Rest,Balanced
+Equity,-,News,149644,0.01,NWS AU,-,NEWS CORP.,Listed,Rest,Balanced
+Equity,-,Manpowergroup,149115,0.01,MAN US,-,"MANPOWERGROUP, INC.",Listed,Rest,Balanced
+Equity,-,Henkel Ag & Kgaa,148924,0.01,HEN3 GR,-,HENKEL AG & CO. KGAA,Listed,Rest,Balanced
+Equity,-,Jazz Pharmaceuticals,148796,0.01,JAZZ US,-,JAZZ PHARMACEUTICALS PLC,Listed,Rest,Balanced
+Equity,-,Telefonica Sa,148192,0.01,TEF SM,-,TELEFONICA SA,Listed,Rest,Balanced
+Equity,-,Yum China,147468,0.01,9987 HK,-,"YUM CHINA HOLDINGS, INC.",Listed,Rest,Balanced
+Equity,-,Genmab As,147411,0.01,GMAB DC,-,GENMAB AS,Listed,Rest,Balanced
+Equity,-,Hydro One,147408,0.01,H CN,-,HYDRO ONE LTD.,Listed,Rest,Balanced
+Equity,-,Coinbase Global,147312,0.01,COIN US,-,"COINBASE GLOBAL, INC.",Listed,Rest,Balanced
+Equity,-,Shopify,146438,0.01,SHOP CN,-,"SHOPIFY, INC.",Listed,Rest,Balanced
+Equity,-,Thk,146015,0.01,6481 JP,-,THK CO. LTD.,Listed,Rest,Balanced
+Equity,-,Agl Energy,145832,0.01,AGL AU,-,AGL ENERGY LTD.,Listed,Rest,Balanced
+Equity,-,Lennox International,145504,0.01,LII US,-,"LENNOX INTERNATIONAL, INC.",Listed,Rest,Balanced
+Equity,-,Analog Devices,144688,0.01,ADI US,-,"ANALOG DEVICES, INC.",Listed,Rest,Balanced
+Equity,-,Hera Spa,144600,0.01,HER IM,-,HERA SPA,Listed,Rest,Balanced
+Equity,-,Crown,144018,0.01,CCK US,-,"CROWN HOLDINGS, INC.",Listed,Rest,Balanced
+Equity,-,Amadeus It Sa,142793,0.01,AMS SM,-,AMADEUS IT GROUP SA,Listed,Rest,Balanced
+Equity,-,Daiwa House Industry,141956,0.01,1925 JP,-,DAIWA HOUSE INDUSTRY CO. LTD.,Listed,Rest,Balanced
+Equity,-,Toronto-Dominion Bank,141544,0.01,TD CN,-,TORONTO-DOMINION BANK,Listed,Rest,Balanced
+Equity,-,Fmc,141243,0.01,FMC US,-,FMC CORP.,Listed,Rest,Balanced
+Equity,-,Sumitomo Electric Industries,140742,0.01,5802 JP,-,SUMITOMO ELECTRIC INDUSTRIES LTD.,Listed,Rest,Balanced
+Equity,-,Webjet,140603,0.01,WJL AU,-,WEBJET GROUP LTD.,Listed,Rest,Balanced
+Equity,-,Ovintiv,139544,0.01,OVV US,-,"OVINTIV, INC.",Listed,Rest,Balanced
+Equity,-,Gartner,137952,0.01,IT US,-,"GARTNER, INC.",Listed,Rest,Balanced
+Equity,-,Canon,137691,0.01,7751 JP,-,"CANON, INC.",Listed,Rest,Balanced
+Equity,-,Komatsu,137543,0.01,6301 JP,-,KOMATSU LTD.,Listed,Rest,Balanced
+Equity,-,Industrial & Commercial Bank Of China,136825,0.01,1398 HK,-,INDUSTRIAL & COMMERCIAL BANK OF CHINA LTD.,Listed,Rest,Balanced
+Equity,-,Kogancom,136784,0.01,KGN AU,-,KOGAN.COM LTD.,Listed,Rest,Balanced
+Equity,-,H&R Block,136613,0.01,HRB US,-,"H&R BLOCK, INC.",Listed,Rest,Balanced
+Equity,-,Verisign,136088,0.01,VRSN US,-,"VERISIGN, INC.",Listed,Rest,Balanced
+Equity,-,Moderna,135965,0.01,MRNA US,-,"MODERNA, INC.",Listed,Rest,Balanced
+Equity,-,Centrica,135634,0.01,CNA LN,-,CENTRICA PLC,Listed,Rest,Balanced
+Equity,-,Coterra Energy,135594,0.01,CTRA US,-,"COTERRA ENERGY, INC.",Listed,Rest,Balanced
+Equity,-,Veralto,134609,0.01,VLTO US,-,VERALTO CORP.,Listed,Rest,Balanced
+Equity,-,Generac,134118,0.01,GNRC US,-,"GENERAC HOLDINGS, INC.",Listed,Rest,Balanced
+Equity,-,Mastec,132160,0.01,MTZ US,-,"MASTEC, INC.",Listed,Rest,Balanced
+Equity,-,Ingredion,132156,0.01,INGR US,-,"INGREDION, INC.",Listed,Rest,Balanced
+Equity,-,Holcim Ag,131361,0.01,HOLN SW,-,HOLCIM AG,Listed,Rest,Balanced
+Equity,-,Johnson Controls International,130995,0.01,JCI US,-,JOHNSON CONTROLS INTERNATIONAL PLC,Listed,Rest,Balanced
+Equity,-,Paccar,130991,0.01,PCAR US,-,"PACCAR, INC.",Listed,Rest,Balanced
+Equity,-,Evolution Mining,130918,0.01,EVN AU,-,EVOLUTION MINING LTD.,Listed,Rest,Balanced
+Equity,-,Volvo Ab,130692,0.01,VOLVB SS,-,VOLVO AB,Listed,Rest,Balanced
+Equity,-,Standard Chartered,130625,0.01,STAN LN,-,STANDARD CHARTERED PLC,Listed,Rest,Balanced
+Equity,-,Austal,130467,0.01,ASB AU,-,AUSTAL LTD.,Listed,Rest,Balanced
+Equity,-,Mtn,130042,0.01,MTN SJ,-,MTN GROUP LTD.,Listed,Rest,Balanced
+Equity,-,Marvell Technology,129785,0.01,MRVL US,-,"MARVELL TECHNOLOGY, INC.",Listed,Rest,Balanced
+Equity,-,Regis Resources,129733,0.01,RRL AU,-,REGIS RESOURCES LTD.,Listed,Rest,Balanced
+Equity,-,Bank Of China,129688,0.01,3988 HK,-,BANK OF CHINA LTD.,Listed,Rest,Balanced
+Equity,-,Smartgroup,129553,0.01,SIQ AU,-,SMARTGROUP CORP. LTD.,Listed,Rest,Balanced
+Equity,-,Ametek,129245,0.01,AME US,-,"AMETEK, INC.",Listed,Rest,Balanced
+Equity,-,Eqt,128363,0.01,EQT AU,-,EQT HOLDINGS LTD.,Listed,Rest,Balanced
+Equity,-,Iqvia,127477,0.01,IQV US,-,"IQVIA HOLDINGS, INC.",Listed,Rest,Balanced
+Equity,-,Caixabank Sa,127001,0.01,CABK SM,-,CAIXABANK SA,Listed,Rest,Balanced
+Equity,-,Adairs,126617,0.01,ADH AU,-,ADAIRS LTD.,Listed,Rest,Balanced
+Equity,-,Natwest,125781,0.01,NWG LN,-,NATWEST GROUP PLC,Listed,Rest,Balanced
+Equity,-,Daiwa Securities,125681,0.01,8601 JP,-,"DAIWA SECURITIES GROUP, INC.",Listed,Rest,Balanced
+Equity,-,Pg&E,124901,0.01,PCG US,-,PG&E CORP.,Listed,Rest,Balanced
+Equity,-,Oneok,124714,0.01,OKE US,-,"ONEOK, INC.",Listed,Rest,Balanced
+Equity,-,Mount Gibson Iron,124657,0.01,MGX AU,-,MOUNT GIBSON IRON LTD.,Listed,Rest,Balanced
+Equity,-,Zabka Sa,124401,0.01,ZAB PW,-,ZABKA GROUP SA,Listed,Rest,Balanced
+Equity,-,Thales Sa,124322,0.01,HO FP,-,THALES SA,Listed,Rest,Balanced
+Equity,-,Jdcom,123903,0.01,9618 HK,-,"JD.COM, INC.",Listed,Rest,Balanced
+Equity,-,Credit Agricole Sa,123789,0.01,ACA FP,-,CREDIT AGRICOLE SA,Listed,Rest,Balanced
+Equity,-,Tripcom,123476,0.01,9961 HK,-,TRIP.COM GROUP LTD.,Listed,Rest,Balanced
+Equity,-,Sherwin-Williams,123207,0.01,SHW US,-,SHERWIN-WILLIAMS CO.,Listed,Rest,Balanced
+Equity,-,Comfort Systems Usa,123152,0.01,FIX US,-,"COMFORT SYSTEMS USA, INC.",Listed,Rest,Balanced
+Equity,-,Mitsui Fudosan,122965,0.01,8801 JP,-,MITSUI FUDOSAN CO. LTD.,Listed,Rest,Balanced
+Equity,-,Roper Technologies,122761,0.01,ROP US,-,"ROPER TECHNOLOGIES, INC.",Listed,Rest,Balanced
+Equity,-,Kkr &,122429,0.01,KKR US,-,"KKR & CO., INC.",Listed,Rest,Balanced
+Equity,-,American Water Works,121456,0.01,AWK US,-,"AMERICAN WATER WORKS CO., INC.",Listed,Rest,Balanced
+Equity,-,Manhattan Associates,121350,0.01,MANH US,-,"MANHATTAN ASSOCIATES, INC.",Listed,Rest,Balanced
+Equity,-,Novozymes As,121242,0.01,NSISB DC,-,NOVOZYMES AS,Listed,Rest,Balanced
+Equity,-,Zebra Technologies,121239,0.01,ZBRA US,-,ZEBRA TECHNOLOGIES CORP.,Listed,Rest,Balanced
+Equity,-,Konami,121208,0.01,9766 JP,-,KONAMI GROUP CORP.,Listed,Rest,Balanced
+Equity,-,Meiji,121178,0.01,2269 JP,-,MEIJI HOLDINGS CO. LTD.,Listed,Rest,Balanced
+Equity,-,Siemens Ag,120546,0.01,SIE GR,-,SIEMENS AG,Listed,Rest,Balanced
+Equity,-,Anglogold Ashanti,120418,0.01,AU US,-,ANGLOGOLD ASHANTI PLC,Listed,Rest,Balanced
+Equity,-,Packaging Of America,119931,0.01,PKG US,-,PACKAGING CORP. OF AMERICA,Listed,Rest,Balanced
+Equity,-,Loews,119892,0.01,L US,-,LOEWS CORP.,Listed,Rest,Balanced
+Equity,-,China Mengniu Dairy,119875,0.01,2319 HK,-,CHINA MENGNIU DAIRY CO. LTD.,Listed,Rest,Balanced
+Equity,-,Ross Stores,119418,0.01,ROST US,-,"ROSS STORES, INC.",Listed,Rest,Balanced
+Equity,-,Continental Ag,119136,0.01,CON GR,-,CONTINENTAL AG,Listed,Rest,Balanced
+Equity,-,Mgic Investment,118986,0.01,MTG US,-,MGIC INVESTMENT CORP.,Listed,Rest,Balanced
+Equity,-,Viatris,118777,0.01,VTRS US,-,"VIATRIS, INC.",Listed,Rest,Balanced
+Equity,-,Grab,118557,0.01,GRAB US,-,GRAB HOLDINGS LTD.,Listed,Rest,Balanced
+Equity,-,Devon Energy,118276,0.01,DVN US,-,DEVON ENERGY CORP.,Listed,Rest,Balanced
+Equity,-,Brother Industries,118025,0.01,6448 JP,-,BROTHER INDUSTRIES LTD.,Listed,Rest,Balanced
+Equity,-,Jacobs Solutions,117499,0.01,J US,-,"JACOBS SOLUTIONS, INC.",Listed,Rest,Balanced
+Equity,-,Country Garden Services,117161,0.01,6098 HK,-,COUNTRY GARDEN SERVICES HOLDINGS CO. LTD.,Listed,Rest,Balanced
+Equity,-,Zurich Insurance Ag,116683,0.01,ZURN SW,-,ZURICH INSURANCE GROUP AG,Listed,Rest,Balanced
+Equity,-,Hologic,116322,0.01,HOLX US,-,"HOLOGIC, INC.",Listed,Rest,Balanced
+Equity,-,Bayerische Motoren Werke Ag,116257,0.01,BMW GR,-,BAYERISCHE MOTOREN WERKE AG,Listed,Rest,Balanced
+Equity,-,Evt,115206,0.01,EVT AU,-,EVT LTD.,Listed,Rest,Balanced
+Equity,-,Vulcan Materials,114555,0.01,VMC US,-,VULCAN MATERIALS CO.,Listed,Rest,Balanced
+Equity,-,Microstrategy,114366,0.01,MSTR US,-,"MICROSTRATEGY, INC.",Listed,Rest,Balanced
+Equity,-,Banco Btg Pactual Sa,113782,0.01,BPAC11 BZ,-,BANCO BTG PACTUAL SA,Listed,Rest,Balanced
+Equity,-,Dollar General,113764,0.01,DG US,-,DOLLAR GENERAL CORP.,Listed,Rest,Balanced
+Equity,-,Flutter Entertainment,113714,0.01,FLUT US,-,FLUTTER ENTERTAINMENT PLC,Listed,Rest,Balanced
+Equity,-,Kddi,113175,0.01,9433 JP,-,KDDI CORP.,Listed,Rest,Balanced
+Equity,-,Canadian Utilities,112800,0.01,CU CN,-,CANADIAN UTILITIES LTD.,Listed,Rest,Balanced
+Equity,-,Smiths,112634,0.01,SMIN LN,-,SMITHS GROUP PLC,Listed,Rest,Balanced
+Equity,-,Prudential Financial,112570,0.01,PRU US,-,"PRUDENTIAL FINANCIAL, INC.",Listed,Rest,Balanced
+Equity,-,Corebridge Financial,112006,0.01,CRBG US,-,"COREBRIDGE FINANCIAL, INC.",Listed,Rest,Balanced
+Equity,-,Lg Energy Solution,111758,0.01,373220 KS,-,LG ENERGY SOLUTION LTD.,Listed,Rest,Balanced
+Equity,-,Interactive Brokers,111666,0.01,IBKR US,-,"INTERACTIVE BROKERS GROUP, INC.",Listed,Rest,Balanced
+Equity,-,Collins Foods,111230,0.01,CKF AU,-,COLLINS FOODS LTD.,Listed,Rest,Balanced
+Equity,-,Eni Spa,111105,0.01,ENI IM,-,ENI SPA,Listed,Rest,Balanced
+Equity,-,Sankyo,109809,0.01,6417 JP,-,SANKYO CO. LTD.,Listed,Rest,Balanced
+Equity,-,Svenska Handelsbanken Ab,109672,0.01,SHBA SS,-,SVENSKA HANDELSBANKEN AB,Listed,Rest,Balanced
+Equity,-,Magellan Financial,109466,0.01,MFG AU,-,MAGELLAN FINANCIAL GROUP LTD.,Listed,Rest,Balanced
+Equity,-,Singapore Telecommunications,109454,0.01,ST SP,-,SINGAPORE TELECOMMUNICATIONS LTD.,Listed,Rest,Balanced
+Equity,-,Eiffage Sa,109242,0.01,FGR FP,-,EIFFAGE SA,Listed,Rest,Balanced
+Equity,-,Hcl Technologies,108560,0.01,HCLT IN,-,HCL TECHNOLOGIES LTD.,Listed,Rest,Balanced
+Equity,-,Public Service Enterprise,108076,0.01,PEG US,-,"PUBLIC SERVICE ENTERPRISE GROUP, INC.",Listed,Rest,Balanced
+Equity,-,Syngene International,107431,0.01,SYNG IN,-,SYNGENE INTERNATIONAL LTD.,Listed,Rest,Balanced
+Equity,-,Ww Grainger,107384,0.01,GWW US,-,"WW GRAINGER, INC.",Listed,Rest,Balanced
+Equity,-,Stellantis Nv,107063,0.01,STLAM IM,-,STELLANTIS NV,Listed,Rest,Balanced
+Equity,-,China Resources Land,106950,0.01,1109 HK,-,CHINA RESOURCES LAND LTD.,Listed,Rest,Balanced
+Equity,-,Accent,106870,0.01,AX1 AU,-,ACCENT GROUP LTD.,Listed,Rest,Balanced
+Equity,-,Fpt,106754,0.01,FPT VN,-,FPT CORP.,Listed,Rest,Balanced
+Equity,-,Technipfmc,105811,0.01,FTI US,-,TECHNIPFMC PLC,Listed,Rest,Balanced
+Equity,-,Telix Pharmaceuticals,105709,0.01,TLX AU,-,TELIX PHARMACEUTICALS LTD.,Listed,Rest,Balanced
+Equity,-,Bunge Global Sa,105642,0.01,BG US,-,BUNGE GLOBAL SA,Listed,Rest,Balanced
+Equity,-,Colgate-Palmolive India,105302,0.01,CLGT IN,-,COLGATE-PALMOLIVE INDIA LTD.,Listed,Rest,Balanced
+Equity,-,Veolia Environnement Sa,105165,0.01,VIE FP,-,VEOLIA ENVIRONNEMENT SA,Listed,Rest,Balanced
+Equity,-,Bannerman Energy,105111,0.01,BMN AU,-,BANNERMAN ENERGY LTD.,Listed,Rest,Balanced
+Equity,-,Cettire,105048,0.01,CTT AU,-,CETTIRE LTD.,Listed,Rest,Balanced
+Equity,-,Mahindra & Mahindra,104967,0.01,MM IN,-,MAHINDRA & MAHINDRA LTD.,Listed,Rest,Balanced
+Equity,-,Snowflake,104573,0.01,SNOW US,-,"SNOWFLAKE, INC.",Listed,Rest,Balanced
+Equity,-,Ypf Sa,103787,0.01,YPF US,-,YPF SA,Listed,Rest,Balanced
+Equity,-,Quanta Computer,103301,0.01,2382 TT,-,"QUANTA COMPUTER, INC.",Listed,Rest,Balanced
+Equity,-,Eneos,103176,0.01,5020 JP,-,"ENEOS HOLDINGS, INC.",Listed,Rest,Balanced
+Equity,-,Basf Se,102957,0.01,BAS GR,-,BASF SE,Listed,Rest,Balanced
+Equity,-,Tenet Healthcare,102913,0.01,THC US,-,TENET HEALTHCARE CORP.,Listed,Rest,Balanced
+Equity,-,Phillips 66,102836,0.01,PSX US,-,PHILLIPS 66,Listed,Rest,Balanced
+Equity,-,Builders Firstsource,102624,0.01,BLDR US,-,"BUILDERS FIRSTSOURCE, INC.",Listed,Rest,Balanced
+Equity,-,Imdex,102370,0.01,IMD AU,-,IMDEX LTD.,Listed,Rest,Balanced
+Equity,-,Humana,102302,0.01,HUM US,-,"HUMANA, INC.",Listed,Rest,Balanced
+Equity,-,Kingfisher,101235,0.01,KGF LN,-,KINGFISHER PLC,Listed,Rest,Balanced
+Equity,-,Vale Sa,101013,0.01,VALE US,-,VALE SA,Listed,Rest,Balanced
+Equity,-,China Merchants Shekou Industrial Zone,100695,0.01,001979 C2,-,CHINA MERCHANTS SHEKOU INDUSTRIAL ZONE HOLDINGS CO. LTD.,Listed,Rest,Balanced
+Equity,-,Cgi,100683,0.01,GIBA CN,-,"CGI, INC.",Listed,Rest,Balanced
+Equity,-,Associated British Foods,100505,0.01,ABF LN,-,ASSOCIATED BRITISH FOODS PLC,Listed,Rest,Balanced
+Equity,-,Aon,99771,0.01,AON US,-,AON PLC,Listed,Rest,Balanced
+Equity,-,Gmr Airports Infrastructure,99623,0.01,GMRAIRPO IN,-,GMR AIRPORTS INFRASTRUCTURE LTD.,Listed,Rest,Balanced
+Equity,-,Molson Coors Beverage,99277,0.01,TAP US,-,MOLSON COORS BEVERAGE CO.,Listed,Rest,Balanced
+Equity,-,Discover Financial Services,99168,0.01,DFS US,-,DISCOVER FINANCIAL SERVICES,Listed,Rest,Balanced
+Equity,-,Agricultural Bank Of China,98959,0.01,1288 HK,-,AGRICULTURAL BANK OF CHINA LTD.,Listed,Rest,Balanced
+Equity,-,Unum,98861,0.01,UNM US,-,UNUM GROUP,Listed,Rest,Balanced
+Equity,-,Chalice Mining,98263,0.01,CHN AU,-,CHALICE MINING LTD.,Listed,Rest,Balanced
+Equity,-,Ameriprise Financial,98134,0.01,AMP US,-,"AMERIPRISE FINANCIAL, INC.",Listed,Rest,Balanced
+Equity,-,Bread Financial,98129,0.01,BFH US,-,"BREAD FINANCIAL HOLDINGS, INC.",Listed,Rest,Balanced
+Equity,-,Terumo,97901,0.01,4543 JP,-,TERUMO CORP.,Listed,Rest,Balanced
+Equity,-,Royalty Pharma,97035,0.01,RPRX US,-,ROYALTY PHARMA PLC,Listed,Rest,Balanced
+Equity,-,Murata Manufacturing,96927,0.01,6981 JP,-,MURATA MANUFACTURING CO. LTD.,Listed,Rest,Balanced
+Equity,-,Cosco Shipping,96526,0.01,1919 HK,-,COSCO SHIPPING HOLDINGS CO. LTD.,Listed,Rest,Balanced
+Equity,-,Toll Brothers,96486,0.01,TOL US,-,"TOLL BROTHERS, INC.",Listed,Rest,Balanced
+Equity,-,Bharat Forge,96436,0.01,BHFC IN,-,BHARAT FORGE LTD.,Listed,Rest,Balanced
+Equity,-,Fast Retailing,95912,0.01,9983 JP,-,FAST RETAILING CO. LTD.,Listed,Rest,Balanced
+Equity,-,Jackson Financial,95897,0.01,JXN US,-,"JACKSON FINANCIAL, INC.",Listed,Rest,Balanced
+Equity,-,Lyondellbasell Industries Nv,95699,0.01,LYB US,-,LYONDELLBASELL INDUSTRIES NV,Listed,Rest,Balanced
+Equity,-,Orsted As,95494,0.01,ORSTED DC,-,ORSTED AS,Listed,Rest,Balanced
+Equity,-,Overseas-Chinese Banking,95362,0.01,OCBC SP,-,OVERSEAS-CHINESE BANKING CORP. LTD.,Listed,Rest,Balanced
+Equity,-,Ricoh,95258,0.01,7752 JP,-,RICOH CO. LTD.,Listed,Rest,Balanced
+Equity,-,Texas Roadhouse,95227,0.01,TXRH US,-,"TEXAS ROADHOUSE, INC.",Listed,Rest,Balanced
+Equity,-,Orange Sa,94761,0.01,ORA FP,-,ORANGE SA,Listed,Rest,Balanced
+Equity,-,Steel Dynamics,93209,0.01,STLD US,-,"STEEL DYNAMICS, INC.",Listed,Rest,Balanced
+Equity,-,Aptiv,92874,0.01,APTV US,-,APTIV PLC,Listed,Rest,Balanced
+Equity,-,Petroleo Brasileiro Sa,92739,0.01,PBRA US,-,PETROLEO BRASILEIRO SA,Listed,Rest,Balanced
+Equity,-,Euronext Nv,92679,0.01,ENX FP,-,EURONEXT NV,Listed,Rest,Balanced
+Equity,-,Marketaxess,92481,0.01,MKTX US,-,"MARKETAXESS HOLDINGS, INC.",Listed,Rest,Balanced
+Equity,-,Uol,92406,0.01,UOL SP,-,UOL GROUP LTD.,Listed,Rest,Balanced
+Equity,-,Zalando Se,92039,0.01,ZAL GR,-,ZALANDO SE,Listed,Rest,Balanced
+Equity,-,Amdocs,91904,0.01,DOX US,-,AMDOCS LTD.,Listed,Rest,Balanced
+Equity,-,Reinsurance Of America,91640,0.01,RGA US,-,"REINSURANCE GROUP OF AMERICA, INC.",Listed,Rest,Balanced
+Equity,-,Nuix,91563,0.01,NXL AU,-,NUIX LTD.,Listed,Rest,Balanced
+Equity,-,Joby Aviation,90791,0.01,JOBY US,-,"JOBY AVIATION, INC.",Listed,Rest,Balanced
+Equity,-,Sf,90781,0.01,6936 HK,-,SF HOLDING CO. LTD.,Listed,Rest,Balanced
+Equity,-,Northland Power,90175,0.01,NPI CN,-,"NORTHLAND POWER, INC.",Listed,Rest,Balanced
+Equity,-,Tegna,90084,0.01,TGNA US,-,"TEGNA, INC.",Listed,Rest,Balanced
+Equity,-,Fox,90010,0.01,FOXA US,-,FOX CORP.,Listed,Rest,Balanced
+Equity,-,Temple & Webster,89952,0.01,TPW AU,-,TEMPLE & WEBSTER GROUP LTD.,Listed,Rest,Balanced
+Equity,-,Eva Airways,89621,0.01,2618 TT,-,EVA AIRWAYS CORP.,Listed,Rest,Balanced
+Equity,-,Symbotic,89477,0.01,SYM US,-,"SYMBOTIC, INC.",Listed,Rest,Balanced
+Equity,-,Vertiv,89246,0.01,VRT US,-,VERTIV HOLDINGS CO.,Listed,Rest,Balanced
+Equity,-,H World,89127,0.01,HTHT US,-,H WORLD GROUP LTD.,Listed,Rest,Balanced
+Equity,-,Janus Henderson,88935,0.01,JHG US,-,JANUS HENDERSON GROUP PLC,Listed,Rest,Balanced
+Equity,-,Teradata,88931,0.01,TDC US,-,TERADATA CORP.,Listed,Rest,Balanced
+Equity,-,F5,88567,0.01,FFIV US,-,"F5, INC.",Listed,Rest,Balanced
+Equity,-,Zhejiang Sanhua Intelligent Controls,88420,0.01,002050 C2,-,ZHEJIANG SANHUA INTELLIGENT CONTROLS CO. LTD.,Listed,Rest,Balanced
+Equity,-,Seiko Epson,88283,0.01,6724 JP,-,SEIKO EPSON CORP.,Listed,Rest,Balanced
+Equity,-,Realtek Semiconductor,87414,0.01,2379 TT,-,REALTEK SEMICONDUCTOR CORP.,Listed,Rest,Balanced
+Equity,-,General Mills,87283,0.01,GIS US,-,"GENERAL MILLS, INC.",Listed,Rest,Balanced
+Equity,-,Deterra Royalties,87224,0.01,DRR AU,-,DETERRA ROYALTIES LTD.,Listed,Rest,Balanced
+Equity,-,Siemens Energy Ag,87131,0.01,ENR GR,-,SIEMENS ENERGY AG,Listed,Rest,Balanced
+Equity,-,Monolithic Power Systems,86808,0.01,MPWR US,-,"MONOLITHIC POWER SYSTEMS, INC.",Listed,Rest,Balanced
+Equity,-,Teladoc Health,86793,0.01,TDOC US,-,"TELADOC HEALTH, INC.",Listed,Rest,Balanced
+Equity,-,Softbank,86537,0.00,9984 JP,-,SOFTBANK GROUP CORP.,Listed,Rest,Balanced
+Equity,-,Sonos,86393,0.00,SONO US,-,"SONOS, INC.",Listed,Rest,Balanced
+Equity,-,Jumbo Interactive,86378,0.00,JIN AU,-,JUMBO INTERACTIVE LTD.,Listed,Rest,Balanced
+Equity,-,Legrand Sa,85497,0.00,LR FP,-,LEGRAND SA,Listed,Rest,Balanced
+Equity,-,Yadea,85283,0.00,1585 HK,-,YADEA GROUP HOLDINGS LTD.,Listed,Rest,Balanced
+Equity,-,Ap Moller - Maersk As,85245,0.00,MAERSKB DC,-,AP MOLLER - MAERSK AS,Listed,Rest,Balanced
+Equity,-,Emerald Resources Nl,85169,0.00,EMR AU,-,EMERALD RESOURCES NL,Listed,Rest,Balanced
+Equity,-,Firstservice,85089,0.00,FSV CN,-,FIRSTSERVICE CORP.,Listed,Rest,Balanced
+Equity,-,Carter'S,84817,0.00,CRI US,-,"CARTER'S, INC.",Listed,Rest,Balanced
+Equity,-,Southern Cross Media,84306,0.00,SXL AU,-,SOUTHERN CROSS MEDIA GROUP LTD.,Listed,Rest,Balanced
+Equity,-,Dr Reddy'S Laboratories,83871,0.00,RDY US,-,DR REDDY'S LABORATORIES LTD.,Listed,Rest,Balanced
+Equity,-,Evergreen Marine Taiwan,83387,0.00,2603 TT,-,EVERGREEN MARINE CORP. TAIWAN LTD.,Listed,Rest,Balanced
+Equity,-,Flex,83183,0.00,FLEX US,-,FLEX LTD.,Listed,Rest,Balanced
+Equity,-,Perpetual,83162,0.00,PPT AU,-,PERPETUAL LTD.,Listed,Rest,Balanced
+Equity,-,O'Reilly Automotive,82857,0.00,ORLY US,-,"O'REILLY AUTOMOTIVE, INC.",Listed,Rest,Balanced
+Equity,-,Yelp,82371,0.00,YELP US,-,"YELP, INC.",Listed,Rest,Balanced
+Equity,-,Dick'S Sporting Goods,82194,0.00,DKS US,-,"DICK'S SPORTING GOODS, INC.",Listed,Rest,Balanced
+Equity,-,Publicis Groupe Sa,82174,0.00,PUB FP,-,PUBLICIS GROUPE SA,Listed,Rest,Balanced
+Equity,-,Aflac,82105,0.00,AFL US,-,"AFLAC, INC.",Listed,Rest,Balanced
+Equity,-,Arb,81940,0.00,ARB AU,-,ARB CORP. LTD.,Listed,Rest,Balanced
+Equity,-,Bega Cheese,81925,0.00,BGA AU,-,BEGA CHEESE LTD.,Listed,Rest,Balanced
+Equity,-,Paychex,81853,0.00,PAYX US,-,"PAYCHEX, INC.",Listed,Rest,Balanced
+Equity,-,Celsius,81845,0.00,CELH US,-,"CELSIUS HOLDINGS, INC.",Listed,Rest,Balanced
+Equity,-,Coca-Cola Femsa Sab De Cv,81501,0.00,KOF US,-,COCA-COLA FEMSA SAB DE CV,Listed,Rest,Balanced
+Equity,-,Nutanix,81349,0.00,NTNX US,-,"NUTANIX, INC.",Listed,Rest,Balanced
+Equity,-,Dai-Ichi Life,80966,0.00,8750 JP,-,"DAI-ICHI LIFE HOLDINGS, INC.",Listed,Rest,Balanced
+Equity,-,Sage,80596,0.00,SGE LN,-,SAGE GROUP PLC,Listed,Rest,Balanced
+Equity,-,Jbs Sa,80565,0.00,JBSS3 BZ,-,JBS SA,Listed,Rest,Balanced
+Equity,-,Invesco,80496,0.00,IVZ US,-,INVESCO LTD.,Listed,Rest,Balanced
+Equity,-,Chongqing Brewery,80489,0.00,600132 C1,-,CHONGQING BREWERY CO. LTD.,Listed,Rest,Balanced
+Equity,-,Heico,80440,0.00,HEI US,-,HEICO CORP.,Listed,Rest,Balanced
+Equity,-,Lovisa,80041,0.00,LOV AU,-,LOVISA HOLDINGS LTD.,Listed,Rest,Balanced
+Equity,-,Onemain,80001,0.00,OMF US,-,"ONEMAIN HOLDINGS, INC.",Listed,Rest,Balanced
+Equity,-,Alnylam Pharmaceuticals,79763,0.00,ALNY US,-,"ALNYLAM PHARMACEUTICALS, INC.",Listed,Rest,Balanced
+Equity,-,Resolute Mining,79603,0.00,RSG AU,-,RESOLUTE MINING LTD.,Listed,Rest,Balanced
+Equity,-,Logitech International Sa,79476,0.00,LOGN SW,-,LOGITECH INTERNATIONAL SA,Listed,Rest,Balanced
+Equity,-,Mediobanca Banca Di Credito Finanziario Spa,78956,0.00,MB IM,-,MEDIOBANCA BANCA DI CREDITO FINANZIARIO SPA,Listed,Rest,Balanced
+Equity,-,Leonardo Spa,78611,0.00,LDO IM,-,LEONARDO SPA,Listed,Rest,Balanced
+Equity,-,Cyberark Software,78358,0.00,CYBR US,-,CYBERARK SOFTWARE LTD.,Listed,Rest,Balanced
+Equity,-,Asahi Kasei,78294,0.00,3407 JP,-,ASAHI KASEI CORP.,Listed,Rest,Balanced
+Equity,-,Chorus,78167,0.00,CNU AU,-,CHORUS LTD.,Listed,Rest,Balanced
+Equity,-,Dxc Technology,78124,0.00,DXC US,-,DXC TECHNOLOGY CO.,Listed,Rest,Balanced
+Equity,-,Keyera,78046,0.00,KEY CN,-,KEYERA CORP.,Listed,Rest,Balanced
+Equity,-,Cms Energy,78024,0.00,CMS US,-,CMS ENERGY CORP.,Listed,Rest,Balanced
+Equity,-,Industrial Bank,77783,0.00,601166 C1,-,INDUSTRIAL BANK CO. LTD.,Listed,Rest,Balanced
+Equity,-,Mitsubishi Heavy Industries,77688,0.00,7011 JP,-,MITSUBISHI HEAVY INDUSTRIES LTD.,Listed,Rest,Balanced
+Equity,-,Vestas Wind Systems As,77305,0.00,VWS DC,-,VESTAS WIND SYSTEMS AS,Listed,Rest,Balanced
+Equity,-,Australian Clinical Labs,77293,0.00,ACL AU,-,AUSTRALIAN CLINICAL LABS LTD.,Listed,Rest,Balanced
+Equity,-,Netscout Systems,77089,0.00,NTCT US,-,"NETSCOUT SYSTEMS, INC.",Listed,Rest,Balanced
+Equity,-,Lincoln National,77056,0.00,LNC US,-,LINCOLN NATIONAL CORP.,Listed,Rest,Balanced
+Equity,-,Cvs Health,76763,0.00,CVS US,-,CVS HEALTH CORP.,Listed,Rest,Balanced
+Equity,-,Premier,76689,0.00,PINC US,-,"PREMIER, INC.",Listed,Rest,Balanced
+Equity,-,Tata Motors,76662,0.00,TTMT IN,-,TATA MOTORS LTD.,Listed,Rest,Balanced
+Equity,-,International Games System,76478,0.00,3293 TT,-,INTERNATIONAL GAMES SYSTEM CO. LTD.,Listed,Rest,Balanced
+Equity,-,Stantec,76290,0.00,STN CN,-,"STANTEC, INC.",Listed,Rest,Balanced
+Equity,-,Banca Mediolanum Spa,75937,0.00,BMED IM,-,BANCA MEDIOLANUM SPA,Listed,Rest,Balanced
+Equity,-,Powszechny Zaklad Ubezpieczen Sa,75675,0.00,PZU PW,-,POWSZECHNY ZAKLAD UBEZPIECZEN SA,Listed,Rest,Balanced
+Equity,-,Shanghai Pudong Development Bank,75642,0.00,600000 C1,-,SHANGHAI PUDONG DEVELOPMENT BANK CO. LTD.,Listed,Rest,Balanced
+Equity,-,Cirrus Logic,75639,0.00,CRUS US,-,"CIRRUS LOGIC, INC.",Listed,Rest,Balanced
+Equity,-,Fujitsu,75312,0.00,6702 JP,-,FUJITSU LTD.,Listed,Rest,Balanced
+Equity,-,Flowserve,75180,0.00,FLS US,-,FLOWSERVE CORP.,Listed,Rest,Balanced
+Equity,-,Nib,75017,0.00,NHF AU,-,NIB HOLDINGS LTD.,Listed,Rest,Balanced
+Equity,-,Tetra Tech,74695,0.00,TTEK US,-,"TETRA TECH, INC.",Listed,Rest,Balanced
+Equity,-,Arab National Bank,74381,0.00,ARNB AB,-,ARAB NATIONAL BANK,Listed,Rest,Balanced
+Equity,-,Empire,74216,0.00,EMPA CN,-,EMPIRE CO. LTD.,Listed,Rest,Balanced
+Equity,-,Next,74169,0.00,NXT LN,-,NEXT PLC,Listed,Rest,Balanced
+Equity,-,Carrier Global,73810,0.00,CARR US,-,CARRIER GLOBAL CORP.,Listed,Rest,Balanced
+Equity,-,Standard Bank,73762,0.00,SBK SJ,-,STANDARD BANK GROUP LTD.,Listed,Rest,Balanced
+Equity,-,Universal Health Services,73403,0.00,UHS US,-,"UNIVERSAL HEALTH SERVICES, INC.",Listed,Rest,Balanced
+Equity,-,Intertek,73172,0.00,ITRK LN,-,INTERTEK GROUP PLC,Listed,Rest,Balanced
+Equity,-,Hon Hai Precision Industry,73047,0.00,2317 TT,-,HON HAI PRECISION INDUSTRY CO. LTD.,Listed,Rest,Balanced
+Equity,-,Vincom Retail Jsc,73046,0.00,VRE VN,-,VINCOM RETAIL JSC,Listed,Rest,Balanced
+Equity,-,Resideo Technologies,72964,0.00,REZI US,-,"RESIDEO TECHNOLOGIES, INC.",Listed,Rest,Balanced
+Equity,-,Hero Motocorp,72768,0.00,HMCL IN,-,HERO MOTOCORP LTD.,Listed,Rest,Balanced
+Equity,-,Santen Pharmaceutical,72278,0.00,4536 JP,-,SANTEN PHARMACEUTICAL CO. LTD.,Listed,Rest,Balanced
+Equity,-,Crh,72157,0.00,CRH US,-,CRH PLC,Listed,Rest,Balanced
+Equity,-,Monster Beverage,72085,0.00,MNST US,-,MONSTER BEVERAGE CORP.,Listed,Rest,Balanced
+Equity,-,Cummins India,72070,0.00,KKC IN,-,CUMMINS INDIA LTD.,Listed,Rest,Balanced
+Equity,-,Sumco,71757,0.00,3436 JP,-,SUMCO CORP.,Listed,Rest,Balanced
+Equity,-,Signify Nv,71639,0.00,LIGHT NA,-,SIGNIFY NV,Listed,Rest,Balanced
+Equity,-,Pure Storage,70938,0.00,PSTG US,-,"PURE STORAGE, INC.",Listed,Rest,Balanced
+Equity,-,Allegion,70546,0.00,ALLE US,-,ALLEGION PLC,Listed,Rest,Balanced
+Equity,-,Sun Pharmaceutical Industries,70462,0.00,SUNP IN,-,SUN PHARMACEUTICAL INDUSTRIES LTD.,Listed,Rest,Balanced
+Equity,-,Samsonite International Sa,70332,0.00,1910 HK,-,SAMSONITE INTERNATIONAL SA,Listed,Rest,Balanced
+Equity,-,National Bank Of Canada,70216,0.00,NA CN,-,NATIONAL BANK OF CANADA,Listed,Rest,Balanced
+Equity,-,Suzuken,69521,0.00,9987 JP,-,SUZUKEN CO. LTD.,Listed,Rest,Balanced
+Equity,-,Autozone,69040,0.00,AZO US,-,"AUTOZONE, INC.",Listed,Rest,Balanced
+Equity,-,Symrise Ag,69032,0.00,SY1 GR,-,SYMRISE AG,Listed,Rest,Balanced
+Equity,-,Ooh!Media,68750,0.00,OML AU,-,OOH!MEDIA LTD.,Listed,Rest,Balanced
+Equity,-,China Citic Bank,68591,0.00,998 HK,-,CHINA CITIC BANK CORP. LTD.,Listed,Rest,Balanced
+Equity,-,Exelixis,68455,0.00,EXEL US,-,"EXELIXIS, INC.",Listed,Rest,Balanced
+Equity,-,Primo Brands,68391,0.00,PRMB US,-,PRIMO BRANDS CORP.,Listed,Rest,Balanced
+Equity,-,Sumitomo,68233,0.00,8053 JP,-,SUMITOMO CORP.,Listed,Rest,Balanced
+Equity,-,Williams Cos,67995,0.00,WMB US,-,"WILLIAMS COS., INC.",Listed,Rest,Balanced
+Equity,-,Broadridge Financial Solutions,67932,0.00,BR US,-,"BROADRIDGE FINANCIAL SOLUTIONS, INC.",Listed,Rest,Balanced
+Equity,-,Encompass Health,67859,0.00,EHC US,-,ENCOMPASS HEALTH CORP.,Listed,Rest,Balanced
+Equity,-,Kamigumi,67614,0.00,9364 JP,-,KAMIGUMI CO. LTD.,Listed,Rest,Balanced
+Equity,-,Seagate Technology,67534,0.00,STX US,-,SEAGATE TECHNOLOGY HOLDINGS PLC,Listed,Rest,Balanced
+Equity,-,Cia Energetica De Minas Gerais,67371,0.00,CMIG4 BZ,-,CIA ENERGETICA DE MINAS GERAIS,Listed,Rest,Balanced
+Equity,-,Ana,66987,0.00,9202 JP,-,"ANA HOLDINGS, INC.",Listed,Rest,Balanced
+Equity,-,Otis Worldwide,66751,0.00,OTIS US,-,OTIS WORLDWIDE CORP.,Listed,Rest,Balanced
+Equity,-,American International,66607,0.00,AIG US,-,"AMERICAN INTERNATIONAL GROUP, INC.",Listed,Rest,Balanced
+Equity,-,Prudential,66531,0.00,PRU LN,-,PRUDENTIAL PLC,Listed,Rest,Balanced
+Equity,-,Experian,66138,0.00,EXPN LN,-,EXPERIAN PLC,Listed,Rest,Balanced
+Equity,-,Msci,66119,0.00,MSCI US,-,"MSCI, INC.",Listed,Rest,Balanced
+Equity,-,Develop Global,65979,0.00,DVP AU,-,DEVELOP GLOBAL LTD.,Listed,Rest,Balanced
+Equity,-,Western Union,65919,0.00,WU US,-,WESTERN UNION CO.,Listed,Rest,Balanced
+Equity,-,Curtiss-Wright,65831,0.00,CW US,-,CURTISS-WRIGHT CORP.,Listed,Rest,Balanced
+Equity,-,Newmont,65646,0.00,NEM US,-,NEWMONT CORP.,Listed,Rest,Balanced
+Equity,-,Aramark,65638,0.00,ARMK US,-,ARAMARK,Listed,Rest,Balanced
+Equity,-,Nippon Telegraph & Telephone,65515,0.00,9432 JP,-,NIPPON TELEGRAPH & TELEPHONE CORP.,Listed,Rest,Balanced
+Equity,-,Bank Of Communications,65391,0.00,3328 HK,-,BANK OF COMMUNICATIONS CO. LTD.,Listed,Rest,Balanced
+Equity,-,Texas Pacific Land,65321,0.00,TPL US,-,TEXAS PACIFIC LAND CORP.,Listed,Rest,Balanced
+Equity,-,Denso,65175,0.00,6902 JP,-,DENSO CORP.,Listed,Rest,Balanced
+Equity,-,Nickel Industries,65040,0.00,NIC AU,-,NICKEL INDUSTRIES LTD.,Listed,Rest,Balanced
+Equity,-,Mcmillan Shakespeare,64972,0.00,MMS AU,-,MCMILLAN SHAKESPEARE LTD.,Listed,Rest,Balanced
+Equity,-,Obayashi,64972,0.00,1802 JP,-,OBAYASHI CORP.,Listed,Rest,Balanced
+Equity,-,Cencora,64958,0.00,COR US,-,"CENCORA, INC.",Listed,Rest,Balanced
+Equity,-,Arrow Electronics,64869,0.00,ARW US,-,"ARROW ELECTRONICS, INC.",Listed,Rest,Balanced
+Equity,-,Apa,64078,0.00,APA AU,-,APA GROUP,Listed,Rest,Balanced
+Equity,-,Csx,64059,0.00,CSX US,-,CSX CORP.,Listed,Rest,Balanced
+Equity,-,Mgm Resorts International,64030,0.00,MGM US,-,MGM RESORTS INTERNATIONAL,Listed,Rest,Balanced
+Equity,-,Grupo Financiero Galicia Sa,64017,0.00,GGAL US,-,GRUPO FINANCIERO GALICIA SA,Listed,Rest,Balanced
+Equity,-,Quanta Services,64012,0.00,PWR US,-,"QUANTA SERVICES, INC.",Listed,Rest,Balanced
+Equity,-,Telefonica Brasil Sa,63899,0.00,VIV US,-,TELEFONICA BRASIL SA,Listed,Rest,Balanced
+Equity,-,Impala Platinum,63764,0.00,IMP SJ,-,IMPALA PLATINUM HOLDINGS LTD.,Listed,Rest,Balanced
+Equity,-,Banco Do Brasil Sa,63634,0.00,BBAS3 BZ,-,BANCO DO BRASIL SA,Listed,Rest,Balanced
+Equity,-,Silex Systems,63585,0.00,SLX AU,-,SILEX SYSTEMS LTD.,Listed,Rest,Balanced
+Equity,-,Kuehne & Nagel International Ag,63530,0.00,KNIN SW,-,KUEHNE & NAGEL INTERNATIONAL AG,Listed,Rest,Balanced
+Equity,-,Steelcase,63363,0.00,SCS US,-,"STEELCASE, INC.",Listed,Rest,Balanced
+Equity,-,Astellas Pharma,62957,0.00,4503 JP,-,"ASTELLAS PHARMA, INC.",Listed,Rest,Balanced
+Equity,-,Hansen Technologies,62945,0.00,HSN AU,-,HANSEN TECHNOLOGIES LTD.,Listed,Rest,Balanced
+Equity,-,Anheuser-Busch Inbev Sa,62923,0.00,ABI BB,-,ANHEUSER-BUSCH INBEV SA,Listed,Rest,Balanced
+Equity,-,Hf Sinclair,62504,0.00,DINO US,-,HF SINCLAIR CORP.,Listed,Rest,Balanced
+Equity,-,Renaissancere,62496,0.00,RNR US,-,RENAISSANCERE HOLDINGS LTD.,Listed,Rest,Balanced
+Equity,-,Essential Utilities,62441,0.00,WTRG US,-,"ESSENTIAL UTILITIES, INC.",Listed,Rest,Balanced
+Equity,-,Lear,62037,0.00,LEA US,-,LEAR CORP.,Listed,Rest,Balanced
+Equity,-,Helia,61992,0.00,HLI AU,-,HELIA GROUP LTD.,Listed,Rest,Balanced
+Equity,-,Commercial International Bank Egypt Sae,61655,0.00,CBKD LI,-,COMMERCIAL INTERNATIONAL BANK EGYPT SAE,Listed,Rest,Balanced
+Equity,-,Prosus Nv,61630,0.00,PRX NA,-,PROSUS NV,Listed,Rest,Balanced
+Equity,-,Ofx,61600,0.00,OFX AU,-,OFX GROUP LTD.,Listed,Rest,Balanced
+Equity,-,Steris,61525,0.00,STE US,-,STERIS PLC,Listed,Rest,Balanced
+Equity,-,Morinaga &,61332,0.00,2201 JP,-,MORINAGA & CO. LTD.,Listed,Rest,Balanced
+Equity,-,Qualys,60525,0.00,QLYS US,-,"QUALYS, INC.",Listed,Rest,Balanced
+Equity,-,Masco,60516,0.00,MAS US,-,MASCO CORP.,Listed,Rest,Balanced
+Equity,-,United Rentals,60494,0.00,URI US,-,"UNITED RENTALS, INC.",Listed,Rest,Balanced
+Equity,-,Huntington Ingalls Industries,60425,0.00,HII US,-,"HUNTINGTON INGALLS INDUSTRIES, INC.",Listed,Rest,Balanced
+Equity,-,Screen,60312,0.00,7735 JP,-,SCREEN HOLDINGS CO. LTD.,Listed,Rest,Balanced
+Equity,-,Equifax,59972,0.00,EFX US,-,"EQUIFAX, INC.",Listed,Rest,Balanced
+Equity,-,Rheinmetall Ag,59869,0.00,RHM GR,-,RHEINMETALL AG,Listed,Rest,Balanced
+Equity,-,Amotiv,59649,0.00,AOV AU,-,AMOTIV LTD.,Listed,Rest,Balanced
+Equity,-,Capral,59424,0.00,CAA AU,-,CAPRAL LTD.,Listed,Rest,Balanced
+Equity,-,Shimadzu,59333,0.00,7701 JP,-,SHIMADZU CORP.,Listed,Rest,Balanced
+Equity,-,G-Iii Apparel,59136,0.00,GIII US,-,G-III APPAREL GROUP LTD.,Listed,Rest,Balanced
+Equity,-,Masan,59105,0.00,MSN VN,-,MASAN GROUP CORP.,Listed,Rest,Balanced
+Equity,-,Banco Bpm Spa,59036,0.00,BAMI IM,-,BANCO BPM SPA,Listed,Rest,Balanced
+Equity,-,Rpm International,59018,0.00,RPM US,-,"RPM INTERNATIONAL, INC.",Listed,Rest,Balanced
+Equity,-,Yangzijiang Shipbuilding,58659,0.00,YZJSGD SP,-,YANGZIJIANG SHIPBUILDING HOLDINGS LTD.,Listed,Rest,Balanced
+Equity,-,Air New Zealand,58632,0.00,AIZ AU,-,AIR NEW ZEALAND LTD.,Listed,Rest,Balanced
+Equity,-,Orient Overseas International,58587,0.00,316 HK,-,ORIENT OVERSEAS INTERNATIONAL LTD.,Listed,Rest,Balanced
+Equity,-,Chesapeake Energy,58458,0.00,EXE US,-,CHESAPEAKE ENERGY CORP.,Listed,Rest,Balanced
+Equity,-,Nordea Bank Abp,58335,0.00,NDA SS,-,NORDEA BANK ABP,Listed,Rest,Balanced
+Equity,-,Iph,58323,0.00,IPH AU,-,IPH LTD.,Listed,Rest,Balanced
+Equity,-,Perenti,58197,0.00,PRN AU,-,PERENTI LTD.,Listed,Rest,Balanced
+Equity,-,Biomarin Pharmaceutical,58156,0.00,BMRN US,-,"BIOMARIN PHARMACEUTICAL, INC.",Listed,Rest,Balanced
+Equity,-,Burlington Stores,58153,0.00,BURL US,-,"BURLINGTON STORES, INC.",Listed,Rest,Balanced
+Equity,-,Kmd Brands,57779,0.00,KMD AU,-,KMD BRANDS LTD.,Listed,Rest,Balanced
+Equity,-,Lululemon Athletica,57757,0.00,LULU US,-,"LULULEMON ATHLETICA, INC.",Listed,Rest,Balanced
+Equity,-,Ck Hutchison,57652,0.00,1 HK,-,CK HUTCHISON HOLDINGS LTD.,Listed,Rest,Balanced
+Equity,-,Essent,57504,0.00,ESNT US,-,ESSENT GROUP LTD.,Listed,Rest,Balanced
+Equity,-,Asx,57422,0.00,ASX AU,-,ASX LTD.,Listed,Rest,Balanced
+Equity,-,Valeo Se,57343,0.00,FR FP,-,VALEO SE,Listed,Rest,Balanced
+Equity,-,Shinhan Financial,57282,0.00,055550 KS,-,SHINHAN FINANCIAL GROUP CO. LTD.,Listed,Rest,Balanced
+Equity,-,Clinuvel Pharmaceuticals,57271,0.00,CUV AU,-,CLINUVEL PHARMACEUTICALS LTD.,Listed,Rest,Balanced
+Equity,-,Ares Management,57110,0.00,ARES US,-,ARES MANAGEMENT CORP.,Listed,Rest,Balanced
+Equity,-,Fastenal,57060,0.00,FAST US,-,FASTENAL CO.,Listed,Rest,Balanced
+Equity,-,International Consolidated Airlines Sa,56971,0.00,IAG LN,-,INTERNATIONAL CONSOLIDATED AIRLINES GROUP SA,Listed,Rest,Balanced
+Equity,-,Xylem,56937,0.00,XYL US,-,"XYLEM, INC.",Listed,Rest,Balanced
+Equity,-,Patterson-Uti Energy,56551,0.00,PTEN US,-,"PATTERSON-UTI ENERGY, INC.",Listed,Rest,Balanced
+Equity,-,Hewlett Packard Enterprise,56461,0.00,HPE US,-,HEWLETT PACKARD ENTERPRISE CO.,Listed,Rest,Balanced
+Equity,-,Sysco,56104,0.00,SYY US,-,SYSCO CORP.,Listed,Rest,Balanced
+Equity,-,Horizon Robotics,56084,0.00,9660 HK,-,"HORIZON ROBOTICS, INC.",Listed,Rest,Balanced
+Equity,-,Oshkosh,55951,0.00,OSK US,-,OSHKOSH CORP.,Listed,Rest,Balanced
+Equity,-,Nextdc,55915,0.00,NXT AU,-,NEXTDC LTD.,Listed,Rest,Balanced
+Equity,-,Ingersoll Rand,55584,0.00,IR US,-,"INGERSOLL RAND, INC.",Listed,Rest,Balanced
+Equity,-,Softbank,55549,0.00,9434 JP,-,SOFTBANK CORP.,Listed,Rest,Balanced
+Equity,-,Credit,55187,0.00,CCP AU,-,CREDIT CORP. GROUP LTD.,Listed,Rest,Balanced
+Equity,-,New Oriental Education & Technology,54926,0.00,EDU US,-,"NEW ORIENTAL EDUCATION & TECHNOLOGY GROUP, INC.",Listed,Rest,Balanced
+Equity,-,Tdk,54912,0.00,6762 JP,-,TDK CORP.,Listed,Rest,Balanced
+Equity,-,Macquarie Technology,54768,0.00,MAQ AU,-,MACQUARIE TECHNOLOGY GROUP LTD.,Listed,Rest,Balanced
+Equity,-,Amorepacific,54717,0.00,090430 KS,-,AMOREPACIFIC CORP.,Listed,Rest,Balanced
+Equity,-,Yum! Brands,54599,0.00,YUM US,-,"YUM! BRANDS, INC.",Listed,Rest,Balanced
+Equity,-,Dynatrace,54385,0.00,DT US,-,"DYNATRACE, INC.",Listed,Rest,Balanced
+Equity,-,Fujikura,54142,0.00,5803 JP,-,FUJIKURA LTD.,Listed,Rest,Balanced
+Equity,-,Taylor Morrison Home,53975,0.00,TMHC US,-,TAYLOR MORRISON HOME CORP.,Listed,Rest,Balanced
+Equity,-,Nice,53698,0.00,NICE IT,-,NICE LTD.,Listed,Rest,Balanced
+Equity,-,Dws Gmbh & Kgaa,53606,0.00,DWS GR,-,DWS GROUP GMBH & CO. KGAA,Listed,Rest,Balanced
+Equity,-,Avery Dennison,53386,0.00,AVY US,-,AVERY DENNISON CORP.,Listed,Rest,Balanced
+Equity,-,Citi Bank,53280,0.00,CFG US,-,"CITIZENS FINANCIAL GROUP, INC.",Listed,Rest,Balanced
+Equity,-,Mitsubishi,52548,0.00,8058 JP,-,MITSUBISHI CORP.,Listed,Rest,Balanced
+Equity,-,Tabcorp,52498,0.00,TAH AU,-,TABCORP HOLDINGS LTD.,Listed,Rest,Balanced
+Equity,-,Hess,52403,0.00,HES US,-,HESS CORP.,Listed,Rest,Balanced
+Equity,-,Heidrick & Struggles International,52310,0.00,HSII US,-,"HEIDRICK & STRUGGLES INTERNATIONAL, INC.",Listed,Rest,Balanced
+Equity,-,Pan Pacific International,52257,0.00,7532 JP,-,PAN PACIFIC INTERNATIONAL HOLDINGS CORP.,Listed,Rest,Balanced
+Equity,-,Power Of Canada,52215,0.00,POW CN,-,POWER CORP. OF CANADA,Listed,Rest,Balanced
+Equity,-,Syrah Resources,52128,0.00,SYR AU,-,SYRAH RESOURCES LTD.,Listed,Rest,Balanced
+Equity,-,United Airlines,52065,0.00,UAL US,-,"UNITED AIRLINES HOLDINGS, INC.",Listed,Rest,Balanced
+Equity,-,Hindustan Aeronautics,51925,0.00,HNAL IN,-,HINDUSTAN AERONAUTICS LTD.,Listed,Rest,Balanced
+Equity,-,Dalrymple Bay Infrastructure,51587,0.00,DBI AU,-,DALRYMPLE BAY INFRASTRUCTURE LTD.,Listed,Rest,Balanced
+Equity,-,Olympus,51097,0.00,7733 JP,-,OLYMPUS CORP.,Listed,Rest,Balanced
+Equity,-,Cie De Saint-Gobain,50915,0.00,SGO FP,-,CIE DE SAINT-GOBAIN,Listed,Rest,Balanced
+Equity,-,Ucb Sa,50232,0.00,UCB BB,-,UCB SA,Listed,Rest,Balanced
+Equity,-,Pinterest,50069,0.00,PINS US,-,"PINTEREST, INC.",Listed,Rest,Balanced
+Equity,-,Williams-Sonoma,49992,0.00,WSM US,-,"WILLIAMS-SONOMA, INC.",Listed,Rest,Balanced
+Equity,-,A2A Spa,49925,0.00,A2A IM,-,A2A SPA,Listed,Rest,Balanced
+Equity,-,Jd Logistics,49792,0.00,2618 HK,-,"JD LOGISTICS, INC.",Listed,Rest,Balanced
+Equity,-,Cipla,49577,0.00,CIPLA IN,-,CIPLA LTD.,Listed,Rest,Balanced
+Equity,-,Cognizant Technology Solutions,49399,0.00,CTSH US,-,COGNIZANT TECHNOLOGY SOLUTIONS CORP.,Listed,Rest,Balanced
+Equity,-,Regis Healthcare,49385,0.00,REG AU,-,REGIS HEALTHCARE LTD.,Listed,Rest,Balanced
+Equity,-,Asustek Computer,48755,0.00,2357 TT,-,"ASUSTEK COMPUTER, INC.",Listed,Rest,Balanced
+Equity,-,Louisiana-Pacific,48439,0.00,LPX US,-,LOUISIANA-PACIFIC CORP.,Listed,Rest,Balanced
+Equity,-,360 One Wam,48313,0.00,360ONE IN,-,360 ONE WAM LTD.,Listed,Rest,Balanced
+Equity,-,Vistra,48086,0.00,VST US,-,VISTRA CORP.,Listed,Rest,Balanced
+Equity,-,Isuzu Motors,47687,0.00,7202 JP,-,ISUZU MOTORS LTD.,Listed,Rest,Balanced
+Equity,-,Tuas,47613,0.00,TUA AU,-,TUAS LTD.,Listed,Rest,Balanced
+Equity,-,Polynovo,47532,0.00,PNV AU,-,POLYNOVO LTD.,Listed,Rest,Balanced
+Equity,-,Kumba Iron Ore,47414,0.00,KIO SJ,-,KUMBA IRON ORE LTD.,Listed,Rest,Balanced
+Equity,-,Leo Lithium,47290,0.00,LLL AU,-,LEO LITHIUM LTD.,Listed,Rest,Balanced
+Equity,-,Teck Resources,47082,0.00,TECKB CN,-,TECK RESOURCES LTD.,Listed,Rest,Balanced
+Equity,-,Unibail-Rodamco-Westfield,46605,0.00,URW AU,-,UNIBAIL-RODAMCO-WESTFIELD,Listed,Rest,Balanced
+Equity,-,Norfolk Southern,46463,0.00,NSC US,-,NORFOLK SOUTHERN CORP.,Listed,Rest,Balanced
+Equity,-,Yang Ming Marine Transport,46220,0.00,2609 TT,-,YANG MING MARINE TRANSPORT CORP.,Listed,Rest,Balanced
+Equity,-,Linde,46188,0.00,LIN US,-,LINDE PLC,Listed,Rest,Balanced
+Equity,-,Abn Amro Bank Nv,46173,0.00,ABN NA,-,ABN AMRO BANK NV,Listed,Rest,Balanced
+Equity,-,Gildan Activewear,46157,0.00,GIL CN,-,"GILDAN ACTIVEWEAR, INC.",Listed,Rest,Balanced
+Equity,-,Endesa Sa,46110,0.00,ELE SM,-,ENDESA SA,Listed,Rest,Balanced
+Equity,-,Alcon,45603,0.00,ALC SW,-,"ALCON, INC.",Listed,Rest,Balanced
+Equity,-,Nucor,45150,0.00,NUE US,-,NUCOR CORP.,Listed,Rest,Balanced
+Equity,-,Alkermes,44978,0.00,ALKS US,-,ALKERMES PLC,Listed,Rest,Balanced
+Equity,-,Charter Communications,44951,0.00,CHTR US,-,"CHARTER COMMUNICATIONS, INC.",Listed,Rest,Balanced
+Equity,-,Tullow Oil,44869,0.00,TLW LN,-,TULLOW OIL PLC,Listed,Rest,Balanced
+Equity,-,Morinaga Milk Industry,44844,0.00,2264 JP,-,MORINAGA MILK INDUSTRY CO. LTD.,Listed,Rest,Balanced
+Equity,-,Sumitomo Mitsui Trust,44411,0.00,8309 JP,-,"SUMITOMO MITSUI TRUST HOLDINGS, INC.",Listed,Rest,Balanced
+Equity,-,Chocoladefabriken Lindt & Spruengli Ag,44393,0.00,LISP SW,-,CHOCOLADEFABRIKEN LINDT & SPRUENGLI AG,Listed,Rest,Balanced
+Equity,-,Robert Half,44296,0.00,RHI US,-,"ROBERT HALF, INC.",Listed,Rest,Balanced
+Equity,-,Kosmos Energy,44253,0.00,KOS US,-,KOSMOS ENERGY LTD.,Listed,Rest,Balanced
+Equity,-,Daito Trust Construction,44217,0.00,1878 JP,-,DAITO TRUST CONSTRUCTION CO. LTD.,Listed,Rest,Balanced
+Equity,-,Wartsila Oyj Abp,43822,0.00,WRT1V FH,-,WARTSILA OYJ ABP,Listed,Rest,Balanced
+Equity,-,Nidec,43658,0.00,6594 JP,-,NIDEC CORP.,Listed,Rest,Balanced
+Equity,-,Sumitomo Chemical,43518,0.00,4005 JP,-,SUMITOMO CHEMICAL CO. LTD.,Listed,Rest,Balanced
+Equity,-,Ionis Pharmaceuticals,43304,0.00,IONS US,-,"IONIS PHARMACEUTICALS, INC.",Listed,Rest,Balanced
+Equity,-,Etihad Etisalat,43178,0.00,EEC AB,-,ETIHAD ETISALAT CO.,Listed,Rest,Balanced
+Equity,-,Acs Actividades De Construccion Y Servicios Sa,43105,0.00,ACS SM,-,ACS ACTIVIDADES DE CONSTRUCCION Y SERVICIOS SA,Listed,Rest,Balanced
+Equity,-,Spectris,43083,0.00,SXS LN,-,SPECTRIS PLC,Listed,Rest,Balanced
+Equity,-,Church & Dwight,43071,0.00,CHD US,-,"CHURCH & DWIGHT CO., INC.",Listed,Rest,Balanced
+Equity,-,Deutsche Bank Ag,42918,0.00,DBK GR,-,DEUTSCHE BANK AG,Listed,Rest,Balanced
+Equity,-,Huaxia Bank,42866,0.00,600015 C1,-,HUAXIA BANK CO. LTD.,Listed,Rest,Balanced
+Equity,-,Alfa Laval Ab,42848,0.00,ALFA SS,-,ALFA LAVAL AB,Listed,Rest,Balanced
+Equity,-,Toyo Suisan Kaisha,42722,0.00,2875 JP,-,TOYO SUISAN KAISHA LTD.,Listed,Rest,Balanced
+Equity,-,Dell Technologies,42682,0.00,DELL US,-,"DELL TECHNOLOGIES, INC.",Listed,Rest,Balanced
+Equity,-,Teleflex,42649,0.00,TFX US,-,"TELEFLEX, INC.",Listed,Rest,Balanced
+Equity,-,Las Vegas Sands,42556,0.00,LVS US,-,LAS VEGAS SANDS CORP.,Listed,Rest,Balanced
+Equity,-,La Francaise Des Jeux Saem,42514,0.00,FDJ FP,-,LA FRANCAISE DES JEUX SAEM,Listed,Rest,Balanced
+Equity,-,Bharat Petroleum,42472,0.00,BPCL IN,-,BHARAT PETROLEUM CORP. LTD.,Listed,Rest,Balanced
+Equity,-,Radiant Opto-Electronics,42337,0.00,6176 TT,-,RADIANT OPTO-ELECTRONICS CORP.,Listed,Rest,Balanced
+Equity,-,Dicker Data,42259,0.00,DDR AU,-,DICKER DATA LTD.,Listed,Rest,Balanced
+Equity,-,Duke Energy,42050,0.00,DUK US,-,DUKE ENERGY CORP.,Listed,Rest,Balanced
+Equity,-,Ge Healthcare Technologies,42012,0.00,GEHC US,-,"GE HEALTHCARE TECHNOLOGIES, INC.",Listed,Rest,Balanced
+Equity,-,Franklin Resources,41930,0.00,BEN US,-,"FRANKLIN RESOURCES, INC.",Listed,Rest,Balanced
+Equity,-,Donaldson,41765,0.00,DCI US,-,"DONALDSON CO., INC.",Listed,Rest,Balanced
+Equity,-,Natera,41382,0.00,NTRA US,-,"NATERA, INC.",Listed,Rest,Balanced
+Equity,-,Makita,41376,0.00,6586 JP,-,MAKITA CORP.,Listed,Rest,Balanced
+Equity,-,Avnet,41224,0.00,AVT US,-,"AVNET, INC.",Listed,Rest,Balanced
+Equity,-,Persol,40997,0.00,2181 JP,-,PERSOL HOLDINGS CO. LTD.,Listed,Rest,Balanced
+Equity,-,Ainsworth Game Technology,40836,0.00,AGI AU,-,AINSWORTH GAME TECHNOLOGY LTD.,Listed,Rest,Balanced
+Equity,-,Iress,40395,0.00,IRE AU,-,IRESS LTD.,Listed,Rest,Balanced
+Equity,-,Saudi Telecom,40196,0.00,STC AB,-,SAUDI TELECOM CO.,Listed,Rest,Balanced
+Equity,-,Nn Nv,40181,0.00,NN NA,-,NN GROUP NV,Listed,Rest,Balanced
+Equity,-,Hershey,40016,0.00,HSY US,-,HERSHEY CO.,Listed,Rest,Balanced
+Equity,-,Johnson Matthey,39714,0.00,JMAT LN,-,JOHNSON MATTHEY PLC,Listed,Rest,Balanced
+Equity,-,Croda International,39618,0.00,CRDA LN,-,CRODA INTERNATIONAL PLC,Listed,Rest,Balanced
+Equity,-,Ugi,39448,0.00,UGI US,-,UGI CORP.,Listed,Rest,Balanced
+Equity,-,Compal Electronics,38904,0.00,2324 TT,-,"COMPAL ELECTRONICS, INC.",Listed,Rest,Balanced
+Equity,-,Idemitsu Kosan,38807,0.00,5019 JP,-,IDEMITSU KOSAN CO. LTD.,Listed,Rest,Balanced
+Equity,-,Hugo Boss Ag,38648,0.00,BOSS GR,-,HUGO BOSS AG,Listed,Rest,Balanced
+Equity,-,Voltronic Power Technology,38556,0.00,6409 TT,-,VOLTRONIC POWER TECHNOLOGY CORP.,Listed,Rest,Balanced
+Equity,-,Take-Two Interactive Software,38387,0.00,TTWO US,-,"TAKE-TWO INTERACTIVE SOFTWARE, INC.",Listed,Rest,Balanced
+Equity,-,Kewpie,38148,0.00,2809 JP,-,KEWPIE CORP.,Listed,Rest,Balanced
+Equity,-,Bureau Veritas Sa,37999,0.00,BVI FP,-,BUREAU VERITAS SA,Listed,Rest,Balanced
+Equity,-,Weebit Nano,37512,0.00,WBT AU,-,WEEBIT NANO LTD.,Listed,Rest,Balanced
+Equity,-,Agco,37179,0.00,AGCO US,-,AGCO CORP.,Listed,Rest,Balanced
+Equity,-,Nanosonics,36977,0.00,NAN AU,-,NANOSONICS LTD.,Listed,Rest,Balanced
+Equity,-,Amada,36957,0.00,6113 JP,-,AMADA CO. LTD.,Listed,Rest,Balanced
+Equity,-,Kbc Nv,36912,0.00,KBC BB,-,KBC GROUP NV,Listed,Rest,Balanced
+Equity,-,Mattel,36862,0.00,MAT US,-,"MATTEL, INC.",Listed,Rest,Balanced
+Equity,-,Royal Caribbean Cruises,36856,0.00,RCL US,-,ROYAL CARIBBEAN CRUISES LTD.,Listed,Rest,Balanced
+Equity,-,Liberty Media -Liberty Formula One,36721,0.00,FWONK US,-,LIBERTY MEDIA CORP.-LIBERTY FORMULA ONE,Listed,Rest,Balanced
+Equity,-,Idexx Laboratories,36169,0.00,IDXX US,-,"IDEXX LABORATORIES, INC.",Listed,Rest,Balanced
+Equity,-,Mitsubishi Chemical,35786,0.00,4188 JP,-,MITSUBISHI CHEMICAL GROUP CORP.,Listed,Rest,Balanced
+Equity,-,Liberty Global,35778,0.00,LBTYK US,-,LIBERTY GLOBAL LTD.,Listed,Rest,Balanced
+Equity,-,Photronics,35696,0.00,PLAB US,-,"PHOTRONICS, INC.",Listed,Rest,Balanced
+Equity,-,Costar,35607,0.00,CSGP US,-,"COSTAR GROUP, INC.",Listed,Rest,Balanced
+Equity,-,Turkiye Is Bankasi As,35467,0.00,ISCTR TI,-,TURKIYE IS BANKASI AS,Listed,Rest,Balanced
+Equity,-,Nick Scali,35234,0.00,NCK AU,-,NICK SCALI LTD.,Listed,Rest,Balanced
+Equity,-,Firefly Metals,35197,0.00,FFM AU,-,FIREFLY METALS LTD.,Listed,Rest,Balanced
+Equity,-,Caravel Minerals,35094,0.00,CVV AU,-,CARAVEL MINERALS LTD.,Listed,Rest,Balanced
+Equity,-,Ralph Lauren,35019,0.00,RL US,-,RALPH LAUREN CORP.,Listed,Rest,Balanced
+Equity,-,Aviva,34980,0.00,AV LN,-,AVIVA PLC,Listed,Rest,Balanced
+Equity,-,Southern,34875,0.00,SO US,-,SOUTHERN CO.,Listed,Rest,Balanced
+Equity,-,Boss Energy,34747,0.00,BOE AU,-,BOSS ENERGY LTD.,Listed,Rest,Balanced
+Equity,-,Omv Ag,34723,0.00,OMV AV,-,OMV AG,Listed,Rest,Balanced
+Equity,-,Global Payments,34261,0.00,GPN US,-,"GLOBAL PAYMENTS, INC.",Listed,Rest,Balanced
+Equity,-,Fortive,34095,0.00,FTV US,-,FORTIVE CORP.,Listed,Rest,Balanced
+Equity,-,Tractor Supply,34070,0.00,TSCO US,-,TRACTOR SUPPLY CO.,Listed,Rest,Balanced
+Equity,-,Naspers,33917,0.00,NPN SJ,-,NASPERS LTD.,Listed,Rest,Balanced
+Equity,-,Volkswagen Ag,33783,0.00,VOW3 GR,-,VOLKSWAGEN AG,Listed,Rest,Balanced
+Equity,-,Wingstop,33735,0.00,WING US,-,"WINGSTOP, INC.",Listed,Rest,Balanced
+Equity,-,H Lundbeck As,33521,0.00,HLUNB DC,-,H LUNDBECK AS,Listed,Rest,Balanced
+Equity,-,Freshpet,33368,0.00,FRPT US,-,"FRESHPET, INC.",Listed,Rest,Balanced
+Equity,-,Saudi Basic Industries,33219,0.00,SABIC AB,-,SAUDI BASIC INDUSTRIES CORP.,Listed,Rest,Balanced
+Equity,-,Fresenius Medical Care Ag & Kgaa,33097,0.00,FME GR,-,FRESENIUS MEDICAL CARE AG & CO. KGAA,Listed,Rest,Balanced
+Equity,-,Kellanova,33053,0.00,K US,-,KELLANOVA,Listed,Rest,Balanced
+Equity,-,Telia Ab,32989,0.00,TELIA SS,-,TELIA CO. AB,Listed,Rest,Balanced
+Equity,-,Evergy,32703,0.00,EVRG US,-,"EVERGY, INC.",Listed,Rest,Balanced
+Equity,-,Organon &,32697,0.00,OGN US,-,ORGANON & CO.,Listed,Rest,Balanced
+Equity,-,Psp Swiss Property Ag,32639,0.00,PSPN SW,-,PSP SWISS PROPERTY AG,Listed,Rest,Balanced
+Equity,-,Stanmore Resources,32603,0.00,SMR AU,-,STANMORE RESOURCES LTD.,Listed,Rest,Balanced
+Equity,-,Fanuc,32551,0.00,6954 JP,-,FANUC CORP.,Listed,Rest,Balanced
+Equity,-,Ch Robinson Worldwide,32397,0.00,CHRW US,-,"CH ROBINSON WORLDWIDE, INC.",Listed,Rest,Balanced
+Equity,-,Align Technology,32355,0.00,ALGN US,-,"ALIGN TECHNOLOGY, INC.",Listed,Rest,Balanced
+Equity,-,Sime Darby Bhd,32029,0.00,SIME MK,-,SIME DARBY BHD.,Listed,Rest,Balanced
+Equity,-,Expeditors International Of Washington,31971,0.00,EXPD US,-,"EXPEDITORS INTERNATIONAL OF WASHINGTON, INC.",Listed,Rest,Balanced
+Equity,-,Microchip Technology,31908,0.00,MCHP US,-,"MICROCHIP TECHNOLOGY, INC.",Listed,Rest,Balanced
+Equity,-,Hubbell,31746,0.00,HUBB US,-,"HUBBELL, INC.",Listed,Rest,Balanced
+Equity,-,Telenor Asa,31705,0.00,TEL NO,-,TELENOR ASA,Listed,Rest,Balanced
+Equity,-,Ridley,31524,0.00,RIC AU,-,RIDLEY CORP. LTD.,Listed,Rest,Balanced
+Equity,-,Amcor,31406,0.00,AMCR US,-,AMCOR PLC,Listed,Rest,Balanced
+Equity,-,Ironwood Pharmaceuticals,31292,0.00,IRWD US,-,"IRONWOOD PHARMACEUTICALS, INC.",Listed,Rest,Balanced
+Equity,-,Avi,31072,0.00,AVI SJ,-,AVI LTD.,Listed,Rest,Balanced
+Equity,-,George Weston,31036,0.00,WN CN,-,GEORGE WESTON LTD.,Listed,Rest,Balanced
+Equity,-,Coronado Global Resources,30934,0.00,CRN AU,-,"CORONADO GLOBAL RESOURCES, INC.",Listed,Rest,Balanced
+Equity,-,Algonquin Power & Utilities,30888,0.00,AQN CN,-,ALGONQUIN POWER & UTILITIES CORP.,Listed,Rest,Balanced
+Equity,-,Equitable,30755,0.00,EQH US,-,"EQUITABLE HOLDINGS, INC.",Listed,Rest,Balanced
+Equity,-,Cdw,30720,0.00,CDW US,-,CDW CORP.,Listed,Rest,Balanced
+Equity,-,M&G,30710,0.00,MNG LN,-,M&G PLC,Listed,Rest,Balanced
+Equity,-,Toyota Tsusho,30646,0.00,8015 JP,-,TOYOTA TSUSHO CORP.,Listed,Rest,Balanced
+Equity,-,Aker Bp Asa,30591,0.00,AKRBP NO,-,AKER BP ASA,Listed,Rest,Balanced
+Equity,-,Krafton,30295,0.00,259960 KS,-,"KRAFTON, INC.",Listed,Rest,Balanced
+Equity,-,Piedmont Lithium,30021,0.00,PLL AU,-,"PIEDMONT LITHIUM, INC.",Listed,Rest,Balanced
+Equity,-,Mazda Motor,29972,0.00,7261 JP,-,MAZDA MOTOR CORP.,Listed,Rest,Balanced
+Equity,-,Intelligent Monitoring,29840,0.00,IMB AU,-,INTELLIGENT MONITORING GROUP LTD.,Listed,Rest,Balanced
+Equity,-,Investor Ab,29836,0.00,INVEB SS,-,INVESTOR AB,Listed,Rest,Balanced
+Equity,-,Dollarama,29821,0.00,DOL CN,-,"DOLLARAMA, INC.",Listed,Rest,Balanced
+Equity,-,Sayona Mining,29348,0.00,SYA AU,-,SAYONA MINING LTD.,Listed,Rest,Balanced
+Equity,-,Clp,29343,0.00,2 HK,-,CLP HOLDINGS LTD.,Listed,Rest,Balanced
+Equity,-,Caci International,29299,0.00,CACI US,-,"CACI INTERNATIONAL, INC.",Listed,Rest,Balanced
+Equity,-,Corpay,29285,0.00,CPAY US,-,"CORPAY, INC.",Listed,Rest,Balanced
+Equity,-,Judo Capital,29246,0.00,JDO AU,-,JUDO CAPITAL HOLDINGS LTD.,Listed,Rest,Balanced
+Equity,-,De Grey Mining,29206,0.00,DEG AU,-,DE GREY MINING LTD.,Listed,Rest,Balanced
+Equity,-,Boc Hong Kong,29203,0.00,2388 HK,-,BOC HONG KONG HOLDINGS LTD.,Listed,Rest,Balanced
+Equity,-,Tyler Technologies,29142,0.00,TYL US,-,"TYLER TECHNOLOGIES, INC.",Listed,Rest,Balanced
+Equity,-,Banque Saudi Fransi,29103,0.00,BSF AB,-,BANQUE SAUDI FRANSI,Listed,Rest,Balanced
+Equity,-,Sf,28994,0.00,002352 C2,-,SF HOLDING CO. LTD.,Listed,Rest,Balanced
+Equity,-,Okta,28895,0.00,OKTA US,-,"OKTA, INC.",Listed,Rest,Balanced
+Equity,-,Fifth Third Bancorp,28893,0.00,FITB US,-,FIFTH THIRD BANCORP,Listed,Rest,Balanced
+Equity,-,Shionogi &,28612,0.00,4507 JP,-,SHIONOGI & CO. LTD.,Listed,Rest,Balanced
+Equity,-,Ms&Ad Insurance,28247,0.00,8725 JP,-,"MS&AD INSURANCE GROUP HOLDINGS, INC.",Listed,Rest,Balanced
+Equity,-,Huntington Bancshares,27886,0.00,HBAN US,-,"HUNTINGTON BANCSHARES, INC.",Listed,Rest,Balanced
+Equity,-,Inghams,27858,0.00,ING AU,-,INGHAMS GROUP LTD.,Listed,Rest,Balanced
+Equity,-,Turk Hava Yollari Ao,27711,0.00,THYAO TI,-,TURK HAVA YOLLARI AO,Listed,Rest,Balanced
+Equity,-,Vinci Sa,27514,0.00,DG FP,-,VINCI SA,Listed,Rest,Balanced
+Equity,-,First Citizens Bancshares,27414,0.00,FCNCA US,-,"FIRST CITIZENS BANCSHARES, INC.",Listed,Rest,Balanced
+Equity,-,Enact,27353,0.00,ACT US,-,"ENACT HOLDINGS, INC.",Listed,Rest,Balanced
+Equity,-,Lpl Financial,27313,0.00,LPLA US,-,"LPL FINANCIAL HOLDINGS, INC.",Listed,Rest,Balanced
+Equity,-,Hong Kong Exchanges & Clearing,27119,0.00,388 HK,-,HONG KONG EXCHANGES & CLEARING LTD.,Listed,Rest,Balanced
+Equity,-,Vimeo,27033,0.00,VMEO US,-,"VIMEO, INC.",Listed,Rest,Balanced
+Equity,-,Koito Manufacturing,26786,0.00,7276 JP,-,KOITO MANUFACTURING CO. LTD.,Listed,Rest,Balanced
+Equity,-,Koc As,26686,0.00,KCHOL TI,-,KOC HOLDING AS,Listed,Rest,Balanced
+Equity,-,Mayne Pharma,26350,0.00,MYX AU,-,MAYNE PHARMA GROUP LTD.,Listed,Rest,Balanced
+Equity,-,Erste Bank Ag,26327,0.00,EBS AV,-,ERSTE GROUP BANK AG,Listed,Rest,Balanced
+Equity,-,Fleetpartners,26261,0.00,FPR AU,-,FLEETPARTNERS GROUP LTD.,Listed,Rest,Balanced
+Equity,-,Pwr,26179,0.00,PWH AU,-,PWR HOLDINGS LTD.,Listed,Rest,Balanced
+Equity,-,Markel,25951,0.00,MKL US,-,MARKEL CORP.,Listed,Rest,Balanced
+Equity,-,Orix,25945,0.00,8591 JP,-,ORIX CORP.,Listed,Rest,Balanced
+Equity,-,Bharat Electronics,25775,0.00,BHE IN,-,BHARAT ELECTRONICS LTD.,Listed,Rest,Balanced
+Equity,-,Teva Pharmaceutical Industries,25774,0.00,TEVA US,-,TEVA PHARMACEUTICAL INDUSTRIES LTD.,Listed,Rest,Balanced
+Equity,-,Ziff Davis,25741,0.00,ZD US,-,"ZIFF DAVIS, INC.",Listed,Rest,Balanced
+Equity,-,Teledyne Technologies,25673,0.00,TDY US,-,"TELEDYNE TECHNOLOGIES, INC.",Listed,Rest,Balanced
+Equity,-,Samsung Electronics,25494,0.00,005935 KS,-,SAMSUNG ELECTRONICS CO. LTD.,Listed,Rest,Balanced
+Equity,-,Kuraray,25430,0.00,3405 JP,-,KURARAY CO. LTD.,Listed,Rest,Balanced
+Equity,-,Takara,25373,0.00,2531 JP,-,"TAKARA HOLDINGS, INC.",Listed,Rest,Balanced
+Equity,-,West Pharmaceutical Services,25168,0.00,WST US,-,"WEST PHARMACEUTICAL SERVICES, INC.",Listed,Rest,Balanced
+Equity,-,Cincinnati Financial,25154,0.00,CINF US,-,CINCINNATI FINANCIAL CORP.,Listed,Rest,Balanced
+Equity,-,Roche Ag,24947,0.00,RO SW,-,ROCHE HOLDING AG,Listed,Rest,Balanced
+Equity,-,Sempra,24808,0.00,SRE US,-,SEMPRA,Listed,Rest,Balanced
+Equity,-,Transunion,24660,0.00,TRU US,-,TRANSUNION,Listed,Rest,Balanced
+Equity,-,Tyro Payments,24629,0.00,TYR AU,-,TYRO PAYMENTS LTD.,Listed,Rest,Balanced
+Equity,-,Auto Trader,24533,0.00,AUTO LN,-,AUTO TRADER GROUP PLC,Listed,Rest,Balanced
+Equity,-,Spirax-Sarco Engineering,24379,0.00,SPX LN,-,SPIRAX-SARCO ENGINEERING PLC,Listed,Rest,Balanced
+Equity,-,Draftkings,24378,0.00,DKNG US,-,"DRAFTKINGS, INC.",Listed,Rest,Balanced
+Equity,-,Pegasystems,24239,0.00,PEGA US,-,"PEGASYSTEMS, INC.",Listed,Rest,Balanced
+Equity,-,Revelyst,24181,0.00,GEAR US,-,"REVELYST, INC.",Listed,Rest,Balanced
+Equity,-,Fubon Financial,24164,0.00,2881 TT,-,FUBON FINANCIAL HOLDING CO. LTD.,Listed,Rest,Balanced
+Equity,-,Commvault Systems,24051,0.00,CVLT US,-,"COMMVAULT SYSTEMS, INC.",Listed,Rest,Balanced
+Equity,-,Impedimed,24040,0.00,IPD AU,-,IMPEDIMED LTD.,Listed,Rest,Balanced
+Equity,-,Kering Sa,24001,0.00,KER FP,-,KERING SA,Listed,Rest,Balanced
+Equity,-,Western Digital,23990,0.00,WDC US,-,WESTERN DIGITAL CORP.,Listed,Rest,Balanced
+Equity,-,Sk Square,23939,0.00,402340 KS,-,SK SQUARE CO. LTD.,Listed,Rest,Balanced
+Equity,-,Darden Restaurants,23910,0.00,DRI US,-,"DARDEN RESTAURANTS, INC.",Listed,Rest,Balanced
+Equity,-,T Rowe Price,23874,0.00,TROW US,-,"T ROWE PRICE GROUP, INC.",Listed,Rest,Balanced
+Equity,-,Insulet,23769,0.00,PODD US,-,INSULET CORP.,Listed,Rest,Balanced
+Equity,-,Gail India,23689,0.00,GAIL IN,-,GAIL INDIA LTD.,Listed,Rest,Balanced
+Equity,-,Snap-On,23630,0.00,SNA US,-,"SNAP-ON, INC.",Listed,Rest,Balanced
+Equity,-,Konica Minolta,23509,0.00,4902 JP,-,"KONICA MINOLTA, INC.",Listed,Rest,Balanced
+Equity,-,Sunrise Communications Ag,23460,0.00,SNRE US,-,SUNRISE COMMUNICATIONS AG,Listed,Rest,Balanced
+Equity,-,Jb Hunt Transport Services,23445,0.00,JBHT US,-,"JB HUNT TRANSPORT SERVICES, INC.",Listed,Rest,Balanced
+Equity,-,Dnb Bank Asa,23435,0.00,DNB NO,-,DNB BANK ASA,Listed,Rest,Balanced
+Equity,-,Factset Research Systems,23352,0.00,FDS US,-,"FACTSET RESEARCH SYSTEMS, INC.",Listed,Rest,Balanced
+Equity,-,Infomedia,23286,0.00,IFM AU,-,INFOMEDIA LTD.,Listed,Rest,Balanced
+Equity,-,Keysight Technologies,23192,0.00,KEYS US,-,"KEYSIGHT TECHNOLOGIES, INC.",Listed,Rest,Balanced
+Equity,-,Pentair,22995,0.00,PNR US,-,PENTAIR PLC,Listed,Rest,Balanced
+Equity,-,Omnicom,22898,0.00,OMC US,-,"OMNICOM GROUP, INC.",Listed,Rest,Balanced
+Equity,-,Idex,22895,0.00,IEX US,-,IDEX CORP.,Listed,Rest,Balanced
+Equity,-,Audinate,22773,0.00,AD8 AU,-,AUDINATE GROUP LTD.,Listed,Rest,Balanced
+Equity,-,Standardaero,22757,0.00,SARO US,-,"STANDARDAERO, INC.",Listed,Rest,Balanced
+Equity,-,Toast,22739,0.00,TOST US,-,"TOAST, INC.",Listed,Rest,Balanced
+Equity,-,Acco Brands,22698,0.00,ACCO US,-,ACCO BRANDS CORP.,Listed,Rest,Balanced
+Equity,-,Zimmer Biomet,22689,0.00,ZBH US,-,"ZIMMER BIOMET HOLDINGS, INC.",Listed,Rest,Balanced
+Equity,-,On Semiconductor,22607,0.00,ON US,-,ON SEMICONDUCTOR CORP.,Listed,Rest,Balanced
+Equity,-,Strike Energy,22603,0.00,STX AU,-,STRIKE ENERGY LTD.,Listed,Rest,Balanced
+Equity,-,Platinum Asset Management,22465,0.00,PTM AU,-,PLATINUM ASSET MANAGEMENT LTD.,Listed,Rest,Balanced
+Equity,-,W R Berkley,22179,0.00,WRB US,-,W R BERKLEY CORP.,Listed,Rest,Balanced
+Equity,-,Watsco,22173,0.00,WSO US,-,"WATSCO, INC.",Listed,Rest,Balanced
+Equity,-,Radian,21870,0.00,RDN US,-,"RADIAN GROUP, INC.",Listed,Rest,Balanced
+Equity,-,Pou Chen,21765,0.00,9904 TT,-,POU CHEN CORP.,Listed,Rest,Balanced
+Equity,-,Estee Lauder Cos,21706,0.00,EL US,-,"ESTEE LAUDER COS., INC.",Listed,Rest,Balanced
+Equity,-,Atlas Copco Ab,21691,0.00,ATCOB SS,-,ATLAS COPCO AB,Listed,Rest,Balanced
+Equity,-,Principal Financial,21636,0.00,PFG US,-,"PRINCIPAL FINANCIAL GROUP, INC.",Listed,Rest,Balanced
+Equity,-,Bank Negara Indonesia Persero Tbk Pt,21573,0.00,BBNI IJ,-,BANK NEGARA INDONESIA PERSERO TBK. PT,Listed,Rest,Balanced
+Equity,-,Hoya,21551,0.00,7741 JP,-,HOYA CORP.,Listed,Rest,Balanced
+Equity,-,Hindalco Industries,21483,0.00,HNDL IN,-,HINDALCO INDUSTRIES LTD.,Listed,Rest,Balanced
+Equity,-,Gen Digital,21389,0.00,GEN US,-,"GEN DIGITAL, INC.",Listed,Rest,Balanced
+Equity,-,Cathay Financial,21366,0.00,2882 TT,-,CATHAY FINANCIAL HOLDING CO. LTD.,Listed,Rest,Balanced
+Equity,-,Trimble,21314,0.00,TRMB US,-,"TRIMBLE, INC.",Listed,Rest,Balanced
+Equity,-,Jabil,21165,0.00,JBL US,-,"JABIL, INC.",Listed,Rest,Balanced
+Equity,-,Epam Systems,21004,0.00,EPAM US,-,"EPAM SYSTEMS, INC.",Listed,Rest,Balanced
+Equity,-,People'S Insurance Of China,20940,0.00,1339 HK,-,PEOPLE'S INSURANCE CO. GROUP OF CHINA LTD.,Listed,Rest,Balanced
+Equity,-,Uss,20859,0.00,4732 JP,-,USS CO. LTD.,Listed,Rest,Balanced
+Equity,-,Sanlam,20817,0.00,SLM SJ,-,SANLAM LTD.,Listed,Rest,Balanced
+Equity,-,Ssab Ab,20715,0.00,SSABA SS,-,SSAB AB,Listed,Rest,Balanced
+Equity,-,Kerry,20697,0.00,KYGA ID,-,KERRY GROUP PLC,Listed,Rest,Balanced
+Equity,-,Gea Ag,20657,0.00,G1A GR,-,GEA GROUP AG,Listed,Rest,Balanced
+Equity,-,Mongodb,20343,0.00,MDB US,-,"MONGODB, INC.",Listed,Rest,Balanced
+Equity,-,Clear Secure,20214,0.00,YOU US,-,"CLEAR SECURE, INC.",Listed,Rest,Balanced
+Equity,-,Hulic,20124,0.00,3003 JP,-,HULIC CO. LTD.,Listed,Rest,Balanced
+Equity,-,Gap,20107,0.00,GAP US,-,"GAP, INC.",Listed,Rest,Balanced
+Equity,-,Waters,20100,0.00,WAT US,-,WATERS CORP.,Listed,Rest,Balanced
+Equity,-,Carnival,20033,0.00,CCL US,-,CARNIVAL CORP.,Listed,Rest,Balanced
+Equity,-,Carlyle,19969,0.00,CG US,-,"CARLYLE GROUP, INC.",Listed,Rest,Balanced
+Equity,-,Keycorp,19934,0.00,KEY US,-,KEYCORP,Listed,Rest,Balanced
+Equity,-,Gwa,19926,0.00,GWA AU,-,GWA GROUP LTD.,Listed,Rest,Balanced
+Equity,-,Finning International,19891,0.00,FTT CN,-,"FINNING INTERNATIONAL, INC.",Listed,Rest,Balanced
+Equity,-,Zscaler,19695,0.00,ZS US,-,"ZSCALER, INC.",Listed,Rest,Balanced
+Equity,-,Super Micro Computer,19685,0.00,SMCI US,-,"SUPER MICRO COMPUTER, INC.",Listed,Rest,Balanced
+Equity,-,Sensata Technologies,19470,0.00,ST US,-,SENSATA TECHNOLOGIES HOLDING PLC,Listed,Rest,Balanced
+Equity,-,Dayforce,19441,0.00,DAY US,-,"DAYFORCE, INC.",Listed,Rest,Balanced
+Equity,-,Ulta Beauty,19239,0.00,ULTA US,-,"ULTA BEAUTY, INC.",Listed,Rest,Balanced
+Equity,-,Labcorp,19183,0.00,LH US,-,"LABCORP HOLDINGS, INC.",Listed,Rest,Balanced
+Equity,-,Carmax,19126,0.00,KMX US,-,"CARMAX, INC.",Listed,Rest,Balanced
+Equity,-,Powertech Technology,19082,0.00,6239 TT,-,"POWERTECH TECHNOLOGY, INC.",Listed,Rest,Balanced
+Equity,-,Lojas Renner Sa,19048,0.00,LREN3 BZ,-,LOJAS RENNER SA,Listed,Rest,Balanced
+Equity,-,Paycom Software,19041,0.00,PAYC US,-,"PAYCOM SOFTWARE, INC.",Listed,Rest,Balanced
+Equity,-,China Life Insurance,19031,0.00,2628 HK,-,CHINA LIFE INSURANCE CO. LTD.,Listed,Rest,Balanced
+Equity,-,J M Smucker,19024,0.00,SJM US,-,J M SMUCKER CO.,Listed,Rest,Balanced
+Equity,-,Sappi,19011,0.00,SAP SJ,-,SAPPI LTD.,Listed,Rest,Balanced
+Equity,-,Charoen Pokphand Foods Pcl,18967,0.00,CPFR TB,-,CHAROEN POKPHAND FOODS PCL,Listed,Rest,Balanced
+Equity,-,Saudi Awwal Bank,18940,0.00,SABB AB,-,SAUDI AWWAL BANK,Listed,Rest,Balanced
+Equity,-,Fidelity National Financial,18870,0.00,FNF US,-,"FIDELITY NATIONAL FINANCIAL, INC.",Listed,Rest,Balanced
+Equity,-,Alps Alpine,18827,0.00,6770 JP,-,ALPS ALPINE CO. LTD.,Listed,Rest,Balanced
+Equity,-,Exact Sciences,18763,0.00,EXAS US,-,EXACT SCIENCES CORP.,Listed,Rest,Balanced
+Equity,-,Juniper Networks,18760,0.00,JNPR US,-,"JUNIPER NETWORKS, INC.",Listed,Rest,Balanced
+Equity,-,Budweiser Brewing Apac,18733,0.00,1876 HK,-,BUDWEISER BREWING CO. APAC LTD.,Listed,Rest,Balanced
+Equity,-,Mineral Resources,18727,0.00,MIN AU,-,MINERAL RESOURCES LTD.,Listed,Rest,Balanced
+Equity,-,Central Japan Railway,18649,0.00,9022 JP,-,CENTRAL JAPAN RAILWAY CO.,Listed,Rest,Balanced
+Equity,-,Avantor,18589,0.00,AVTR US,-,"AVANTOR, INC.",Listed,Rest,Balanced
+Equity,-,Baxter International,18544,0.00,BAX US,-,"BAXTER INTERNATIONAL, INC.",Listed,Rest,Balanced
+Equity,-,Genuine Parts,18529,0.00,GPC US,-,GENUINE PARTS CO.,Listed,Rest,Balanced
+Equity,-,International Paper,18501,0.00,IP US,-,INTERNATIONAL PAPER CO.,Listed,Rest,Balanced
+Equity,-,Trelleborg Ab,18440,0.00,TRELB SS,-,TRELLEBORG AB,Listed,Rest,Balanced
+Equity,-,Enbridge,18356,0.00,ENB CN,-,"ENBRIDGE, INC.",Listed,Rest,Balanced
+Equity,-,Netgear,18316,0.00,NTGR US,-,"NETGEAR, INC.",Listed,Rest,Balanced
+Equity,-,Sun Hung Kai Properties,18306,0.00,16 HK,-,SUN HUNG KAI PROPERTIES LTD.,Listed,Rest,Balanced
+Equity,-,Davita,18054,0.00,DVA US,-,"DAVITA, INC.",Listed,Rest,Balanced
+Equity,-,Itt,17984,0.00,ITT US,-,"ITT, INC.",Listed,Rest,Balanced
+Equity,-,Solventum,17945,0.00,SOLV US,-,SOLVENTUM CORP.,Listed,Rest,Balanced
+Equity,-,Cnh Industrial Nv,17915,0.00,CNH US,-,CNH INDUSTRIAL NV,Listed,Rest,Balanced
+Equity,-,Rollins,17743,0.00,ROL US,-,"ROLLINS, INC.",Listed,Rest,Balanced
+Equity,-,Wsp Global,17702,0.00,WSP CN,-,"WSP GLOBAL, INC.",Listed,Rest,Balanced
+Equity,-,Dollar Tree,17694,0.00,DLTR US,-,"DOLLAR TREE, INC.",Listed,Rest,Balanced
+Equity,-,Match,17678,0.00,MTCH US,-,"MATCH GROUP, INC.",Listed,Rest,Balanced
+Equity,-,Akamai Technologies,17659,0.00,AKAM US,-,"AKAMAI TECHNOLOGIES, INC.",Listed,Rest,Balanced
+Equity,-,Jack Henry & Associates,17606,0.00,JKHY US,-,"JACK HENRY & ASSOCIATES, INC.",Listed,Rest,Balanced
+Equity,-,Erie Indemnity,17581,0.00,ERIE US,-,ERIE INDEMNITY CO.,Listed,Rest,Balanced
+Equity,-,Zillow,17558,0.00,Z US,-,"ZILLOW GROUP, INC.",Listed,Rest,Balanced
+Equity,-,J Front Retailing,17424,0.00,3086 JP,-,J FRONT RETAILING CO. LTD.,Listed,Rest,Balanced
+Equity,-,Dolby Laboratories,17179,0.00,DLB US,-,"DOLBY LABORATORIES, INC.",Listed,Rest,Balanced
+Equity,-,Air Liquide Sa,17176,0.00,AI FP,-,AIR LIQUIDE SA,Listed,Rest,Balanced
+Equity,-,Perkinelmer,17174,0.00,RVTY US,-,"PERKINELMER, INC.",Listed,Rest,Balanced
+Equity,-,Kgl Resources,17119,0.00,KGL AU,-,KGL RESOURCES LTD.,Listed,Rest,Balanced
+Equity,-,Teradyne,17066,0.00,TER US,-,"TERADYNE, INC.",Listed,Rest,Balanced
+Equity,-,Nippon Steel,17054,0.00,5401 JP,-,NIPPON STEEL CORP.,Listed,Rest,Balanced
+Equity,-,Bajaj Auto,17035,0.00,BJAUT IN,-,BAJAJ AUTO LTD.,Listed,Rest,Balanced
+Equity,-,Mosaic,17027,0.00,MOS US,-,MOSAIC CO.,Listed,Rest,Balanced
+Equity,-,Relx,16995,0.00,REL LN,-,RELX PLC,Listed,Rest,Balanced
+Equity,-,Scout24 Se,16942,0.00,G24 GR,-,SCOUT24 SE,Listed,Rest,Balanced
+Equity,-,Smurfit Westrock,16929,0.00,SW US,-,SMURFIT WESTROCK PLC,Listed,Rest,Balanced
+Equity,-,Stanley Black & Decker,16902,0.00,SWK US,-,"STANLEY BLACK & DECKER, INC.",Listed,Rest,Balanced
+Equity,-,Inpex,16757,0.00,1605 JP,-,INPEX CORP.,Listed,Rest,Balanced
+Equity,-,Just Eat Takeawaycom Nv,16753,0.00,TKWY NA,-,JUST EAT TAKEAWAY.COM NV,Listed,Rest,Balanced
+Equity,-,Betmakers Technology,16720,0.00,BET AU,-,BETMAKERS TECHNOLOGY GROUP LTD.,Listed,Rest,Balanced
+Equity,-,Easyjet,16698,0.00,EZJ LN,-,EASYJET PLC,Listed,Rest,Balanced
+Equity,-,Metals X,16558,0.00,MLX AU,-,METALS X LTD.,Listed,Rest,Balanced
+Equity,-,Cooper Cos,16546,0.00,COO US,-,"COOPER COS., INC.",Listed,Rest,Balanced
+Equity,-,U-Haul,16546,0.00,UHALB US,-,U-HAUL HOLDING CO.,Listed,Rest,Balanced
+Equity,-,Domino'S Pizza,16459,0.00,DPZ US,-,"DOMINO'S PIZZA, INC.",Listed,Rest,Balanced
+Equity,-,Hormel Foods,16253,0.00,HRL US,-,HORMEL FOODS CORP.,Listed,Rest,Balanced
+Equity,-,Wynn Resorts,16237,0.00,WYNN US,-,WYNN RESORTS LTD.,Listed,Rest,Balanced
+Equity,-,Sprouts Farmers Market,16185,0.00,SFM US,-,"SPROUTS FARMERS MARKET, INC.",Listed,Rest,Balanced
+Equity,-,Adeia,16116,0.00,ADEA US,-,"ADEIA, INC.",Listed,Rest,Balanced
+Equity,-,Bravura Solutions,16110,0.00,BVS AU,-,BRAVURA SOLUTIONS LTD.,Listed,Rest,Balanced
+Equity,-,Colliers International,15972,0.00,CIGI CN,-,"COLLIERS INTERNATIONAL GROUP, INC.",Listed,Rest,Balanced
+Equity,-,Pool,15763,0.00,POOL US,-,POOL CORP.,Listed,Rest,Balanced
+Equity,-,Campbell Soup,15638,0.00,CPB US,-,CAMPBELL SOUP CO.,Listed,Rest,Balanced
+Equity,-,Argenx Se,15635,0.00,ARGX BB,-,ARGENX SE,Listed,Rest,Balanced
+Equity,-,Bankinter Sa,15621,0.00,BKT SM,-,BANKINTER SA,Listed,Rest,Balanced
+Equity,-,Interpublic Of Cos,15614,0.00,IPG US,-,"INTERPUBLIC GROUP OF COS., INC.",Listed,Rest,Balanced
+Equity,-,Patriot Battery Metals,15416,0.00,PMT AU,-,"PATRIOT BATTERY METALS, INC.",Listed,Rest,Balanced
+Equity,-,Kelly Services,15381,0.00,KELYA US,-,"KELLY SERVICES, INC.",Listed,Rest,Balanced
+Equity,-,Hana Financial,15360,0.00,086790 KS,-,"HANA FINANCIAL GROUP, INC.",Listed,Rest,Balanced
+Equity,-,Toro,15357,0.00,TTC US,-,TORO CO.,Listed,Rest,Balanced
+Equity,-,Pacira Biosciences,15334,0.00,PCRX US,-,"PACIRA BIOSCIENCES, INC.",Listed,Rest,Balanced
+Equity,-,Srg Global,15084,0.00,SRG AU,-,SRG GLOBAL LTD.,Listed,Rest,Balanced
+Equity,-,Bank Of Nova Scotia,14948,0.00,BNS CN,-,BANK OF NOVA SCOTIA,Listed,Rest,Balanced
+Equity,-,Indian Oil,14917,0.00,IOCL IN,-,INDIAN OIL CORP. LTD.,Listed,Rest,Balanced
+Equity,-,Trent,14825,0.00,TRENT IN,-,TRENT LTD.,Listed,Rest,Balanced
+Equity,-,Lazard,14820,0.00,LAZ US,-,"LAZARD, INC.",Listed,Rest,Balanced
+Equity,-,Essilorluxottica Sa,14776,0.00,EL FP,-,ESSILORLUXOTTICA SA,Listed,Rest,Balanced
+Equity,-,Marks & Spencer,14753,0.00,MKS LN,-,MARKS & SPENCER GROUP PLC,Listed,Rest,Balanced
+Equity,-,Japan Post,14746,0.00,6178 JP,-,JAPAN POST HOLDINGS CO. LTD.,Listed,Rest,Balanced
+Equity,-,Snap,14549,0.00,SNAP US,-,"SNAP, INC.",Listed,Rest,Balanced
+Equity,-,Entegris,14521,0.00,ENTG US,-,"ENTEGRIS, INC.",Listed,Rest,Balanced
+Equity,-,Brown-Forman,14402,0.00,BFB US,-,BROWN-FORMAN CORP.,Listed,Rest,Balanced
+Equity,-,Bank Of Montreal,14347,0.00,BMO CN,-,BANK OF MONTREAL,Listed,Rest,Balanced
+Equity,-,Riyad Bank,14325,0.00,RIBL AB,-,RIYAD BANK,Listed,Rest,Balanced
+Equity,-,Muenchener Rueckversicherungs-Gesellschaft Ag In Muenchen,14324,0.00,MUV2 GR,-,MUENCHENER RUECKVERSICHERUNGS-GESELLSCHAFT AG IN MUENCHEN,Listed,Rest,Balanced
+Equity,-,Brinker International,14041,0.00,EAT US,-,"BRINKER INTERNATIONAL, INC.",Listed,Rest,Balanced
+Equity,-,Blueprint Medicines,13971,0.00,BPMC US,-,BLUEPRINT MEDICINES CORP.,Listed,Rest,Balanced
+Equity,-,Bank Of Hangzhou,13957,0.00,600926 C1,-,BANK OF HANGZHOU CO. LTD.,Listed,Rest,Balanced
+Equity,-,Maas,13926,0.00,MGH AU,-,MAAS GROUP HOLDINGS LTD.,Listed,Rest,Balanced
+Equity,-,Albemarle,13772,0.00,ALB US,-,ALBEMARLE CORP.,Listed,Rest,Balanced
+Equity,-,Nordson,13703,0.00,NDSN US,-,NORDSON CORP.,Listed,Rest,Balanced
+Equity,-,Igm Financial,13575,0.00,IGM CN,-,"IGM FINANCIAL, INC.",Listed,Rest,Balanced
+Equity,-,Rio Tinto,13572,0.00,RIO LN,-,RIO TINTO PLC,Listed,Rest,Balanced
+Equity,-,Nitto Denko,13521,0.00,6988 JP,-,NITTO DENKO CORP.,Listed,Rest,Balanced
+Equity,-,Arca Continental Sab De Cv,13499,0.00,AC MM,-,ARCA CONTINENTAL SAB DE CV,Listed,Rest,Balanced
+Equity,-,Kirin,13398,0.00,2503 JP,-,KIRIN HOLDINGS CO. LTD.,Listed,Rest,Balanced
+Equity,-,Almarai Jsc,13357,0.00,ALMARAI AB,-,ALMARAI CO. JSC,Listed,Rest,Balanced
+Equity,-,Tower Semiconductor,13229,0.00,TSEM US,-,TOWER SEMICONDUCTOR LTD.,Listed,Rest,Balanced
+Equity,-,Canadian Pacific Kansas City,13206,0.00,CP CN,-,CANADIAN PACIFIC KANSAS CITY LTD.,Listed,Rest,Balanced
+Equity,-,Ageas Sa,12894,0.00,AGS BB,-,AGEAS SA,Listed,Rest,Balanced
+Equity,-,Ia Financial,12711,0.00,IAG CN,-,"IA FINANCIAL CORP., INC.",Listed,Rest,Balanced
+Equity,-,Tokyo Gas,12541,0.00,9531 JP,-,TOKYO GAS CO. LTD.,Listed,Rest,Balanced
+Equity,-,Tech Mahindra,12456,0.00,TECHM IN,-,TECH MAHINDRA LTD.,Listed,Rest,Balanced
+Equity,-,Smurfit Westrock,12442,0.00,SWR LN,-,SMURFIT WESTROCK PLC,Listed,Rest,Balanced
+Equity,-,Eurobank Ergasias Services & Sa,12325,0.00,EUROB GA,-,EUROBANK ERGASIAS SERVICES & HOLDINGS SA,Listed,Rest,Balanced
+Equity,-,Gqg Partners,12285,0.00,GQG AU,-,"GQG PARTNERS, INC.",Listed,Rest,Balanced
+Equity,-,China Pacific Insurance,12279,0.00,2601 HK,-,CHINA PACIFIC INSURANCE GROUP CO. LTD.,Listed,Rest,Balanced
+Equity,-,Tata Consultancy Services,12214,0.00,TCS IN,-,TATA CONSULTANCY SERVICES LTD.,Listed,Rest,Balanced
+Equity,-,Scholastic,12193,0.00,SCHL US,-,SCHOLASTIC CORP.,Listed,Rest,Balanced
+Equity,-,Shin-Etsu Chemical,12075,0.00,4063 JP,-,SHIN-ETSU CHEMICAL CO. LTD.,Listed,Rest,Balanced
+Equity,-,Petrochina,11987,0.00,857 HK,-,PETROCHINA CO. LTD.,Listed,Rest,Balanced
+Equity,-,Gerdau Sa,11985,0.00,GGBR4 BZ,-,GERDAU SA,Listed,Rest,Balanced
+Equity,-,Baidu,11982,0.00,9888 HK,-,"BAIDU, INC.",Listed,Rest,Balanced
+Equity,-,West Japan Railway,11875,0.00,9021 JP,-,WEST JAPAN RAILWAY CO.,Listed,Rest,Balanced
+Equity,-,Bosideng International,11747,0.00,3998 HK,-,BOSIDENG INTERNATIONAL HOLDINGS LTD.,Listed,Rest,Balanced
+Equity,-,Celltrion,11486,0.00,068270 KS,-,"CELLTRION, INC.",Listed,Rest,Balanced
+Equity,-,Cimb Bhd,11454,0.00,CIMB MK,-,CIMB GROUP HOLDINGS BHD.,Listed,Rest,Balanced
+Equity,-,Malaysia Airports Bhd,11446,0.00,MAHB MK,-,MALAYSIA AIRPORTS HOLDINGS BHD.,Listed,Rest,Balanced
+Equity,-,Fuji Electric,11438,0.00,6504 JP,-,FUJI ELECTRIC CO. LTD.,Listed,Rest,Balanced
+Equity,-,Australian Ethical Investment,11398,0.00,AEF AU,-,AUSTRALIAN ETHICAL INVESTMENT LTD.,Listed,Rest,Balanced
+Equity,-,Mitsui &,11367,0.00,8031 JP,-,MITSUI & CO. LTD.,Listed,Rest,Balanced
+Equity,-,Gentera Sab De Cv,11319,0.00,GENTERA MM,-,GENTERA SAB DE CV,Listed,Rest,Balanced
+Equity,-,Canadian National Railway,11299,0.00,CNR CN,-,CANADIAN NATIONAL RAILWAY CO.,Listed,Rest,Balanced
+Equity,-,Seino,11228,0.00,9076 JP,-,SEINO HOLDINGS CO. LTD.,Listed,Rest,Balanced
+Equity,-,Haier Smart Home,11213,0.00,6690 HK,-,HAIER SMART HOME CO. LTD.,Listed,Rest,Balanced
+Equity,-,United Utilities,11049,0.00,UU LN,-,UNITED UTILITIES GROUP PLC,Listed,Rest,Balanced
+Equity,-,Ctbc Financial,10979,0.00,2891 TT,-,CTBC FINANCIAL HOLDING CO. LTD.,Listed,Rest,Balanced
+Equity,-,Iperionx,10964,0.00,IPX AU,-,IPERIONX LTD.,Listed,Rest,Balanced
+Equity,-,Bank Of Beijing,10931,0.00,601169 C1,-,BANK OF BEIJING CO. LTD.,Listed,Rest,Balanced
+Equity,-,Redox,10911,0.00,RDX AU,-,REDOX LTD.,Listed,Rest,Balanced
+Equity,-,Adriatic Metals,10705,0.00,ADT AU,-,ADRIATIC METALS PLC,Listed,Rest,Balanced
+Equity,-,Bank Of Baroda,10467,0.00,BOB IN,-,BANK OF BARODA,Listed,Rest,Balanced
+Equity,-,Kyowa Kirin,10459,0.00,4151 JP,-,KYOWA KIRIN CO. LTD.,Listed,Rest,Balanced
+Equity,-,Ccl Industries,10439,0.00,CCLB CN,-,"CCL INDUSTRIES, INC.",Listed,Rest,Balanced
+Equity,-,Gentrack,10424,0.00,GTK AU,-,GENTRACK GROUP LTD.,Listed,Rest,Balanced
+Equity,-,Ferrari Nv,10413,0.00,RACE IM,-,FERRARI NV,Listed,Rest,Balanced
+Equity,-,Dassault Aviation Sa,10395,0.00,AM FP,-,DASSAULT AVIATION SA,Listed,Rest,Balanced
+Equity,-,Wharf Real Estate Investment,10393,0.00,1997 HK,-,WHARF REAL ESTATE INVESTMENT CO. LTD.,Listed,Rest,Balanced
+Equity,-,Lg Electronics,10341,0.00,066570 KS,-,"LG ELECTRONICS, INC.",Listed,Rest,Balanced
+Equity,-,Yokogawa Electric,10285,0.00,6841 JP,-,YOKOGAWA ELECTRIC CORP.,Listed,Rest,Balanced
+Equity,-,Anglogold Ashanti,10260,0.00,ANG SJ,-,ANGLOGOLD ASHANTI PLC,Listed,Rest,Balanced
+Equity,-,Myer,10212,0.00,MYR AU,-,MYER HOLDINGS LTD.,Listed,Rest,Balanced
+Equity,-,Gungho Online Entertainment,10136,0.00,3765 JP,-,"GUNGHO ONLINE ENTERTAINMENT, INC.",Listed,Rest,Balanced
+Equity,-,Yapi Ve Kredi Bankasi As,10094,0.00,YKBNK TI,-,YAPI VE KREDI BANKASI AS,Listed,Rest,Balanced
+Equity,-,Otp Bank Nyrt,10060,0.00,OTP HB,-,OTP BANK NYRT,Listed,Rest,Balanced
+Equity,-,Crrc,10001,0.00,1766 HK,-,CRRC CORP. LTD.,Listed,Rest,Balanced
+Equity,-,Post,9997,0.00,POST US,-,"POST HOLDINGS, INC.",Listed,Rest,Balanced
+Equity,-,Tui Ag,9967,0.00,TUI1 GR,-,TUI AG,Listed,Rest,Balanced
+Equity,-,Cts Eventim Ag & Kgaa,9909,0.00,EVD GR,-,CTS EVENTIM AG & CO. KGAA,Listed,Rest,Balanced
+Equity,-,Dowa,9810,0.00,5714 JP,-,DOWA HOLDINGS CO. LTD.,Listed,Rest,Balanced
+Equity,-,Redeia Sa,9793,0.00,RED SM,-,REDEIA CORP. SA,Listed,Rest,Balanced
+Equity,-,Acciona Sa,9738,0.00,ANA SM,-,ACCIONA SA,Listed,Rest,Balanced
+Equity,-,Groupe Bruxelles Lambert Nv,9681,0.00,GBLB BB,-,GROUPE BRUXELLES LAMBERT NV,Listed,Rest,Balanced
+Equity,-,Grupo Mexico Sab De Cv,9642,0.00,GMEXICOB MM,-,GRUPO MEXICO SAB DE CV,Listed,Rest,Balanced
+Equity,-,Kurita Water Industries,9589,0.00,6370 JP,-,KURITA WATER INDUSTRIES LTD.,Listed,Rest,Balanced
+Equity,-,3I,9550,0.00,III LN,-,3I GROUP PLC,Listed,Rest,Balanced
+Equity,-,Hyundai Glovis,9496,0.00,086280 KS,-,HYUNDAI GLOVIS CO. LTD.,Listed,Rest,Balanced
+Equity,-,Yuanta Financial,9454,0.00,2885 TT,-,YUANTA FINANCIAL HOLDING CO. LTD.,Listed,Rest,Balanced
+Equity,-,Deutsche Boerse Ag,9371,0.00,DB1 GR,-,DEUTSCHE BOERSE AG,Listed,Rest,Balanced
+Equity,-,Oil & Natural Gas,9357,0.00,ONGC IN,-,OIL & NATURAL GAS CORP. LTD.,Listed,Rest,Balanced
+Equity,-,Novonix,9282,0.00,NVX AU,-,NOVONIX LTD.,Listed,Rest,Balanced
+Equity,-,Swiss Re Ag,9171,0.00,SREN SW,-,SWISS RE AG,Listed,Rest,Balanced
+Equity,-,Exor Nv,9124,0.00,EXO NA,-,EXOR NV,Listed,Rest,Balanced
+Equity,-,Lonza Ag,9034,0.00,LONN SW,-,LONZA GROUP AG,Listed,Rest,Balanced
+Equity,-,Industrie De Nora Spa,8932,0.00,DNR IM,-,INDUSTRIE DE NORA SPA,Listed,Rest,Balanced
+Equity,-,Rpmglobal,8872,0.00,RUL AU,-,RPMGLOBAL HOLDINGS LTD.,Listed,Rest,Balanced
+Equity,-,Pegatron,8717,0.00,4938 TT,-,PEGATRON CORP.,Listed,Rest,Balanced
+Equity,-,Clarity Pharmaceuticals,8630,0.00,CU6 AU,-,CLARITY PHARMACEUTICALS LTD.,Listed,Rest,Balanced
+Equity,-,Edp - Energias De Portugal Sa,8331,0.00,EDP PL,-,EDP - ENERGIAS DE PORTUGAL SA,Listed,Rest,Balanced
+Equity,-,Siemens,8314,0.00,SIEM IN,-,SIEMENS LTD.,Listed,Rest,Balanced
+Equity,-,Hyundai Mobis,8287,0.00,012330 KS,-,HYUNDAI MOBIS CO. LTD.,Listed,Rest,Balanced
+Equity,-,Alimentation Couche-Tard,8233,0.00,ATD CN,-,"ALIMENTATION COUCHE-TARD, INC.",Listed,Rest,Balanced
+Equity,-,Superloop,8147,0.00,SLC AU,-,SUPERLOOP LTD.,Listed,Rest,Balanced
+Equity,-,Dsv As,8036,0.00,DSV DC,-,DSV AS,Listed,Rest,Balanced
+Equity,-,Mesoblast,8033,0.00,MSB AU,-,MESOBLAST LTD.,Listed,Rest,Balanced
+Equity,-,Helloworld Travel,7949,0.00,HLO AU,-,HELLOWORLD TRAVEL LTD.,Listed,Rest,Balanced
+Equity,-,Atlas Copco Ab,7886,0.00,ATCOA SS,-,ATLAS COPCO AB,Listed,Rest,Balanced
+Equity,-,Seven & I,7854,0.00,3382 JP,-,SEVEN & I HOLDINGS CO. LTD.,Listed,Rest,Balanced
+Equity,-,Tc Energy,7850,0.00,TRP CN,-,TC ENERGY CORP.,Listed,Rest,Balanced
+Equity,-,Lens Technology,7723,0.00,300433 C2,-,LENS TECHNOLOGY CO. LTD.,Listed,Rest,Balanced
+Equity,-,Barratt Developments,7709,0.00,BTRW LN,-,BARRATT DEVELOPMENTS PLC,Listed,Rest,Balanced
+Equity,-,Savola,7680,0.00,SAVOLA AB,-,SAVOLA GROUP,Listed,Rest,Balanced
+Equity,-,Anglo American,7674,0.00,AAL LN,-,ANGLO AMERICAN PLC,Listed,Rest,Balanced
+Equity,-,Sika Ag,7660,0.00,SIKA SW,-,SIKA AG,Listed,Rest,Balanced
+Equity,-,Elders,7630,0.00,ELD AU,-,ELDERS LTD.,Listed,Rest,Balanced
+Equity,-,Bellevue Gold,7568,0.00,BGL AU,-,BELLEVUE GOLD LTD.,Listed,Rest,Balanced
+Equity,-,Medipal,7549,0.00,7459 JP,-,MEDIPAL HOLDINGS CORP.,Listed,Rest,Balanced
+Equity,-,Foxconn Industrial Internet,7200,0.00,601138 C1,-,FOXCONN INDUSTRIAL INTERNET CO. LTD.,Listed,Rest,Balanced
+Equity,-,Dai Nippon Printing,7155,0.00,7912 JP,-,DAI NIPPON PRINTING CO. LTD.,Listed,Rest,Balanced
+Equity,-,Samsung C&T,7064,0.00,028260 KS,-,SAMSUNG C&T CORP.,Listed,Rest,Balanced
+Equity,-,A O Smith,7057,0.00,AOS US,-,A O SMITH CORP.,Listed,Rest,Balanced
+Equity,-,Aeris Resources,6966,0.00,AIS AU,-,AERIS RESOURCES LTD.,Listed,Rest,Balanced
+Equity,-,Heineken Nv,6651,0.00,HEIO NA,-,HEINEKEN HOLDING NV,Listed,Rest,Balanced
+Equity,-,Bancolombia Sa,6466,0.00,CIB US,-,BANCOLOMBIA SA,Listed,Rest,Balanced
+Equity,-,Opthea,6360,0.00,OPT AU,-,OPTHEA LTD.,Listed,Rest,Balanced
+Equity,-,Rec,6349,0.00,RECL IN,-,REC LTD.,Listed,Rest,Balanced
+Equity,-,Sun Life Financial,6267,0.00,SLF CN,-,"SUN LIFE FINANCIAL, INC.",Listed,Rest,Balanced
+Equity,-,Assa Abloy Ab,6260,0.00,ASSAB SS,-,ASSA ABLOY AB,Listed,Rest,Balanced
+Equity,-,Itausa Sa,6250,0.00,ITSA4 BZ,-,ITAUSA SA,Listed,Rest,Balanced
+Equity,-,Aac Technologies,6233,0.00,2018 HK,-,"AAC TECHNOLOGIES HOLDINGS, INC.",Listed,Rest,Balanced
+Equity,-,Check Point Software Technologies,6060,0.00,CHKP US,-,CHECK POINT SOFTWARE TECHNOLOGIES LTD.,Listed,Rest,Balanced
+Equity,-,Collegium Pharmaceutical,6040,0.00,COLL US,-,"COLLEGIUM PHARMACEUTICAL, INC.",Listed,Rest,Balanced
+Equity,-,Appen,5865,0.00,APX AU,-,APPEN LTD.,Listed,Rest,Balanced
+Equity,-,Om,5835,0.00,OMH AU,-,OM HOLDINGS LTD.,Listed,Rest,Balanced
+Equity,-,Argenx Se,5809,0.00,ARGXEUR X9,-,ARGENX SE,Listed,Rest,Balanced
+Equity,-,Ashtead,5775,0.00,AHT LN,-,ASHTEAD GROUP PLC,Listed,Rest,Balanced
+Equity,-,Sompo,5721,0.00,8630 JP,-,"SOMPO HOLDINGS, INC.",Listed,Rest,Balanced
+Equity,-,Tim Sa,5641,0.00,TIMB US,-,TIM SA,Listed,Rest,Balanced
+Equity,-,Sino Land,5505,0.00,83 HK,-,SINO LAND CO. LTD.,Listed,Rest,Balanced
+Equity,-,Predictive Discovery,5494,0.00,PDI AU,-,PREDICTIVE DISCOVERY LTD.,Listed,Rest,Balanced
+Equity,-,Partners Ag,5450,0.00,PGHN SW,-,PARTNERS GROUP HOLDING AG,Listed,Rest,Balanced
+Equity,-,Fujifilm,5420,0.00,4901 JP,-,FUJIFILM HOLDINGS CORP.,Listed,Rest,Balanced
+Equity,-,Sse,5384,0.00,SSE LN,-,SSE PLC,Listed,Rest,Balanced
+Equity,-,Vibra Energia Sa,5168,0.00,VBBR3 BZ,-,VIBRA ENERGIA SA,Listed,Rest,Balanced
+Equity,-,Wheaton Precious Metals,5161,0.00,WPM CN,-,WHEATON PRECIOUS METALS CORP.,Listed,Rest,Balanced
+Equity,-,Franco-Nevada,5079,0.00,FNV CN,-,FRANCO-NEVADA CORP.,Listed,Rest,Balanced
+Equity,-,Pernod Ricard Sa,5076,0.00,RI FP,-,PERNOD RICARD SA,Listed,Rest,Balanced
+Equity,-,Vulcan Energy Resources,5071,0.00,VUL AU,-,VULCAN ENERGY RESOURCES LTD.,Listed,Rest,Balanced
+Equity,-,Assicurazioni Generali Spa,5065,0.00,G IM,-,ASSICURAZIONI GENERALI SPA,Listed,Rest,Balanced
+Equity,-,Disco,5039,0.00,6146 JP,-,DISCO CORP.,Listed,Rest,Balanced
+Equity,-,Asm International Nv,5005,0.00,ASM NA,-,ASM INTERNATIONAL NV,Listed,Rest,Balanced
+Equity,-,Marubeni,4922,0.00,8002 JP,-,MARUBENI CORP.,Listed,Rest,Balanced
+Equity,-,Smc,4889,0.00,6273 JP,-,SMC CORP.,Listed,Rest,Balanced
+Equity,-,Cez As,4856,0.00,CEZ CP,-,CEZ AS,Listed,Rest,Balanced
+Equity,-,Cedar Woods Properties,4709,0.00,CWP AU,-,CEDAR WOODS PROPERTIES LTD.,Listed,Rest,Balanced
+Equity,-,Vonovia Se,4682,0.00,VNA GR,-,VONOVIA SE,Listed,Rest,Balanced
+Equity,-,Dassault Systemes Se,4675,0.00,DSY FP,-,DASSAULT SYSTEMES SE,Listed,Rest,Balanced
+Equity,-,Nec,4674,0.00,6701 JP,-,NEC CORP.,Listed,Rest,Balanced
+Equity,-,Swiss Life Ag,4674,0.00,SLHN SW,-,SWISS LIFE HOLDING AG,Listed,Rest,Balanced
+Equity,-,Otsuka,4620,0.00,4578 JP,-,OTSUKA HOLDINGS CO. LTD.,Listed,Rest,Balanced
+Equity,-,Bank Leumi Le-Israel Bm,4582,0.00,LUMI IT,-,BANK LEUMI LE-ISRAEL BM,Listed,Rest,Balanced
+Equity,-,Oriental Land,4574,0.00,4661 JP,-,ORIENTAL LAND CO. LTD.,Listed,Rest,Balanced
+Equity,-,Bridgestone,4548,0.00,5108 JP,-,BRIDGESTONE CORP.,Listed,Rest,Balanced
+Equity,-,Ferrovial Se,4523,0.00,FER SM,-,FERROVIAL SE,Listed,Rest,Balanced
+Equity,-,Renesas Electronics,4425,0.00,6723 JP,-,RENESAS ELECTRONICS CORP.,Listed,Rest,Balanced
+Equity,-,Nutrien,4417,0.00,NTR CN,-,NUTRIEN LTD.,Listed,Rest,Balanced
+Equity,-,Coca-Cola Europacific Partners,4369,0.00,CCEP US,-,COCA-COLA EUROPACIFIC PARTNERS PLC,Listed,Rest,Balanced
+Equity,-,Intercontinental Hotels,4241,0.00,IHG LN,-,INTERCONTINENTAL HOTELS GROUP PLC,Listed,Rest,Balanced
+Equity,-,Centrais Eletricas Brasileiras Sa,4210,0.00,ELET3 BZ,-,CENTRAIS ELETRICAS BRASILEIRAS SA,Listed,Rest,Balanced
+Equity,-,Hexagon Ab,4210,0.00,HEXAB SS,-,HEXAGON AB,Listed,Rest,Balanced
+Equity,-,Pembina Pipeline,4205,0.00,PPL CN,-,PEMBINA PIPELINE CORP.,Listed,Rest,Balanced
+Equity,-,Cameco,4149,0.00,CCO CN,-,CAMECO CORP.,Listed,Rest,Balanced
+Equity,-,Sekisui House,4064,0.00,1928 JP,-,SEKISUI HOUSE LTD.,Listed,Rest,Balanced
+Equity,-,Asahi,4039,0.00,2502 JP,-,ASAHI GROUP HOLDINGS LTD.,Listed,Rest,Balanced
+Equity,-,Ptt Exploration & Production Pcl,4039,0.00,PTTEPR TB,-,PTT EXPLORATION & PRODUCTION PCL,Listed,Rest,Balanced
+Equity,-,Danske Bank As,4003,0.00,DANSKE DC,-,DANSKE BANK AS,Listed,Rest,Balanced
+Equity,-,East Japan Railway,3992,0.00,9020 JP,-,EAST JAPAN RAILWAY CO.,Listed,Rest,Balanced
+Equity,-,Suzuki Motor,3917,0.00,7269 JP,-,SUZUKI MOTOR CORP.,Listed,Rest,Balanced
+Equity,-,Heineken Nv,3916,0.00,HEIA NA,-,HEINEKEN NV,Listed,Rest,Balanced
+Equity,-,Gr Engineering Services,3863,0.00,GNG AU,-,GR ENGINEERING SERVICES LTD.,Listed,Rest,Balanced
+Equity,-,Legal & General,3787,0.00,LGEN LN,-,LEGAL & GENERAL GROUP PLC,Listed,Rest,Balanced
+Equity,-,Restaurant Brands International,3782,0.00,QSR CN,-,"RESTAURANT BRANDS INTERNATIONAL, INC.",Listed,Rest,Balanced
+Equity,-,Universal Music Nv,3750,0.00,UMG NA,-,UNIVERSAL MUSIC GROUP NV,Listed,Rest,Balanced
+Equity,-,Daimler Truck Ag,3744,0.00,DTG GR,-,DAIMLER TRUCK HOLDING AG,Listed,Rest,Balanced
+Equity,-,Brookfield Asset Management,3701,0.00,BAM CN,-,BROOKFIELD ASSET MANAGEMENT LTD.,Listed,Rest,Balanced
+Equity,-,Aeon,3631,0.00,8267 JP,-,AEON CO. LTD.,Listed,Rest,Balanced
+Equity,-,Commerzbank Ag,3624,0.00,CBK GR,-,COMMERZBANK AG,Listed,Rest,Balanced
+Equity,-,Sandoz Ag,3616,0.00,SDZ SW,-,SANDOZ GROUP AG,Listed,Rest,Balanced
+Equity,-,Porsche Automobil Se,3567,0.00,PAH3 GR,-,PORSCHE AUTOMOBIL HOLDING SE,Listed,Rest,Balanced
+Equity,-,Bayer Ag,3540,0.00,BAYN GR,-,BAYER AG,Listed,Rest,Balanced
+Equity,-,Peninsula Energy,3531,0.00,PEN AU,-,PENINSULA ENERGY LTD.,Listed,Rest,Balanced
+Equity,-,Resona,3524,0.00,8308 JP,-,"RESONA HOLDINGS, INC.",Listed,Rest,Balanced
+Equity,-,Cellnex Telecom Sa,3492,0.00,CLNX SM,-,CELLNEX TELECOM SA,Listed,Rest,Balanced
+Equity,-,Ajinomoto,3466,0.00,2802 JP,-,"AJINOMOTO CO., INC.",Listed,Rest,Balanced
+Equity,-,Sgs Sa,3461,0.00,SGSN SW,-,SGS SA,Listed,Rest,Balanced
+Equity,-,Essity Ab,3458,0.00,ESSITYB SS,-,ESSITY AB,Listed,Rest,Balanced
+Equity,-,Japan Post Bank,3368,0.00,7182 JP,-,JAPAN POST BANK CO. LTD.,Listed,Rest,Balanced
+Equity,-,Bandai Namco,3367,0.00,7832 JP,-,"BANDAI NAMCO HOLDINGS, INC.",Listed,Rest,Balanced
+Equity,-,Universal Store,3343,0.00,UNI AU,-,UNIVERSAL STORE HOLDINGS LTD.,Listed,Rest,Balanced
+Equity,-,Prysmian Spa,3335,0.00,PRY IM,-,PRYSMIAN SPA,Listed,Rest,Balanced
+Equity,-,Hannover Rueck Se,3325,0.00,HNR1 GR,-,HANNOVER RUECK SE,Listed,Rest,Balanced
+Equity,-,Technicolor Creative Studios Sa,3307,0.00,TCHCS FP,-,TECHNICOLOR CREATIVE STUDIOS SA,Listed,Rest,Balanced
+Equity,-,Geberit Ag,3298,0.00,GEBN SW,-,GEBERIT AG,Listed,Rest,Balanced
+Equity,-,Mtu Aero Engines Ag,3296,0.00,MTX GR,-,MTU AERO ENGINES AG,Listed,Rest,Balanced
+Equity,-,Sampo Oyj,3287,0.00,SAMPO FH,-,SAMPO OYJ,Listed,Rest,Balanced
+Equity,-,Stmicroelectronics Nv,3237,0.00,STMPA FP,-,STMICROELECTRONICS NV,Listed,Rest,Balanced
+Equity,-,Kone Oyj,3203,0.00,KNEBV FH,-,KONE OYJ,Listed,Rest,Balanced
+Equity,-,Mystate,3197,0.00,MYS AU,-,MYSTATE LTD.,Listed,Rest,Balanced
+Equity,-,Tourmaline Oil,3141,0.00,TOU CN,-,TOURMALINE OIL CORP.,Listed,Rest,Balanced
+Equity,-,Pandora As,3111,0.00,PNDORA DC,-,PANDORA AS,Listed,Rest,Balanced
+Equity,-,Nippon Yusen Kk,3109,0.00,9101 JP,-,NIPPON YUSEN KK,Listed,Rest,Balanced
+Equity,-,Siemens Healthineers Ag,3059,0.00,SHL GR,-,SIEMENS HEALTHINEERS AG,Listed,Rest,Balanced
+Equity,-,Rb Global,3028,0.00,RBA CN,-,"RB GLOBAL, INC.",Listed,Rest,Balanced
+Equity,-,Aena Sme Sa,2993,0.00,AENA SM,-,AENA SME SA,Listed,Rest,Balanced
+Equity,-,Bank Hapoalim Bm,2985,0.00,POLI IT,-,BANK HAPOALIM BM,Listed,Rest,Balanced
+Equity,-,Evolution Ab,2980,0.00,EVO SS,-,EVOLUTION AB,Listed,Rest,Balanced
+Equity,-,Upm-Kymmene Oyj,2960,0.00,UPM FH,-,UPM-KYMMENE OYJ,Listed,Rest,Balanced
+Equity,-,Julius Baer,2959,0.00,BAER SW,-,JULIUS BAER GROUP LTD.,Listed,Rest,Balanced
+Equity,-,Secom,2955,0.00,9735 JP,-,SECOM CO. LTD.,Listed,Rest,Balanced
+Equity,-,Kyocera,2952,0.00,6971 JP,-,KYOCERA CORP.,Listed,Rest,Balanced
+Equity,-,Ntt Data,2938,0.00,9613 JP,-,NTT DATA CORP.,Listed,Rest,Balanced
+Equity,-,Mitsui Osk Lines,2815,0.00,9104 JP,-,MITSUI OSK LINES LTD.,Listed,Rest,Balanced
+Equity,-,Imperial Oil,2758,0.00,IMO CN,-,IMPERIAL OIL LTD.,Listed,Rest,Balanced
+Equity,-,Kubota,2699,0.00,6326 JP,-,KUBOTA CORP.,Listed,Rest,Balanced
+Equity,-,Japan Exchange,2644,0.00,8697 JP,-,"JAPAN EXCHANGE GROUP, INC.",Listed,Rest,Balanced
+Equity,-,Epiroc Ab,2639,0.00,EPIA SS,-,EPIROC AB,Listed,Rest,Balanced
+Equity,-,Covestro Ag,2632,0.00,1CO GR,-,COVESTRO AG,Listed,Rest,Balanced
+Equity,-,Schindler Ag,2629,0.00,SCHP SW,-,SCHINDLER HOLDING AG,Listed,Rest,Balanced
+Equity,-,Bt,2622,0.00,BTA LN,-,BT GROUP PLC,Listed,Rest,Balanced
+Equity,-,Coloplast As,2617,0.00,COLOB DC,-,COLOPLAST AS,Listed,Rest,Balanced
+Equity,-,Repsol Sa,2607,0.00,REP SM,-,REPSOL SA,Listed,Rest,Balanced
+Equity,-,Swisscom Ag,2557,0.00,SCMN SW,-,SWISSCOM AG,Listed,Rest,Balanced
+Equity,-,Bank Of Ireland,2533,0.00,BIRG ID,-,BANK OF IRELAND GROUP PLC,Listed,Rest,Balanced
+Equity,-,Monash Ivf,2512,0.00,MVF AU,-,MONASH IVF GROUP LTD.,Listed,Rest,Balanced
+Equity,-,Straumann Ag,2461,0.00,STMN SW,-,STRAUMANN HOLDING AG,Listed,Rest,Balanced
+Equity,-,Unicharm,2458,0.00,8113 JP,-,UNICHARM CORP.,Listed,Rest,Balanced
+Equity,-,Nitori,2442,0.00,9843 JP,-,NITORI HOLDINGS CO. LTD.,Listed,Rest,Balanced
+Equity,-,Rwe Ag,2428,0.00,RWE GR,-,RWE AG,Listed,Rest,Balanced
+Equity,-,Tfi International,2403,0.00,TFII CN,-,"TFI INTERNATIONAL, INC.",Listed,Rest,Balanced
+Equity,-,Beiersdorf Ag,2385,0.00,BEI GR,-,BEIERSDORF AG,Listed,Rest,Balanced
+Equity,-,Bunzl,2375,0.00,BNZL LN,-,BUNZL PLC,Listed,Rest,Balanced
+Equity,-,Swiss Prime Site Ag,2366,0.00,SPSN SW,-,SWISS PRIME SITE AG,Listed,Rest,Balanced
+Equity,-,T&D,2361,0.00,8795 JP,-,"T&D HOLDINGS, INC.",Listed,Rest,Balanced
+Equity,-,Melrose Industries,2359,0.00,MRO LN,-,MELROSE INDUSTRIES PLC,Listed,Rest,Balanced
+Equity,-,Carlsberg As,2309,0.00,CARLB DC,-,CARLSBERG AS,Listed,Rest,Balanced
+Equity,-,Sekisui Chemical,2277,0.00,4204 JP,-,SEKISUI CHEMICAL CO. LTD.,Listed,Rest,Balanced
+Equity,-,Chocoladefabriken Lindt & Spruengli Ag,2272,0.00,LISN SW,-,CHOCOLADEFABRIKEN LINDT & SPRUENGLI AG,Listed,Rest,Balanced
+Equity,-,Catapult International,2270,0.00,CAT AU,-,CATAPULT GROUP INTERNATIONAL LTD.,Listed,Rest,Balanced
+Equity,-,Renault Sa,2268,0.00,RNO FP,-,RENAULT SA,Listed,Rest,Balanced
+Equity,-,Fisher & Paykel Healthcare,2267,0.00,FPH NZ,-,FISHER & PAYKEL HEALTHCARE CORP. LTD.,Listed,Rest,Balanced
+Equity,-,Pearson,2262,0.00,PSON LN,-,PEARSON PLC,Listed,Rest,Balanced
+Equity,-,Koninklijke Kpn Nv,2203,0.00,KPN NA,-,KONINKLIJKE KPN NV,Listed,Rest,Balanced
+Equity,-,Electro Optic Systems,2202,0.00,EOS AU,-,ELECTRO OPTIC SYSTEMS HOLDINGS LTD.,Listed,Rest,Balanced
+Equity,-,Domain Australia,2192,0.00,DHG AU,-,DOMAIN HOLDINGS AUSTRALIA LTD.,Listed,Rest,Balanced
+Equity,-,Toyota Industries,2192,0.00,6201 JP,-,TOYOTA INDUSTRIES CORP.,Listed,Rest,Balanced
+Equity,-,Galaxy Entertainment,2187,0.00,27 HK,-,GALAXY ENTERTAINMENT GROUP LTD.,Listed,Rest,Balanced
+Equity,-,Power Assets,2155,0.00,6 HK,-,POWER ASSETS HOLDINGS LTD.,Listed,Rest,Balanced
+Equity,-,Kingspan,2139,0.00,KSP ID,-,KINGSPAN GROUP PLC,Listed,Rest,Balanced
+Equity,-,Eqt Ab,2131,0.00,EQT SS,-,EQT AB,Listed,Rest,Balanced
+Equity,-,Metro,2127,0.00,MRU CN,-,"METRO, INC.",Listed,Rest,Balanced
+Equity,-,Hongkong Land,2108,0.00,HKL SP,-,HONGKONG LAND HOLDINGS LTD.,Listed,Rest,Balanced
+Equity,-,Toray Industries,2100,0.00,3402 JP,-,"TORAY INDUSTRIES, INC.",Listed,Rest,Balanced
+Equity,-,Auckland Airport,2069,0.00,AIA NZ,-,AUCKLAND INTERNATIONAL AIRPORT LTD.,Listed,Rest,Balanced
+Equity,-,Industrivarden Ab,2027,0.00,INDUA SS,-,INDUSTRIVARDEN AB,Listed,Rest,Balanced
+Equity,-,Terna - Rete Elettrica Nazionale,2013,0.00,TRN IM,-,TERNA - RETE ELETTRICA NAZIONALE,Listed,Rest,Balanced
+Equity,-,Rogers Communications,2001,0.00,RCIB CN,-,"ROGERS COMMUNICATIONS, INC.",Listed,Rest,Balanced
+Equity,-,Vat Ag,1994,0.00,VACN SW,-,VAT GROUP AG,Listed,Rest,Balanced
+Equity,-,Genusplus,1971,0.00,GNP AU,-,GENUSPLUS GROUP LTD.,Listed,Rest,Balanced
+Equity,-,Rakuten,1970,0.00,4755 JP,-,"RAKUTEN GROUP, INC.",Listed,Rest,Balanced
+Equity,-,Shimano,1962,0.00,7309 JP,-,"SHIMANO, INC.",Listed,Rest,Balanced
+Equity,-,Southern Cross Electrical Engineering,1952,0.00,SXE AU,-,SOUTHERN CROSS ELECTRICAL ENGINEERING LTD.,Listed,Rest,Balanced
+Equity,-,Gfl Environmental,1949,0.00,GFL CN,-,"GFL ENVIRONMENTAL, INC.",Listed,Rest,Balanced
+Equity,-,Snam Spa,1938,0.00,SRG IM,-,SNAM SPA,Listed,Rest,Balanced
+Equity,-,Tmx,1936,0.00,X CN,-,TMX GROUP LTD.,Listed,Rest,Balanced
+Equity,-,Descartes Systems,1933,0.00,DSG CN,-,"DESCARTES SYSTEMS GROUP, INC.",Listed,Rest,Balanced
+Equity,-,Galderma Ag,1921,0.00,GALD SW,-,GALDERMA GROUP AG,Listed,Rest,Balanced
+Equity,-,Heidelbergcement Ag,1921,0.00,HEI GR,-,HEIDELBERGCEMENT AG,Listed,Rest,Balanced
+Equity,-,Otsuka,1892,0.00,4768 JP,-,OTSUKA CORP.,Listed,Rest,Balanced
+Equity,-,Securitas Ab,1889,0.00,SECUB SS,-,SECURITAS AB,Listed,Rest,Balanced
+Equity,-,Edenred,1881,0.00,EDEN FP,-,EDENRED,Listed,Rest,Balanced
+Equity,-,Israel Discount Bank,1875,0.00,DSCT IT,-,ISRAEL DISCOUNT BANK LTD.,Listed,Rest,Balanced
+Equity,-,Banco De Sabadell Sa,1870,0.00,SAB SM,-,BANCO DE SABADELL SA,Listed,Rest,Balanced
+Equity,-,Industrivarden Ab,1866,0.00,INDUC SS,-,INDUSTRIVARDEN AB,Listed,Rest,Balanced
+Equity,-,Great-West Lifeco,1857,0.00,GWO CN,-,"GREAT-WEST LIFECO, INC.",Listed,Rest,Balanced
+Equity,-,Obic,1845,0.00,4684 JP,-,OBIC CO. LTD.,Listed,Rest,Balanced
+Equity,-,Elbit Systems,1842,0.00,ESLT IT,-,ELBIT SYSTEMS LTD.,Listed,Rest,Balanced
+Equity,-,Brookfield Renewable,1834,0.00,BEPC CN,-,BROOKFIELD RENEWABLE CORP.,Listed,Rest,Balanced
+Equity,-,Henkel Ag & Kgaa,1829,0.00,HEN GR,-,HENKEL AG & CO. KGAA,Listed,Rest,Balanced
+Equity,-,Accor Sa,1827,0.00,AC FP,-,ACCOR SA,Listed,Rest,Balanced
+Equity,-,H & M Hennes & Mauritz Ab,1822,0.00,HMB SS,-,H & M HENNES & MAURITZ AB,Listed,Rest,Balanced
+Equity,-,Severn Trent,1803,0.00,SVT LN,-,SEVERN TRENT PLC,Listed,Rest,Balanced
+Equity,-,Halma,1801,0.00,HLMA LN,-,HALMA PLC,Listed,Rest,Balanced
+Equity,-,Pan American Silver,1791,0.00,PAAS CN,-,PAN AMERICAN SILVER CORP.,Listed,Rest,Balanced
+Equity,-,Smith & Nephew,1782,0.00,SN LN,-,SMITH & NEPHEW PLC,Listed,Rest,Balanced
+Equity,-,Lifco Ab,1776,0.00,LIFCOB SS,-,LIFCO AB,Listed,Rest,Balanced
+Equity,-,Qiagen Nv,1773,0.00,QIA GR,-,QIAGEN NV,Listed,Rest,Balanced
+Equity,-,Baloise Ag,1771,0.00,BALN SW,-,BALOISE HOLDING AG,Listed,Rest,Balanced
+Equity,-,Orkla Asa,1762,0.00,ORK NO,-,ORKLA ASA,Listed,Rest,Balanced
+Equity,-,Regal Partners,1748,0.00,RPL AU,-,REGAL PARTNERS LTD.,Listed,Rest,Balanced
+Equity,-,Hong Kong & China Gas,1745,0.00,3 HK,-,HONG KONG & CHINA GAS CO. LTD.,Listed,Rest,Balanced
+Equity,-,Altagas,1743,0.00,ALA CN,-,ALTAGAS LTD.,Listed,Rest,Balanced
+Equity,-,Ck Asset,1734,0.00,1113 HK,-,CK ASSET HOLDINGS LTD.,Listed,Rest,Balanced
+Equity,-,Canadian Tire,1726,0.00,CTCA CN,-,CANADIAN TIRE CORP. LTD.,Listed,Rest,Balanced
+Equity,-,Catalyst Metals,1724,0.00,CYL AU,-,CATALYST METALS LTD.,Listed,Rest,Balanced
+Equity,-,Telus,1722,0.00,T CN,-,TELUS CORP.,Listed,Rest,Balanced
+Equity,-,Tis,1714,0.00,3626 JP,-,"TIS, INC.",Listed,Rest,Balanced
+Equity,-,Talanx Ag,1705,0.00,TLX GR,-,TALANX AG,Listed,Rest,Balanced
+Equity,-,Eisai,1702,0.00,4523 JP,-,EISAI CO. LTD.,Listed,Rest,Balanced
+Equity,-,Kansai Electric Power,1700,0.00,9503 JP,-,"KANSAI ELECTRIC POWER CO., INC.",Listed,Rest,Balanced
+Equity,-,Magna International,1686,0.00,MG CN,-,"MAGNA INTERNATIONAL, INC.",Listed,Rest,Balanced
+Equity,-,Poste Italiane Spa,1682,0.00,PST IM,-,POSTE ITALIANE SPA,Listed,Rest,Balanced
+Equity,-,Keppel,1673,0.00,KEP SP,-,KEPPEL CORP. LTD.,Listed,Rest,Balanced
+Equity,-,Sbi,1670,0.00,8473 JP,-,"SBI HOLDINGS, INC.",Listed,Rest,Balanced
+Equity,-,Whitbread,1666,0.00,WTB LN,-,WHITBREAD PLC,Listed,Rest,Balanced
+Equity,-,Skanska Ab,1662,0.00,SKAB SS,-,SKANSKA AB,Listed,Rest,Balanced
+Equity,-,Element Fleet Management,1648,0.00,EFN CN,-,ELEMENT FLEET MANAGEMENT CORP.,Listed,Rest,Balanced
+Equity,-,Cae,1643,0.00,CAE CN,-,"CAE, INC.",Listed,Rest,Balanced
+Equity,-,Sysmex,1643,0.00,6869 JP,-,SYSMEX CORP.,Listed,Rest,Balanced
+Equity,-,Edp Renovaveis Sa,1634,0.00,EDPR PL,-,EDP RENOVAVEIS SA,Listed,Rest,Balanced
+Equity,-,Phoenix,1626,0.00,PHNX LN,-,PHOENIX GROUP HOLDINGS PLC,Listed,Rest,Balanced
+Equity,-,Hankyu Hanshin,1618,0.00,9042 JP,-,"HANKYU HANSHIN HOLDINGS, INC.",Listed,Rest,Balanced
+Equity,-,Mizrahi Tefahot Bank,1617,0.00,MZTF IT,-,MIZRAHI TEFAHOT BANK LTD.,Listed,Rest,Balanced
+Equity,-,Toho,1613,0.00,9602 JP,-,TOHO CO. LTD.,Listed,Rest,Balanced
+Equity,-,Lasertec,1592,0.00,6920 JP,-,LASERTEC CORP.,Listed,Rest,Balanced
+Equity,-,Wilmar International,1577,0.00,WIL SP,-,WILMAR INTERNATIONAL LTD.,Listed,Rest,Balanced
+Equity,-,Sig Ag,1572,0.00,SIGN SW,-,SIG GROUP AG,Listed,Rest,Balanced
+Equity,-,Tenaris Sa,1571,0.00,TEN IM,-,TENARIS SA,Listed,Rest,Balanced
+Equity,-,Arcelormittal Sa,1564,0.00,MT NA,-,ARCELORMITTAL SA,Listed,Rest,Balanced
+Equity,-,Galp Energia Sgps Sa,1564,0.00,GALP PL,-,GALP ENERGIA SGPS SA,Listed,Rest,Balanced
+Equity,-,Henderson Land Development,1564,0.00,12 HK,-,HENDERSON LAND DEVELOPMENT CO. LTD.,Listed,Rest,Balanced
+Equity,-,Japan Post Insurance,1562,0.00,7181 JP,-,JAPAN POST INSURANCE CO. LTD.,Listed,Rest,Balanced
+Equity,-,Akzo Nobel Nv,1551,0.00,AKZA NA,-,AKZO NOBEL NV,Listed,Rest,Balanced
+Equity,-,Wpp,1545,0.00,WPP LN,-,WPP PLC,Listed,Rest,Balanced
+Equity,-,Tryg As,1539,0.00,TRYG DC,-,TRYG AS,Listed,Rest,Balanced
+Equity,-,Mondaycom,1532,0.00,MNDY US,-,MONDAY.COM LTD.,Listed,Rest,Balanced
+Equity,-,Aib,1525,0.00,AIBG ID,-,AIB GROUP PLC,Listed,Rest,Balanced
+Equity,-,Onex,1516,0.00,ONEX CN,-,ONEX CORP.,Listed,Rest,Balanced
+Equity,-,Carrefour Sa,1504,0.00,CA FP,-,CARREFOUR SA,Listed,Rest,Balanced
+Equity,-,Tokyu,1504,0.00,9005 JP,-,TOKYU CORP.,Listed,Rest,Balanced
+Equity,-,Arc Resources,1502,0.00,ARX CN,-,ARC RESOURCES LTD.,Listed,Rest,Balanced
+Equity,-,Capcom,1502,0.00,9697 JP,-,CAPCOM CO. LTD.,Listed,Rest,Balanced
+Equity,-,Addtech Ab,1499,0.00,ADDTB SS,-,ADDTECH AB,Listed,Rest,Balanced
+Equity,-,Generation Development,1498,0.00,GDG AU,-,GENERATION DEVELOPMENT GROUP LTD.,Listed,Rest,Balanced
+Equity,-,Singapore Airlines,1497,0.00,SIA SP,-,SINGAPORE AIRLINES LTD.,Listed,Rest,Balanced
+Equity,-,Osaka Gas,1496,0.00,9532 JP,-,OSAKA GAS CO. LTD.,Listed,Rest,Balanced
+Equity,-,Helvetia Ag,1490,0.00,HELN SW,-,HELVETIA HOLDING AG,Listed,Rest,Balanced
+Equity,-,Toromont Industries,1487,0.00,TIH CN,-,TOROMONT INDUSTRIES LTD.,Listed,Rest,Balanced
+Equity,-,Dcc,1478,0.00,DCC LN,-,DCC PLC,Listed,Rest,Balanced
+Equity,-,Hoshizaki,1477,0.00,6465 JP,-,HOSHIZAKI CORP.,Listed,Rest,Balanced
+Equity,-,Bollore Se,1468,0.00,BOL FP,-,BOLLORE SE,Listed,Rest,Balanced
+Equity,-,Getlink Se,1466,0.00,GET FP,-,GETLINK SE,Listed,Rest,Balanced
+Equity,-,Trend Micro,1459,0.00,4704 JP,-,"TREND MICRO, INC.",Listed,Rest,Balanced
+Equity,-,Kikkoman,1455,0.00,2801 JP,-,KIKKOMAN CORP.,Listed,Rest,Balanced
+Equity,-,Meridian Energy,1454,0.00,MEL NZ,-,MERIDIAN ENERGY LTD.,Listed,Rest,Balanced
+Equity,-,Yakult Honsha,1448,0.00,2267 JP,-,YAKULT HONSHA CO. LTD.,Listed,Rest,Balanced
+Equity,-,Saputo,1437,0.00,SAP CN,-,"SAPUTO, INC.",Listed,Rest,Balanced
+Equity,-,Z,1434,0.00,4689 JP,-,Z HOLDINGS CORP.,Listed,Rest,Balanced
+Equity,-,Daifuku,1427,0.00,6383 JP,-,DAIFUKU CO. LTD.,Listed,Rest,Balanced
+Equity,-,Tele2 Ab,1424,0.00,TEL2B SS,-,TELE2 AB,Listed,Rest,Balanced
+Equity,-,Alstom Sa,1417,0.00,ALO FP,-,ALSTOM SA,Listed,Rest,Balanced
+Equity,-,Horizon Oil,1416,0.00,HZN AU,-,HORIZON OIL LTD.,Listed,Rest,Balanced
+Equity,-,Bayerische Motoren Werke Ag,1403,0.00,BMW3 GR,-,BAYERISCHE MOTOREN WERKE AG,Listed,Rest,Balanced
+Equity,-,Imcd Nv,1402,0.00,IMCD NA,-,IMCD NV,Listed,Rest,Balanced
+Equity,-,Swire Pacific,1401,0.00,19 HK,-,SWIRE PACIFIC LTD.,Listed,Rest,Balanced
+Equity,-,Mowi Asa,1400,0.00,MOWI NO,-,MOWI ASA,Listed,Rest,Balanced
+Equity,-,Kajima,1397,0.00,1812 JP,-,KAJIMA CORP.,Listed,Rest,Balanced
+Equity,-,Lotus Bakeries Nv,1379,0.00,LOTB BB,-,LOTUS BAKERIES NV,Listed,Rest,Balanced
+Equity,-,Indutrade Ab,1374,0.00,INDT SS,-,INDUTRADE AB,Listed,Rest,Balanced
+Equity,-,Hang Seng Bank,1368,0.00,11 HK,-,HANG SENG BANK LTD.,Listed,Rest,Balanced
+Equity,-,Taylor Wimpey,1365,0.00,TW LN,-,TAYLOR WIMPEY PLC,Listed,Rest,Balanced
+Equity,-,Yamaha Motor,1362,0.00,7272 JP,-,YAMAHA MOTOR CO. LTD.,Listed,Rest,Balanced
+Equity,-,Sumitomo Realty & Development,1359,0.00,8830 JP,-,SUMITOMO REALTY & DEVELOPMENT CO. LTD.,Listed,Rest,Balanced
+Equity,-,Zealand Pharma As,1357,0.00,ZEAL DC,-,ZEALAND PHARMA AS,Listed,Rest,Balanced
+Equity,-,Shiseido,1351,0.00,4911 JP,-,SHISEIDO CO. LTD.,Listed,Rest,Balanced
+Equity,-,Hkt Trust & Hkt,1349,0.00,6823 HK,-,HKT TRUST & HKT LTD.,Listed,Rest,Balanced
+Equity,-,Singapore Exchange,1346,0.00,SGX SP,-,SINGAPORE EXCHANGE LTD.,Listed,Rest,Balanced
+Equity,-,Asr Nederland Nv,1345,0.00,ASRNL NA,-,ASR NEDERLAND NV,Listed,Rest,Balanced
+Equity,-,Monotaro,1330,0.00,3064 JP,-,MONOTARO CO. LTD.,Listed,Rest,Balanced
+Equity,-,Global-E Online,1326,0.00,GLBE US,-,GLOBAL-E ONLINE LTD.,Listed,Rest,Balanced
+Equity,-,Rational Ag,1318,0.00,RAA GR,-,RATIONAL AG,Listed,Rest,Balanced
+Equity,-,Concordia Financial,1313,0.00,7186 JP,-,CONCORDIA FINANCIAL GROUP LTD.,Listed,Rest,Balanced
+Equity,-,Toto,1296,0.00,5332 JP,-,TOTO LTD.,Listed,Rest,Balanced
+Equity,-,West Fraser Timber,1295,0.00,WFG CN,-,WEST FRASER TIMBER CO. LTD.,Listed,Rest,Balanced
+Equity,-,Epiroc Ab,1294,0.00,EPIB SS,-,EPIROC AB,Listed,Rest,Balanced
+Equity,-,Sodexo Sa,1294,0.00,SW FP,-,SODEXO SA,Listed,Rest,Balanced
+Equity,-,Zensho,1292,0.00,7550 JP,-,ZENSHO HOLDINGS CO. LTD.,Listed,Rest,Balanced
+Equity,-,Wise,1288,0.00,WISE LN,-,WISE PLC,Listed,Rest,Balanced
+Equity,-,Knorr-Bremse Ag,1287,0.00,KBX GR,-,KNORR-BREMSE AG,Listed,Rest,Balanced
+Equity,-,Svenska Cellulosa Ab Sca,1283,0.00,SCAB SS,-,SVENSKA CELLULOSA AB SCA,Listed,Rest,Balanced
+Equity,-,Bouygues Sa,1282,0.00,EN FP,-,BOUYGUES SA,Listed,Rest,Balanced
+Equity,-,Aisin,1258,0.00,7259 JP,-,AISIN CORP.,Listed,Rest,Balanced
+Equity,-,Swatch Ag,1252,0.00,UHR SW,-,SWATCH GROUP AG,Listed,Rest,Balanced
+Equity,-,Randstad Nv,1251,0.00,RAND NA,-,RANDSTAD NV,Listed,Rest,Balanced
+Equity,-,Dentsu,1249,0.00,4324 JP,-,"DENTSU GROUP, INC.",Listed,Rest,Balanced
+Equity,-,Fastighets Ab Balder,1249,0.00,BALDB SS,-,FASTIGHETS AB BALDER,Listed,Rest,Balanced
+Equity,-,Suntory Beverage & Food,1248,0.00,2587 JP,-,SUNTORY BEVERAGE & FOOD LTD.,Listed,Rest,Balanced
+Equity,-,Fortum Oyj,1246,0.00,FORTUM FH,-,FORTUM OYJ,Listed,Rest,Balanced
+Equity,-,Sagax Ab,1242,0.00,SAGAB SS,-,SAGAX AB,Listed,Rest,Balanced
+Equity,-,Admiral,1236,0.00,ADM LN,-,ADMIRAL GROUP PLC,Listed,Rest,Balanced
+Equity,-,Skf Ab,1226,0.00,SKFB SS,-,SKF AB,Listed,Rest,Balanced
+Equity,-,Taisei,1218,0.00,1801 JP,-,TAISEI CORP.,Listed,Rest,Balanced
+Equity,-,Arkema Sa,1217,0.00,AKE FP,-,ARKEMA SA,Listed,Rest,Balanced
+Equity,-,Eurofins Scientific Se,1212,0.00,ERF FP,-,EUROFINS SCIENTIFIC SE,Listed,Rest,Balanced
+Equity,-,Nemetschek Se,1210,0.00,NEM GR,-,NEMETSCHEK SE,Listed,Rest,Balanced
+Equity,-,Boliden Ab,1209,0.00,BOL SS,-,BOLIDEN AB,Listed,Rest,Balanced
+Equity,-,Delivery Hero Se,1206,0.00,DHER GR,-,DELIVERY HERO SE,Listed,Rest,Balanced
+Equity,-,Jupiter Mines,1203,0.00,JMS AU,-,JUPITER MINES LTD.,Listed,Rest,Balanced
+Equity,-,Nissin Foods,1202,0.00,2897 JP,-,NISSIN FOODS HOLDINGS CO. LTD.,Listed,Rest,Balanced
+Equity,-,Norsk Hydro Asa,1200,0.00,NHY NO,-,NORSK HYDRO ASA,Listed,Rest,Balanced
+Equity,-,Open Text,1200,0.00,OTEX CN,-,OPEN TEXT CORP.,Listed,Rest,Balanced
+Equity,-,Omron,1192,0.00,6645 JP,-,OMRON CORP.,Listed,Rest,Balanced
+Equity,-,Jeronimo Martins Sgps Sa,1188,0.00,JMT PL,-,JERONIMO MARTINS SGPS SA,Listed,Rest,Balanced
+Equity,-,Berkeley,1184,0.00,BKG LN,-,BERKELEY GROUP HOLDINGS PLC,Listed,Rest,Balanced
+Equity,-,Rexel Sa,1179,0.00,RXL FP,-,REXEL SA,Listed,Rest,Balanced
+Equity,-,Swedish Orphan Biovitrum Ab,1178,0.00,SOBI SS,-,SWEDISH ORPHAN BIOVITRUM AB,Listed,Rest,Balanced
+Equity,-,Toppan,1158,0.00,7911 JP,-,"TOPPAN, INC.",Listed,Rest,Balanced
+Equity,-,Ono Pharmaceutical,1157,0.00,4528 JP,-,ONO PHARMACEUTICAL CO. LTD.,Listed,Rest,Balanced
+Equity,-,Zozo,1155,0.00,3092 JP,-,"ZOZO, INC.",Listed,Rest,Balanced
+Equity,-,Verbund Ag,1151,0.00,VER AV,-,VERBUND AG,Listed,Rest,Balanced
+Equity,-,Solvar,1144,0.00,SVR AU,-,SOLVAR LTD.,Listed,Rest,Balanced
+Equity,-,Temenos Ag,1139,0.00,TEMN SW,-,TEMENOS AG,Listed,Rest,Balanced
+Equity,-,Chiba Bank,1137,0.00,8331 JP,-,CHIBA BANK LTD.,Listed,Rest,Balanced
+Equity,-,Mitsui Chemicals,1137,0.00,4183 JP,-,"MITSUI CHEMICALS, INC.",Listed,Rest,Balanced
+Equity,-,Shizuoka Financial,1128,0.00,5831 JP,-,"SHIZUOKA FINANCIAL GROUP, INC.",Listed,Rest,Balanced
+Equity,-,Kobe Bussan,1127,0.00,3038 JP,-,KOBE BUSSAN CO. LTD.,Listed,Rest,Balanced
+Equity,-,Neste Oyj,1118,0.00,NESTE FH,-,NESTE OYJ,Listed,Rest,Balanced
+Equity,-,Mondi,1111,0.00,MNDI LN,-,MONDI PLC,Listed,Rest,Balanced
+Equity,-,Nissan Motor,1107,0.00,7201 JP,-,NISSAN MOTOR CO. LTD.,Listed,Rest,Balanced
+Equity,-,Nippon Sanso,1101,0.00,4091 JP,-,NIPPON SANSO HOLDINGS CORP.,Listed,Rest,Balanced
+Equity,-,Barry Callebaut Ag,1094,0.00,BARN SW,-,BARRY CALLEBAUT AG,Listed,Rest,Balanced
+Equity,-,Australian Finance,1086,0.00,AFG AU,-,AUSTRALIAN FINANCE GROUP LTD.,Listed,Rest,Balanced
+Equity,-,Metso Outotec Oyj,1086,0.00,METSO FH,-,METSO OUTOTEC OYJ,Listed,Rest,Balanced
+Equity,-,Nippon Paint,1073,0.00,4612 JP,-,NIPPON PAINT HOLDINGS CO. LTD.,Listed,Rest,Balanced
+Equity,-,Parkland,1064,0.00,PKI CN,-,PARKLAND CORP.,Listed,Rest,Balanced
+Equity,-,Chubu Electric Power,1063,0.00,9502 JP,-,"CHUBU ELECTRIC POWER CO., INC.",Listed,Rest,Balanced
+Equity,-,Antofagasta,1057,0.00,ANTO LN,-,ANTOFAGASTA PLC,Listed,Rest,Balanced
+Equity,-,Leg Immobilien Se,1055,0.00,LEG GR,-,LEG IMMOBILIEN SE,Listed,Rest,Balanced
+Equity,-,Hargreaves Lansdown,1054,0.00,HL LN,-,HARGREAVES LANSDOWN PLC,Listed,Rest,Balanced
+Equity,-,Saab Ab,1053,0.00,SAABB SS,-,SAAB AB,Listed,Rest,Balanced
+Equity,-,Sumitomo Metal Mining,1042,0.00,5713 JP,-,SUMITOMO METAL MINING CO. LTD.,Listed,Rest,Balanced
+Equity,-,Alkane Resources,1032,0.00,ALK AU,-,ALKANE RESOURCES LTD.,Listed,Rest,Balanced
+Equity,-,Stora Enso Oyj,1030,0.00,STERV FH,-,STORA ENSO OYJ,Listed,Rest,Balanced
+Equity,-,D'Ieteren,1014,0.00,DIE BB,-,D'IETEREN GROUP,Listed,Rest,Balanced
+Equity,-,Syensqo Sa,1011,0.00,SYENS BB,-,SYENSQO SA,Listed,Rest,Balanced
+Equity,-,Mtr,1006,0.00,66 HK,-,MTR CORP. LTD.,Listed,Rest,Balanced
+Equity,-,Persimmon,992,0.00,PSN LN,-,PERSIMMON PLC,Listed,Rest,Balanced
+Equity,-,Dr Ing Hc F Porsche Ag,977,0.00,P911 GR,-,DR ING HC F PORSCHE AG,Listed,Rest,Balanced
+Equity,-,Minebea Mitsumi,976,0.00,6479 JP,-,"MINEBEA MITSUMI, INC.",Listed,Rest,Balanced
+Equity,-,Nexi Spa,967,0.00,NEXI IM,-,NEXI SPA,Listed,Rest,Balanced
+Equity,-,Inpost Sa,958,0.00,INPST NA,-,INPOST SA,Listed,Rest,Balanced
+Equity,-,Amplifon Spa,937,0.00,AMP IM,-,AMPLIFON SPA,Listed,Rest,Balanced
+Equity,-,Bper Banca Spa,937,0.00,BPE IM,-,BPER BANCA SPA,Listed,Rest,Balanced
+Equity,-,Sartorius Stedim Biotech,934,0.00,DIM FP,-,SARTORIUS STEDIM BIOTECH,Listed,Rest,Balanced
+Equity,-,Sitc International,933,0.00,1308 HK,-,SITC INTERNATIONAL HOLDINGS CO. LTD.,Listed,Rest,Balanced
+Equity,-,Salmar Asa,927,0.00,SALM NO,-,SALMAR ASA,Listed,Rest,Balanced
+Equity,-,Wharf,927,0.00,4 HK,-,WHARF HOLDINGS LTD.,Listed,Rest,Balanced
+Equity,-,Adecco Ag,906,0.00,ADEN SW,-,ADECCO GROUP AG,Listed,Rest,Balanced
+Equity,-,Yaskawa Electric,906,0.00,6506 JP,-,YASKAWA ELECTRIC CORP.,Listed,Rest,Balanced
+Equity,-,Demant As,903,0.00,DEMANT DC,-,DEMANT AS,Listed,Rest,Balanced
+Equity,-,Tokyo Electric Power,903,0.00,9501 JP,-,"TOKYO ELECTRIC POWER CO. HOLDINGS, INC.",Listed,Rest,Balanced
+Equity,-,Beijer Ref Ab,901,0.00,BEIJB SS,-,BEIJER REF AB,Listed,Rest,Balanced
+Equity,-,Entain,900,0.00,ENT LN,-,ENTAIN PLC,Listed,Rest,Balanced
+Equity,-,Davide Campari-Milano Nv,895,0.00,CPR IM,-,DAVIDE CAMPARI-MILANO NV,Listed,Rest,Balanced
+Equity,-,Futu,888,0.00,FUTU US,-,FUTU HOLDINGS LTD.,Listed,Rest,Balanced
+Equity,-,Nexon,872,0.00,3659 JP,-,NEXON CO. LTD.,Listed,Rest,Balanced
+Equity,-,Getinge Ab,866,0.00,GETIB SS,-,GETINGE AB,Listed,Rest,Balanced
+Equity,-,Puma Se,861,0.00,PUM GR,-,PUMA SE,Listed,Rest,Balanced
+Equity,-,M3,860,0.00,2413 JP,-,"M3, INC.",Listed,Rest,Balanced
+Equity,-,Kawasaki Kisen Kaisha,857,0.00,9107 JP,-,KAWASAKI KISEN KAISHA LTD.,Listed,Rest,Balanced
+Equity,-,Meg Energy,834,0.00,MEG CN,-,MEG ENERGY CORP.,Listed,Rest,Balanced
+Equity,-,Nibe Industrier Ab,826,0.00,NIBEB SS,-,NIBE INDUSTRIER AB,Listed,Rest,Balanced
+Equity,-,Lundin Mining,810,0.00,LUN CN,-,LUNDIN MINING CORP.,Listed,Rest,Balanced
+Equity,-,Banque Cantonale Vaudoise,757,0.00,BCVN SW,-,BANQUE CANTONALE VAUDOISE,Listed,Rest,Balanced
+Equity,-,Aeroports De Paris,755,0.00,ADP FP,-,AEROPORTS DE PARIS,Listed,Rest,Balanced
+Equity,-,Jfe,746,0.00,5411 JP,-,"JFE HOLDINGS, INC.",Listed,Rest,Balanced
+Equity,-,Mercury Nz,746,0.00,MCY NZ,-,MERCURY NZ LTD.,Listed,Rest,Balanced
+Equity,-,Humm,735,0.00,HUM AU,-,HUMM GROUP LTD.,Listed,Rest,Balanced
+Equity,-,Mcdonald'S Japan,730,0.00,2702 JP,-,MCDONALD'S HOLDINGS CO. JAPAN LTD.,Listed,Rest,Balanced
+Equity,-,Infratil,728,0.00,IFT NZ,-,INFRATIL LTD.,Listed,Rest,Balanced
+Equity,-,Agc,727,0.00,5201 JP,-,"AGC, INC.",Listed,Rest,Balanced
+Equity,-,Genting Singapore,721,0.00,GENS SP,-,GENTING SINGAPORE LTD.,Listed,Rest,Balanced
+Equity,-,Pantoro,715,0.00,PNR AU,-,PANTORO LTD.,Listed,Rest,Balanced
+Equity,-,Bachem Ag,704,0.00,BANB SW,-,BACHEM HOLDING AG,Listed,Rest,Balanced
+Equity,-,Yara International Asa,682,0.00,YAR NO,-,YARA INTERNATIONAL ASA,Listed,Rest,Balanced
+Equity,-,Grifols Sa,677,0.00,GRF SM,-,GRIFOLS SA,Listed,Rest,Balanced
+Equity,-,Avolta Ag,671,0.00,AVOL SW,-,AVOLTA AG,Listed,Rest,Balanced
+Equity,-,Jde Peet'S Nv,634,0.00,JDEP NA,-,JDE PEET'S NV,Listed,Rest,Balanced
+Equity,-,Jd Sports Fashion,629,0.00,JD LN,-,JD SPORTS FASHION PLC,Listed,Rest,Balanced
+Equity,-,Teleperformance,626,0.00,TEP FP,-,TELEPERFORMANCE,Listed,Rest,Balanced
+Equity,-,Autosports,607,0.00,ASG AU,-,AUTOSPORTS GROUP LTD.,Listed,Rest,Balanced
+Equity,-,Carl Zeiss Meditec Ag,572,0.00,AFX GR,-,CARL ZEISS MEDITEC AG,Listed,Rest,Balanced
+Equity,-,Pointsbet,560,0.00,PBH AU,-,POINTSBET HOLDINGS LTD.,Listed,Rest,Balanced
+Equity,-,Aurelia Metals,536,0.00,AMI AU,-,AURELIA METALS LTD.,Listed,Rest,Balanced
+Equity,-,Bechtle Ag,530,0.00,BC8 GR,-,BECHTLE AG,Listed,Rest,Balanced
+Equity,-,Aic Mines,507,0.00,A1M AU,-,AIC MINES LTD.,Listed,Rest,Balanced
+Equity,-,Elia Sa,473,0.00,ELI BB,-,ELIA GROUP SA,Listed,Rest,Balanced
+Equity,-,Hikari Tsushin,452,0.00,9435 JP,-,"HIKARI TSUSHIN, INC.",Listed,Rest,Balanced
+Equity,-,Falcon Metals,397,0.00,FAL AU,-,FALCON METALS LTD.,Listed,Rest,Balanced
+Equity,-,Canal & France Sa,395,0.00,YA3 GR,-,CANAL & FRANCE SA,Listed,Rest,Balanced
+Equity,-,Step One Clothing,384,0.00,STP AU,-,STEP ONE CLOTHING LTD.,Listed,Rest,Balanced
+Equity,-,Kokusai Electric,365,0.00,6525 JP,-,KOKUSAI ELECTRIC CORP.,Listed,Rest,Balanced
+Equity,-,Global Data Centre,353,0.00,GDC AU,-,GLOBAL DATA CENTRE GROUP,Listed,Rest,Balanced
+Equity,-,Solstice Minerals,350,0.00,SLS AU,-,SOLSTICE MINERALS LTD.,Listed,Rest,Balanced
+Equity,-,Schindler Ag,349,0.00,SCHN SW,-,SCHINDLER HOLDING AG,Listed,Rest,Balanced
+Equity,-,Elisa Oyj,338,0.00,ELISA FH,-,ELISA OYJ,Listed,Rest,Balanced
+Equity,-,Volvo Ab,336,0.00,VOLVA SS,-,VOLVO AB,Listed,Rest,Balanced
+Equity,-,Recordati Industria Chimica E Farmaceutica Spa,317,0.00,REC IM,-,RECORDATI INDUSTRIA CHIMICA E FARMACEUTICA SPA,Listed,Rest,Balanced
+Equity,-,Sg,316,0.00,9143 JP,-,SG HOLDINGS CO. LTD.,Listed,Rest,Balanced
+Equity,-,Singapore Technologies Engineering,310,0.00,STE SP,-,SINGAPORE TECHNOLOGIES ENGINEERING LTD.,Listed,Rest,Balanced
+Equity,-,Dgl,307,0.00,DGL AU,-,DGL GROUP LTD.,Listed,Rest,Balanced
+Equity,-,Ems-Chemie Ag,292,0.00,EMSN SW,-,EMS-CHEMIE HOLDING AG,Listed,Rest,Balanced
+Equity,-,Kesko Oyj,291,0.00,KESKOB FH,-,KESKO OYJ,Listed,Rest,Balanced
+Equity,-,Orion Oyj,273,0.00,ORNBV FH,-,ORION OYJ,Listed,Rest,Balanced
+Equity,-,Ap Moller - Maersk As,264,0.00,MAERSKA DC,-,AP MOLLER - MAERSK AS,Listed,Rest,Balanced
+Equity,-,Havas Nv,261,0.00,HAVAS NA,-,HAVAS NV,Listed,Rest,Balanced
+Equity,-,Biomerieux,260,0.00,BIM FP,-,BIOMERIEUX,Listed,Rest,Balanced
+Equity,-,Ipsen Sa,253,0.00,IPN FP,-,IPSEN SA,Listed,Rest,Balanced
+Equity,-,Hikma Pharmaceuticals,247,0.00,HIK LN,-,HIKMA PHARMACEUTICALS PLC,Listed,Rest,Balanced
+Equity,-,Amundi Sa,241,0.00,AMUN FP,-,AMUNDI SA,Listed,Rest,Balanced
+Equity,-,Investment Ab Latour,227,0.00,LATOB SS,-,INVESTMENT AB LATOUR,Listed,Rest,Balanced
+Equity,-,Azrieli,219,0.00,AZRG IT,-,AZRIELI GROUP LTD.,Listed,Rest,Balanced
+Equity,-,Scsk,218,0.00,9719 JP,-,SCSK CORP.,Listed,Rest,Balanced
+Equity,-,Gjensidige Forsikring Asa,214,0.00,GJF NO,-,GJENSIDIGE FORSIKRING ASA,Listed,Rest,Balanced
+Equity,-,Bkw Ag,212,0.00,BKW SW,-,BKW AG,Listed,Rest,Balanced
+Equity,-,Sofina Sa,210,0.00,SOF BB,-,SOFINA SA,Listed,Rest,Balanced
+Equity,-,L E Lundbergforetagen Ab,207,0.00,LUNDB SS,-,L E LUNDBERGFORETAGEN AB,Listed,Rest,Balanced
+Equity,-,Schroders,206,0.00,SDR LN,-,SCHRODERS PLC,Listed,Rest,Balanced
+Equity,-,Holmen Ab,204,0.00,HOLMB SS,-,HOLMEN AB,Listed,Rest,Balanced
+Equity,-,Quebecor,202,0.00,QBRB CN,-,"QUEBECOR, INC.",Listed,Rest,Balanced
+Equity,-,Icl,201,0.00,ICL IT,-,ICL GROUP LTD.,Listed,Rest,Balanced
+Equity,-,Oracle Japan,199,0.00,4716 JP,-,ORACLE CORP. JAPAN,Listed,Rest,Balanced
+Equity,-,Telecom Italia Spa,154,0.00,TIT IM,-,TELECOM ITALIA SPA,Listed,Rest,Balanced
+Equity,-,Clariant Ag,144,0.00,CLN SW,-,CLARIANT AG,Listed,Rest,Balanced
+Equity,-,Seb Sa,140,0.00,SK FP,-,SEB SA,Listed,Rest,Balanced
+Equity,-,Hitachi Construction Machinery,138,0.00,6305 JP,-,HITACHI CONSTRUCTION MACHINERY CO. LTD.,Listed,Rest,Balanced
+Equity,-,Bce,102,0.00,BCE CN,-,"BCE, INC.",Listed,Rest,Balanced
+Equity,-,Ppk Mining Equipment,60,0.00,PPK AU,-,PPK MINING EQUIPMENT GROUP PTY LTD.,Listed,Rest,Balanced
+Equity,-,Travis Perkins,12,0.00,TPK LN,-,TRAVIS PERKINS PLC,Listed,Rest,Balanced
+Equity,-,Atlantic Lithium,5,0.00,A11 AU,-,ATLANTIC LITHIUM LTD.,Listed,Rest,Balanced
+Equity,-,Abiomed,0,0.00,2223637D,-,"ABIOMED, INC.",Listed,Rest,Balanced
+Equity,-,Beluga Pjsc,0,0.00,BELU RM,-,BELUGA GROUP PJSC,Listed,Rest,Balanced
+Sub Total Listed Equity,,,638947984,36.85,,,,,Rest,Balanced
+Sub Total Unlisted Equity Internally,,,0,0.00,,,,,Rest,Balanced
+Equity,Externally,-,9638145,0.56,-,-,-,Unlisted,Rest,Balanced
+Equity,Externally,-,4286360,0.25,-,-,-,Unlisted,Rest,Balanced
+Equity,Externally,-,3329023,0.19,-,-,-,Unlisted,Rest,Balanced
+Equity,Externally,-,3069966,0.18,-,-,-,Unlisted,Rest,Balanced
+Equity,Externally,-,2945086,0.17,-,-,-,Unlisted,Rest,Balanced
+Equity,Externally,-,1797300,0.10,-,-,-,Unlisted,Rest,Balanced
+Equity,Externally,-,1719304,0.10,-,-,-,Unlisted,Rest,Balanced
+Equity,Externally,-,1668393,0.10,-,-,-,Unlisted,Rest,Balanced
+Equity,Externally,-,1521746,0.09,-,-,-,Unlisted,Rest,Balanced
+Equity,Externally,-,1096715,0.06,-,-,-,Unlisted,Rest,Balanced
+Equity,Externally,-,866828,0.05,-,-,-,Unlisted,Rest,Balanced
+Equity,Externally,-,808567,0.05,-,-,-,Unlisted,Rest,Balanced
+Equity,Externally,-,772720,0.04,-,-,-,Unlisted,Rest,Balanced
+Equity,Externally,-,536667,0.03,-,-,-,Unlisted,Rest,Balanced
+Equity,Externally,-,428503,0.02,-,-,-,Unlisted,Rest,Balanced
+Equity,Externally,-,399124,0.02,-,-,-,Unlisted,Rest,Balanced
+Equity,Externally,-,397307,0.02,-,-,-,Unlisted,Rest,Balanced
+Equity,Externally,-,386818,0.02,-,-,-,Unlisted,Rest,Balanced
+Equity,Externally,-,363450,0.02,-,-,-,Unlisted,Rest,Balanced
+Equity,Externally,-,135721,0.01,-,-,-,Unlisted,Rest,Balanced
+Equity,Externally,-,53666,0.00,-,-,-,Unlisted,Rest,Balanced
+Equity,Externally,-,3376,0.00,-,-,-,Unlisted,Rest,Balanced
+Sub Total Unlisted Equity Externally,,,36224785,2.09,,,,,Rest,Balanced
+Property,-,GOODMAN GROUP,7050893,0.41,GMG AU,-,GOODMAN GROUP,Listed,Rest,Balanced
+Property,-,MIRVAC GROUP,1943494,0.11,MGR AU,-,MIRVAC GROUP,Listed,Rest,Balanced
+Property,-,DEXUS,1934908,0.11,DXS AU,-,DEXUS,Listed,Rest,Balanced
+Property,-,HMC CAPITAL LTD.,1687984,0.10,HMC AU,-,HMC CAPITAL LTD.,Listed,Rest,Balanced
+Property,-,STOCKLAND,865525,0.05,SGP AU,-,STOCKLAND,Listed,Rest,Balanced
+Property,-,CHARTER HALL GROUP,833421,0.05,CHC AU,-,CHARTER HALL GROUP,Listed,Rest,Balanced
+Property,-,"PROLOGIS, INC.",777593,0.04,PLD US,-,"PROLOGIS, INC.",Listed,Rest,Balanced
+Property,-,DIGICO INFRASTRUCTURE REIT,674725,0.04,DGT AU,-,DIGICO INFRASTRUCTURE REIT,Listed,Rest,Balanced
+Property,-,"EQUINIX, INC.",479557,0.03,EQIX US,-,"EQUINIX, INC.",Listed,Rest,Balanced
+Property,-,SCENTRE GROUP,467439,0.03,SCG AU,-,SCENTRE GROUP,Listed,Rest,Balanced
+Property,-,CHARTER HALL SOCIAL INFRASTRUCTURE REIT,446282,0.03,CQE AU,-,CHARTER HALL SOCIAL INFRASTRUCTURE REIT,Listed,Rest,Balanced
+Property,-,"SIMON PROPERTY GROUP, INC.",441146,0.03,SPG US,-,"SIMON PROPERTY GROUP, INC.",Listed,Rest,Balanced
+Property,-,AMERICAN TOWER CORP.,409248,0.02,AMT US,-,AMERICAN TOWER CORP.,Listed,Rest,Balanced
+Property,-,WEYERHAEUSER CO.,389146,0.02,WY US,-,WEYERHAEUSER CO.,Listed,Rest,Balanced
+Property,-,"AVALONBAY COMMUNITIES, INC.",313670,0.02,AVB US,-,"AVALONBAY COMMUNITIES, INC.",Listed,Rest,Balanced
+Property,-,CHARTER HALL RETAIL REIT,271592,0.02,CQR AU,-,CHARTER HALL RETAIL REIT,Listed,Rest,Balanced
+Property,-,WAYPOINT REIT LTD.,257348,0.01,WPR AU,-,WAYPOINT REIT LTD.,Listed,Rest,Balanced
+Property,-,"UDR, INC.",253669,0.01,UDR US,-,"UDR, INC.",Listed,Rest,Balanced
+Property,-,"VICI PROPERTIES, INC.",238916,0.01,VICI US,-,"VICI PROPERTIES, INC.",Listed,Rest,Balanced
+Property,-,"CROWN CASTLE, INC.",232131,0.01,CCI US,-,"CROWN CASTLE, INC.",Listed,Rest,Balanced
+Property,-,CAMDEN PROPERTY TRUST,230362,0.01,CPT US,-,CAMDEN PROPERTY TRUST,Listed,Rest,Balanced
+Property,-,VICINITY LTD.,230186,0.01,VCX AU,-,VICINITY LTD.,Listed,Rest,Balanced
+Property,-,GPT GROUP,226892,0.01,GPT AU,-,GPT GROUP,Listed,Rest,Balanced
+Property,-,"ESSEX PROPERTY TRUST, INC.",216902,0.01,ESS US,-,"ESSEX PROPERTY TRUST, INC.",Listed,Rest,Balanced
+Property,-,EQUITY RESIDENTIAL,205087,0.01,EQR US,-,EQUITY RESIDENTIAL,Listed,Rest,Balanced
+Property,-,CHARTER HALL LONG WALE REIT,142732,0.01,CLW AU,-,CHARTER HALL LONG WALE REIT,Listed,Rest,Balanced
+Property,-,REGENCY CENTERS CORP.,138673,0.01,REG US,-,REGENCY CENTERS CORP.,Listed,Rest,Balanced
+Property,-,"WELLTOWER, INC.",104897,0.01,WELL US,-,"WELLTOWER, INC.",Listed,Rest,Balanced
+Property,-,"WP CAREY, INC.",102086,0.01,WPC US,-,"WP CAREY, INC.",Listed,Rest,Balanced
+Property,-,BRITISH LAND CO. PLC,89214,0.01,BLND LN,-,BRITISH LAND CO. PLC,Listed,Rest,Balanced
+Property,-,HOMECO DAILY NEEDS REIT,87281,0.01,HDN AU,-,HOMECO DAILY NEEDS REIT,Listed,Rest,Balanced
+Property,-,GDI PROPERTY GROUP PARTNERSHIP,81267,0.00,GDI AU,-,GDI PROPERTY GROUP PARTNERSHIP,Listed,Rest,Balanced
+Property,-,REALTY INCOME CORP.,79950,0.00,O US,-,REALTY INCOME CORP.,Listed,Rest,Balanced
+Property,-,SITE CENTERS CORP.,78265,0.00,SITC US,-,SITE CENTERS CORP.,Listed,Rest,Balanced
+Property,-,ARENA REIT,73925,0.00,ARF AU,-,ARENA REIT,Listed,Rest,Balanced
+Property,-,PUBLIC STORAGE,71427,0.00,PSA US,-,PUBLIC STORAGE,Listed,Rest,Balanced
+Property,-,"PIEDMONT OFFICE REALTY TRUST, INC.",62950,0.00,PDM US,-,"PIEDMONT OFFICE REALTY TRUST, INC.",Listed,Rest,Balanced
+Property,-,COVIVIO,59280,0.00,COV FP,-,COVIVIO,Listed,Rest,Balanced
+Property,-,SBA COMMUNICATIONS CORP.,58838,0.00,SBAC US,-,SBA COMMUNICATIONS CORP.,Listed,Rest,Balanced
+Property,-,"COUSINS PROPERTIES, INC.",56094,0.00,CUZ US,-,"COUSINS PROPERTIES, INC.",Listed,Rest,Balanced
+Property,-,LINK REIT,55371,0.00,823 HK,-,LINK REIT,Listed,Rest,Balanced
+Property,-,"BRIXMOR PROPERTY GROUP, INC.",54401,0.00,BRX US,-,"BRIXMOR PROPERTY GROUP, INC.",Listed,Rest,Balanced
+Property,-,LAMAR ADVERTISING CO.,54261,0.00,LAMR US,-,LAMAR ADVERTISING CO.,Listed,Rest,Balanced
+Property,-,KILROY REALTY CORP.,51832,0.00,KRC US,-,KILROY REALTY CORP.,Listed,Rest,Balanced
+Property,-,CENTURIA CAPITAL GROUP,51028,0.00,CNI AU,-,CENTURIA CAPITAL GROUP,Listed,Rest,Balanced
+Property,-,"EXTRA SPACE STORAGE, INC.",43520,0.00,EXR US,-,"EXTRA SPACE STORAGE, INC.",Listed,Rest,Balanced
+Property,-,"GAMING & LEISURE PROPERTIES, INC.",43102,0.00,GLPI US,-,"GAMING & LEISURE PROPERTIES, INC.",Listed,Rest,Balanced
+Property,-,"IRON MOUNTAIN, INC.",42985,0.00,IRM US,-,"IRON MOUNTAIN, INC.",Listed,Rest,Balanced
+Property,-,"INVITATION HOMES, INC.",40466,0.00,INVH US,-,"INVITATION HOMES, INC.",Listed,Rest,Balanced
+Property,-,GROWTHPOINT PROPERTIES AUSTRALIA LTD.,39348,0.00,GOZ AU,-,GROWTHPOINT PROPERTIES AUSTRALIA LTD.,Listed,Rest,Balanced
+Property,-,"EQUITY LIFESTYLE PROPERTIES, INC.",36942,0.00,ELS US,-,"EQUITY LIFESTYLE PROPERTIES, INC.",Listed,Rest,Balanced
+Property,-,BRANDYWINE REALTY TRUST,35056,0.00,BDN US,-,BRANDYWINE REALTY TRUST,Listed,Rest,Balanced
+Property,-,CROMWELL PROPERTY GROUP,34412,0.00,CMW AU,-,CROMWELL PROPERTY GROUP,Listed,Rest,Balanced
+Property,-,BWP TRUST,34190,0.00,BWP AU,-,BWP TRUST,Listed,Rest,Balanced
+Property,-,KIMCO REALTY CORP.,31041,0.00,KIM US,-,KIMCO REALTY CORP.,Listed,Rest,Balanced
+Property,-,CENTURIA INDUSTRIAL REIT,30982,0.00,CIP AU,-,CENTURIA INDUSTRIAL REIT,Listed,Rest,Balanced
+Property,-,AMERICAN HOMES 4 RENT,26888,0.00,AMH US,-,AMERICAN HOMES 4 RENT,Listed,Rest,Balanced
+Property,-,ABACUS STORAGE KING,23764,0.00,ASK AU,-,ABACUS STORAGE KING,Listed,Rest,Balanced
+Property,-,"HEALTHCARE REALTY TRUST, INC.",23383,0.00,HR US,-,"HEALTHCARE REALTY TRUST, INC.",Listed,Rest,Balanced
+Property,-,"BOSTON PROPERTIES, INC.",21564,0.00,BXP US,-,"BOSTON PROPERTIES, INC.",Listed,Rest,Balanced
+Property,-,HOTEL PROPERTY INVESTMENTS LTD.,21384,0.00,HPI AU,-,HOTEL PROPERTY INVESTMENTS LTD.,Listed,Rest,Balanced
+Property,-,"VENTAS, INC.",21152,0.00,VTR US,-,"VENTAS, INC.",Listed,Rest,Balanced
+Property,-,"ANNALY CAPITAL MANAGEMENT, INC.",19230,0.00,NLY US,-,"ANNALY CAPITAL MANAGEMENT, INC.",Listed,Rest,Balanced
+Property,-,"HIGHWOODS PROPERTIES, INC.",18765,0.00,HIW US,-,"HIGHWOODS PROPERTIES, INC.",Listed,Rest,Balanced
+Property,-,"SUN COMMUNITIES, INC.",17704,0.00,SUI US,-,"SUN COMMUNITIES, INC.",Listed,Rest,Balanced
+Property,-,GECINA SA,17580,0.00,GFC FP,-,GECINA SA,Listed,Rest,Balanced
+Property,-,"HOST HOTELS & RESORTS, INC.",17322,0.00,HST US,-,"HOST HOTELS & RESORTS, INC.",Listed,Rest,Balanced
+Property,-,HEALTHCO REIT,15865,0.00,HCW AU,-,HEALTHCO REIT,Listed,Rest,Balanced
+Property,-,"ALEXANDRIA REAL ESTATE EQUITIES, INC.",13383,0.00,ARE US,-,"ALEXANDRIA REAL ESTATE EQUITIES, INC.",Listed,Rest,Balanced
+Property,-,UNIBAIL-RODAMCO-WESTFIELD,12896,0.00,URW FP,-,UNIBAIL-RODAMCO-WESTFIELD,Listed,Rest,Balanced
+Property,-,KLEPIERRE SA,12437,0.00,LI FP,-,KLEPIERRE SA,Listed,Rest,Balanced
+Property,-,REGION RE LTD.,10972,0.00,RGN AU,-,REGION RE LTD.,Listed,Rest,Balanced
+Property,-,CENTURIA OFFICE REIT,10929,0.00,COF AU,-,CENTURIA OFFICE REIT,Listed,Rest,Balanced
+Property,-,H&R REAL ESTATE INVESTMENT TRUST,9098,0.00,HRU CN,-,H&R REAL ESTATE INVESTMENT TRUST,Listed,Rest,Balanced
+Property,-,NATIONAL STORAGE REIT,3889,0.00,NSR AU,-,NATIONAL STORAGE REIT,Listed,Rest,Balanced
+Property,-,SEGRO PLC,2961,0.00,SGRO LN,-,SEGRO PLC,Listed,Rest,Balanced
+Property,-,DEXUS INDUSTRIA REIT,2384,0.00,DXI AU,-,DEXUS INDUSTRIA REIT,Listed,Rest,Balanced
+Property,-,CAPITALAND INTEGRATED COMMERCIAL TRUST,1964,0.00,CICT SP,-,CAPITALAND INTEGRATED COMMERCIAL TRUST,Listed,Rest,Balanced
+Property,-,CAPITALAND ASCENDAS REIT,1924,0.00,CLAR SP,-,CAPITALAND ASCENDAS REIT,Listed,Rest,Balanced
+Property,-,"NIPPON BUILDING FUND, INC.",1764,0.00,8951 JP,-,"NIPPON BUILDING FUND, INC.",Listed,Rest,Balanced
+Property,-,LAND SECURITIES GROUP PLC,1465,0.00,LAND LN,-,LAND SECURITIES GROUP PLC,Listed,Rest,Balanced
+Property,-,ABACUS GROUP,807,0.00,ABG AU,-,ABACUS GROUP,Listed,Rest,Balanced
+Property,-,JAPAN REAL ESTATE INVESTMENT CORP.,212,0.00,8952 JP,-,JAPAN REAL ESTATE INVESTMENT CORP.,Listed,Rest,Balanced
+Property,-,WAREHOUSES DE PAUW CVA,185,0.00,WDP BB,-,WAREHOUSES DE PAUW CVA,Listed,Rest,Balanced
+Sub Total Listed Property,,,23375803,1.35,,,,,Rest,Balanced
+Property,Internally,REST 140 WILLIAM STREET TRUST,nan,nan,-,-,REST 140 WILLIAM STREET TRUST,Unlisted,Rest,Balanced
+Property,Internally,REST 52 MARTIN PLACE TRUST,nan,nan,-,-,REST 52 MARTIN PLACE TRUST,Unlisted,Rest,Balanced
+Property,Internally,REST 717 BOURKE STREET TRUST,nan,nan,-,-,REST 717 BOURKE STREET TRUST,Unlisted,Rest,Balanced
+Property,Internally,REST QQT TRUST,nan,nan,-,-,REST QQT TRUST,Unlisted,Rest,Balanced
+Sub Total Unlisted Property Internally,,,37515781,2.16,,,,,Rest,Balanced
+Property,Externally,-,23034658,1.33,-,-,-,Unlisted,Rest,Balanced
+Property,Externally,-,19263150,1.11,-,-,-,Unlisted,Rest,Balanced
+Property,Externally,-,18145996,1.05,-,-,-,Unlisted,Rest,Balanced
+Property,Externally,-,16697452,0.96,-,-,-,Unlisted,Rest,Balanced
+Property,Externally,-,13839328,0.80,-,-,-,Unlisted,Rest,Balanced
+Property,Externally,-,11016093,0.64,-,-,-,Unlisted,Rest,Balanced
+Property,Externally,-,10506001,0.61,-,-,-,Unlisted,Rest,Balanced
+Property,Externally,-,9749633,0.56,-,-,-,Unlisted,Rest,Balanced
+Property,Externally,-,5400035,0.31,-,-,-,Unlisted,Rest,Balanced
+Property,Externally,-,1419930,0.08,-,-,-,Unlisted,Rest,Balanced
+Sub Total Unlisted Property Externally,,,129072276,7.44,,,,,Rest,Balanced
+Sub Total Listed Infrastructure,,,0,0.00,,,,,Rest,Balanced
+Infrastructure,Internally,COLLGAR RENEWABLES PTY LTD,nan,nan,-,-,COLLGAR RENEWABLES PTY LTD,Unlisted,Rest,Balanced
+Infrastructure,Internally,COLLGAR WIND FARM PTY LTD,nan,nan,-,-,COLLGAR WIND FARM PTY LTD,Unlisted,Rest,Balanced
+Infrastructure,Internally,MORTLAKE PARTNERSHIP,nan,nan,-,-,MORTLAKE PARTNERSHIP,Unlisted,Rest,Balanced
+Infrastructure,Internally,SEA GAS PARTNERSHIP,nan,nan,-,-,SEA GAS PARTNERSHIP,Unlisted,Rest,Balanced
+Sub Total Unlisted Infrastructure Internally,,,14518256,0.84,,,,,Rest,Balanced
+Infrastructure,Externally,-,86464472,4.99,-,-,-,Unlisted,Rest,Balanced
+Infrastructure,Externally,-,36495811,2.10,-,-,-,Unlisted,Rest,Balanced
+Infrastructure,Externally,-,16074221,0.93,-,-,-,Unlisted,Rest,Balanced
+Infrastructure,Externally,-,15087989,0.87,-,-,-,Unlisted,Rest,Balanced
+Infrastructure,Externally,-,13227496,0.76,-,-,-,Unlisted,Rest,Balanced
+Infrastructure,Externally,-,11504141,0.66,-,-,-,Unlisted,Rest,Balanced
+Infrastructure,Externally,-,10466170,0.60,-,-,-,Unlisted,Rest,Balanced
+Infrastructure,Externally,-,9167735,0.53,-,-,-,Unlisted,Rest,Balanced
+Infrastructure,Externally,-,8436878,0.49,-,-,-,Unlisted,Rest,Balanced
+Infrastructure,Externally,-,6479419,0.37,-,-,-,Unlisted,Rest,Balanced
+Infrastructure,Externally,-,1669303,0.10,-,-,-,Unlisted,Rest,Balanced
+Infrastructure,Externally,-,1065523,0.06,-,-,-,Unlisted,Rest,Balanced
+Infrastructure,Externally,-,377849,0.02,-,-,-,Unlisted,Rest,Balanced
+Sub Total Unlisted Infrastructure Externally,,,216517007,12.48,,,,,Rest,Balanced
+Sub Total Listed Alternatives,,,0,0.00,,,,,Rest,Balanced
+Sub Total Unlisted Alternatives Internally,,,0,0.00,,,,,Rest,Balanced
+Alternatives,Externally,-,18066705,1.04,-,-,-,Unlisted,Rest,Balanced
+Alternatives,Externally,-,17479838,1.01,-,-,-,Unlisted,Rest,Balanced
+Alternatives,Externally,-,711666,0.04,-,-,-,Unlisted,Rest,Balanced
+Sub Total Unlisted Alternatives Externally,,,36258209,2.09,,,,,Rest,Balanced
+Total Investment Items,,,1764014126,101.72,,,,,Rest,Balanced
+,,,nan,nan,,,,,Rest,Balanced
+The Value (Aud) And Weighting (%) Sub Totals May Not Sum Due To The Rounding Of Individual Disclosure Values And Weightings.,,,nan,nan,,,,,Rest,Balanced
