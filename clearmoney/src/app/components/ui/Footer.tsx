@@ -46,9 +46,6 @@ export function Footer() {
             <h4 className="font-semibold text-lg">Navigation</h4>
             <div className="space-y-3">
               <div className="text-slate-400 hover:text-white cursor-pointer transition-colors">
-                Home
-              </div>
-              <div className="text-slate-400 hover:text-white cursor-pointer transition-colors">
                 My Super
               </div>
               <div className="text-slate-400 hover:text-white cursor-pointer transition-colors">
@@ -78,7 +75,6 @@ export function Footer() {
             </div>
           </div>
 
-          {/* About Project */}
           <div className="space-y-6">
             <h4 className="font-semibold text-lg">About This Project</h4>
             <div className="space-y-3">
@@ -113,9 +109,11 @@ export function Footer() {
             <p className="text-sm text-slate-400 leading-relaxed">
               <strong className="text-slate-300">Important Notice:</strong> This
               is a student project created for educational and demonstration
-              purposes only. This is not a licensed financial service and does
-              not provide financial advice. All information is for educational
-              purposes only. Always consult with licensed financial
+              purposes only. While best effort has been made to provide accurate
+              information and there will be continued effort to improve, there
+              may be inaccuracies. This is not a licensed financial service and
+              does not provide financial advice. All information is for
+              educational purposes only. Always consult with licensed financial
               professionals before making superannuation decisions.
             </p>
           </div>
