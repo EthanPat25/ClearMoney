@@ -1,28 +1,28 @@
 "use client";
 
 import React from "react";
-import { Player } from "@lordicon/react";
 import ICON from "../../../public/coffee.json";
+import dynamic from "next/dynamic";
 
 type sizeProps = {
   initialSize: number;
 };
 
 export const Coffee = React.memo(({ initialSize }: sizeProps) => {
-  
   const [windowsize, updatewindowsize] = React.useState<number | null>(null);
   const [size, updatesize] = React.useState(initialSize);
-  const playerRef = React.useRef<React.ElementRef<typeof Player>>(null);
+
+  const Player: any = dynamic(
+    () => import("@lordicon/react").then((mod) => mod.Player),
+    { ssr: false }
+  );
+  const playerRef = React.useRef<any>(null);
 
   React.useEffect(() => {
     const handleResize = () => updatewindowsize(window.innerWidth);
-    handleResize(); 
+    handleResize();
     window.addEventListener("resize", handleResize);
     return () => window.removeEventListener("resize", handleResize);
-  }, []);
-
-  React.useEffect(() => {
-    playerRef.current?.playFromBeginning();
   }, []);
 
   React.useEffect(() => {
@@ -41,7 +41,20 @@ export const Coffee = React.memo(({ initialSize }: sizeProps) => {
     }
   }, [windowsize]);
 
-  return <Player size={size} icon={ICON} ref={playerRef} />;
+  return (
+    <div>
+      <Player
+        size={size}
+        icon={ICON}
+        ref={(instance: any) => {
+          if (instance) {
+            playerRef.current = instance; // Assign ref
+            playerRef.current.playFromBeginning?.(); // Trigger animation
+          }
+        }}
+      />
+    </div>
+  );
 });
 
 Coffee.displayName = "Coffee";

@@ -1,24 +1,24 @@
 "use client";
 
 import React from "react";
-import { Player } from "@lordicon/react";
+import dynamic from "next/dynamic";
 import ICON from "../../../public/Calculator.json";
 
 export const Calculator = React.memo(() => {
-  // Component code
   const [windowsize, updatewindowsize] = React.useState<number | null>(null);
   const [size, updatesize] = React.useState(200);
-  const playerRef = React.useRef<React.ElementRef<typeof Player>>(null);
+
+  const Player: any = dynamic(
+    () => import("@lordicon/react").then((mod) => mod.Player),
+    { ssr: false }
+  );
+  const playerRef = React.useRef<any>(null);
 
   React.useEffect(() => {
     const handleResize = () => updatewindowsize(window.innerWidth);
     handleResize();
     window.addEventListener("resize", handleResize);
     return () => window.removeEventListener("resize", handleResize);
-  }, []);
-
-  React.useEffect(() => {
-    playerRef.current?.playFromBeginning();
   }, []);
 
   React.useEffect(() => {
@@ -37,7 +37,20 @@ export const Calculator = React.memo(() => {
     }
   }, [windowsize]);
 
-  return <Player size={size} icon={ICON} ref={playerRef} />;
+  return (
+    <div>
+      <Player
+        size={size}
+        icon={ICON}
+        ref={(instance: any) => {
+          if (instance) {
+            playerRef.current = instance;
+            playerRef.current.playFromBeginning?.();
+          }
+        }}
+      />
+    </div>
+  );
 });
 
 Calculator.displayName = "Calculator";

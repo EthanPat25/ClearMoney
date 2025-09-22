@@ -217,12 +217,10 @@ export function Calc({
                         <Label className="text-sm font-medium text-gray-900">
                           Periods of Reduced or No Work
                         </Label>
-                        <Button
-                          variant="outline"
-                          className="w-9 h-7 rounded-lg"
-                        >
+                        {/* Change this Button to something that won't render a <button> */}
+                        <span className="inline-flex items-center justify-center w-9 h-7 rounded-lg border border-gray-300">
                           <Plus className="w-6 h-6 text-gray-700" />
-                        </Button>
+                        </span>
                       </div>
                     </AccordionTrigger>
 

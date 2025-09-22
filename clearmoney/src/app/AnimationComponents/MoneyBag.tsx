@@ -1,28 +1,30 @@
 "use client";
 
 import React from "react";
+import dynamic from "next/dynamic";
 import ICON from "../../../public/MoneyBag.json";
-import { Player } from "@lordicon/react";
 
 type sizeProps = {
   initialSize: number;
 };
 
 export const MoneyBag = React.memo(({ initialSize }: sizeProps) => {
-  // Component code
   const [windowsize, updatewindowsize] = React.useState<number | null>(null);
   const [size, updatesize] = React.useState(initialSize);
-  const playerRef = React.useRef<React.ElementRef<typeof Player>>(null);
+
+  // ✅ Use dynamic import to avoid SSR issues with @lordicon/react
+  const Player: any = dynamic(
+    () => import("@lordicon/react").then((mod) => mod.Player),
+    { ssr: false }
+  );
+
+  const playerRef = React.useRef<any>(null);
 
   React.useEffect(() => {
     const handleResize = () => updatewindowsize(window.innerWidth);
-    handleResize();
+    handleResize(); // set initial value when mounted
     window.addEventListener("resize", handleResize);
     return () => window.removeEventListener("resize", handleResize);
-  }, []);
-
-  React.useEffect(() => {
-    playerRef.current?.playFromBeginning();
   }, []);
 
   React.useEffect(() => {
@@ -35,12 +37,26 @@ export const MoneyBag = React.memo(({ initialSize }: sizeProps) => {
     } else if (windowsize >= 1920) {
       updatesize(300);
     } else if (windowsize >= 1536) {
-      updatesize(250);
+      updatesize(130);
     } else if (windowsize <= 1024) {
-      updatesize(170);
+      updatesize(150);
     }
   }, [windowsize]);
-  return <Player size={size} icon={ICON} ref={playerRef} />;
+
+  return (
+    <div>
+      <Player
+        size={size}
+        icon={ICON}
+        ref={(instance: any) => {
+          if (instance) {
+            playerRef.current = instance;
+            playerRef.current.playFromBeginning?.();
+          }
+        }}
+      />
+    </div>
+  );
 });
 
 MoneyBag.displayName = "MoneyBag";

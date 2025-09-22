@@ -1,23 +1,26 @@
 "use client";
 
 import React from "react";
-import { Player } from "@lordicon/react";
+import dynamic from "next/dynamic";
 import ICON from "../../../public/TaxCalculator.json";
 
 export const TaxCalculator = React.memo(() => {
   const [windowsize, updatewindowsize] = React.useState<number | null>(null);
   const [size, updatesize] = React.useState(200);
-  const playerRef = React.useRef<React.ElementRef<typeof Player>>(null);
+
+  // ✅ Dynamically import Player to prevent `document is not defined` during SSR
+  const Player: any = dynamic(
+    () => import("@lordicon/react").then((mod) => mod.Player),
+    { ssr: false }
+  );
+
+  const playerRef = React.useRef<any>(null);
 
   React.useEffect(() => {
     const handleResize = () => updatewindowsize(window.innerWidth);
-    handleResize();
+    handleResize(); // Set initial value
     window.addEventListener("resize", handleResize);
     return () => window.removeEventListener("resize", handleResize);
-  }, []);
-
-  React.useEffect(() => {
-    playerRef.current?.playFromBeginning();
   }, []);
 
   React.useEffect(() => {
@@ -36,7 +39,20 @@ export const TaxCalculator = React.memo(() => {
     }
   }, [windowsize]);
 
-  return <Player size={size} icon={ICON} ref={playerRef} />;
+  return (
+    <div>
+      <Player
+        size={size}
+        icon={ICON}
+        ref={(instance: typeof Player) => {
+          if (instance) {
+            playerRef.current = instance;
+            playerRef.current.playFromBeginning?.();
+          }
+        }}
+      />
+    </div>
+  );
 });
 
 TaxCalculator.displayName = "TaxCalculator";
