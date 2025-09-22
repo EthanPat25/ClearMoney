@@ -56,8 +56,8 @@ export function NavigationMenuDemo() {
           <NavigationMenuTrigger>Super Tools</NavigationMenuTrigger>
           <NavigationMenuContent>
             <ul className="grid w-[350px] gap-3 p-4 md:w-[350px] grid-cols-1 lg:w-[400px] ">
-              {components.map((component) => (
-                <div className="flex items-center">
+              {components.map((component, key) => (
+                <div key={key} className="flex items-center">
                   <ListItem
                     key={component.title}
                     title={component.title}

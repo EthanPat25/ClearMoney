@@ -58,10 +58,7 @@ export function Calc({
     <div className={cn("flex flex-col gap-4", className)} {...props}>
       <Card className="w-[31.75rem] relative flex flex-col">
         {/* Settings */}
-        <Settings
-          onClick={() => console.log("hello")}
-          className="absolute top-[1rem] left-[29.25rem] h-6 w-6 cursor-pointer"
-        />
+        <Settings className="absolute top-[1rem] left-[29.25rem] h-6 w-6 cursor-pointer" />
 
         <CardHeader>
           <CardTitle className="text-xl font-bold">
@@ -308,7 +305,6 @@ export function Calc({
                                         placeholder="e.g. 15"
                                         defaultValue={12}
                                         className="pr-8 h-10 text-sm font-normal text-gray-900 placeholder:text-gray-400"
-                                        {...register("breakSG")}
                                       />
                                       <span className="absolute right-2 top-1/2 -translate-y-1/2 text-gray-500">
                                         %

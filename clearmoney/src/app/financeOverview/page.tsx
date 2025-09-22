@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState } from "react";
+import React from "react";
 import { Superannuation } from "../AnimationComponents/Superannuation";
 import { House } from "../AnimationComponents/House";
 import { Piee } from "../AnimationComponents/Piee";
@@ -11,7 +11,6 @@ import { Plant } from "../AnimationComponents/Plant";
 import Info from "../FHSS/Info";
 
 export default function SuperContributions() {
-  const [extraSuper, setExtraSuper] = useState(0);
   const [Basics, updatebasics] = React.useState(false);
 
   return (
@@ -20,7 +19,7 @@ export default function SuperContributions() {
       <div className="bg-gradient-to-b from-[rgb(3,181,183)] to-[#9bdbdc] p-6 pb-16">
         <div className="mt-24 flex flex-col items-center p-10">
           <div className="flex rounded-full bg-[RGB(82,105,127)] w-24 h-24 justify-center items-center mb-5">
-            <Superannuation animate={true} />
+            <Superannuation />
           </div>
           <h2 className="text-center text-[RGB(255,255,255)] font-bold xs:text-[2.2rem] sm:text-[3rem] md:text-[3.7rem]">
             Get a Clearer View of <br /> Your Super
@@ -171,7 +170,7 @@ export default function SuperContributions() {
             "absolute top-4 right-4 w-8 h-8 flex justify-center items-center"
           }
         ></Info>
-        <Plant animate={true}></Plant>
+        <Plant></Plant>
         <h2 className="font-semibold text-white">Super Basics</h2>
       </motion.div>
     </div>

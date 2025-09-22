@@ -7,7 +7,7 @@ import { cn } from "@/lib/utils";
 type Tab = {
   title: string;
   value: string;
-  content?: string | React.ReactNode | any;
+  content?: string | React.ReactNode;
 };
 
 export const Tabs = ({
@@ -34,8 +34,6 @@ export const Tabs = ({
     setActive(newTabs[0]);
   };
 
-  const [hovering, setHovering] = useState(false);
-
   return (
     <>
       <div
@@ -50,8 +48,6 @@ export const Tabs = ({
             onClick={() => {
               moveSelectedTabToTop(idx);
             }}
-            onMouseEnter={() => setHovering(true)}
-            onMouseLeave={() => setHovering(false)}
             className={cn("relative px-4 py-2 rounded-full", tabClassName)}
             style={{
               transformStyle: "preserve-3d",
@@ -72,11 +68,7 @@ export const Tabs = ({
           </button>
         ))}
       </div>
-      <div className={cn("mt-32", contentClassName)}>
-  {tabs[0]?.content}
-</div>
-    
-   
+      <div className={cn("mt-32", contentClassName)}>{tabs[0]?.content}</div>
     </>
   );
 };

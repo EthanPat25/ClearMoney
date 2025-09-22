@@ -1,16 +1,18 @@
 "use client";
 
 import React from "react";
-import dynamic from "next/dynamic";
-
-const ICON = require("../../../public/Iphone.json");
+import ICON from "../../../public/Iphone.json";
 import { Player } from "@lordicon/react";
 
-export const Iphone = React.memo(({ initialSize }: any) => {
+type sizeProps = {
+  initialSize: number;
+};
+
+export const Iphone = React.memo(({ initialSize }: sizeProps) => {
   // Component code
   const [windowsize, updatewindowsize] = React.useState(window.innerWidth);
   const [size, updatesize] = React.useState(initialSize);
-  const playerRef = React.useRef<any>(null);
+  const playerRef = React.useRef<React.ElementRef<typeof Player>>(null);
 
   const resize = () => {
     updatewindowsize(window.innerWidth);
@@ -40,3 +42,5 @@ export const Iphone = React.memo(({ initialSize }: any) => {
 
   return <Player size={size} icon={ICON} ref={playerRef} />;
 });
+
+Iphone.displayName = "Iphone";

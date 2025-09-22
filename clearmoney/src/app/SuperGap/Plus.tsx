@@ -1,6 +1,10 @@
 import React from "react";
 
-const Plus = ({ className }: any) => {
+type plusProps = {
+  className: string;
+};
+
+const Plus = ({ className }: plusProps) => {
   return (
     <div className={className}>
       <svg

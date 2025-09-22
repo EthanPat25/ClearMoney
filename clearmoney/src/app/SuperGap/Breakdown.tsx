@@ -25,7 +25,7 @@ const Breakdown = () => {
               height={48}
             />
           </div>
-          <MoneyBag sizeSp={150}></MoneyBag>
+          <MoneyBag initialSize={150}></MoneyBag>
           <p className="text-sm text-[RGB(251,99,64)] font-semibold">
             By Age 60 thats a Gap of
           </p>

@@ -1,16 +1,18 @@
 "use client";
 
 import React from "react";
-import dynamic from "next/dynamic";
-
-const ICON = require("../../../public/Passport.json");
+import ICON from "../../../public/Passport.json";
 import { Player } from "@lordicon/react";
 
-export const Passport = React.memo(({ initialSize }: any) => {
+type sizeProps = {
+  initialSize: number;
+};
+
+export const Passport = React.memo(({ initialSize }: sizeProps) => {
   // Component code
   const [windowsize, updatewindowsize] = React.useState(window.innerWidth);
   const [size, updatesize] = React.useState(initialSize);
-  const playerRef = React.useRef<any>(null);
+  const playerRef = React.useRef<React.ElementRef<typeof Player>>(null);
 
   const resize = () => {
     updatewindowsize(window.innerWidth);
@@ -40,3 +42,5 @@ export const Passport = React.memo(({ initialSize }: any) => {
 
   return <Player size={size} icon={ICON} ref={playerRef} />;
 });
+
+Passport.displayName = "Passport";

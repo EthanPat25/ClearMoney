@@ -72,7 +72,6 @@ export function CloseGapCalculator({
               Calculate
             </Button>
             <Settings
-              onClick={() => console.log("hello")}
               className={
                 "relative bottom-[30rem] left-[27rem] h-5 w-5 cursor-pointer"
               }

@@ -2,7 +2,6 @@
 
 import React from "react";
 import { Dental } from "../AnimationComponents/Dental";
-import { Superannuation } from "../AnimationComponents/Superannuation";
 import { TaxGuidelines } from "../AnimationComponents/TaxGuidelines";
 import Info from "../FHSS/Info";
 
@@ -28,7 +27,7 @@ const page = () => {
             </h1>
           </div>
           <div className="w-full flex justify-center items-center">
-            <TaxGuidelines animate={true}></TaxGuidelines>
+            <TaxGuidelines></TaxGuidelines>
           </div>
 
           <h1 className=" text-4xl font-bold mt-16 text-center">
@@ -98,7 +97,7 @@ const page = () => {
         <h1 className="font-bold text-2xl text-center p-4">Meet Johnny</h1>
 
         <div className="flex flex-col p-5 justify-center items-center bg-[RGB(242,242,242)] w-[36rem] h-[20rem] rounded-[2rem]">
-          <Dental></Dental>
+          <Dental initialSize={150}></Dental>
 
           <p>
             Julia earns $70,000 per year, after tax she takes home $55,000.{" "}
@@ -118,7 +117,7 @@ const page = () => {
                   30%
                 </h1>
               </div>
-              <Dental></Dental>
+              <Dental initialSize={150}></Dental>
 
               <p>
                 Her $2,000 was automically classified as non-concessional,
@@ -141,7 +140,7 @@ const page = () => {
                   15%
                 </h1>
               </div>
-              <Dental></Dental>
+              <Dental initialSize={150}></Dental>
 
               <p>
                 Johnny reclassifies his $2,000 as concessional. His super fund

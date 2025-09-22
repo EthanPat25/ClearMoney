@@ -1,5 +1,6 @@
 import React from "react";
 import Info from "../FHSS/Info";
+import Image from "next/image";
 
 type EverydayTermsProps = {
   holdingsData: Holding[] | null;
@@ -17,7 +18,7 @@ type Holding = {
 };
 
 const EverydayTerms: React.FC<EverydayTermsProps> = ({ holdingsData }) => {
-  let pager = holdingsData?.slice(0, 9);
+  const pager = holdingsData?.slice(0, 9);
 
   return (
     <div className="bg-gray-100 h-[67rem] w-full rounded-[5rem]">
@@ -60,7 +61,7 @@ const EverydayTerms: React.FC<EverydayTermsProps> = ({ holdingsData }) => {
 
                 {/* Logo container */}
                 <div className="flex flex-col justify-between items-center">
-                  <img
+                  <Image
                     className="w-[8rem] h-[8rem] rounded-[3rem] mb-4"
                     src={`https://cdn.brandfetch.io/${holding.Domain}/icon/theme/dark/c=1idfCQLm9sumx6VuVu3`}
                     alt={`${holding.Name} logo`}

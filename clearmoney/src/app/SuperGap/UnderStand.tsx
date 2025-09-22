@@ -35,13 +35,13 @@ const UnderStand = () => {
             </p>
           </div>
           <div className="flex justify-center items-center w-[30rem]">
-            <Wallet animate={true}></Wallet>
+            <Wallet></Wallet>
           </div>
         </div>
 
         <div className="flex flex-row mt-4">
           <div className="flex justify-center items-center w-[30rem]">
-            <CompoundGrowth animate={true}></CompoundGrowth>
+            <CompoundGrowth></CompoundGrowth>
           </div>
           <div className="w-[50rem] flex flex-col justify-center">
             <div className="flex items-center">
@@ -71,13 +71,13 @@ const UnderStand = () => {
             </p>
           </div>
           <div className="flex justify-center items-center w-[30rem]">
-            <Graph animate={true}></Graph>
+            <Graph></Graph>
           </div>
         </div>
 
         <div className="flex flex-row mt-4">
           <div className="flex justify-center items-center w-[30rem]">
-            <PotPlant animate={true}></PotPlant>
+            <PotPlant></PotPlant>
           </div>
           <div className="w-[50rem] flex flex-col justify-center">
             <div className="flex items-center">
@@ -116,13 +116,13 @@ const UnderStand = () => {
 
         <div className="flex justify-center">
           <div className="flex flex-col justify-center items-center rounded-2xl">
-            <ParentA animate={true}></ParentA>
+            <ParentA></ParentA>
             <h1 className="text-center font-bold text-white">
               Parent A: <span className="font-normal">$500,000</span>
             </h1>
           </div>
           <div className="flex flex-col justify-center items-center rounded-2xl">
-            <ParentB animate={true}></ParentB>
+            <ParentB></ParentB>
             <h1 className="text-center font-bold text-white">
               Parent B: <span className="font-normal">$400,000</span>
             </h1>

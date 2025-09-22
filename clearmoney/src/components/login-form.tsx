@@ -9,9 +9,6 @@ import {
 } from "@/components/ui/card";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
-import { SwitchDemo } from "@/app/FHSS/Switch";
-import { Tabs } from "@/components/ui/tabs";
-import { PopoverPop } from "@/app/FHSS/Popover";
 
 export function LoginForm({
   className,

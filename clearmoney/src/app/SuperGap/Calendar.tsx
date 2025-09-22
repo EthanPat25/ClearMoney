@@ -32,7 +32,12 @@ function isValidDate(date: Date | undefined) {
   return !isNaN(date.getTime());
 }
 
-export function Calendar28({ SubscriptionDate, defaultDate }: any) {
+type calendartype = {
+  SubscriptionDate: React.ReactNode;
+  defaultDate: Date;
+};
+
+export function Calendar28({ SubscriptionDate, defaultDate }: calendartype) {
   const [open, setOpen] = React.useState(false);
   const [date, setDate] = React.useState<Date | undefined>(defaultDate);
   const [month, setMonth] = React.useState<Date | undefined>(date);

@@ -1,56 +1,42 @@
-"use client"
+"use client";
 
-import React from 'react';
-
-const ICON = require('../../../public/Finance.json');
-import { Player } from '@lordicon/react';
-
+import React from "react";
+import ICON from "../../../public/Finance.json";
+import { Player } from "@lordicon/react";
 
 export const Finance = React.memo(() => {
-    // Component code
-    const [windowsize, updatewindowsize] = React.useState(window.innerWidth);
-      const [size,updatesize] = React.useState(150)  
-  const playerRef = React.useRef<any>(null);
+  // Component code
+  const [windowsize, updatewindowsize] = React.useState(window.innerWidth);
+  const [size, updatesize] = React.useState(150);
+  const playerRef = React.useRef<React.ElementRef<typeof Player>>(null);
 
+  const resize = () => {
+    updatewindowsize(window.innerWidth);
+  };
 
-        const resize = () => {
-            updatewindowsize(window.innerWidth);
-        }
-    
-            React.useEffect(() => {
-                window.addEventListener('resize', resize)
-                return () => (
-                    window.removeEventListener('resize', resize)
-                );
-        
-            },[])
-            React.useEffect(() => {
-              playerRef.current?.playFromBeginning();
-          }, [])
-        
-            React.useEffect(() => {
-              if (windowsize >= 3200) {
-                updatesize(150)
+  React.useEffect(() => {
+    window.addEventListener("resize", resize);
+    return () => window.removeEventListener("resize", resize);
+  }, []);
+  React.useEffect(() => {
+    playerRef.current?.playFromBeginning();
+  }, []);
 
-            } else if (windowsize >= 2560) {
-                updatesize(150)
+  React.useEffect(() => {
+    if (windowsize >= 3200) {
+      updatesize(150);
+    } else if (windowsize >= 2560) {
+      updatesize(150);
+    } else if (windowsize >= 1920) {
+      updatesize(150);
+    } else if (windowsize >= 1536) {
+      updatesize(150);
+    } else if (windowsize <= 1024) {
+      updatesize(150);
+    }
+  }, [windowsize]);
 
-              } else if (windowsize >= 1920) {
-                updatesize(150)
-              } else if (windowsize >= 1536) {
-                    updatesize(150)
-                } 
-                else if (windowsize <= 1024) {
-                    updatesize(150)
-                } 
-            },[windowsize])
-
-    return (
-        <Player 
-            size={size}
-            icon={ ICON }
-            ref={playerRef}
-        />
-    );
+  return <Player size={size} icon={ICON} ref={playerRef} />;
 });
 
+Finance.displayName = "Finance";

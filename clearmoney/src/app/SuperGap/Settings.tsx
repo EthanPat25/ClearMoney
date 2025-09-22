@@ -1,6 +1,10 @@
 import React from "react";
 
-const Settings = ({ className }: any) => {
+type settingsProps = {
+  className: string;
+};
+
+const Settings = ({ className }: settingsProps) => {
   return (
     <div className={className}>
       <svg

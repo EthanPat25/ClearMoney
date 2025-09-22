@@ -7,7 +7,7 @@ const HeroSection = () => {
     <div className="bg-gradient-to-b from-[rgb(3,181,183)] to-[#9bdbdc] p-6 pb-16">
       <div className="mt-24 flex flex-col items-center p-10">
         <div className="flex rounded-full bg-[RGB(82,105,127)] w-24 h-24 justify-center items-center mb-5">
-          <Superannuation animate={true} />
+          <Superannuation />
         </div>
         <h2 className="text-center text-[RGB(255,255,255)] font-bold xs:text-[2rem] sm:text-[3rem] md:text-[3.7rem]">
           The Super Gap is Real <br />
