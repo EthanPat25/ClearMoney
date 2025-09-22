@@ -10,23 +10,24 @@ type sizeProps = {
 
 export const MoneyBag = React.memo(({ initialSize }: sizeProps) => {
   // Component code
-  const [windowsize, updatewindowsize] = React.useState(window.innerWidth);
+  const [windowsize, updatewindowsize] = React.useState<number | null>(null);
   const [size, updatesize] = React.useState(initialSize);
   const playerRef = React.useRef<React.ElementRef<typeof Player>>(null);
 
-  const resize = () => {
-    updatewindowsize(window.innerWidth);
-  };
-
   React.useEffect(() => {
-    window.addEventListener("resize", resize);
-    return () => window.removeEventListener("resize", resize);
+    const handleResize = () => updatewindowsize(window.innerWidth);
+    handleResize();
+    window.addEventListener("resize", handleResize);
+    return () => window.removeEventListener("resize", handleResize);
   }, []);
+
   React.useEffect(() => {
     playerRef.current?.playFromBeginning();
   }, []);
 
   React.useEffect(() => {
+    if (windowsize === null) return;
+
     if (windowsize >= 3200) {
       updatesize(450);
     } else if (windowsize >= 2560) {
@@ -39,7 +40,6 @@ export const MoneyBag = React.memo(({ initialSize }: sizeProps) => {
       updatesize(170);
     }
   }, [windowsize]);
-
   return <Player size={size} icon={ICON} ref={playerRef} />;
 });
 

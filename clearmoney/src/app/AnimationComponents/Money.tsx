@@ -6,24 +6,24 @@ import ICON from "../../../public//Money.json";
 
 export const Money = React.memo(() => {
   // Component code
-  const [windowsize, updatewindowsize] = React.useState(window.innerWidth);
-  const [size, updatesize] = React.useState(150);
-
+  const [windowsize, updatewindowsize] = React.useState<number | null>(null);
+  const [size, updatesize] = React.useState(160);
   const playerRef = React.useRef<React.ElementRef<typeof Player>>(null);
 
-  const resize = () => {
-    updatewindowsize(window.innerWidth);
-  };
-
   React.useEffect(() => {
-    window.addEventListener("resize", resize);
-    return () => window.removeEventListener("resize", resize);
+    const handleResize = () => updatewindowsize(window.innerWidth);
+    handleResize();
+    window.addEventListener("resize", handleResize);
+    return () => window.removeEventListener("resize", handleResize);
   }, []);
+
   React.useEffect(() => {
     playerRef.current?.playFromBeginning();
   }, []);
 
   React.useEffect(() => {
+    if (windowsize === null) return;
+
     if (windowsize >= 3200) {
       updatesize(450);
     } else if (windowsize >= 2560) {

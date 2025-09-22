@@ -5,19 +5,15 @@ import { Player } from "@lordicon/react";
 import ICON from "../../../public/TaxCalculator.json";
 
 export const TaxCalculator = React.memo(() => {
-  // Component code
-  const [windowsize, updatewindowsize] = React.useState(window.innerWidth);
+  const [windowsize, updatewindowsize] = React.useState<number | null>(null);
   const [size, updatesize] = React.useState(200);
-
   const playerRef = React.useRef<React.ElementRef<typeof Player>>(null);
 
-  const resize = () => {
-    updatewindowsize(window.innerWidth);
-  };
-
   React.useEffect(() => {
-    window.addEventListener("resize", resize);
-    return () => window.removeEventListener("resize", resize);
+    const handleResize = () => updatewindowsize(window.innerWidth);
+    handleResize();
+    window.addEventListener("resize", handleResize);
+    return () => window.removeEventListener("resize", handleResize);
   }, []);
 
   React.useEffect(() => {
@@ -25,6 +21,8 @@ export const TaxCalculator = React.memo(() => {
   }, []);
 
   React.useEffect(() => {
+    if (windowsize === null) return;
+
     if (windowsize >= 3200) {
       updatesize(450);
     } else if (windowsize >= 2560) {
