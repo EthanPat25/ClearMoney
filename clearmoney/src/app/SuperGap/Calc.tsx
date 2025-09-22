@@ -56,7 +56,7 @@ export function Calc({
 
   return (
     <div className={cn("flex flex-col gap-4", className)} {...props}>
-      <Card className="w-[31.75rem] relative flex flex-col">
+      <Card className="xs:w-[22rem] md:w-[31.75rem] relative flex flex-col">
         {/* Settings */}
         <Settings className="absolute top-[1rem] left-[29.25rem] h-6 w-6 cursor-pointer" />
 

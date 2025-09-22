@@ -40,6 +40,8 @@ export const MoneyBag = React.memo(({ initialSize }: sizeProps) => {
       updatesize(130);
     } else if (windowsize <= 1024) {
       updatesize(150);
+    } else if (windowsize <= 500) {
+      updatesize(50);
     }
   }, [windowsize]);
 
