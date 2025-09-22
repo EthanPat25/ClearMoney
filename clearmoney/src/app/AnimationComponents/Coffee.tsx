@@ -4,7 +4,11 @@ import React from "react";
 import { Player } from "@lordicon/react";
 import ICON from "../../../public/coffee.json";
 
-export const Coffee = React.memo(({ initialSize }) => {
+type sizeProps = {
+  initialSize: number;
+};
+
+export const Coffee = React.memo(({ initialSize }: sizeProps) => {
   // Component code
   const [windowsize, updatewindowsize] = React.useState(window.innerWidth);
   const [size, updatesize] = React.useState(initialSize);
