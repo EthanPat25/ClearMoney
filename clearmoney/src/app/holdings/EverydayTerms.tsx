@@ -75,7 +75,7 @@ const EverydayTerms: React.FC<EverydayTermsProps> = ({ holdingsData }) => {
                 {/* Logo container */}
                 <div className="flex flex-col justify-between items-center">
                   <img
-                    className="xs:w-[6rem] xs:h-[6rem] md:w-[8rem] md:h-[8rem] rounded-[3rem] mb-4"
+                    className="xs:w-[5rem] xs:h-[5rem] sm:w-[6rem] sm:h-[6rem] md:w-[8rem] md:h-[8rem] rounded-[3rem] mb-4"
                     src={`https://cdn.brandfetch.io/${holding.Domain}/icon/theme/dark/c=1idfCQLm9sumx6VuVu3`}
                     alt={`${holding.Name} logo`}
                   />
