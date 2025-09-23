@@ -20,24 +20,24 @@ export default function Page() {
         <Calc onResults={setHoldingsData}></Calc>
       </div>
       <section className="mt-28 w-screen">
-        <div className="max-w-7xl mx-auto px-6 py-8">
+        <div className="max-w-7xl mx-auto sm:px-6 py-8">
           {/* Toggle */}
-          <div className="flex justify-center flex-wrap gap-2 mb-6">
+          <div className="flex justify-center gap-2 mb-6">
             <button
               onClick={() => setView("terms")}
-              className={`px-4 py-2 w-[11rem] rounded-3xl text-sm ${view === "terms" ? "bg-gray-900 text-white" : "border"}`}
+              className={`px-4 py-2 xs:w-[9rem] md:w-[11rem] rounded-3xl text-sm ${view === "terms" ? "bg-gray-900 text-white" : "border"}`}
             >
               Public Companies
             </button>
             <button
               onClick={() => setView("case")}
-              className={`px-4 py-2 w-[11rem] rounded-3xl text-sm ${view === "case" ? "bg-gray-900 text-white" : "border"}`}
+              className={`px-4 py-2 xs:w-[9rem] md:w-[11rem] rounded-3xl text-sm ${view === "case" ? "bg-gray-900 text-white" : "border"}`}
             >
               Private Investments
             </button>
             <button
               onClick={() => setView("close")}
-              className={`px-4 py-2 w-[11rem] rounded-3xl text-sm ${view === "close" ? "bg-gray-900 text-white" : "border"}`}
+              className={`px-4 py-2 xs:w-[9rem] md:w-[11rem] rounded-3xl text-sm ${view === "close" ? "bg-gray-900 text-white" : "border"}`}
             >
               Bonds and Cash
             </button>

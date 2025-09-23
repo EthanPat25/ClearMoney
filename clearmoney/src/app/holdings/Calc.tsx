@@ -36,7 +36,7 @@ enum RestOptions {
 }
 
 const fundOptions = {
-  AustralianSuper: ["Conservative Balanced", "Balanced", "High Growth"],
+  AustralianSuper: ["Balanced", "Conservative Balanced", "High Growth"],
   Rest: ["Balanced", "Growth", "High Growth", "Sustainable Growth"], // match enum value exactly
 };
 
@@ -83,7 +83,7 @@ export function Calc({
 
   return (
     <div className={cn("flex flex-col gap-4", className)} {...props}>
-      <Card className=" xs:w-[22rem] md:w-[35rem] relative flex flex-col">
+      <Card className=" xs:w-[24rem] md:w-[35rem] relative flex flex-col">
         {/* Settings */}
 
         <CardHeader>
@@ -91,7 +91,7 @@ export function Calc({
             Enter Your Details
           </CardTitle>
           <CardDescription className="text-sm text-gray-500">
-            Tell us your super balance and fund to see what you own
+            Tell us your super balance and fund to see where your money goes.
           </CardDescription>
         </CardHeader>
 
