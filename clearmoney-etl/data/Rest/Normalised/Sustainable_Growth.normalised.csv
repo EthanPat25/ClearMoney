@@ -1,703 +1,687 @@
-Asset_Class,Management_Type,Name,Dollar_Value,Weighting_Percentage,Security_Identifier,Currency,Source_Name,Listing_Status,Super_Fund,Option_Name
-Cash,-,-,683345,0.24,-,AUD,-,,Rest,Sustainable_Growth
-Cash,-,-,545433,0.19,-,AUD,-,,Rest,Sustainable_Growth
-Cash,-,-,517806,0.18,-,AUD,-,,Rest,Sustainable_Growth
-Cash,-,-,502193,0.18,-,AUD,-,,Rest,Sustainable_Growth
-Cash,-,-,425947,0.15,-,AUD,-,,Rest,Sustainable_Growth
-Cash,-,-,332221,0.12,-,AUD,-,,Rest,Sustainable_Growth
-Cash,-,-,321325,0.11,-,AUD,-,,Rest,Sustainable_Growth
-Cash,-,-,304604,0.11,-,AUD,-,,Rest,Sustainable_Growth
-Cash,-,-,303304,0.11,-,AUD,-,,Rest,Sustainable_Growth
-Cash,-,-,183293,0.06,-,AUD,-,,Rest,Sustainable_Growth
-Cash,-,-,174237,0.06,-,USD,-,,Rest,Sustainable_Growth
-Cash,-,-,146602,0.05,-,AUD,-,,Rest,Sustainable_Growth
-Cash,-,-,91442,0.03,-,AUD,-,,Rest,Sustainable_Growth
-Cash,-,-,42842,0.02,-,JPY,-,,Rest,Sustainable_Growth
-Cash,-,-,14268,0.01,-,CAD,-,,Rest,Sustainable_Growth
-Cash,-,-,6242,0.00,-,EUR,-,,Rest,Sustainable_Growth
-Cash,-,-,4692,0.00,-,HKD,-,,Rest,Sustainable_Growth
-Cash,-,-,4619,0.00,-,GBP,-,,Rest,Sustainable_Growth
-Cash,-,-,3689,0.00,-,CNY,-,,Rest,Sustainable_Growth
-Cash,-,-,2473,0.00,-,SGD,-,,Rest,Sustainable_Growth
-Cash,-,-,2084,0.00,-,NZD,-,,Rest,Sustainable_Growth
-Cash,-,-,1856,0.00,-,MXN,-,,Rest,Sustainable_Growth
-Cash,-,-,1451,0.00,-,NOK,-,,Rest,Sustainable_Growth
-Cash,-,-,449,0.00,-,CHF,-,,Rest,Sustainable_Growth
-Cash,-,-,16,0.00,-,SEK,-,,Rest,Sustainable_Growth
-Cash,-,-,12,0.00,-,AUD,-,,Rest,Sustainable_Growth
-Cash,-,-,8,0.00,-,DKK,-,,Rest,Sustainable_Growth
-Cash,-,-,8,0.00,-,ILS,-,,Rest,Sustainable_Growth
-Cash,-,-,6,0.00,-,AUD,-,,Rest,Sustainable_Growth
-Cash,-,-,2,0.00,-,AUD,-,,Rest,Sustainable_Growth
-Cash,-,-,1,0.00,-,AUD,-,,Rest,Sustainable_Growth
-Cash,-,-,-448329,-0.16,-,AUD,-,,Rest,Sustainable_Growth
-Sub Total Cash,,,4168141,1.47,,,,,Rest,Sustainable_Growth
-Fixed Income,Internally,-,1407262,0.50,-,-,-,,Rest,Sustainable_Growth
-Fixed Income,Internally,-,1231720,0.44,-,-,-,,Rest,Sustainable_Growth
-Fixed Income,Internally,-,1084945,0.38,-,-,-,,Rest,Sustainable_Growth
-Fixed Income,Internally,-,1045766,0.37,-,-,-,,Rest,Sustainable_Growth
-Fixed Income,Internally,-,852804,0.30,-,-,-,,Rest,Sustainable_Growth
-Fixed Income,Internally,-,696339,0.25,-,-,-,,Rest,Sustainable_Growth
-Fixed Income,Internally,-,665026,0.24,-,-,-,,Rest,Sustainable_Growth
-Fixed Income,Internally,-,494160,0.17,-,-,-,,Rest,Sustainable_Growth
-Fixed Income,Internally,-,467904,0.17,-,-,-,,Rest,Sustainable_Growth
-Fixed Income,Internally,-,397220,0.14,-,-,-,,Rest,Sustainable_Growth
-Fixed Income,Internally,-,363447,0.13,-,-,-,,Rest,Sustainable_Growth
-Fixed Income,Internally,-,313587,0.11,-,-,-,,Rest,Sustainable_Growth
-Fixed Income,Internally,-,290453,0.10,-,-,-,,Rest,Sustainable_Growth
-Fixed Income,Internally,-,258825,0.09,-,-,-,,Rest,Sustainable_Growth
-Fixed Income,Internally,-,208364,0.07,-,-,-,,Rest,Sustainable_Growth
-Fixed Income,Internally,-,206060,0.07,-,-,-,,Rest,Sustainable_Growth
-Fixed Income,Internally,-,167694,0.06,-,-,-,,Rest,Sustainable_Growth
-Fixed Income,Internally,-,150938,0.05,-,-,-,,Rest,Sustainable_Growth
-Fixed Income,Internally,-,148523,0.05,-,-,-,,Rest,Sustainable_Growth
-Fixed Income,Internally,-,146112,0.05,-,-,-,,Rest,Sustainable_Growth
-Fixed Income,Internally,-,117183,0.04,-,-,-,,Rest,Sustainable_Growth
-Fixed Income,Internally,-,104155,0.04,-,-,-,,Rest,Sustainable_Growth
-Fixed Income,Internally,-,86943,0.03,-,-,-,,Rest,Sustainable_Growth
-Fixed Income,Internally,-,71125,0.03,-,-,-,,Rest,Sustainable_Growth
-Fixed Income,Internally,-,45879,0.02,-,-,-,,Rest,Sustainable_Growth
-Fixed Income,Internally,-,36270,0.01,-,-,-,,Rest,Sustainable_Growth
-Fixed Income,Internally,-,28830,0.01,-,-,-,,Rest,Sustainable_Growth
-Fixed Income,Internally,-,26903,0.01,-,-,-,,Rest,Sustainable_Growth
-Fixed Income,Internally,-,26388,0.01,-,-,-,,Rest,Sustainable_Growth
-Fixed Income,Internally,-,19370,0.01,-,-,-,,Rest,Sustainable_Growth
-Fixed Income,Internally,-,18934,0.01,-,-,-,,Rest,Sustainable_Growth
-Fixed Income,Internally,-,18556,0.01,-,-,-,,Rest,Sustainable_Growth
-Fixed Income,Internally,-,16320,0.01,-,-,-,,Rest,Sustainable_Growth
-Fixed Income,Internally,-,13873,0.00,-,-,-,,Rest,Sustainable_Growth
-Fixed Income,Internally,-,2848,0.00,-,-,-,,Rest,Sustainable_Growth
-Sub Total Fixed Income Internally,,,11230726,3.97,,,,,Rest,Sustainable_Growth
-Fixed Income,Externally,-,16525731,5.85,-,-,-,,Rest,Sustainable_Growth
-Fixed Income,Externally,-,-1,0.00,-,-,-,,Rest,Sustainable_Growth
-Sub Total Fixed Income Externally,,,16525730,5.85,,,,,Rest,Sustainable_Growth
-Equity,-,CommBank,12474625,4.41,CBA AU,-,COMMONWEALTH BANK OF AUSTRALIA LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Nvidia,6687986,2.37,NVDA US,-,NVIDIA CORP.,Listed,Rest,Sustainable_Growth
-Equity,-,NAB,6477118,2.29,NAB AU,-,NATIONAL AUSTRALIA BANK LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Microsoft,6380600,2.26,MSFT US,-,MICROSOFT CORP.,Listed,Rest,Sustainable_Growth
-Equity,-,Csl,5282050,1.87,CSL AU,-,CSL LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Anz,4982542,1.76,ANZ AU,-,ANZ GROUP HOLDINGS LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Amazon,3989116,1.41,AMZN US,-,"AMAZON.COM, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Telstra,3512750,1.24,TLS AU,-,TELSTRA GROUP LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Coles,2425952,0.86,COL AU,-,COLES GROUP LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Woolworths,1741410,0.62,WOW AU,-,WOOLWORTHS GROUP LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Brambles,1697383,0.60,BXB AU,-,BRAMBLES LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Computershare,1645924,0.58,CPU AU,-,COMPUTERSHARE LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Visa,1547715,0.55,V US,-,"VISA, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Eli Lilly,1534161,0.54,LLY US,-,ELI LILLY & CO.,Listed,Rest,Sustainable_Growth
-Equity,-,Bluescope Steel,1531744,0.54,BSL AU,-,BLUESCOPE STEEL LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Suncorp,1394782,0.49,SUN AU,-,SUNCORP GROUP LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Mastercard,1271233,0.45,MA US,-,"MASTERCARD, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Cochlear,1213264,0.43,COH AU,-,COCHLEAR LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Sims,1170107,0.41,SGM AU,-,SIMS LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Home Depot,1165158,0.41,HD US,-,"HOME DEPOT, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Bendigo And Adelaide Bank,1151301,0.41,BEN AU,-,BENDIGO AND ADELAIDE BANK LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Iluka Resources,1100213,0.39,ILU AU,-,ILUKA RESOURCES LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Perseus Mining,1086168,0.38,PRU AU,-,PERSEUS MINING LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Amcor,1084019,0.38,AMC AU,-,AMCOR PLC,Listed,Rest,Sustainable_Growth
-Equity,-,Cognizant Technology Solutions,1081495,0.38,CTSH US,-,COGNIZANT TECHNOLOGY SOLUTIONS CORP.,Listed,Rest,Sustainable_Growth
-Equity,-,Booking.com,1046880,0.37,BKNG US,-,"BOOKING HOLDINGS, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Pilbara Minerals,982697,0.35,PLS AU,-,PILBARA MINERALS LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Perenti,943542,0.33,PRN AU,-,PERENTI LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,James Hardie Industries,934556,0.33,JHX AU,-,JAMES HARDIE INDUSTRIES PLC,Listed,Rest,Sustainable_Growth
-Equity,-,Netflix,915714,0.32,NFLX US,-,"NETFLIX, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Abbvie,882226,0.31,ABBV US,-,"ABBVIE, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Bank Of America,867164,0.31,BAC US,-,BANK OF AMERICA CORP.,Listed,Rest,Sustainable_Growth
-Equity,-,Jb Hi-Fi,859339,0.30,JBH AU,-,JB HI-FI LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Igo,858188,0.30,IGO AU,-,IGO LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Auckland Airport,825508,0.29,AIA AU,-,AUCKLAND INTERNATIONAL AIRPORT LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Transurban,824550,0.29,TCL AU,-,TRANSURBAN GROUP,Listed,Rest,Sustainable_Growth
-Equity,-,Accenture,804227,0.28,ACN US,-,ACCENTURE PLC,Listed,Rest,Sustainable_Growth
-Equity,-,Godaddy,800214,0.28,GDDY US,-,"GODADDY, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Sonic Healthcare,795139,0.28,SHL AU,-,SONIC HEALTHCARE LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Parker-Hannifin,791832,0.28,PH US,-,PARKER-HANNIFIN CORP.,Listed,Rest,Sustainable_Growth
-Equity,-,Wisetech Global,765271,0.27,WTC AU,-,WISETECH GLOBAL LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Boston Scientific,761178,0.27,BSX US,-,BOSTON SCIENTIFIC CORP.,Listed,Rest,Sustainable_Growth
-Equity,-,Unitedhealth,735667,0.26,UNH US,-,"UNITEDHEALTH GROUP, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Garmin,735418,0.26,GRMN US,-,GARMIN LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Citi Bank,725297,0.26,C US,-,"CITIGROUP, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Bank Of Queensland,722513,0.26,BOQ AU,-,BANK OF QUEENSLAND LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Novo Nordisk As,721689,0.26,NOVOB DC,-,NOVO NORDISK AS,Listed,Rest,Sustainable_Growth
-Equity,-,Royal Bank Of Canada,720288,0.25,RY CN,-,ROYAL BANK OF CANADA,Listed,Rest,Sustainable_Growth
-Equity,-,Rea,717213,0.25,REA AU,-,REA GROUP LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Metlife,716268,0.25,MET US,-,"METLIFE, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Verisign,706562,0.25,VRSN US,-,"VERISIGN, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Te Connectivity,699958,0.25,TEL US,-,TE CONNECTIVITY PLC,Listed,Rest,Sustainable_Growth
-Equity,-,Asml Nv,692992,0.25,ASML NA,-,ASML HOLDING NV,Listed,Rest,Sustainable_Growth
-Equity,-,S&P Global,689987,0.24,SPGI US,-,"S&P GLOBAL, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Abbott Laboratories,687576,0.24,ABT US,-,ABBOTT LABORATORIES,Listed,Rest,Sustainable_Growth
-Equity,-,Chubb,662852,0.23,CB US,-,CHUBB LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Unicredit Spa,659322,0.23,UCG IM,-,UNICREDIT SPA,Listed,Rest,Sustainable_Growth
-Equity,-,Amphenol,650956,0.23,APH US,-,AMPHENOL CORP.,Listed,Rest,Sustainable_Growth
-Equity,-,Carsales,648695,0.23,CAR AU,-,CARSALES.COM LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Steadfast,647120,0.23,SDF AU,-,STEADFAST GROUP LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Comcast,646271,0.23,CMCSA US,-,COMCAST CORP.,Listed,Rest,Sustainable_Growth
-Equity,-,Church & Dwight,639830,0.23,CHD US,-,"CHURCH & DWIGHT CO., INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Fiserv,636803,0.23,FI US,-,"FISERV, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Applied Materials,634952,0.22,AMAT US,-,"APPLIED MATERIALS, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Ramsay Health Care,633233,0.22,RHC AU,-,RAMSAY HEALTH CARE LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Softbank,622923,0.22,9434 JP,-,SOFTBANK CORP.,Listed,Rest,Sustainable_Growth
-Equity,-,Technology One,621415,0.22,TNE AU,-,TECHNOLOGY ONE LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Arista Networks,609483,0.22,ANET US,-,"ARISTA NETWORKS, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Oracle,609070,0.22,ORCL US,-,ORACLE CORP.,Listed,Rest,Sustainable_Growth
-Equity,-,Qualcomm,608237,0.22,QCOM US,-,"QUALCOMM, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Verizon Communications,605252,0.21,VZ US,-,"VERIZON COMMUNICATIONS, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Autodesk,604876,0.21,ADSK US,-,"AUTODESK, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Als,586715,0.21,ALQ AU,-,ALS LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Servicenow,585446,0.21,NOW US,-,"SERVICENOW, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Adriatic Metals,585258,0.21,ADT AU,-,ADRIATIC METALS PLC,Listed,Rest,Sustainable_Growth
-Equity,-,Cisco Systems,581950,0.21,CSCO US,-,"CISCO SYSTEMS, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,American Express,577535,0.20,AXP US,-,AMERICAN EXPRESS CO.,Listed,Rest,Sustainable_Growth
-Equity,-,Reece,568400,0.20,REH AU,-,REECE LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Aflac,559418,0.20,AFL US,-,"AFLAC, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Orica,557894,0.20,ORI AU,-,ORICA LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Intuitive Surgical,552778,0.20,ISRG US,-,"INTUITIVE SURGICAL, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Sherwin-Williams,551470,0.20,SHW US,-,SHERWIN-WILLIAMS CO.,Listed,Rest,Sustainable_Growth
-Equity,-,Texas Instruments,550811,0.19,TXN US,-,"TEXAS INSTRUMENTS, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,American Water Works,548106,0.19,AWK US,-,"AMERICAN WATER WORKS CO., INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Ww Grainger,539997,0.19,GWW US,-,"WW GRAINGER, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Atlas Arteria,536877,0.19,ALX AU,-,ATLAS ARTERIA LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Agnico Eagle Mines,535854,0.19,AEM CN,-,AGNICO EAGLE MINES LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Hydro One,533835,0.19,H CN,-,HYDRO ONE LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Blackrock,533641,0.19,BLK US,-,"BLACKROCK, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Intuit,527120,0.19,INTU US,-,"INTUIT, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Linde,524111,0.19,LIN US,-,LINDE PLC,Listed,Rest,Sustainable_Growth
-Equity,-,Cme,521946,0.18,CME US,-,"CME GROUP, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Trane Technologies,521374,0.18,TT US,-,TRANE TECHNOLOGIES PLC,Listed,Rest,Sustainable_Growth
-Equity,-,Analog Devices,518768,0.18,ADI US,-,"ANALOG DEVICES, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Pro Medicus,517626,0.18,PME AU,-,PRO MEDICUS LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Starbucks,516867,0.18,SBUX US,-,STARBUCKS CORP.,Listed,Rest,Sustainable_Growth
-Equity,-,Constellation Software,515011,0.18,CSU CN,-,"CONSTELLATION SOFTWARE, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Nufarm,514482,0.18,NUF AU,-,NUFARM LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Adobe,514416,0.18,ADBE US,-,"ADOBE, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Fisher & Paykel Healthcare,505847,0.18,FPH AU,-,FISHER & PAYKEL HEALTHCARE CORP. LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Sigma Healthcare,502132,0.18,SIG AU,-,SIGMA HEALTHCARE LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Advanced Micro Devices,500542,0.18,AMD US,-,"ADVANCED MICRO DEVICES, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Sysco,494270,0.17,SYY US,-,SYSCO CORP.,Listed,Rest,Sustainable_Growth
-Equity,-,Progressive,488376,0.17,PGR US,-,PROGRESSIVE CORP.,Listed,Rest,Sustainable_Growth
-Equity,-,Roper Technologies,483247,0.17,ROP US,-,"ROPER TECHNOLOGIES, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Sumitomo Mitsui Financial,474960,0.17,8316 JP,-,"SUMITOMO MITSUI FINANCIAL GROUP, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Pfizer,472049,0.17,PFE US,-,"PFIZER, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Loblaw Cos,469883,0.17,L CN,-,LOBLAW COS. LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Hewlett Packard Enterprise,469059,0.17,HPE US,-,HEWLETT PACKARD ENTERPRISE CO.,Listed,Rest,Sustainable_Growth
-Equity,-,Mitsubishi Ufj Financial,468754,0.17,8306 JP,-,"MITSUBISHI UFJ FINANCIAL GROUP, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Ameriprise Financial,459745,0.16,AMP US,-,"AMERIPRISE FINANCIAL, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Twilio,452934,0.16,TWLO US,-,"TWILIO, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Amgen,452630,0.16,AMGN US,-,"AMGEN, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Anheuser-Busch Inbev Sa,451720,0.16,ABI BB,-,ANHEUSER-BUSCH INBEV SA,Listed,Rest,Sustainable_Growth
-Equity,-,Wixcom,449117,0.16,WIX US,-,WIX.COM LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Pnc Financial Services,442734,0.16,PNC US,-,"PNC FINANCIAL SERVICES GROUP, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Electronic Arts,442450,0.16,EA US,-,"ELECTRONIC ARTS, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Evolution Mining,440226,0.16,EVN AU,-,EVOLUTION MINING LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Deere &,438213,0.16,DE US,-,DEERE & CO.,Listed,Rest,Sustainable_Growth
-Equity,-,Hilton Worldwide,434326,0.15,HLT US,-,"HILTON WORLDWIDE HOLDINGS, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Abb,433392,0.15,ABBN SW,-,ABB LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,West African Resources,430754,0.15,WAF AU,-,WEST AFRICAN RESOURCES LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Compass,428279,0.15,CPG LN,-,COMPASS GROUP PLC,Listed,Rest,Sustainable_Growth
-Equity,-,Amp,427722,0.15,AMP AU,-,AMP LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Kla,426949,0.15,KLAC US,-,KLA CORP.,Listed,Rest,Sustainable_Growth
-Equity,-,Chipotle Mexican Grill,424933,0.15,CMG US,-,"CHIPOTLE MEXICAN GRILL, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Vulcan Energy Resources,419173,0.15,VUL AU,-,VULCAN ENERGY RESOURCES LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Sap Se,415156,0.15,SAP GR,-,SAP SE,Listed,Rest,Sustainable_Growth
-Equity,-,Snowflake,413389,0.15,SNOW US,-,"SNOWFLAKE, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Helia,413282,0.15,HLI AU,-,HELIA GROUP LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Merck,413194,0.15,MRK US,-,"MERCK & CO., INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Thomson Reuters,412654,0.15,TRI CN,-,THOMSON REUTERS CORP.,Listed,Rest,Sustainable_Growth
-Equity,-,Imdex,406685,0.14,IMD AU,-,IMDEX LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Tokio Marine,406317,0.14,8766 JP,-,"TOKIO MARINE HOLDINGS, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Gilead Sciences,403507,0.14,GILD US,-,"GILEAD SCIENCES, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Ccl Industries,399662,0.14,CCLB CN,-,"CCL INDUSTRIES, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Ventia Services,398344,0.14,VNT AU,-,VENTIA SERVICES GROUP PTY. LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Akamai Technologies,397945,0.14,AKAM US,-,"AKAMAI TECHNOLOGIES, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Caixabank Sa,395086,0.14,CABK SM,-,CAIXABANK SA,Listed,Rest,Sustainable_Growth
-Equity,-,Mitsubishi Heavy Industries,391544,0.14,7011 JP,-,MITSUBISHI HEAVY INDUSTRIES LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Moody'S,389191,0.14,MCO US,-,MOODY'S CORP.,Listed,Rest,Sustainable_Growth
-Equity,-,Cadence Design Systems,381095,0.13,CDNS US,-,"CADENCE DESIGN SYSTEMS, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Sanofi,380851,0.13,SAN FP,-,SANOFI,Listed,Rest,Sustainable_Growth
-Equity,-,Dnb Bank Asa,372834,0.13,DNB NO,-,DNB BANK ASA,Listed,Rest,Sustainable_Growth
-Equity,-,Scout24 Se,370505,0.13,G24 GR,-,SCOUT24 SE,Listed,Rest,Sustainable_Growth
-Equity,-,United Rentals,368650,0.13,URI US,-,"UNITED RENTALS, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Corning,368117,0.13,GLW US,-,"CORNING, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Metro,367138,0.13,MRU CN,-,"METRO, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Steel Dynamics,365400,0.13,STLD US,-,"STEEL DYNAMICS, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Mtu Aero Engines Ag,359546,0.13,MTX GR,-,MTU AERO ENGINES AG,Listed,Rest,Sustainable_Growth
-Equity,-,Nippon Telegraph & Telephone,359424,0.13,9432 JP,-,NIPPON TELEGRAPH & TELEPHONE CORP.,Listed,Rest,Sustainable_Growth
-Equity,-,Nutrien,354761,0.13,NTR CN,-,NUTRIEN LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Eaton,354664,0.13,ETN US,-,EATON CORP. PLC,Listed,Rest,Sustainable_Growth
-Equity,-,Netapp,352016,0.12,NTAP US,-,"NETAPP, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Intesa Sanpaolo Spa,351928,0.12,ISP IM,-,INTESA SANPAOLO SPA,Listed,Rest,Sustainable_Growth
-Equity,-,Lam Research,350145,0.12,LRCX US,-,LAM RESEARCH CORP.,Listed,Rest,Sustainable_Growth
-Equity,-,3I,349092,0.12,III LN,-,3I GROUP PLC,Listed,Rest,Sustainable_Growth
-Equity,-,J M Smucker,345619,0.12,SJM US,-,J M SMUCKER CO.,Listed,Rest,Sustainable_Growth
-Equity,-,Bank Of Nova Scotia,344885,0.12,BNS CN,-,BANK OF NOVA SCOTIA,Listed,Rest,Sustainable_Growth
-Equity,-,Vinci Sa,343071,0.12,DG FP,-,VINCI SA,Listed,Rest,Sustainable_Growth
-Equity,-,Aia,341362,0.12,1299 HK,-,AIA GROUP LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Amadeus It Sa,340984,0.12,AMS SM,-,AMADEUS IT GROUP SA,Listed,Rest,Sustainable_Growth
-Equity,-,Ametek,337866,0.12,AME US,-,"AMETEK, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Cigna,337318,0.12,CI US,-,CIGNA GROUP,Listed,Rest,Sustainable_Growth
-Equity,-,Aon,335355,0.12,AON US,-,AON PLC,Listed,Rest,Sustainable_Growth
-Equity,-,Takeda Pharmaceutical,329737,0.12,4502 JP,-,TAKEDA PHARMACEUTICAL CO. LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Cummins,325015,0.11,CMI US,-,"CUMMINS, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Hershey,323714,0.11,HSY US,-,HERSHEY CO.,Listed,Rest,Sustainable_Growth
-Equity,-,Otis Worldwide,322038,0.11,OTIS US,-,OTIS WORLDWIDE CORP.,Listed,Rest,Sustainable_Growth
-Equity,-,Redox,320873,0.11,RDX AU,-,REDOX LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Telenor Asa,320324,0.11,TEL NO,-,TELENOR ASA,Listed,Rest,Sustainable_Growth
-Equity,-,Paychex,320171,0.11,PAYX US,-,"PAYCHEX, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Mosaic,317825,0.11,MOS US,-,MOSAIC CO.,Listed,Rest,Sustainable_Growth
-Equity,-,George Weston,311877,0.11,WN CN,-,GEORGE WESTON LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Challenger,308783,0.11,CGF AU,-,CHALLENGER LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Swisscom Ag,307429,0.11,SCMN SW,-,SWISSCOM AG,Listed,Rest,Sustainable_Growth
-Equity,-,Orora,306155,0.11,ORA AU,-,ORORA LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Nib,305519,0.11,NHF AU,-,NIB HOLDINGS LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Magna International,302840,0.11,MG CN,-,"MAGNA INTERNATIONAL, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Recruit,302752,0.11,6098 JP,-,RECRUIT HOLDINGS CO. LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Intact Financial,297991,0.11,IFC CN,-,INTACT FINANCIAL CORP.,Listed,Rest,Sustainable_Growth
-Equity,-,Vertex Pharmaceuticals,296703,0.10,VRTX US,-,"VERTEX PHARMACEUTICALS, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Paccar,295101,0.10,PCAR US,-,"PACCAR, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Sika Ag,294816,0.10,SIKA SW,-,SIKA AG,Listed,Rest,Sustainable_Growth
-Equity,-,Dover,294527,0.10,DOV US,-,DOVER CORP.,Listed,Rest,Sustainable_Growth
-Equity,-,Synopsys,294106,0.10,SNPS US,-,"SYNOPSYS, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Fair Isaac,293378,0.10,FICO US,-,FAIR ISAAC CORP.,Listed,Rest,Sustainable_Growth
-Equity,-,Haleon,290281,0.10,HLN LN,-,HALEON PLC,Listed,Rest,Sustainable_Growth
-Equity,-,Ebay,286405,0.10,EBAY US,-,"EBAY, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Verisk Analytics,286382,0.10,VRSK US,-,"VERISK ANALYTICS, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,G8 Education,286076,0.10,GEM AU,-,G8 EDUCATION LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Singapore Telecommunications,286054,0.10,ST SP,-,SINGAPORE TELECOMMUNICATIONS LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,West Pharmaceutical Services,284196,0.10,WST US,-,"WEST PHARMACEUTICAL SERVICES, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Keyence,283171,0.10,6861 JP,-,KEYENCE CORP.,Listed,Rest,Sustainable_Growth
-Equity,-,Campbell Soup,283073,0.10,CPB US,-,CAMPBELL SOUP CO.,Listed,Rest,Sustainable_Growth
-Equity,-,Bank Of Montreal,281154,0.10,BMO CN,-,BANK OF MONTREAL,Listed,Rest,Sustainable_Growth
-Equity,-,Mercadolibre,281015,0.10,MELI US,-,"MERCADOLIBRE, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Clorox,276228,0.10,CLX US,-,CLOROX CO.,Listed,Rest,Sustainable_Growth
-Equity,-,Nxp Semiconductors Nv,274509,0.10,NXPI US,-,NXP SEMICONDUCTORS NV,Listed,Rest,Sustainable_Growth
-Equity,-,Yum! Brands,273446,0.10,YUM US,-,"YUM! BRANDS, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Uber Technologies,271143,0.10,UBER US,-,"UBER TECHNOLOGIES, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Broadridge Financial Solutions,270887,0.10,BR US,-,"BROADRIDGE FINANCIAL SOLUTIONS, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Boliden Ab,270710,0.10,BOL SS,-,BOLIDEN AB,Listed,Rest,Sustainable_Growth
-Equity,-,Gsk,270629,0.10,GSK LN,-,GSK PLC,Listed,Rest,Sustainable_Growth
-Equity,-,Liontown Resources,270441,0.10,LTR AU,-,LIONTOWN RESOURCES LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Trimble,270037,0.10,TRMB US,-,"TRIMBLE, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Patriot Battery Metals,268812,0.10,PMT AU,-,"PATRIOT BATTERY METALS, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Softbank,267296,0.09,9984 JP,-,SOFTBANK GROUP CORP.,Listed,Rest,Sustainable_Growth
-Equity,-,Treasury Wine Estates,267005,0.09,TWE AU,-,TREASURY WINE ESTATES LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Terna - Rete Elettrica Nazionale,266198,0.09,TRN IM,-,TERNA - RETE ELETTRICA NAZIONALE,Listed,Rest,Sustainable_Growth
-Equity,-,Super Retail,264884,0.09,SUL AU,-,SUPER RETAIL GROUP LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Cbre,264342,0.09,CBRE US,-,"CBRE GROUP, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,L'Oreal Sa,264224,0.09,OR FP,-,L'OREAL SA,Listed,Rest,Sustainable_Growth
-Equity,-,Bayerische Motoren Werke Ag,264208,0.09,BMW3 GR,-,BAYERISCHE MOTOREN WERKE AG,Listed,Rest,Sustainable_Growth
-Equity,-,Genuine Parts,264031,0.09,GPC US,-,GENUINE PARTS CO.,Listed,Rest,Sustainable_Growth
-Equity,-,Pinterest,262791,0.09,PINS US,-,"PINTEREST, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Netwealth,262422,0.09,NWL AU,-,NETWEALTH GROUP LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Axon Enterprise,261913,0.09,AXON US,-,"AXON ENTERPRISE, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Micron Technology,260201,0.09,MU US,-,"MICRON TECHNOLOGY, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Premier Investments,259085,0.09,PMV AU,-,PREMIER INVESTMENTS LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,F5,255582,0.09,FFIV US,-,"F5, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Givaudan Sa,253129,0.09,GIVN SW,-,GIVAUDAN SA,Listed,Rest,Sustainable_Growth
-Equity,-,Take-Two Interactive Software,253002,0.09,TTWO US,-,"TAKE-TWO INTERACTIVE SOFTWARE, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Stellantis Nv,252578,0.09,STLAM IM,-,STELLANTIS NV,Listed,Rest,Sustainable_Growth
-Equity,-,Blackstone,251461,0.09,BX US,-,"BLACKSTONE, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Cae,248188,0.09,CAE CN,-,"CAE, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Sun Life Financial,248127,0.09,SLF CN,-,"SUN LIFE FINANCIAL, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Intercontinental Exchange,247486,0.09,ICE US,-,"INTERCONTINENTAL EXCHANGE, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Sun Hung Kai Properties,245369,0.09,16 HK,-,SUN HUNG KAI PROPERTIES LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Iqvia,240858,0.09,IQV US,-,"IQVIA HOLDINGS, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Schneider Electric Se,240820,0.09,SU FP,-,SCHNEIDER ELECTRIC SE,Listed,Rest,Sustainable_Growth
-Equity,-,Palo Alto Networks,238561,0.08,PANW US,-,"PALO ALTO NETWORKS, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Agilent Technologies,238106,0.08,A US,-,"AGILENT TECHNOLOGIES, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Fortive,236735,0.08,FTV US,-,FORTIVE CORP.,Listed,Rest,Sustainable_Growth
-Equity,-,Travelers Cos,236203,0.08,TRV US,-,"TRAVELERS COS., INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Intel,236057,0.08,INTC US,-,INTEL CORP.,Listed,Rest,Sustainable_Growth
-Equity,-,Secom,235145,0.08,9735 JP,-,SECOM CO. LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Cdw,233211,0.08,CDW US,-,CDW CORP.,Listed,Rest,Sustainable_Growth
-Equity,-,Juniper Networks,230024,0.08,JNPR US,-,"JUNIPER NETWORKS, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Vulcan Steel,228475,0.08,VSL AU,-,VULCAN STEEL LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Great-West Lifeco,227231,0.08,GWO CN,-,"GREAT-WEST LIFECO, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Auto Trader,226908,0.08,AUTO LN,-,AUTO TRADER GROUP PLC,Listed,Rest,Sustainable_Growth
-Equity,-,Tmx,226845,0.08,X CN,-,TMX GROUP LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Hp,223696,0.08,HPQ US,-,"HP, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Newmont,222992,0.08,NEM AU,-,NEWMONT CORP.,Listed,Rest,Sustainable_Growth
-Equity,-,Dell Technologies,220759,0.08,DELL US,-,"DELL TECHNOLOGIES, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,General Motors,219425,0.08,GM US,-,GENERAL MOTORS CO.,Listed,Rest,Sustainable_Growth
-Equity,-,Essilorluxottica Sa,219059,0.08,EL FP,-,ESSILORLUXOTTICA SA,Listed,Rest,Sustainable_Growth
-Equity,-,Lpl Financial,217186,0.08,LPLA US,-,"LPL FINANCIAL HOLDINGS, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Aisin,216506,0.08,7259 JP,-,AISIN CORP.,Listed,Rest,Sustainable_Growth
-Equity,-,Check Point Software Technologies,216493,0.08,CHKP US,-,CHECK POINT SOFTWARE TECHNOLOGIES LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Telefonica Sa,215351,0.08,TEF SM,-,TELEFONICA SA,Listed,Rest,Sustainable_Growth
-Equity,-,Logitech International Sa,213699,0.08,LOGN SW,-,LOGITECH INTERNATIONAL SA,Listed,Rest,Sustainable_Growth
-Equity,-,Regions Financial,211157,0.07,RF US,-,REGIONS FINANCIAL CORP.,Listed,Rest,Sustainable_Growth
-Equity,-,Airbnb,211015,0.07,ABNB US,-,"AIRBNB, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Aercap Nv,208236,0.07,AER US,-,AERCAP HOLDINGS NV,Listed,Rest,Sustainable_Growth
-Equity,-,Tradeweb Markets,208065,0.07,TW US,-,"TRADEWEB MARKETS, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Block,205897,0.07,SQ2 AU,-,"BLOCK, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Bank Of New York Mellon,204632,0.07,BK US,-,BANK OF NEW YORK MELLON CORP.,Listed,Rest,Sustainable_Growth
-Equity,-,Singapore Exchange,204492,0.07,SGX SP,-,SINGAPORE EXCHANGE LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Ptc,204095,0.07,PTC US,-,"PTC, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Austal,203782,0.07,ASB AU,-,AUSTAL LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Capital One Financial,203338,0.07,COF US,-,CAPITAL ONE FINANCIAL CORP.,Listed,Rest,Sustainable_Growth
-Equity,-,Monolithic Power Systems,202088,0.07,MPWR US,-,"MONOLITHIC POWER SYSTEMS, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Graincorp,200556,0.07,GNC AU,-,GRAINCORP LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Fortinet,199466,0.07,FTNT US,-,"FORTINET, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Aub,196464,0.07,AUB AU,-,AUB GROUP LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Mystate,196188,0.07,MYS AU,-,MYSTATE LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Sayona Mining,194980,0.07,SYA AU,-,SAYONA MINING LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Insignia Financial,194641,0.07,IFL AU,-,INSIGNIA FINANCIAL LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Microchip Technology,193818,0.07,MCHP US,-,"MICROCHIP TECHNOLOGY, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Dbs,193755,0.07,DBS SP,-,DBS GROUP HOLDINGS LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Ms&Ad Insurance,193428,0.07,8725 JP,-,"MS&AD INSURANCE GROUP HOLDINGS, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Hologic,191511,0.07,HOLX US,-,"HOLOGIC, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,United Utilities,191298,0.07,UU LN,-,UNITED UTILITIES GROUP PLC,Listed,Rest,Sustainable_Growth
-Equity,-,Hoya,190999,0.07,7741 JP,-,HOYA CORP.,Listed,Rest,Sustainable_Growth
-Equity,-,Fidelity National Information Services,188875,0.07,FIS US,-,"FIDELITY NATIONAL INFORMATION SERVICES, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Mongodb,188844,0.07,MDB US,-,"MONGODB, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Service Stream,186307,0.07,SSM AU,-,SERVICE STREAM LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Yara International Asa,185764,0.07,YAR NO,-,YARA INTERNATIONAL ASA,Listed,Rest,Sustainable_Growth
-Equity,-,At&T,184386,0.07,T US,-,"AT&T, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Legal & General,183245,0.06,LGEN LN,-,LEGAL & GENERAL GROUP PLC,Listed,Rest,Sustainable_Growth
-Equity,-,Kddi,181147,0.06,9433 JP,-,KDDI CORP.,Listed,Rest,Sustainable_Growth
-Equity,-,Monster Beverage,181105,0.06,MNST US,-,MONSTER BEVERAGE CORP.,Listed,Rest,Sustainable_Growth
-Equity,-,Western Digital,181076,0.06,WDC US,-,WESTERN DIGITAL CORP.,Listed,Rest,Sustainable_Growth
-Equity,-,Mcmillan Shakespeare,180336,0.06,MMS AU,-,MCMILLAN SHAKESPEARE LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Jabil,180141,0.06,JBL US,-,"JABIL, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Xylem,177035,0.06,XYL US,-,"XYLEM, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Veeva Systems,176625,0.06,VEEV US,-,"VEEVA SYSTEMS, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Fastenal,176277,0.06,FAST US,-,FASTENAL CO.,Listed,Rest,Sustainable_Growth
-Equity,-,Target,175740,0.06,TGT US,-,TARGET CORP.,Listed,Rest,Sustainable_Growth
-Equity,-,Rpm International,175575,0.06,RPM US,-,"RPM INTERNATIONAL, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Banco Bilbao Vizcaya Argentaria Sa,174864,0.06,BBVA SM,-,BANCO BILBAO VIZCAYA ARGENTARIA SA,Listed,Rest,Sustainable_Growth
-Equity,-,Deckers Outdoor,174526,0.06,DECK US,-,DECKERS OUTDOOR CORP.,Listed,Rest,Sustainable_Growth
-Equity,-,Perpetual,174223,0.06,PPT AU,-,PERPETUAL LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Cgi,173950,0.06,GIBA CN,-,"CGI, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Centene,173866,0.06,CNC US,-,CENTENE CORP.,Listed,Rest,Sustainable_Growth
-Equity,-,Ap Moller - Maersk As,172131,0.06,MAERSKA DC,-,AP MOLLER - MAERSK AS,Listed,Rest,Sustainable_Growth
-Equity,-,Wsp Global,171253,0.06,WSP CN,-,"WSP GLOBAL, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Tyler Technologies,169944,0.06,TYL US,-,"TYLER TECHNOLOGIES, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Veralto,168738,0.06,VLTO US,-,VERALTO CORP.,Listed,Rest,Sustainable_Growth
-Equity,-,Industrivarden Ab,168317,0.06,INDUA SS,-,INDUSTRIVARDEN AB,Listed,Rest,Sustainable_Growth
-Equity,-,Quest Diagnostics,167247,0.06,DGX US,-,"QUEST DIAGNOSTICS, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Prosus Nv,166420,0.06,PRX NA,-,PROSUS NV,Listed,Rest,Sustainable_Growth
-Equity,-,Smiths,165084,0.06,SMIN LN,-,SMITHS GROUP PLC,Listed,Rest,Sustainable_Growth
-Equity,-,Ulta Beauty,164717,0.06,ULTA US,-,"ULTA BEAUTY, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Nissin Foods,164152,0.06,2897 JP,-,NISSIN FOODS HOLDINGS CO. LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Snap,163643,0.06,SNAP US,-,"SNAP, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Snap-On,163165,0.06,SNA US,-,"SNAP-ON, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Orkla Asa,162858,0.06,ORK NO,-,ORKLA ASA,Listed,Rest,Sustainable_Growth
-Equity,-,Mccormick &,161903,0.06,MKC US,-,"MCCORMICK & CO., INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Skyworks Solutions,161086,0.06,SWKS US,-,"SKYWORKS SOLUTIONS, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Edwards Lifesciences,160268,0.06,EW US,-,EDWARDS LIFESCIENCES CORP.,Listed,Rest,Sustainable_Growth
-Equity,-,Nine Entertainment,159808,0.06,NEC AU,-,NINE ENTERTAINMENT CO. HOLDINGS LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Henkel Ag & Kgaa,159573,0.06,HEN GR,-,HENKEL AG & CO. KGAA,Listed,Rest,Sustainable_Growth
-Equity,-,Iress,156296,0.06,IRE AU,-,IRESS LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Hermes International,155631,0.06,RMS FP,-,HERMES INTERNATIONAL,Listed,Rest,Sustainable_Growth
-Equity,-,Resona,155451,0.05,8308 JP,-,"RESONA HOLDINGS, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Webjet,153772,0.05,WEB AU,-,WEBJET LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Trade Desk,152633,0.05,TTD US,-,"TRADE DESK, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Boc Hong Kong,152606,0.05,2388 HK,-,BOC HONG KONG HOLDINGS LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Fujitsu,152096,0.05,6702 JP,-,FUJITSU LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Hongkong Land,151372,0.05,HKL SP,-,HONGKONG LAND HOLDINGS LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,London Stock Exchange,150262,0.05,LSEG LN,-,LONDON STOCK EXCHANGE GROUP PLC,Listed,Rest,Sustainable_Growth
-Equity,-,Westinghouse Air Brake Technologies,149870,0.05,WAB US,-,WESTINGHOUSE AIR BRAKE TECHNOLOGIES CORP.,Listed,Rest,Sustainable_Growth
-Equity,-,Ferguson Enterprises,149397,0.05,FERG US,-,"FERGUSON ENTERPRISES, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Coca-Cola Europacific Partners,147775,0.05,CCEP US,-,COCA-COLA EUROPACIFIC PARTNERS PLC,Listed,Rest,Sustainable_Growth
-Equity,-,Bristol-Myers Squibb,147685,0.05,BMY US,-,BRISTOL-MYERS SQUIBB CO.,Listed,Rest,Sustainable_Growth
-Equity,-,Sino Land,147522,0.05,83 HK,-,SINO LAND CO. LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Ooh!Media,145448,0.05,OML AU,-,OOH!MEDIA LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Sgs Sa,145424,0.05,SGSN SW,-,SGS SA,Listed,Rest,Sustainable_Growth
-Equity,-,Fleetpartners,144224,0.05,FPR AU,-,FLEETPARTNERS GROUP LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Asm International Nv,143439,0.05,ASM NA,-,ASM INTERNATIONAL NV,Listed,Rest,Sustainable_Growth
-Equity,-,Idp Education,143234,0.05,IEL AU,-,IDP EDUCATION LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Dr Ing Hc F Porsche Ag,142461,0.05,P911 GR,-,DR ING HC F PORSCHE AG,Listed,Rest,Sustainable_Growth
-Equity,-,Nasdaq,142242,0.05,NDAQ US,-,"NASDAQ, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Nordson,142062,0.05,NDSN US,-,NORDSON CORP.,Listed,Rest,Sustainable_Growth
-Equity,-,Republic Services,141854,0.05,RSG US,-,"REPUBLIC SERVICES, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Nomura,139550,0.05,8604 JP,-,"NOMURA HOLDINGS, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Nn Nv,139127,0.05,NN NA,-,NN GROUP NV,Listed,Rest,Sustainable_Growth
-Equity,-,Propel Funeral Partners,139114,0.05,PFP AU,-,PROPEL FUNERAL PARTNERS LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Coca-Cola Hbc Ag,136414,0.05,CCH LN,-,COCA-COLA HBC AG,Listed,Rest,Sustainable_Growth
-Equity,-,Qantas Airways,134976,0.05,QAN AU,-,QANTAS AIRWAYS LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Owens Corning,134637,0.05,OC US,-,OWENS CORNING,Listed,Rest,Sustainable_Growth
-Equity,-,Lennox International,130901,0.05,LII US,-,"LENNOX INTERNATIONAL, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Zoetis,130815,0.05,ZTS US,-,"ZOETIS, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Vertiv,130801,0.05,VRT US,-,VERTIV HOLDINGS CO.,Listed,Rest,Sustainable_Growth
-Equity,-,Keurig Dr Pepper,130669,0.05,KDP US,-,"KEURIG DR PEPPER, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Mtr,130664,0.05,66 HK,-,MTR CORP. LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Waste Management,130335,0.05,WM US,-,"WASTE MANAGEMENT, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Paypal,130118,0.05,PYPL US,-,"PAYPAL HOLDINGS, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,East Japan Railway,129808,0.05,9020 JP,-,EAST JAPAN RAILWAY CO.,Listed,Rest,Sustainable_Growth
-Equity,-,Ball,129677,0.05,BALL US,-,BALL CORP.,Listed,Rest,Sustainable_Growth
-Equity,-,Smartgroup,129103,0.05,SIQ AU,-,SMARTGROUP CORP. LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Chugai Pharmaceutical,128795,0.05,4519 JP,-,CHUGAI PHARMACEUTICAL CO. LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Credit Agricole Sa,128573,0.05,ACA FP,-,CREDIT AGRICOLE SA,Listed,Rest,Sustainable_Growth
-Equity,-,Reliance,127561,0.05,RS US,-,"RELIANCE, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Sumitomo Electric Industries,127524,0.05,5802 JP,-,SUMITOMO ELECTRIC INDUSTRIES LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Vodafone,126905,0.04,VOD LN,-,VODAFONE GROUP PLC,Listed,Rest,Sustainable_Growth
-Equity,-,Descartes Systems,126112,0.04,DSG CN,-,"DESCARTES SYSTEMS GROUP, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,De Grey Mining,125560,0.04,DEG AU,-,DE GREY MINING LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Hong Kong Exchanges & Clearing,125435,0.04,388 HK,-,HONG KONG EXCHANGES & CLEARING LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Costar,124324,0.04,CSGP US,-,"COSTAR GROUP, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Manhattan Associates,124303,0.04,MANH US,-,"MANHATTAN ASSOCIATES, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Molina Healthcare,123855,0.04,MOH US,-,"MOLINA HEALTHCARE, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Sea,120985,0.04,SE US,-,SEA LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Ebos,120757,0.04,EBO AU,-,EBOS GROUP LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Darden Restaurants,120582,0.04,DRI US,-,"DARDEN RESTAURANTS, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Domino'S Pizza,117928,0.04,DPZ US,-,"DOMINO'S PIZZA, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Olympus,116325,0.04,7733 JP,-,OLYMPUS CORP.,Listed,Rest,Sustainable_Growth
-Equity,-,Arch Capital,115354,0.04,ACGL US,-,ARCH CAPITAL GROUP LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Roblox,114186,0.04,RBLX US,-,ROBLOX CORP.,Listed,Rest,Sustainable_Growth
-Equity,-,Vat Ag,114084,0.04,VACN SW,-,VAT GROUP AG,Listed,Rest,Sustainable_Growth
-Equity,-,Fanuc,113413,0.04,6954 JP,-,FANUC CORP.,Listed,Rest,Sustainable_Growth
-Equity,-,Gjensidige Forsikring Asa,112651,0.04,GJF NO,-,GJENSIDIGE FORSIKRING ASA,Listed,Rest,Sustainable_Growth
-Equity,-,Swire Pacific,112410,0.04,19 HK,-,SWIRE PACIFIC LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Ashtead,112267,0.04,AHT LN,-,ASHTEAD GROUP PLC,Listed,Rest,Sustainable_Growth
-Equity,-,Waters,111888,0.04,WAT US,-,WATERS CORP.,Listed,Rest,Sustainable_Growth
-Equity,-,Goldman Sachs,111192,0.04,GS US,-,"GOLDMAN SACHS GROUP, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Hexagon Ab,110047,0.04,HEXAB SS,-,HEXAGON AB,Listed,Rest,Sustainable_Growth
-Equity,-,Knight-Swift Transportation,109641,0.04,KNX US,-,"KNIGHT-SWIFT TRANSPORTATION HOLDINGS, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Telus,109122,0.04,T CN,-,TELUS CORP.,Listed,Rest,Sustainable_Growth
-Equity,-,Atlas Copco Ab,108430,0.04,ATCOB SS,-,ATLAS COPCO AB,Listed,Rest,Sustainable_Growth
-Equity,-,Expeditors International Of Washington,108157,0.04,EXPD US,-,"EXPEDITORS INTERNATIONAL OF WASHINGTON, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Principal Financial,108099,0.04,PFG US,-,"PRINCIPAL FINANCIAL GROUP, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Siemens Ag,107559,0.04,SIE GR,-,SIEMENS AG,Listed,Rest,Sustainable_Growth
-Equity,-,Z,107314,0.04,4689 JP,-,Z HOLDINGS CORP.,Listed,Rest,Sustainable_Growth
-Equity,-,West Fraser Timber,107100,0.04,WFG CN,-,WEST FRASER TIMBER CO. LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Interpublic Of Cos,105076,0.04,IPG US,-,"INTERPUBLIC GROUP OF COS., INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Ucb Sa,104976,0.04,UCB BB,-,UCB SA,Listed,Rest,Sustainable_Growth
-Equity,-,Wharf,104591,0.04,4 HK,-,WHARF HOLDINGS LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Omnicom,102140,0.04,OMC US,-,"OMNICOM GROUP, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Humana,102025,0.04,HUM US,-,"HUMANA, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Lendlease,101983,0.04,LLC AU,-,LENDLEASE CORP. LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Magellan Financial,99515,0.04,MFG AU,-,MAGELLAN FINANCIAL GROUP LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Edp Renovaveis Sa,99493,0.04,EDPR PL,-,EDP RENOVAVEIS SA,Listed,Rest,Sustainable_Growth
-Equity,-,Atlassian,98877,0.03,TEAM US,-,ATLASSIAN CORP.,Listed,Rest,Sustainable_Growth
-Equity,-,Fifth Third Bancorp,96715,0.03,FITB US,-,FIFTH THIRD BANCORP,Listed,Rest,Sustainable_Growth
-Equity,-,Williams-Sonoma,95889,0.03,WSM US,-,"WILLIAMS-SONOMA, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Komatsu,95296,0.03,6301 JP,-,KOMATSU LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Ricoh,95243,0.03,7752 JP,-,RICOH CO. LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Yakult Honsha,94229,0.03,2267 JP,-,YAKULT HONSHA CO. LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Sompo,93845,0.03,8630 JP,-,"SOMPO HOLDINGS, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Informa,93832,0.03,INF LN,-,INFORMA PLC,Listed,Rest,Sustainable_Growth
-Equity,-,Bnp Paribas Sa,93741,0.03,BNP FP,-,BNP PARIBAS SA,Listed,Rest,Sustainable_Growth
-Equity,-,Workday,93102,0.03,WDAY US,-,"WORKDAY, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Nice,92977,0.03,NICE IT,-,NICE LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Capitaland Investment,92836,0.03,CLI SP,-,CAPITALAND INVESTMENT LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Tractor Supply,91706,0.03,TSCO US,-,TRACTOR SUPPLY CO.,Listed,Rest,Sustainable_Growth
-Equity,-,Rb Global,91685,0.03,RBA CN,-,"RB GLOBAL, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,American International,91435,0.03,AIG US,-,"AMERICAN INTERNATIONAL GROUP, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Domino'S Pizza Enterprises,91145,0.03,DMP AU,-,DOMINO'S PIZZA ENTERPRISES LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Doordash,91022,0.03,DASH US,-,"DOORDASH, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Hubspot,90200,0.03,HUBS US,-,"HUBSPOT, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Burlington Stores,89900,0.03,BURL US,-,"BURLINGTON STORES, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,M&T Bank,89846,0.03,MTB US,-,M&T BANK CORP.,Listed,Rest,Sustainable_Growth
-Equity,-,Datadog,89340,0.03,DDOG US,-,"DATADOG, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Avery Dennison,88910,0.03,AVY US,-,AVERY DENNISON CORP.,Listed,Rest,Sustainable_Growth
-Equity,-,Advantest,88661,0.03,6857 JP,-,ADVANTEST CORP.,Listed,Rest,Sustainable_Growth
-Equity,-,Bayerische Motoren Werke Ag,88527,0.03,BMW GR,-,BAYERISCHE MOTOREN WERKE AG,Listed,Rest,Sustainable_Growth
-Equity,-,Allstate,86554,0.03,ALL US,-,ALLSTATE CORP.,Listed,Rest,Sustainable_Growth
-Equity,-,Zensho,86405,0.03,7550 JP,-,ZENSHO HOLDINGS CO. LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Bt,85475,0.03,BTA LN,-,BT GROUP PLC,Listed,Rest,Sustainable_Growth
-Equity,-,Zip,85310,0.03,ZIP AU,-,ZIP CO. LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Marketaxess,85295,0.03,MKTX US,-,"MARKETAXESS HOLDINGS, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Keycorp,84930,0.03,KEY US,-,KEYCORP,Listed,Rest,Sustainable_Growth
-Equity,-,Super Micro Computer,84876,0.03,SMCI US,-,"SUPER MICRO COMPUTER, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Pexa,84501,0.03,PXA AU,-,PEXA GROUP LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,United Therapeutics,84064,0.03,UTHR US,-,UNITED THERAPEUTICS CORP.,Listed,Rest,Sustainable_Growth
-Equity,-,Temenos Ag,83577,0.03,TEMN SW,-,TEMENOS AG,Listed,Rest,Sustainable_Growth
-Equity,-,Be Semiconductor Industries Nv,82259,0.03,BESI NA,-,BE SEMICONDUCTOR INDUSTRIES NV,Listed,Rest,Sustainable_Growth
-Equity,-,Codan,81812,0.03,CDA AU,-,CODAN LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Deutsche Post Ag,81748,0.03,DHL GR,-,DEUTSCHE POST AG,Listed,Rest,Sustainable_Growth
-Equity,-,Vulcan Materials,81123,0.03,VMC US,-,VULCAN MATERIALS CO.,Listed,Rest,Sustainable_Growth
-Equity,-,Coinbase Global,80700,0.03,COIN US,-,"COINBASE GLOBAL, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Alnylam Pharmaceuticals,80691,0.03,ALNY US,-,"ALNYLAM PHARMACEUTICALS, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Seiko Epson,80632,0.03,6724 JP,-,SEIKO EPSON CORP.,Listed,Rest,Sustainable_Growth
-Equity,-,Brother Industries,80368,0.03,6448 JP,-,BROTHER INDUSTRIES LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Cyberark Software,79373,0.03,CYBR US,-,CYBERARK SOFTWARE LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Northern Trust,79050,0.03,NTRS US,-,NORTHERN TRUST CORP.,Listed,Rest,Sustainable_Growth
-Equity,-,Mizuho Financial,78059,0.03,8411 JP,-,"MIZUHO FINANCIAL GROUP, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Henkel Ag & Kgaa,77908,0.03,HEN3 GR,-,HENKEL AG & CO. KGAA,Listed,Rest,Sustainable_Growth
-Equity,-,Adyen Nv,77871,0.03,ADYEN NA,-,ADYEN NV,Listed,Rest,Sustainable_Growth
-Equity,-,Aptiv,77794,0.03,APTV US,-,APTIV PLC,Listed,Rest,Sustainable_Growth
-Equity,-,Prudential,77479,0.03,PRU LN,-,PRUDENTIAL PLC,Listed,Rest,Sustainable_Growth
-Equity,-,Cvs Health,76658,0.03,CVS US,-,CVS HEALTH CORP.,Listed,Rest,Sustainable_Growth
-Equity,-,Kirin,75411,0.03,2503 JP,-,KIRIN HOLDINGS CO. LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Telix Pharmaceuticals,74619,0.03,TLX AU,-,TELIX PHARMACEUTICALS LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Factset Research Systems,74080,0.03,FDS US,-,"FACTSET RESEARCH SYSTEMS, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Infineon Technologies Ag,73929,0.03,IFX GR,-,INFINEON TECHNOLOGIES AG,Listed,Rest,Sustainable_Growth
-Equity,-,Dexcom,73901,0.03,DXCM US,-,"DEXCOM, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Insulet,73705,0.03,PODD US,-,INSULET CORP.,Listed,Rest,Sustainable_Growth
-Equity,-,Eiffage Sa,72610,0.03,FGR FP,-,EIFFAGE SA,Listed,Rest,Sustainable_Growth
-Equity,-,Galderma Ag,72186,0.03,GALD SW,-,GALDERMA GROUP AG,Listed,Rest,Sustainable_Growth
-Equity,-,Ch Robinson Worldwide,71714,0.03,CHRW US,-,"CH ROBINSON WORLDWIDE, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Pentair,71240,0.03,PNR US,-,PENTAIR PLC,Listed,Rest,Sustainable_Growth
-Equity,-,Dai-Ichi Life,70510,0.02,8750 JP,-,"DAI-ICHI LIFE HOLDINGS, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Dollar Tree,70489,0.02,DLTR US,-,"DOLLAR TREE, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Toppan,70077,0.02,7911 JP,-,"TOPPAN, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Ford Motor,69820,0.02,F US,-,FORD MOTOR CO.,Listed,Rest,Sustainable_Growth
-Equity,-,Fujikura,68855,0.02,5803 JP,-,FUJIKURA LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Jb Hunt Transport Services,68628,0.02,JBHT US,-,"JB HUNT TRANSPORT SERVICES, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Gwa,68571,0.02,GWA AU,-,GWA GROUP LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Isuzu Motors,68093,0.02,7202 JP,-,ISUZU MOTORS LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Saab Ab,67636,0.02,SAABB SS,-,SAAB AB,Listed,Rest,Sustainable_Growth
-Equity,-,Idex,67445,0.02,IEX US,-,IDEX CORP.,Listed,Rest,Sustainable_Growth
-Equity,-,Ge Healthcare Technologies,67400,0.02,GEHC US,-,"GE HEALTHCARE TECHNOLOGIES, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Rivian Automotive,67148,0.02,RIVN US,-,"RIVIAN AUTOMOTIVE, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Bank Hapoalim Bm,66918,0.02,POLI IT,-,BANK HAPOALIM BM,Listed,Rest,Sustainable_Growth
-Equity,-,Lululemon Athletica,66884,0.02,LULU US,-,"LULULEMON ATHLETICA, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Qorvo,66547,0.02,QRVO US,-,"QORVO, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Dynatrace,66167,0.02,DT US,-,"DYNATRACE, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Estee Lauder Cos,66086,0.02,EL US,-,"ESTEE LAUDER COS., INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Mitsubishi Electric,65928,0.02,6503 JP,-,MITSUBISHI ELECTRIC CORP.,Listed,Rest,Sustainable_Growth
-Equity,-,Thermo Fisher Scientific,65913,0.02,TMO US,-,"THERMO FISHER SCIENTIFIC, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Sig Ag,65401,0.02,SIGN SW,-,SIG GROUP AG,Listed,Rest,Sustainable_Growth
-Equity,-,Gartner,65385,0.02,IT US,-,"GARTNER, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Dollar General,65052,0.02,DG US,-,DOLLAR GENERAL CORP.,Listed,Rest,Sustainable_Growth
-Equity,-,Novartis Ag,64970,0.02,NOVN SW,-,NOVARTIS AG,Listed,Rest,Sustainable_Growth
-Equity,-,Nintendo,64943,0.02,7974 JP,-,NINTENDO CO. LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Resmed,64879,0.02,RMD US,-,"RESMED, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Daiichi Sankyo,64831,0.02,4568 JP,-,DAIICHI SANKYO CO. LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Elia Sa,64508,0.02,ELI BB,-,ELIA GROUP SA,Listed,Rest,Sustainable_Growth
-Equity,-,Quanta Services,64418,0.02,PWR US,-,"QUANTA SERVICES, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Apollo Global Management,64369,0.02,APO US,-,"APOLLO GLOBAL MANAGEMENT, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Mizrahi Tefahot Bank,63796,0.02,MZTF IT,-,MIZRAHI TEFAHOT BANK LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Tokyo Electron,63579,0.02,8035 JP,-,TOKYO ELECTRON LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Severn Trent,63458,0.02,SVT LN,-,SEVERN TRENT PLC,Listed,Rest,Sustainable_Growth
-Equity,-,Watsco,63305,0.02,WSO US,-,"WATSCO, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Alstom Sa,62875,0.02,ALO FP,-,ALSTOM SA,Listed,Rest,Sustainable_Growth
-Equity,-,Allianz Se,62874,0.02,ALV GR,-,ALLIANZ SE,Listed,Rest,Sustainable_Growth
-Equity,-,Straumann Ag,62329,0.02,STMN SW,-,STRAUMANN HOLDING AG,Listed,Rest,Sustainable_Growth
-Equity,-,Mitsui Fudosan,62321,0.02,8801 JP,-,MITSUI FUDOSAN CO. LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Global-E Online,61955,0.02,GLBE US,-,GLOBAL-E ONLINE LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Nippon Paint,61885,0.02,4612 JP,-,NIPPON PAINT HOLDINGS CO. LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Wpp,61764,0.02,WPP LN,-,WPP PLC,Listed,Rest,Sustainable_Growth
-Equity,-,Partners Ag,61682,0.02,PGHN SW,-,PARTNERS GROUP HOLDING AG,Listed,Rest,Sustainable_Growth
-Equity,-,Epam Systems,60860,0.02,EPAM US,-,"EPAM SYSTEMS, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Franklin Resources,60300,0.02,BEN US,-,"FRANKLIN RESOURCES, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Emcor,60009,0.02,EME US,-,"EMCOR GROUP, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Lamb Weston,59731,0.02,LW US,-,"LAMB WESTON HOLDINGS, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Ap Moller - Maersk As,59192,0.02,MAERSKB DC,-,AP MOLLER - MAERSK AS,Listed,Rest,Sustainable_Growth
-Equity,-,Zurich Insurance Ag,58952,0.02,ZURN SW,-,ZURICH INSURANCE GROUP AG,Listed,Rest,Sustainable_Growth
-Equity,-,United Overseas Bank,58681,0.02,UOB SP,-,UNITED OVERSEAS BANK LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Societe Generale Sa,58098,0.02,GLE FP,-,SOCIETE GENERALE SA,Listed,Rest,Sustainable_Growth
-Equity,-,Carvana,56852,0.02,CVNA US,-,CARVANA CO.,Listed,Rest,Sustainable_Growth
-Equity,-,Pool,56813,0.02,POOL US,-,POOL CORP.,Listed,Rest,Sustainable_Growth
-Equity,-,Toyota Industries,56367,0.02,6201 JP,-,TOYOTA INDUSTRIES CORP.,Listed,Rest,Sustainable_Growth
-Equity,-,Ipsen Sa,56358,0.02,IPN FP,-,IPSEN SA,Listed,Rest,Sustainable_Growth
-Equity,-,Aurizon,55639,0.02,AZJ AU,-,AURIZON HOLDINGS LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Smc,54487,0.02,6273 JP,-,SMC CORP.,Listed,Rest,Sustainable_Growth
-Equity,-,Yamaha Motor,54153,0.02,7272 JP,-,YAMAHA MOTOR CO. LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Crown,54092,0.02,CCK US,-,"CROWN HOLDINGS, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Investor Ab,53373,0.02,INVEB SS,-,INVESTOR AB,Listed,Rest,Sustainable_Growth
-Equity,-,Sumitomo Mitsui Trust,51764,0.02,8309 JP,-,"SUMITOMO MITSUI TRUST HOLDINGS, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Nokia Oyj,51350,0.02,NOKIA FH,-,NOKIA OYJ,Listed,Rest,Sustainable_Growth
-Equity,-,Dick'S Sporting Goods,50739,0.02,DKS US,-,"DICK'S SPORTING GOODS, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Teradyne,50637,0.02,TER US,-,"TERADYNE, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Astellas Pharma,49752,0.02,4503 JP,-,"ASTELLAS PHARMA, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Zimmer Biomet,48733,0.02,ZBH US,-,"ZIMMER BIOMET HOLDINGS, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Inpost Sa,48666,0.02,INPST NA,-,INPOST SA,Listed,Rest,Sustainable_Growth
-Equity,-,Hub24,48358,0.02,HUB AU,-,HUB24 LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Royalty Pharma,48201,0.02,RPRX US,-,ROYALTY PHARMA PLC,Listed,Rest,Sustainable_Growth
-Equity,-,Telecom Italia Spa,48096,0.02,TIT IM,-,TELECOM ITALIA SPA,Listed,Rest,Sustainable_Growth
-Equity,-,Lifestyle Communities,47362,0.02,LIC AU,-,LIFESTYLE COMMUNITIES LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Ntt Data,45137,0.02,9613 JP,-,NTT DATA CORP.,Listed,Rest,Sustainable_Growth
-Equity,-,Hansen Technologies,44348,0.02,HSN AU,-,HANSEN TECHNOLOGIES LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Mediobanca Banca Di Credito Finanziario Spa,44218,0.02,MB IM,-,MEDIOBANCA BANCA DI CREDITO FINANZIARIO SPA,Listed,Rest,Sustainable_Growth
-Equity,-,Bouygues Sa,43996,0.02,EN FP,-,BOUYGUES SA,Listed,Rest,Sustainable_Growth
-Equity,-,Futu,43844,0.02,FUTU US,-,FUTU HOLDINGS LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Croda International,43496,0.02,CRDA LN,-,CRODA INTERNATIONAL PLC,Listed,Rest,Sustainable_Growth
-Equity,-,Rogers Communications,43246,0.02,RCIB CN,-,"ROGERS COMMUNICATIONS, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Dai Nippon Printing,42788,0.02,7912 JP,-,DAI NIPPON PRINTING CO. LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Hang Seng Bank,42350,0.01,11 HK,-,HANG SENG BANK LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Perkinelmer,40271,0.01,RVTY US,-,"PERKINELMER, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Associated British Foods,40170,0.01,ABF LN,-,ASSOCIATED BRITISH FOODS PLC,Listed,Rest,Sustainable_Growth
-Equity,-,Neuren Pharmaceuticals,39607,0.01,NEU AU,-,NEUREN PHARMACEUTICALS LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Unibail-Rodamco-Westfield,39488,0.01,URW AU,-,UNIBAIL-RODAMCO-WESTFIELD,Listed,Rest,Sustainable_Growth
-Equity,-,Japan Post Bank,39288,0.01,7182 JP,-,JAPAN POST BANK CO. LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Bunzl,39168,0.01,BNZL LN,-,BUNZL PLC,Listed,Rest,Sustainable_Growth
-Equity,-,Mitsubishi Chemical,38542,0.01,4188 JP,-,MITSUBISHI CHEMICAL GROUP CORP.,Listed,Rest,Sustainable_Growth
-Equity,-,Singapore Technologies Engineering,37634,0.01,STE SP,-,SINGAPORE TECHNOLOGIES ENGINEERING LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Avantor,36532,0.01,AVTR US,-,"AVANTOR, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Toromont Industries,36127,0.01,TIH CN,-,TOROMONT INDUSTRIES LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Australian Ethical Investment,35657,0.01,AEF AU,-,AUSTRALIAN ETHICAL INVESTMENT LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Asics,35428,0.01,7936 JP,-,ASICS CORP.,Listed,Rest,Sustainable_Growth
-Equity,-,Iph,35168,0.01,IPH AU,-,IPH LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Monash Ivf,33041,0.01,MVF AU,-,MONASH IVF GROUP LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Nick Scali,32272,0.01,NCK AU,-,NICK SCALI LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Henry Schein,32116,0.01,HSIC US,-,"HENRY SCHEIN, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Idexx Laboratories,31885,0.01,IDXX US,-,"IDEXX LABORATORIES, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Corporate Travel Management,31062,0.01,CTD AU,-,CORPORATE TRAVEL MANAGEMENT LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Healius,29730,0.01,HLS AU,-,HEALIUS LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Eagers Automotive,29393,0.01,APE AU,-,EAGERS AUTOMOTIVE LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Mondaycom,27560,0.01,MNDY US,-,MONDAY.COM LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Polynovo,26907,0.01,PNV AU,-,POLYNOVO LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Accent,24948,0.01,AX1 AU,-,ACCENT GROUP LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Ofx,24612,0.01,OFX AU,-,OFX GROUP LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Sbi,24426,0.01,8473 JP,-,"SBI HOLDINGS, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Collins Foods,22953,0.01,CKF AU,-,COLLINS FOODS LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Tis,22923,0.01,3626 JP,-,"TIS, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Canal & France Sa,21778,0.01,YA3 GR,-,CANAL & FRANCE SA,Listed,Rest,Sustainable_Growth
-Equity,-,Amotiv,17457,0.01,AOV AU,-,AMOTIV LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Stmicroelectronics Nv,16097,0.01,STMPA FP,-,STMICROELECTRONICS NV,Listed,Rest,Sustainable_Growth
-Equity,-,Entegris,15279,0.01,ENTG US,-,"ENTEGRIS, INC.",Listed,Rest,Sustainable_Growth
-Equity,-,Havas Nv,14391,0.01,HAVAS NA,-,HAVAS NV,Listed,Rest,Sustainable_Growth
-Equity,-,Cettire,10620,0.00,CTT AU,-,CETTIRE LTD.,Listed,Rest,Sustainable_Growth
-Equity,-,Judo Capital,7699,0.00,JDO AU,-,JUDO CAPITAL HOLDINGS LTD.,Listed,Rest,Sustainable_Growth
-Sub Total Listed Equity,,,205804297,72.80,,,,,Rest,Sustainable_Growth
-Sub Total Unlisted Equity Internally,,,0,0.00,,,,,Rest,Sustainable_Growth
-Sub Total Unlisted Equity Externally,,,0,0.00,,,,,Rest,Sustainable_Growth
-Property,-,SCENTRE GROUP,1394305,0.49,SCG AU,-,SCENTRE GROUP,Listed,Rest,Sustainable_Growth
-Property,-,GOODMAN GROUP,920985,0.33,GMG AU,-,GOODMAN GROUP,Listed,Rest,Sustainable_Growth
-Property,-,STOCKLAND,866950,0.31,SGP AU,-,STOCKLAND,Listed,Rest,Sustainable_Growth
-Property,-,GPT GROUP,596250,0.21,GPT AU,-,GPT GROUP,Listed,Rest,Sustainable_Growth
-Property,-,MIRVAC GROUP,531975,0.19,MGR AU,-,MIRVAC GROUP,Listed,Rest,Sustainable_Growth
-Property,-,BWP TRUST,513506,0.18,BWP AU,-,BWP TRUST,Listed,Rest,Sustainable_Growth
-Property,-,WAYPOINT REIT LTD.,512802,0.18,WPR AU,-,WAYPOINT REIT LTD.,Listed,Rest,Sustainable_Growth
-Property,-,"PROLOGIS, INC.",315443,0.11,PLD US,-,"PROLOGIS, INC.",Listed,Rest,Sustainable_Growth
-Property,-,AMERICAN TOWER CORP.,274056,0.10,AMT US,-,AMERICAN TOWER CORP.,Listed,Rest,Sustainable_Growth
-Property,-,"SIMON PROPERTY GROUP, INC.",270602,0.10,SPG US,-,"SIMON PROPERTY GROUP, INC.",Listed,Rest,Sustainable_Growth
-Property,-,PUBLIC STORAGE,242479,0.09,PSA US,-,PUBLIC STORAGE,Listed,Rest,Sustainable_Growth
-Property,-,"ANNALY CAPITAL MANAGEMENT, INC.",213715,0.08,NLY US,-,"ANNALY CAPITAL MANAGEMENT, INC.",Listed,Rest,Sustainable_Growth
-Property,-,ARENA REIT,210127,0.07,ARF AU,-,ARENA REIT,Listed,Rest,Sustainable_Growth
-Property,-,"HOST HOTELS & RESORTS, INC.",171405,0.06,HST US,-,"HOST HOTELS & RESORTS, INC.",Listed,Rest,Sustainable_Growth
-Property,-,"EQUINIX, INC.",164912,0.06,EQIX US,-,"EQUINIX, INC.",Listed,Rest,Sustainable_Growth
-Property,-,CHARTER HALL LONG WALE REIT,156871,0.06,CLW AU,-,CHARTER HALL LONG WALE REIT,Listed,Rest,Sustainable_Growth
-Property,-,"CROWN CASTLE, INC.",125492,0.04,CCI US,-,"CROWN CASTLE, INC.",Listed,Rest,Sustainable_Growth
-Property,-,SBA COMMUNICATIONS CORP.,114793,0.04,SBAC US,-,SBA COMMUNICATIONS CORP.,Listed,Rest,Sustainable_Growth
-Property,-,"IRON MOUNTAIN, INC.",96406,0.03,IRM US,-,"IRON MOUNTAIN, INC.",Listed,Rest,Sustainable_Growth
-Property,-,KLEPIERRE SA,86504,0.03,LI FP,-,KLEPIERRE SA,Listed,Rest,Sustainable_Growth
-Property,-,NATIONAL STORAGE REIT,85079,0.03,NSR AU,-,NATIONAL STORAGE REIT,Listed,Rest,Sustainable_Growth
-Property,-,INGENIA COMMUNITIES GROUP,79666,0.03,INA AU,-,INGENIA COMMUNITIES GROUP,Listed,Rest,Sustainable_Growth
-Property,-,RURAL FUNDS GROUP,75556,0.03,RFF AU,-,RURAL FUNDS GROUP,Listed,Rest,Sustainable_Growth
-Property,-,"WELLTOWER, INC.",67690,0.02,WELL US,-,"WELLTOWER, INC.",Listed,Rest,Sustainable_Growth
-Property,-,UNIBAIL-RODAMCO-WESTFIELD,56103,0.02,URW FP,-,UNIBAIL-RODAMCO-WESTFIELD,Listed,Rest,Sustainable_Growth
-Property,-,LINK REIT,51833,0.02,823 HK,-,LINK REIT,Listed,Rest,Sustainable_Growth
-Property,-,CHARTER HALL GROUP,51459,0.02,CHC AU,-,CHARTER HALL GROUP,Listed,Rest,Sustainable_Growth
-Property,-,ABACUS GROUP,45474,0.02,ABG AU,-,ABACUS GROUP,Listed,Rest,Sustainable_Growth
-Property,-,CROMWELL PROPERTY GROUP,37185,0.01,CMW AU,-,CROMWELL PROPERTY GROUP,Listed,Rest,Sustainable_Growth
-Property,-,GROWTHPOINT PROPERTIES AUSTRALIA LTD.,32947,0.01,GOZ AU,-,GROWTHPOINT PROPERTIES AUSTRALIA LTD.,Listed,Rest,Sustainable_Growth
-Property,-,CHARTER HALL SOCIAL INFRASTRUCTURE REIT,20924,0.01,CQE AU,-,CHARTER HALL SOCIAL INFRASTRUCTURE REIT,Listed,Rest,Sustainable_Growth
-Sub Total Listed Property,,,8383494,2.97,,,,,Rest,Sustainable_Growth
-Property,Internally,REST 140 WILLIAM STREET TRUST,nan,nan,-,-,REST 140 WILLIAM STREET TRUST,Unlisted,Rest,Sustainable_Growth
-Property,Internally,REST 52 MARTIN PLACE TRUST,nan,nan,-,-,REST 52 MARTIN PLACE TRUST,Unlisted,Rest,Sustainable_Growth
-Property,Internally,REST 717 BOURKE STREET TRUST,nan,nan,-,-,REST 717 BOURKE STREET TRUST,Unlisted,Rest,Sustainable_Growth
-Property,Internally,REST QQT TRUST,nan,nan,-,-,REST QQT TRUST,Unlisted,Rest,Sustainable_Growth
-Sub Total Unlisted Property Internally,,,5491144,1.94,,,,,Rest,Sustainable_Growth
-Property,Externally,-,2656009,0.94,-,-,-,Unlisted,Rest,Sustainable_Growth
-Property,Externally,-,2443987,0.86,-,-,-,Unlisted,Rest,Sustainable_Growth
-Property,Externally,-,2025647,0.72,-,-,-,Unlisted,Rest,Sustainable_Growth
-Property,Externally,-,1612413,0.57,-,-,-,Unlisted,Rest,Sustainable_Growth
-Property,Externally,-,207834,0.07,-,-,-,Unlisted,Rest,Sustainable_Growth
-Sub Total Unlisted Property Externally,,,8945890,3.17,,,,,Rest,Sustainable_Growth
-Sub Total Listed Infrastructure,,,0,0.00,,,,,Rest,Sustainable_Growth
-Infrastructure,Internally,COLLGAR RENEWABLES PTY LTD,nan,nan,-,-,COLLGAR RENEWABLES PTY LTD,Unlisted,Rest,Sustainable_Growth
-Infrastructure,Internally,COLLGAR WIND FARM PTY LTD,nan,nan,-,-,COLLGAR WIND FARM PTY LTD,Unlisted,Rest,Sustainable_Growth
-Sub Total Unlisted Infrastructure Internally,,,6799379,2.41,,,,,Rest,Sustainable_Growth
-Infrastructure,Externally,-,12337663,4.37,-,-,-,Unlisted,Rest,Sustainable_Growth
-Infrastructure,Externally,-,2441104,0.86,-,-,-,Unlisted,Rest,Sustainable_Growth
-Infrastructure,Externally,-,1558167,0.55,-,-,-,Unlisted,Rest,Sustainable_Growth
-Sub Total Unlisted Infrastructure Externally,,,16336934,5.78,,,,,Rest,Sustainable_Growth
-Sub Total Listed Alternatives,,,0,0.00,,,,,Rest,Sustainable_Growth
-Sub Total Unlisted Alternatives Internally,,,0,0.00,,,,,Rest,Sustainable_Growth
-Alternatives,Externally,-,2839101,1.00,-,-,-,Unlisted,Rest,Sustainable_Growth
-Alternatives,Externally,-,115590,0.04,-,-,-,Unlisted,Rest,Sustainable_Growth
-Sub Total Unlisted Alternatives Externally,,,2954691,1.05,,,,,Rest,Sustainable_Growth
-Total Investment Items,,,286640426,101.41,,,,,Rest,Sustainable_Growth
-,,,nan,nan,,,,,Rest,Sustainable_Growth
-The Value (Aud) And Weighting (%) Sub Totals May Not Sum Due To The Rounding Of Individual Disclosure Values And Weightings.,,,nan,nan,,,,,Rest,Sustainable_Growth
+Asset_Class,Management_Type,Name,Dollar_Value,Weighting_Percentage,Security_Identifier,Currency,Source_Name,Listing_Status,Super_Fund,Option_Name,Weighting_Percentage_Clean,Domain
+Cash,-,-,683345.0,0.24,-,AUD,-,,Rest,Sustainable Growth,0.2490779083672575,
+Cash,-,-,545433.0,0.19,-,AUD,-,,Rest,Sustainable Growth,0.1988092556387745,
+Cash,-,-,517806.0,0.18,-,AUD,-,,Rest,Sustainable Growth,0.1887392684808057,
+Cash,-,-,502193.0,0.18,-,AUD,-,,Rest,Sustainable Growth,0.1830483606914196,
+Cash,-,-,425947.0,0.15,-,AUD,-,,Rest,Sustainable Growth,0.1552568436665348,
+Cash,-,-,332221.0,0.12,-,AUD,-,,Rest,Sustainable Growth,0.1210939010246342,
+Cash,-,-,321325.0,0.11,-,AUD,-,,Rest,Sustainable Growth,0.1171223304569566,
+Cash,-,-,304604.0,0.11,-,AUD,-,,Rest,Sustainable Growth,0.1110275588469954,
+Cash,-,-,303304.0,0.11,-,AUD,-,,Rest,Sustainable Growth,0.1105537114040824,
+Cash,-,-,183293.0,0.06,-,AUD,-,,Rest,Sustainable Growth,0.0668099379645124,
+Cash,-,-,174237.0,0.06,-,USD,-,,Rest,Sustainable Growth,0.0635090437775733,
+Cash,-,-,146602.0,0.05,-,AUD,-,,Rest,Sustainable Growth,0.0534361406353404,
+Cash,-,-,91442.0,0.03,-,AUD,-,,Rest,Sustainable Growth,0.0333304291345056,
+Cash,-,-,42842.0,0.02,-,JPY,-,,Rest,Sustainable Growth,0.0156158247302168,
+Cash,-,-,14268.0,0.01,-,CAD,-,,Rest,Sustainable Growth,0.0052006579349874,
+Cash,-,-,6242.0,0.0,-,EUR,-,,Rest,Sustainable Growth,0.0022751967220487,
+Cash,-,-,4692.0,0.0,-,HKD,-,,Rest,Sustainable Growth,0.0017102247708831,
+Cash,-,-,4619.0,0.0,-,GBP,-,,Rest,Sustainable Growth,0.0016836164144734,
+Cash,-,-,3689.0,0.0,-,CNY,-,,Rest,Sustainable Growth,0.0013446332437741,
+Cash,-,-,2473.0,0.0,-,SGD,-,,Rest,Sustainable Growth,0.0009014036356338,
+Cash,-,-,2084.0,0.0,-,NZD,-,,Rest,Sustainable Growth,0.0007596139007929,
+Cash,-,-,1856.0,0.0,-,MXN,-,,Rest,Sustainable Growth,0.0006765083492666,
+Cash,-,-,1451.0,0.0,-,NOK,-,,Rest,Sustainable Growth,0.0005288866458975,
+Cash,-,-,449.0,0.0,-,CHF,-,,Rest,Sustainable Growth,0.0001636596168215,
+Cash,-,-,16.0,0.0,-,SEK,-,,Rest,Sustainable Growth,5.8319685281609155e-06,
+Cash,-,-,12.0,0.0,-,AUD,-,,Rest,Sustainable Growth,4.373976396120686e-06,
+Cash,-,-,8.0,0.0,-,DKK,-,,Rest,Sustainable Growth,2.9159842640804578e-06,
+Cash,-,-,8.0,0.0,-,ILS,-,,Rest,Sustainable Growth,2.9159842640804578e-06,
+Cash,-,-,6.0,0.0,-,AUD,-,,Rest,Sustainable Growth,2.186988198060343e-06,
+Cash,-,-,2.0,0.0,-,AUD,-,,Rest,Sustainable Growth,7.289960660201144e-07,
+Cash,-,-,1.0,0.0,-,AUD,-,,Rest,Sustainable Growth,3.644980330100572e-07,
+Cash,-,-,-448329.0,-0.16,-,AUD,-,,Rest,Sustainable Growth,-0.1634150386413659,
+Fixed Income,Internally,-,1407262.0,0.5,-,-,-,,Rest,Sustainable Growth,0.5129442309297991,
+Fixed Income,Internally,-,1231720.0,0.44,-,-,-,,Rest,Sustainable Growth,0.4489595172191477,
+Fixed Income,Internally,-,1084945.0,0.38,-,-,-,,Rest,Sustainable Growth,0.3954603184240965,
+Fixed Income,Internally,-,1045766.0,0.37,-,-,-,,Rest,Sustainable Growth,0.3811796499887955,
+Fixed Income,Internally,-,852804.0,0.3,-,-,-,,Rest,Sustainable Growth,0.3108453805431088,
+Fixed Income,Internally,-,696339.0,0.25,-,-,-,,Rest,Sustainable Growth,0.2538141958081902,
+Fixed Income,Internally,-,665026.0,0.24,-,-,-,,Rest,Sustainable Growth,0.2424006689005463,
+Fixed Income,Internally,-,494160.0,0.17,-,-,-,,Rest,Sustainable Growth,0.1801203479922498,
+Fixed Income,Internally,-,467904.0,0.17,-,-,-,,Rest,Sustainable Growth,0.1705500876375378,
+Fixed Income,Internally,-,397220.0,0.14,-,-,-,,Rest,Sustainable Growth,0.1447859086722549,
+Fixed Income,Internally,-,363447.0,0.13,-,-,-,,Rest,Sustainable Growth,0.1324757166034063,
+Fixed Income,Internally,-,313587.0,0.11,-,-,-,,Rest,Sustainable Growth,0.1143018446775248,
+Fixed Income,Internally,-,290453.0,0.1,-,-,-,,Rest,Sustainable Growth,0.1058695471818701,
+Fixed Income,Internally,-,258825.0,0.09,-,-,-,,Rest,Sustainable Growth,0.094341203393828,
+Fixed Income,Internally,-,208364.0,0.07,-,-,-,,Rest,Sustainable Growth,0.0759482681501075,
+Fixed Income,Internally,-,206060.0,0.07,-,-,-,,Rest,Sustainable Growth,0.0751084646820524,
+Fixed Income,Internally,-,167694.0,0.06,-,-,-,,Rest,Sustainable Growth,0.0611241331475885,
+Fixed Income,Internally,-,150938.0,0.05,-,-,-,,Rest,Sustainable Growth,0.055016604106472,
+Fixed Income,Internally,-,148523.0,0.05,-,-,-,,Rest,Sustainable Growth,0.0541363413567527,
+Fixed Income,Internally,-,146112.0,0.05,-,-,-,,Rest,Sustainable Growth,0.0532575365991654,
+Fixed Income,Internally,-,117183.0,0.04,-,-,-,,Rest,Sustainable Growth,0.0427129730022175,
+Fixed Income,Internally,-,104155.0,0.04,-,-,-,,Rest,Sustainable Growth,0.0379642926281625,
+Fixed Income,Internally,-,86943.0,0.03,-,-,-,,Rest,Sustainable Growth,0.0316905524839934,
+Fixed Income,Internally,-,71125.0,0.03,-,-,-,,Rest,Sustainable Growth,0.0259249225978403,
+Fixed Income,Internally,-,45879.0,0.02,-,-,-,,Rest,Sustainable Growth,0.0167228052564684,
+Fixed Income,Internally,-,36270.0,0.01,-,-,-,,Rest,Sustainable Growth,0.0132203436572747,
+Fixed Income,Internally,-,28830.0,0.01,-,-,-,,Rest,Sustainable Growth,0.0105084782916799,
+Fixed Income,Internally,-,26903.0,0.01,-,-,-,,Rest,Sustainable Growth,0.0098060905820695,
+Fixed Income,Internally,-,26388.0,0.01,-,-,-,,Rest,Sustainable Growth,0.0096183740950693,
+Fixed Income,Internally,-,19370.0,0.01,-,-,-,,Rest,Sustainable Growth,0.0070603268994048,
+Fixed Income,Internally,-,18934.0,0.01,-,-,-,,Rest,Sustainable Growth,0.0069014057570124,
+Fixed Income,Internally,-,18556.0,0.01,-,-,-,,Rest,Sustainable Growth,0.0067636255005346,
+Fixed Income,Internally,-,16320.0,0.01,-,-,-,,Rest,Sustainable Growth,0.0059486078987241,
+Fixed Income,Internally,-,13873.0,0.0,-,-,-,,Rest,Sustainable Growth,0.0050566812119485,
+Fixed Income,Internally,-,2848.0,0.0,-,-,-,,Rest,Sustainable Growth,0.0010380903980126,
+Fixed Income,Externally,-,16525731.0,5.85,-,-,-,,Rest,Sustainable Growth,6.023596443553326,
+Fixed Income,Externally,-,-1.0,0.0,-,-,-,,Rest,Sustainable Growth,-3.644980330100572e-07,
+Equity,-,CommBank,12474625.0,4.41,CBA AU,-,COMMONWEALTH BANK OF AUSTRALIA LTD.,Listed,Rest,Sustainable Growth,4.5469762750380855,commbank.com.au
+Equity,-,Nvidia,6687986.0,2.37,NVDA US,-,NVIDIA CORP.,Listed,Rest,Sustainable Growth,2.437757741798801,nvidia.com
+Equity,-,NAB,6477118.0,2.29,NAB AU,-,NATIONAL AUSTRALIA BANK LTD.,Listed,Rest,Sustainable Growth,2.360896770574036,nab.com.au
+Equity,-,Microsoft,6380600.0,2.26,MSFT US,-,MICROSOFT CORP.,Listed,Rest,Sustainable Growth,2.3257161494239713,microsoft.com
+Equity,-,Csl,5282050.0,1.87,CSL AU,-,CSL LTD.,Listed,Rest,Sustainable Growth,1.9252968352607729,csl.com
+Equity,-,Anz,4982542.0,1.76,ANZ AU,-,ANZ GROUP HOLDINGS LTD.,Listed,Rest,Sustainable Growth,1.8161267583899965,anz.com
+Equity,-,Amazon,3989116.0,1.41,AMZN US,-,"AMAZON.COM, INC.",Listed,Rest,Sustainable Growth,1.4540249354489474,amazon.com
+Equity,-,Telstra,3512750.0,1.24,TLS AU,-,TELSTRA GROUP LTD.,Listed,Rest,Sustainable Growth,1.2803904654560785,telstra.com.au
+Equity,-,Coles,2425952.0,0.86,COL AU,-,COLES GROUP LTD.,Listed,Rest,Sustainable Growth,0.8842547321768144,colesgroup.com.au
+Equity,-,Woolworths,1741410.0,0.62,WOW AU,-,WOOLWORTHS GROUP LTD.,Listed,Rest,Sustainable Growth,0.6347405196640438,woolworthsgroup.com.au
+Equity,-,Brambles,1697383.0,0.6,BXB AU,-,BRAMBLES LTD.,Listed,Rest,Sustainable Growth,0.61869276476471,brambles.com
+Equity,-,Computershare,1645924.0,0.58,CPU AU,-,COMPUTERSHARE LTD.,Listed,Rest,Sustainable Growth,0.5999360604840455,computershare.com
+Equity,-,Visa,1547715.0,0.55,V US,-,"VISA, INC.",Listed,Rest,Sustainable Growth,0.5641390731601607,visa.com
+Equity,-,Eli Lilly,1534161.0,0.54,LLY US,-,ELI LILLY & CO.,Listed,Rest,Sustainable Growth,0.5591986668207425,nic.lilly
+Equity,-,Bluescope Steel,1531744.0,0.54,BSL AU,-,BLUESCOPE STEEL LTD.,Listed,Rest,Sustainable Growth,0.5583176750749571,tatabluescopesteel.com
+Equity,-,Suncorp,1394782.0,0.49,SUN AU,-,SUNCORP GROUP LTD.,Listed,Rest,Sustainable Growth,0.5083952954778337,suncorp.com.au
+Equity,-,Mastercard,1271233.0,0.45,MA US,-,"MASTERCARD, INC.",Listed,Rest,Sustainable Growth,0.463361927997474,mastercard.com
+Equity,-,Cochlear,1213264.0,0.43,COH AU,-,COCHLEAR LTD.,Listed,Rest,Sustainable Growth,0.4422323415219141,cochlear.com
+Equity,-,Sims,1170107.0,0.41,SGM AU,-,SIMS LTD.,Listed,Rest,Sustainable Growth,0.426501699911299,thesimsresource.com
+Equity,-,Home Depot,1165158.0,0.41,HD US,-,"HOME DEPOT, INC.",Listed,Rest,Sustainable Growth,0.4246977991459322,homedepot.com
+Equity,-,Bendigo And Adelaide Bank,1151301.0,0.41,BEN AU,-,BENDIGO AND ADELAIDE BANK LTD.,Listed,Rest,Sustainable Growth,0.4196469499025119,bendigoadelaide.com.au
+Equity,-,Iluka Resources,1100213.0,0.39,ILU AU,-,ILUKA RESOURCES LTD.,Listed,Rest,Sustainable Growth,0.4010254743920941,
+Equity,-,Perseus Mining,1086168.0,0.38,PRU AU,-,PERSEUS MINING LTD.,Listed,Rest,Sustainable Growth,0.3959060995184678,perseusmining.com
+Equity,-,Amcor,1084019.0,0.38,AMC AU,-,AMCOR PLC,Listed,Rest,Sustainable Growth,0.3951227932455292,amcor.com
+Equity,-,Cognizant Technology Solutions,1081495.0,0.38,CTSH US,-,COGNIZANT TECHNOLOGY SOLUTIONS CORP.,Listed,Rest,Sustainable Growth,0.3942028002102118,
+Equity,-,Booking,1046880.0,0.37,BKNG US,-,"BOOKING HOLDINGS, INC.",Listed,Rest,Sustainable Growth,0.3815857007975687,booking.com
+Equity,-,Pilbara Minerals,982697.0,0.35,PLS AU,-,PILBARA MINERALS LTD.,Listed,Rest,Sustainable Growth,0.3581911235448842,pilbaraminerals.com.au
+Equity,-,Perenti,943542.0,0.33,PRN AU,-,PERENTI LTD.,Listed,Rest,Sustainable Growth,0.3439192030623754,perenti.com
+Equity,-,James Hardie Industries,934556.0,0.33,JHX AU,-,JAMES HARDIE INDUSTRIES PLC,Listed,Rest,Sustainable Growth,0.340643823737747,
+Equity,-,Netflix,915714.0,0.32,NFLX US,-,"NETFLIX, INC.",Listed,Rest,Sustainable Growth,0.3337759517997715,netflix.com
+Equity,-,Abbvie,882226.0,0.31,ABBV US,-,"ABBVIE, INC.",Listed,Rest,Sustainable Growth,0.3215696416703307,abbvie.com
+Equity,-,Bank Of America,867164.0,0.31,BAC US,-,BANK OF AMERICA CORP.,Listed,Rest,Sustainable Growth,0.3160795722971332,bankofamerica.com
+Equity,-,Jb Hi-Fi,859339.0,0.3,JBH AU,-,JB HI-FI LTD.,Listed,Rest,Sustainable Growth,0.3132273751888295,jbhifi.com.au
+Equity,-,Igo,858188.0,0.3,IGO AU,-,IGO LTD.,Listed,Rest,Sustainable Growth,0.312807837952835,igotanoffer.com
+Equity,-,Auckland Airport,825508.0,0.29,AIA AU,-,AUCKLAND INTERNATIONAL AIRPORT LTD.,Listed,Rest,Sustainable Growth,0.3008960422340663,aucklandairport.co.nz
+Equity,-,Transurban,824550.0,0.29,TCL AU,-,TRANSURBAN GROUP,Listed,Rest,Sustainable Growth,0.3005468531184427,transurban.com
+Equity,-,Accenture,804227.0,0.28,ACN US,-,ACCENTURE PLC,Listed,Rest,Sustainable Growth,0.2931391595935793,accenture.com
+Equity,-,Godaddy,800214.0,0.28,GDDY US,-,"GODADDY, INC.",Listed,Rest,Sustainable Growth,0.2916764289871099,godaddy.com
+Equity,-,Sonic Healthcare,795139.0,0.28,SHL AU,-,SONIC HEALTHCARE LTD.,Listed,Rest,Sustainable Growth,0.2898266014695839,sonichealthcare.com
+Equity,-,Parker-Hannifin,791832.0,0.28,PH US,-,PARKER-HANNIFIN CORP.,Listed,Rest,Sustainable Growth,0.2886212064744196,parker-hannifin.ru
+Equity,-,Wisetech Global,765271.0,0.27,WTC AU,-,WISETECH GLOBAL LTD.,Listed,Rest,Sustainable Growth,0.2789397742196395,wisetechglobal.com
+Equity,-,Boston Scientific,761178.0,0.27,BSX US,-,BOSTON SCIENTIFIC CORP.,Listed,Rest,Sustainable Growth,0.2774478837705293,bostonscientific.com
+Equity,-,Unitedhealth,735667.0,0.26,UNH US,-,"UNITEDHEALTH GROUP, INC.",Listed,Rest,Sustainable Growth,0.2681491744504098,unitedhealthgroup.com
+Equity,-,Garmin,735418.0,0.26,GRMN US,-,GARMIN LTD.,Listed,Rest,Sustainable Growth,0.2680584144401902,garmin.com
+Equity,-,Citi Bank,725297.0,0.26,C US,-,"CITIGROUP, INC.",Listed,Rest,Sustainable Growth,0.2643693298480954,citi.com
+Equity,-,Bank Of Queensland,722513.0,0.26,BOQ AU,-,BANK OF QUEENSLAND LTD.,Listed,Rest,Sustainable Growth,0.2633545673241955,boqtrading.com.au
+Equity,-,Novo Nordisk As,721689.0,0.26,NOVOB DC,-,NOVO NORDISK AS,Listed,Rest,Sustainable Growth,0.2630542209449952,
+Equity,-,Royal Bank Of Canada,720288.0,0.25,RY CN,-,ROYAL BANK OF CANADA,Listed,Rest,Sustainable Growth,0.2625435592007481,
+Equity,-,Rea,717213.0,0.25,REA AU,-,REA GROUP LTD.,Listed,Rest,Sustainable Growth,0.2614227277492421,compass.com
+Equity,-,Metlife,716268.0,0.25,MET US,-,"METLIFE, INC.",Listed,Rest,Sustainable Growth,0.2610782771080476,metlife.com
+Equity,-,Verisign,706562.0,0.25,VRSN US,-,"VERISIGN, INC.",Listed,Rest,Sustainable Growth,0.257540459199652,verisign.com
+Equity,-,Te Connectivity,699958.0,0.25,TEL US,-,TE CONNECTIVITY PLC,Listed,Rest,Sustainable Growth,0.2551333141896536,schaffner.com
+Equity,-,Asml Nv,692992.0,0.25,ASML NA,-,ASML HOLDING NV,Listed,Rest,Sustainable Growth,0.2525942208917056,
+Equity,-,S&P Global,689987.0,0.24,SPGI US,-,"S&P GLOBAL, INC.",Listed,Rest,Sustainable Growth,0.2514989043025104,spglobal.com
+Equity,-,Abbott Laboratories,687576.0,0.24,ABT US,-,ABBOTT LABORATORIES,Listed,Rest,Sustainable Growth,0.2506200995449231,abbott-laboratories.si
+Equity,-,Chubb,662852.0,0.23,CB US,-,CHUBB LTD.,Listed,Rest,Sustainable Growth,0.2416082501767824,chubb.com
+Equity,-,Unicredit Spa,659322.0,0.23,UCG IM,-,UNICREDIT SPA,Listed,Rest,Sustainable Growth,0.2403215721202569,
+Equity,-,Amphenol,650956.0,0.23,APH US,-,AMPHENOL CORP.,Listed,Rest,Sustainable Growth,0.2372721815760948,andrew.com
+Equity,-,Carsales,648695.0,0.23,CAR AU,-,CARSALES.COM LTD.,Listed,Rest,Sustainable Growth,0.236448051523459,motoring.com.au
+Equity,-,Steadfast,647120.0,0.23,SDF AU,-,STEADFAST GROUP LTD.,Listed,Rest,Sustainable Growth,0.2358739671214682,packzy.com
+Equity,-,Comcast,646271.0,0.23,CMCSA US,-,COMCAST CORP.,Listed,Rest,Sustainable Growth,0.2355645082914427,masergy.com
+Equity,-,Church & Dwight,639830.0,0.23,CHD US,-,"CHURCH & DWIGHT CO., INC.",Listed,Rest,Sustainable Growth,0.2332167764608249,femfresh.com.mx
+Equity,-,Fiserv,636803.0,0.23,FI US,-,"FISERV, INC.",Listed,Rest,Sustainable Growth,0.2321134409149035,fiserv.com
+Equity,-,Applied Materials,634952.0,0.22,AMAT US,-,"APPLIED MATERIALS, INC.",Listed,Rest,Sustainable Growth,0.2314387550558018,appliedmaterials.com
+Equity,-,Ramsay Health Care,633233.0,0.22,RHC AU,-,RAMSAY HEALTH CARE LTD.,Listed,Rest,Sustainable Growth,0.2308121829370576,ramsayhealth.com.au
+Equity,-,Softbank,622923.0,0.22,9434 JP,-,SOFTBANK CORP.,Listed,Rest,Sustainable Growth,0.2270542082167238,softbank.jp
+Equity,-,Technology One,621415.0,0.22,TNE AU,-,TECHNOLOGY ONE LTD.,Listed,Rest,Sustainable Growth,0.2265045451829447,techonellc.com
+Equity,-,Arista Networks,609483.0,0.22,ANET US,-,"ARISTA NETWORKS, INC.",Listed,Rest,Sustainable Growth,0.2221553546530687,arista.com
+Equity,-,Oracle,609070.0,0.22,ORCL US,-,ORACLE CORP.,Listed,Rest,Sustainable Growth,0.2220048169654356,oracle.com
+Equity,-,Qualcomm,608237.0,0.22,QCOM US,-,"QUALCOMM, INC.",Listed,Rest,Sustainable Growth,0.2217011901039381,qualcomm.com
+Equity,-,Verizon Communications,605252.0,0.21,VZ US,-,"VERIZON COMMUNICATIONS, INC.",Listed,Rest,Sustainable Growth,0.2206131634754031,
+Equity,-,Autodesk,604876.0,0.21,ADSK US,-,"AUTODESK, INC.",Listed,Rest,Sustainable Growth,0.2204761122149914,autodesk.com
+Equity,-,Als,586715.0,0.21,ALQ AU,-,ALS LTD.,Listed,Rest,Sustainable Growth,0.2138564634374957,alstom.com
+Equity,-,Servicenow,585446.0,0.21,NOW US,-,"SERVICENOW, INC.",Listed,Rest,Sustainable Growth,0.2133939154336059,servicenow.com
+Equity,-,Adriatic Metals,585258.0,0.21,ADT AU,-,ADRIATIC METALS PLC,Listed,Rest,Sustainable Growth,0.2133253898034,adriaticmetals.com
+Equity,-,Cisco Systems,581950.0,0.21,CSCO US,-,"CISCO SYSTEMS, INC.",Listed,Rest,Sustainable Growth,0.2121196303102027,
+Equity,-,American Express,577535.0,0.2,AXP US,-,AMERICAN EXPRESS CO.,Listed,Rest,Sustainable Growth,0.2105103714944634,americanexpress.com
+Equity,-,Reece,568400.0,0.2,REH AU,-,REECE LTD.,Listed,Rest,Sustainable Growth,0.2071806819629165,reecegroup.com.au
+Equity,-,Aflac,559418.0,0.2,AFL US,-,"AFLAC, INC.",Listed,Rest,Sustainable Growth,0.2039067606304202,aflac.com
+Equity,-,Orica,557894.0,0.2,ORI AU,-,ORICA LTD.,Listed,Rest,Sustainable Growth,0.2033512656281128,orica.com
+Equity,-,Intuitive Surgical,552778.0,0.2,ISRG US,-,"INTUITIVE SURGICAL, INC.",Listed,Rest,Sustainable Growth,0.2014864936912334,intuitivesurgical.com
+Equity,-,Sherwin-Williams,551470.0,0.2,SHW US,-,SHERWIN-WILLIAMS CO.,Listed,Rest,Sustainable Growth,0.2010097302640562,sherwin-williams.com
+Equity,-,Texas Instruments,550811.0,0.19,TXN US,-,"TEXAS INSTRUMENTS, INC.",Listed,Rest,Sustainable Growth,0.2007695260603026,ti.com
+Equity,-,American Water Works,548106.0,0.19,AWK US,-,"AMERICAN WATER WORKS CO., INC.",Listed,Rest,Sustainable Growth,0.1997835588810104,awwa.org
+Equity,-,Ww Grainger,539997.0,0.19,GWW US,-,"WW GRAINGER, INC.",Listed,Rest,Sustainable Growth,0.1968278443313318,
+Equity,-,Atlas Arteria,536877.0,0.19,ALX AU,-,ATLAS ARTERIA LTD.,Listed,Rest,Sustainable Growth,0.1956906104683405,atlasarteria.com
+Equity,-,Agnico Eagle Mines,535854.0,0.19,AEM CN,-,AGNICO EAGLE MINES LTD.,Listed,Rest,Sustainable Growth,0.1953177289805712,agnicoeagle.fi
+Equity,-,Hydro One,533835.0,0.19,H CN,-,HYDRO ONE LTD.,Listed,Rest,Sustainable Growth,0.1945818074519239,hydroone.com
+Equity,-,Blackrock,533641.0,0.19,BLK US,-,"BLACKROCK, INC.",Listed,Rest,Sustainable Growth,0.1945110948335199,blackrock.com
+Equity,-,Intuit,527120.0,0.19,INTU US,-,"INTUIT, INC.",Listed,Rest,Sustainable Growth,0.1921342031602613,intuit.com
+Equity,-,Linde,524111.0,0.19,LIN US,-,LINDE PLC,Listed,Rest,Sustainable Growth,0.1910374285789341,linde.com
+Equity,-,Cme,521946.0,0.18,CME US,-,"CME GROUP, INC.",Listed,Rest,Sustainable Growth,0.1902482903374673,cmegroup.com
+Equity,-,Trane Technologies,521374.0,0.18,TT US,-,TRANE TECHNOLOGIES PLC,Listed,Rest,Sustainable Growth,0.1900397974625856,tranetechnologies.com
+Equity,-,Analog Devices,518768.0,0.18,ADI US,-,"ANALOG DEVICES, INC.",Listed,Rest,Sustainable Growth,0.1890899155885614,analog.com
+Equity,-,Pro Medicus,517626.0,0.18,PME AU,-,PRO MEDICUS LTD.,Listed,Rest,Sustainable Growth,0.1886736588348639,promed.com.au
+Equity,-,Starbucks,516867.0,0.18,SBUX US,-,STARBUCKS CORP.,Listed,Rest,Sustainable Growth,0.1883970048278092,starbucks.com
+Equity,-,Constellation Software,515011.0,0.18,CSU CN,-,"CONSTELLATION SOFTWARE, INC.",Listed,Rest,Sustainable Growth,0.1877204964785425,constonline.com
+Equity,-,Nufarm,514482.0,0.18,NUF AU,-,NUFARM LTD.,Listed,Rest,Sustainable Growth,0.1875276770190802,nufarm.com
+Equity,-,Adobe,514416.0,0.18,ADBE US,-,"ADOBE, INC.",Listed,Rest,Sustainable Growth,0.1875036201489016,adobe.com
+Equity,-,Fisher & Paykel Healthcare,505847.0,0.18,FPH AU,-,FISHER & PAYKEL HEALTHCARE CORP. LTD.,Listed,Rest,Sustainable Growth,0.1843802365040384,fphcare.com
+Equity,-,Sigma Healthcare,502132.0,0.18,SIG AU,-,SIGMA HEALTHCARE LTD.,Listed,Rest,Sustainable Growth,0.183026126311406,sigmahealthcare.com.au
+Equity,-,Advanced Micro Devices,500542.0,0.18,AMD US,-,"ADVANCED MICRO DEVICES, INC.",Listed,Rest,Sustainable Growth,0.18244657443892,
+Equity,-,Sysco,494270.0,0.17,SYY US,-,SYSCO CORP.,Listed,Rest,Sustainable Growth,0.180160442775881,sysco.com
+Equity,-,Progressive,488376.0,0.17,PGR US,-,PROGRESSIVE CORP.,Listed,Rest,Sustainable Growth,0.1780120913693197,progressive.com
+Equity,-,Roper Technologies,483247.0,0.17,ROP US,-,"ROPER TECHNOLOGIES, INC.",Listed,Rest,Sustainable Growth,0.1761425809580111,ropertech.com
+Equity,-,Sumitomo Mitsui Financial,474960.0,0.17,8316 JP,-,"SUMITOMO MITSUI FINANCIAL GROUP, INC.",Listed,Rest,Sustainable Growth,0.1731219857584567,smfg.co.jp
+Equity,-,Pfizer,472049.0,0.17,PFE US,-,"PFIZER, INC.",Listed,Rest,Sustainable Growth,0.1720609319843645,pfizer.com
+Equity,-,Loblaw Cos,469883.0,0.17,L CN,-,LOBLAW COS. LTD.,Listed,Rest,Sustainable Growth,0.1712714292448647,
+Equity,-,Hewlett Packard Enterprise,469059.0,0.17,HPE US,-,HEWLETT PACKARD ENTERPRISE CO.,Listed,Rest,Sustainable Growth,0.1709710828656644,cdstechchallenge.com
+Equity,-,Mitsubishi Ufj Financial,468754.0,0.17,8306 JP,-,"MITSUBISHI UFJ FINANCIAL GROUP, INC.",Listed,Rest,Sustainable Growth,0.1708599109655963,
+Equity,-,Ameriprise Financial,459745.0,0.16,AMP US,-,"AMERIPRISE FINANCIAL, INC.",Listed,Rest,Sustainable Growth,0.1675761481862087,ameriprise.com
+Equity,-,Twilio,452934.0,0.16,TWLO US,-,"TWILIO, INC.",Listed,Rest,Sustainable Growth,0.1650935520833772,twilio.com
+Equity,-,Amgen,452630.0,0.16,AMGN US,-,"AMGEN, INC.",Listed,Rest,Sustainable Growth,0.1649827446813422,amgen.com
+Equity,-,Anheuser-Busch Inbev Sa,451720.0,0.16,ABI BB,-,ANHEUSER-BUSCH INBEV SA,Listed,Rest,Sustainable Growth,0.164651051471303,
+Equity,-,Wixcom,449117.0,0.16,WIX US,-,WIX.COM LTD.,Listed,Rest,Sustainable Growth,0.1637022630913779,
+Equity,-,Pnc Financial Services,442734.0,0.16,PNC US,-,"PNC FINANCIAL SERVICES GROUP, INC.",Listed,Rest,Sustainable Growth,0.1613756721466747,
+Equity,-,Electronic Arts,442450.0,0.16,EA US,-,"ELECTRONIC ARTS, INC.",Listed,Rest,Sustainable Growth,0.1612721547052998,ea.com
+Equity,-,Evolution Mining,440226.0,0.16,EVN AU,-,EVOLUTION MINING LTD.,Listed,Rest,Sustainable Growth,0.1604615110798854,evolutionmining.com.au
+Equity,-,Deere &,438213.0,0.16,DE US,-,DEERE & CO.,Listed,Rest,Sustainable Growth,0.1597277765394362,deere.com
+Equity,-,Hilton Worldwide,434326.0,0.15,HLT US,-,"HILTON WORLDWIDE HOLDINGS, INC.",Listed,Rest,Sustainable Growth,0.1583109726851261,
+Equity,-,Abb,433392.0,0.15,ABBN SW,-,ABB LTD.,Listed,Rest,Sustainable Growth,0.1579705315222947,
+Equity,-,West African Resources,430754.0,0.15,WAF AU,-,WEST AFRICAN RESOURCES LTD.,Listed,Rest,Sustainable Growth,0.1570089857112142,
+Equity,-,Compass,428279.0,0.15,CPG LN,-,COMPASS GROUP PLC,Listed,Rest,Sustainable Growth,0.1561068530795143,
+Equity,-,Amp,427722.0,0.15,AMP AU,-,AMP LTD.,Listed,Rest,Sustainable Growth,0.1559038276751277,
+Equity,-,Kla,426949.0,0.15,KLAC US,-,KLA CORP.,Listed,Rest,Sustainable Growth,0.1556220706956109,
+Equity,-,Chipotle Mexican Grill,424933.0,0.15,CMG US,-,"CHIPOTLE MEXICAN GRILL, INC.",Listed,Rest,Sustainable Growth,0.1548872426610626,
+Equity,-,Vulcan Energy Resources,419173.0,0.15,VUL AU,-,VULCAN ENERGY RESOURCES LTD.,Listed,Rest,Sustainable Growth,0.1527877339909247,
+Equity,-,Sap Se,415156.0,0.15,SAP GR,-,SAP SE,Listed,Rest,Sustainable Growth,0.1513235453923233,
+Equity,-,Snowflake,413389.0,0.15,SNOW US,-,"SNOWFLAKE, INC.",Listed,Rest,Sustainable Growth,0.1506794773679945,
+Equity,-,Helia,413282.0,0.15,HLI AU,-,HELIA GROUP LTD.,Listed,Rest,Sustainable Growth,0.1506404760784624,
+Equity,-,Merck,413194.0,0.15,MRK US,-,"MERCK & CO., INC.",Listed,Rest,Sustainable Growth,0.1506084002515575,
+Equity,-,Thomson Reuters,412654.0,0.15,TRI CN,-,THOMSON REUTERS CORP.,Listed,Rest,Sustainable Growth,0.1504115713137321,
+Equity,-,Imdex,406685.0,0.14,IMD AU,-,IMDEX LTD.,Listed,Rest,Sustainable Growth,0.1482358825546951,
+Equity,-,Tokio Marine,406317.0,0.14,8766 JP,-,"TOKIO MARINE HOLDINGS, INC.",Listed,Rest,Sustainable Growth,0.1481017472785474,
+Equity,-,Gilead Sciences,403507.0,0.14,GILD US,-,"GILEAD SCIENCES, INC.",Listed,Rest,Sustainable Growth,0.1470775078057891,
+Equity,-,Ccl Industries,399662.0,0.14,CCLB CN,-,"CCL INDUSTRIES, INC.",Listed,Rest,Sustainable Growth,0.1456760128688655,
+Equity,-,Ventia Services,398344.0,0.14,VNT AU,-,VENTIA SERVICES GROUP PTY. LTD.,Listed,Rest,Sustainable Growth,0.1451956044613582,
+Equity,-,Akamai Technologies,397945.0,0.14,AKAM US,-,"AKAMAI TECHNOLOGIES, INC.",Listed,Rest,Sustainable Growth,0.1450501697461872,
+Equity,-,Caixabank Sa,395086.0,0.14,CABK SM,-,CAIXABANK SA,Listed,Rest,Sustainable Growth,0.1440080698698115,
+Equity,-,Mitsubishi Heavy Industries,391544.0,0.14,7011 JP,-,MITSUBISHI HEAVY INDUSTRIES LTD.,Listed,Rest,Sustainable Growth,0.1427170178368898,
+Equity,-,Moody'S,389191.0,0.14,MCO US,-,MOODY'S CORP.,Listed,Rest,Sustainable Growth,0.1418593539652171,
+Equity,-,Cadence Design Systems,381095.0,0.13,CDNS US,-,"CADENCE DESIGN SYSTEMS, INC.",Listed,Rest,Sustainable Growth,0.1389083778899677,
+Equity,-,Sanofi,380851.0,0.13,SAN FP,-,SANOFI,Listed,Rest,Sustainable Growth,0.1388194403699133,
+Equity,-,Dnb Bank Asa,372834.0,0.13,DNB NO,-,DNB BANK ASA,Listed,Rest,Sustainable Growth,0.1358972596392716,
+Equity,-,Scout24 Se,370505.0,0.13,G24 GR,-,SCOUT24 SE,Listed,Rest,Sustainable Growth,0.1350483437203912,
+Equity,-,United Rentals,368650.0,0.13,URI US,-,"UNITED RENTALS, INC.",Listed,Rest,Sustainable Growth,0.1343721998691576,
+Equity,-,Corning,368117.0,0.13,GLW US,-,"CORNING, INC.",Listed,Rest,Sustainable Growth,0.1341779224175632,
+Equity,-,Metro,367138.0,0.13,MRU CN,-,"METRO, INC.",Listed,Rest,Sustainable Growth,0.1338210788432464,
+Equity,-,Steel Dynamics,365400.0,0.13,STLD US,-,"STEEL DYNAMICS, INC.",Listed,Rest,Sustainable Growth,0.1331875812618749,
+Equity,-,Mtu Aero Engines Ag,359546.0,0.13,MTX GR,-,MTU AERO ENGINES AG,Listed,Rest,Sustainable Growth,0.131053809776634,
+Equity,-,Nippon Telegraph & Telephone,359424.0,0.13,9432 JP,-,NIPPON TELEGRAPH & TELEPHONE CORP.,Listed,Rest,Sustainable Growth,0.1310093410166068,
+Equity,-,Nutrien,354761.0,0.13,NTR CN,-,NUTRIEN LTD.,Listed,Rest,Sustainable Growth,0.1293096866886809,
+Equity,-,Eaton,354664.0,0.13,ETN US,-,EATON CORP. PLC,Listed,Rest,Sustainable Growth,0.1292743303794789,
+Equity,-,Netapp,352016.0,0.12,NTAP US,-,"NETAPP, INC.",Listed,Rest,Sustainable Growth,0.1283091395880683,
+Equity,-,Intesa Sanpaolo Spa,351928.0,0.12,ISP IM,-,INTESA SANPAOLO SPA,Listed,Rest,Sustainable Growth,0.1282770637611634,
+Equity,-,Lam Research,350145.0,0.12,LRCX US,-,LAM RESEARCH CORP.,Listed,Rest,Sustainable Growth,0.1276271637683065,
+Equity,-,3I,349092.0,0.12,III LN,-,3I GROUP PLC,Listed,Rest,Sustainable Growth,0.1272433473395469,
+Equity,-,J M Smucker,345619.0,0.12,SJM US,-,J M SMUCKER CO.,Listed,Rest,Sustainable Growth,0.1259774456709029,
+Equity,-,Bank Of Nova Scotia,344885.0,0.12,BNS CN,-,BANK OF NOVA SCOTIA,Listed,Rest,Sustainable Growth,0.1257099041146736,
+Equity,-,Vinci Sa,343071.0,0.12,DG FP,-,VINCI SA,Listed,Rest,Sustainable Growth,0.1250487046827933,
+Equity,-,Aia,341362.0,0.12,1299 HK,-,AIA GROUP LTD.,Listed,Rest,Sustainable Growth,0.1244257775443791,
+Equity,-,Amadeus It Sa,340984.0,0.12,AMS SM,-,AMADEUS IT GROUP SA,Listed,Rest,Sustainable Growth,0.1242879972879013,
+Equity,-,Ametek,337866.0,0.12,AME US,-,"AMETEK, INC.",Listed,Rest,Sustainable Growth,0.1231514924209759,
+Equity,-,Cigna,337318.0,0.12,CI US,-,CIGNA GROUP,Listed,Rest,Sustainable Growth,0.1229517474988864,
+Equity,-,Aon,335355.0,0.12,AON US,-,AON PLC,Listed,Rest,Sustainable Growth,0.1222362378600877,
+Equity,-,Takeda Pharmaceutical,329737.0,0.12,4502 JP,-,TAKEDA PHARMACEUTICAL CO. LTD.,Listed,Rest,Sustainable Growth,0.1201884879106372,
+Equity,-,Cummins,325015.0,0.11,CMI US,-,"CUMMINS, INC.",Listed,Rest,Sustainable Growth,0.1184673281987637,
+Equity,-,Hershey,323714.0,0.11,HSY US,-,HERSHEY CO.,Listed,Rest,Sustainable Growth,0.1179931162578176,
+Equity,-,Otis Worldwide,322038.0,0.11,OTIS US,-,OTIS WORLDWIDE CORP.,Listed,Rest,Sustainable Growth,0.1173822175544928,
+Equity,-,Redox,320873.0,0.11,RDX AU,-,REDOX LTD.,Listed,Rest,Sustainable Growth,0.1169575773460361,
+Equity,-,Telenor Asa,320324.0,0.11,TEL NO,-,TELENOR ASA,Listed,Rest,Sustainable Growth,0.1167574679259135,
+Equity,-,Paychex,320171.0,0.11,PAYX US,-,"PAYCHEX, INC.",Listed,Rest,Sustainable Growth,0.116701699726863,
+Equity,-,Mosaic,317825.0,0.11,MOS US,-,MOSAIC CO.,Listed,Rest,Sustainable Growth,0.1158465873414214,
+Equity,-,George Weston,311877.0,0.11,WN CN,-,GEORGE WESTON LTD.,Listed,Rest,Sustainable Growth,0.1136785530410776,
+Equity,-,Challenger,308783.0,0.11,CGF AU,-,CHALLENGER LTD.,Listed,Rest,Sustainable Growth,0.1125507961269445,
+Equity,-,Swisscom Ag,307429.0,0.11,SCMN SW,-,SWISSCOM AG,Listed,Rest,Sustainable Growth,0.1120572657902488,
+Equity,-,Orora,306155.0,0.11,ORA AU,-,ORORA LTD.,Listed,Rest,Sustainable Growth,0.111592895296194,
+Equity,-,Nib,305519.0,0.11,NHF AU,-,NIB HOLDINGS LTD.,Listed,Rest,Sustainable Growth,0.1113610745471996,
+Equity,-,Magna International,302840.0,0.11,MG CN,-,"MAGNA INTERNATIONAL, INC.",Listed,Rest,Sustainable Growth,0.1103845843167657,
+Equity,-,Recruit,302752.0,0.11,6098 JP,-,RECRUIT HOLDINGS CO. LTD.,Listed,Rest,Sustainable Growth,0.1103525084898608,
+Equity,-,Intact Financial,297991.0,0.11,IFC CN,-,INTACT FINANCIAL CORP.,Listed,Rest,Sustainable Growth,0.1086171333546999,
+Equity,-,Vertex Pharmaceuticals,296703.0,0.1,VRTX US,-,"VERTEX PHARMACEUTICALS, INC.",Listed,Rest,Sustainable Growth,0.108147659888183,
+Equity,-,Paccar,295101.0,0.1,PCAR US,-,"PACCAR, INC.",Listed,Rest,Sustainable Growth,0.1075637340393009,
+Equity,-,Sika Ag,294816.0,0.1,SIKA SW,-,SIKA AG,Listed,Rest,Sustainable Growth,0.107459852099893,
+Equity,-,Dover,294527.0,0.1,DOV US,-,DOVER CORP.,Listed,Rest,Sustainable Growth,0.1073545121683531,
+Equity,-,Synopsys,294106.0,0.1,SNPS US,-,"SYNOPSYS, INC.",Listed,Rest,Sustainable Growth,0.1072010584964558,
+Equity,-,Fair Isaac,293378.0,0.1,FICO US,-,FAIR ISAAC CORP.,Listed,Rest,Sustainable Growth,0.1069357039284245,
+Equity,-,Haleon,290281.0,0.1,HLN LN,-,HALEON PLC,Listed,Rest,Sustainable Growth,0.1058068535201924,
+Equity,-,Ebay,286405.0,0.1,EBAY US,-,"EBAY, INC.",Listed,Rest,Sustainable Growth,0.1043940591442454,
+Equity,-,Verisk Analytics,286382.0,0.1,VRSK US,-,"VERISK ANALYTICS, INC.",Listed,Rest,Sustainable Growth,0.1043856756894862,
+Equity,-,G8 Education,286076.0,0.1,GEM AU,-,G8 EDUCATION LTD.,Listed,Rest,Sustainable Growth,0.1042741392913851,
+Equity,-,Singapore Telecommunications,286054.0,0.1,ST SP,-,SINGAPORE TELECOMMUNICATIONS LTD.,Listed,Rest,Sustainable Growth,0.1042661203346589,
+Equity,-,West Pharmaceutical Services,284196.0,0.1,WST US,-,"WEST PHARMACEUTICAL SERVICES, INC.",Listed,Rest,Sustainable Growth,0.1035888829893262,
+Equity,-,Keyence,283171.0,0.1,6861 JP,-,KEYENCE CORP.,Listed,Rest,Sustainable Growth,0.1032152725054909,
+Equity,-,Campbell Soup,283073.0,0.1,CPB US,-,CAMPBELL SOUP CO.,Listed,Rest,Sustainable Growth,0.1031795516982559,
+Equity,-,Bank Of Montreal,281154.0,0.1,BMO CN,-,BANK OF MONTREAL,Listed,Rest,Sustainable Growth,0.1024800799729096,
+Equity,-,Mercadolibre,281015.0,0.1,MELI US,-,"MERCADOLIBRE, INC.",Listed,Rest,Sustainable Growth,0.1024294147463212,
+Equity,-,Clorox,276228.0,0.1,CLX US,-,CLOROX CO.,Listed,Rest,Sustainable Growth,0.1006845626623021,
+Equity,-,Nxp Semiconductors Nv,274509.0,0.1,NXPI US,-,NXP SEMICONDUCTORS NV,Listed,Rest,Sustainable Growth,0.1000579905435578,
+Equity,-,Yum! Brands,273446.0,0.1,YUM US,-,"YUM! BRANDS, INC.",Listed,Rest,Sustainable Growth,0.0996705291344681,
+Equity,-,Uber Technologies,271143.0,0.1,UBER US,-,"UBER TECHNOLOGIES, INC.",Listed,Rest,Sustainable Growth,0.0988310901644459,
+Equity,-,Broadridge Financial Solutions,270887.0,0.1,BR US,-,"BROADRIDGE FINANCIAL SOLUTIONS, INC.",Listed,Rest,Sustainable Growth,0.0987377786679953,
+Equity,-,Boliden Ab,270710.0,0.1,BOL SS,-,BOLIDEN AB,Listed,Rest,Sustainable Growth,0.0986732625161526,
+Equity,-,Gsk,270629.0,0.1,GSK LN,-,GSK PLC,Listed,Rest,Sustainable Growth,0.0986437381754787,
+Equity,-,Liontown Resources,270441.0,0.1,LTR AU,-,LIONTOWN RESOURCES LTD.,Listed,Rest,Sustainable Growth,0.0985752125452728,
+Equity,-,Trimble,270037.0,0.1,TRMB US,-,"TRIMBLE, INC.",Listed,Rest,Sustainable Growth,0.0984279553399368,
+Equity,-,Patriot Battery Metals,268812.0,0.1,PMT AU,-,"PATRIOT BATTERY METALS, INC.",Listed,Rest,Sustainable Growth,0.0979814452494995,
+Equity,-,Softbank,267296.0,0.09,9984 JP,-,SOFTBANK GROUP CORP.,Listed,Rest,Sustainable Growth,0.0974288662314562,
+Equity,-,Treasury Wine Estates,267005.0,0.09,TWE AU,-,TREASURY WINE ESTATES LTD.,Listed,Rest,Sustainable Growth,0.0973227973038503,
+Equity,-,Terna - Rete Elettrica Nazionale,266198.0,0.09,TRN IM,-,TERNA - RETE ELETTRICA NAZIONALE,Listed,Rest,Sustainable Growth,0.0970286473912112,
+Equity,-,Super Retail,264884.0,0.09,SUL AU,-,SUPER RETAIL GROUP LTD.,Listed,Rest,Sustainable Growth,0.096549696975836,
+Equity,-,Cbre,264342.0,0.09,CBRE US,-,"CBRE GROUP, INC.",Listed,Rest,Sustainable Growth,0.0963521390419445,
+Equity,-,L'Oreal Sa,264224.0,0.09,OR FP,-,L'OREAL SA,Listed,Rest,Sustainable Growth,0.0963091282740493,
+Equity,-,Bayerische Motoren Werke Ag,264208.0,0.09,BMW3 GR,-,BAYERISCHE MOTOREN WERKE AG,Listed,Rest,Sustainable Growth,0.0963032963055212,
+Equity,-,Genuine Parts,264031.0,0.09,GPC US,-,GENUINE PARTS CO.,Listed,Rest,Sustainable Growth,0.0962387801536784,
+Equity,-,Pinterest,262791.0,0.09,PINS US,-,"PINTEREST, INC.",Listed,Rest,Sustainable Growth,0.0957868025927459,
+Equity,-,Netwealth,262422.0,0.09,NWL AU,-,NETWEALTH GROUP LTD.,Listed,Rest,Sustainable Growth,0.0956523028185652,
+Equity,-,Axon Enterprise,261913.0,0.09,AXON US,-,"AXON ENTERPRISE, INC.",Listed,Rest,Sustainable Growth,0.0954667733197631,
+Equity,-,Micron Technology,260201.0,0.09,MU US,-,"MICRON TECHNOLOGY, INC.",Listed,Rest,Sustainable Growth,0.0948427526872499,
+Equity,-,Premier Investments,259085.0,0.09,PMV AU,-,PREMIER INVESTMENTS LTD.,Listed,Rest,Sustainable Growth,0.0944359728824106,
+Equity,-,F5,255582.0,0.09,FFIV US,-,"F5, INC.",Listed,Rest,Sustainable Growth,0.0931591362727764,
+Equity,-,Givaudan Sa,253129.0,0.09,GIVN SW,-,GIVAUDAN SA,Listed,Rest,Sustainable Growth,0.0922650225978027,
+Equity,-,Take-Two Interactive Software,253002.0,0.09,TTWO US,-,"TAKE-TWO INTERACTIVE SOFTWARE, INC.",Listed,Rest,Sustainable Growth,0.0922187313476105,
+Equity,-,Stellantis Nv,252578.0,0.09,STLAM IM,-,STELLANTIS NV,Listed,Rest,Sustainable Growth,0.0920641841816142,
+Equity,-,Blackstone,251461.0,0.09,BX US,-,"BLACKSTONE, INC.",Listed,Rest,Sustainable Growth,0.0916570398787419,
+Equity,-,Cae,248188.0,0.09,CAE CN,-,"CAE, INC.",Listed,Rest,Sustainable Growth,0.0904640378167,
+Equity,-,Sun Life Financial,248127.0,0.09,SLF CN,-,"SUN LIFE FINANCIAL, INC.",Listed,Rest,Sustainable Growth,0.0904418034366864,
+Equity,-,Intercontinental Exchange,247486.0,0.09,ICE US,-,"INTERCONTINENTAL EXCHANGE, INC.",Listed,Rest,Sustainable Growth,0.090208160197527,
+Equity,-,Sun Hung Kai Properties,245369.0,0.09,16 HK,-,SUN HUNG KAI PROPERTIES LTD.,Listed,Rest,Sustainable Growth,0.0894365178616447,
+Equity,-,Iqvia,240858.0,0.09,IQV US,-,"IQVIA HOLDINGS, INC.",Listed,Rest,Sustainable Growth,0.0877922672347363,
+Equity,-,Schneider Electric Se,240820.0,0.09,SU FP,-,SCHNEIDER ELECTRIC SE,Listed,Rest,Sustainable Growth,0.0877784163094819,
+Equity,-,Palo Alto Networks,238561.0,0.08,PANW US,-,"PALO ALTO NETWORKS, INC.",Listed,Rest,Sustainable Growth,0.0869550152529122,
+Equity,-,Agilent Technologies,238106.0,0.08,A US,-,"AGILENT TECHNOLOGIES, INC.",Listed,Rest,Sustainable Growth,0.0867891686478926,
+Equity,-,Fortive,236735.0,0.08,FTV US,-,FORTIVE CORP.,Listed,Rest,Sustainable Growth,0.0862894418446359,
+Equity,-,Travelers Cos,236203.0,0.08,TRV US,-,"TRAVELERS COS., INC.",Listed,Rest,Sustainable Growth,0.0860955288910745,
+Equity,-,Intel,236057.0,0.08,INTC US,-,INTEL CORP.,Listed,Rest,Sustainable Growth,0.086042312178255,
+Equity,-,Secom,235145.0,0.08,9735 JP,-,SECOM CO. LTD.,Listed,Rest,Sustainable Growth,0.0857098899721499,
+Equity,-,Cdw,233211.0,0.08,CDW US,-,CDW CORP.,Listed,Rest,Sustainable Growth,0.0850049507763084,
+Equity,-,Juniper Networks,230024.0,0.08,JNPR US,-,"JUNIPER NETWORKS, INC.",Listed,Rest,Sustainable Growth,0.0838432955451054,
+Equity,-,Vulcan Steel,228475.0,0.08,VSL AU,-,VULCAN STEEL LTD.,Listed,Rest,Sustainable Growth,0.0832786880919728,
+Equity,-,Great-West Lifeco,227231.0,0.08,GWO CN,-,"GREAT-WEST LIFECO, INC.",Listed,Rest,Sustainable Growth,0.0828252525389083,
+Equity,-,Auto Trader,226908.0,0.08,AUTO LN,-,AUTO TRADER GROUP PLC,Listed,Rest,Sustainable Growth,0.082707519674246,
+Equity,-,Tmx,226845.0,0.08,X CN,-,TMX GROUP LTD.,Listed,Rest,Sustainable Growth,0.0826845562981664,
+Equity,-,Hp,223696.0,0.08,HPQ US,-,"HP, INC.",Listed,Rest,Sustainable Growth,0.0815367519922177,
+Equity,-,Newmont,222992.0,0.08,NEM AU,-,NEWMONT CORP.,Listed,Rest,Sustainable Growth,0.0812801453769786,
+Equity,-,Dell Technologies,220759.0,0.08,DELL US,-,"DELL TECHNOLOGIES, INC.",Listed,Rest,Sustainable Growth,0.0804662212692672,
+Equity,-,General Motors,219425.0,0.08,GM US,-,GENERAL MOTORS CO.,Listed,Rest,Sustainable Growth,0.0799799808932318,
+Equity,-,Essilorluxottica Sa,219059.0,0.08,EL FP,-,ESSILORLUXOTTICA SA,Listed,Rest,Sustainable Growth,0.0798465746131501,
+Equity,-,Lpl Financial,217186.0,0.08,LPLA US,-,"LPL FINANCIAL HOLDINGS, INC.",Listed,Rest,Sustainable Growth,0.0791638697973222,
+Equity,-,Aisin,216506.0,0.08,7259 JP,-,AISIN CORP.,Listed,Rest,Sustainable Growth,0.0789160111348754,
+Equity,-,Check Point Software Technologies,216493.0,0.08,CHKP US,-,CHECK POINT SOFTWARE TECHNOLOGIES LTD.,Listed,Rest,Sustainable Growth,0.0789112726604463,
+Equity,-,Telefonica Sa,215351.0,0.08,TEF SM,-,TELEFONICA SA,Listed,Rest,Sustainable Growth,0.0784950159067488,
+Equity,-,Logitech International Sa,213699.0,0.08,LOGN SW,-,LOGITECH INTERNATIONAL SA,Listed,Rest,Sustainable Growth,0.0778928651562162,
+Equity,-,Regions Financial,211157.0,0.07,RF US,-,REGIONS FINANCIAL CORP.,Listed,Rest,Sustainable Growth,0.0769663111563046,
+Equity,-,Airbnb,211015.0,0.07,ABNB US,-,"AIRBNB, INC.",Listed,Rest,Sustainable Growth,0.0769145524356172,
+Equity,-,Aercap Nv,208236.0,0.07,AER US,-,AERCAP HOLDINGS NV,Listed,Rest,Sustainable Growth,0.0759016124018822,
+Equity,-,Tradeweb Markets,208065.0,0.07,TW US,-,"TRADEWEB MARKETS, INC.",Listed,Rest,Sustainable Growth,0.0758392832382375,
+Equity,-,Block,205897.0,0.07,SQ2 AU,-,"BLOCK, INC.",Listed,Rest,Sustainable Growth,0.0750490515026717,
+Equity,-,Bank Of New York Mellon,204632.0,0.07,BK US,-,BANK OF NEW YORK MELLON CORP.,Listed,Rest,Sustainable Growth,0.074587961490914,
+Equity,-,Singapore Exchange,204492.0,0.07,SGX SP,-,SINGAPORE EXCHANGE LTD.,Listed,Rest,Sustainable Growth,0.0745369317662926,
+Equity,-,Ptc,204095.0,0.07,PTC US,-,"PTC, INC.",Listed,Rest,Sustainable Growth,0.0743922260471876,
+Equity,-,Austal,203782.0,0.07,ASB AU,-,AUSTAL LTD.,Listed,Rest,Sustainable Growth,0.0742781381628554,
+Equity,-,Capital One Financial,203338.0,0.07,COF US,-,CAPITAL ONE FINANCIAL CORP.,Listed,Rest,Sustainable Growth,0.074116301036199,
+Equity,-,Monolithic Power Systems,202088.0,0.07,MPWR US,-,"MONOLITHIC POWER SYSTEMS, INC.",Listed,Rest,Sustainable Growth,0.0736606784949364,
+Equity,-,Graincorp,200556.0,0.07,GNC AU,-,GRAINCORP LTD.,Listed,Rest,Sustainable Growth,0.073102267508365,
+Equity,-,Fortinet,199466.0,0.07,FTNT US,-,"FORTINET, INC.",Listed,Rest,Sustainable Growth,0.072704964652384,
+Equity,-,Aub,196464.0,0.07,AUB AU,-,AUB GROUP LTD.,Listed,Rest,Sustainable Growth,0.0716107415572878,
+Equity,-,Mystate,196188.0,0.07,MYS AU,-,MYSTATE LTD.,Listed,Rest,Sustainable Growth,0.0715101401001771,
+Equity,-,Sayona Mining,194980.0,0.07,SYA AU,-,SAYONA MINING LTD.,Listed,Rest,Sustainable Growth,0.0710698264763009,
+Equity,-,Insignia Financial,194641.0,0.07,IFL AU,-,INSIGNIA FINANCIAL LTD.,Listed,Rest,Sustainable Growth,0.0709462616431105,
+Equity,-,Microchip Technology,193818.0,0.07,MCHP US,-,"MICROCHIP TECHNOLOGY, INC.",Listed,Rest,Sustainable Growth,0.0706462797619432,
+Equity,-,Dbs,193755.0,0.07,DBS SP,-,DBS GROUP HOLDINGS LTD.,Listed,Rest,Sustainable Growth,0.0706233163858636,
+Equity,-,Ms&Ad Insurance,193428.0,0.07,8725 JP,-,"MS&AD INSURANCE GROUP HOLDINGS, INC.",Listed,Rest,Sustainable Growth,0.0705041255290693,
+Equity,-,Hologic,191511.0,0.07,HOLX US,-,"HOLOGIC, INC.",Listed,Rest,Sustainable Growth,0.069805382799789,
+Equity,-,United Utilities,191298.0,0.07,UU LN,-,UNITED UTILITIES GROUP PLC,Listed,Rest,Sustainable Growth,0.0697277447187579,
+Equity,-,Hoya,190999.0,0.07,7741 JP,-,HOYA CORP.,Listed,Rest,Sustainable Growth,0.0696187598068879,
+Equity,-,Fidelity National Information Services,188875.0,0.07,FIS US,-,"FIDELITY NATIONAL INFORMATION SERVICES, INC.",Listed,Rest,Sustainable Growth,0.0688445659847745,
+Equity,-,Mongodb,188844.0,0.07,MDB US,-,"MONGODB, INC.",Listed,Rest,Sustainable Growth,0.0688332665457512,
+Equity,-,Service Stream,186307.0,0.07,SSM AU,-,SERVICE STREAM LTD.,Listed,Rest,Sustainable Growth,0.0679085350360047,
+Equity,-,Yara International Asa,185764.0,0.07,YAR NO,-,YARA INTERNATIONAL ASA,Listed,Rest,Sustainable Growth,0.0677106126040802,
+Equity,-,At&T,184386.0,0.07,T US,-,"AT&T, INC.",Listed,Rest,Sustainable Growth,0.0672083343145924,
+Equity,-,Legal & General,183245.0,0.06,LGEN LN,-,LEGAL & GENERAL GROUP PLC,Listed,Rest,Sustainable Growth,0.0667924420589279,
+Equity,-,Kddi,181147.0,0.06,9433 JP,-,KDDI CORP.,Listed,Rest,Sustainable Growth,0.0660277251856728,
+Equity,-,Monster Beverage,181105.0,0.06,MNST US,-,MONSTER BEVERAGE CORP.,Listed,Rest,Sustainable Growth,0.0660124162682864,
+Equity,-,Western Digital,181076.0,0.06,WDC US,-,WESTERN DIGITAL CORP.,Listed,Rest,Sustainable Growth,0.0660018458253291,
+Equity,-,Mcmillan Shakespeare,180336.0,0.06,MMS AU,-,MCMILLAN SHAKESPEARE LTD.,Listed,Rest,Sustainable Growth,0.0657321172809016,
+Equity,-,Jabil,180141.0,0.06,JBL US,-,"JABIL, INC.",Listed,Rest,Sustainable Growth,0.0656610401644647,
+Equity,-,Xylem,177035.0,0.06,XYL US,-,"XYLEM, INC.",Listed,Rest,Sustainable Growth,0.0645289092739354,
+Equity,-,Veeva Systems,176625.0,0.06,VEEV US,-,"VEEVA SYSTEMS, INC.",Listed,Rest,Sustainable Growth,0.0643794650804013,
+Equity,-,Fastenal,176277.0,0.06,FAST US,-,FASTENAL CO.,Listed,Rest,Sustainable Growth,0.0642526197649138,
+Equity,-,Target,175740.0,0.06,TGT US,-,TARGET CORP.,Listed,Rest,Sustainable Growth,0.0640568843211874,
+Equity,-,Rpm International,175575.0,0.06,RPM US,-,"RPM INTERNATIONAL, INC.",Listed,Rest,Sustainable Growth,0.0639967421457408,
+Equity,-,Banco Bilbao Vizcaya Argentaria Sa,174864.0,0.06,BBVA SM,-,BANCO BILBAO VIZCAYA ARGENTARIA SA,Listed,Rest,Sustainable Growth,0.0637375840442706,
+Equity,-,Deckers Outdoor,174526.0,0.06,DECK US,-,DECKERS OUTDOOR CORP.,Listed,Rest,Sustainable Growth,0.0636143837091132,
+Equity,-,Perpetual,174223.0,0.06,PPT AU,-,PERPETUAL LTD.,Listed,Rest,Sustainable Growth,0.0635039408051112,
+Equity,-,Cgi,173950.0,0.06,GIBA CN,-,"CGI, INC.",Listed,Rest,Sustainable Growth,0.0634044328420994,
+Equity,-,Centene,173866.0,0.06,CNC US,-,CENTENE CORP.,Listed,Rest,Sustainable Growth,0.0633738150073266,
+Equity,-,Ap Moller - Maersk As,172131.0,0.06,MAERSKA DC,-,AP MOLLER - MAERSK AS,Listed,Rest,Sustainable Growth,0.0627414109200541,
+Equity,-,Wsp Global,171253.0,0.06,WSP CN,-,"WSP GLOBAL, INC.",Listed,Rest,Sustainable Growth,0.0624213816470713,
+Equity,-,Tyler Technologies,169944.0,0.06,TYL US,-,"TYLER TECHNOLOGIES, INC.",Listed,Rest,Sustainable Growth,0.0619442537218611,
+Equity,-,Veralto,168738.0,0.06,VLTO US,-,VERALTO CORP.,Listed,Rest,Sustainable Growth,0.061504669094051,
+Equity,-,Industrivarden Ab,168317.0,0.06,INDUA SS,-,INDUSTRIVARDEN AB,Listed,Rest,Sustainable Growth,0.0613512154221538,
+Equity,-,Quest Diagnostics,167247.0,0.06,DGX US,-,"QUEST DIAGNOSTICS, INC.",Listed,Rest,Sustainable Growth,0.060961202526833,
+Equity,-,Prosus Nv,166420.0,0.06,PRX NA,-,PROSUS NV,Listed,Rest,Sustainable Growth,0.0606597626535337,
+Equity,-,Smiths,165084.0,0.06,SMIN LN,-,SMITHS GROUP PLC,Listed,Rest,Sustainable Growth,0.0601727932814322,
+Equity,-,Ulta Beauty,164717.0,0.06,ULTA US,-,"ULTA BEAUTY, INC.",Listed,Rest,Sustainable Growth,0.0600390225033175,
+Equity,-,Nissin Foods,164152.0,0.06,2897 JP,-,NISSIN FOODS HOLDINGS CO. LTD.,Listed,Rest,Sustainable Growth,0.0598330811146669,
+Equity,-,Snap,163643.0,0.06,SNAP US,-,"SNAP, INC.",Listed,Rest,Sustainable Growth,0.0596475516158648,
+Equity,-,Snap-On,163165.0,0.06,SNA US,-,"SNAP-ON, INC.",Listed,Rest,Sustainable Growth,0.0594733215560859,
+Equity,-,Orkla Asa,162858.0,0.06,ORK NO,-,ORKLA ASA,Listed,Rest,Sustainable Growth,0.0593614206599519,
+Equity,-,Mccormick &,161903.0,0.06,MKC US,-,"MCCORMICK & CO., INC.",Listed,Rest,Sustainable Growth,0.0590133250384272,
+Equity,-,Skyworks Solutions,161086.0,0.06,SWKS US,-,"SKYWORKS SOLUTIONS, INC.",Listed,Rest,Sustainable Growth,0.058715530145458,
+Equity,-,Edwards Lifesciences,160268.0,0.06,EW US,-,EDWARDS LIFESCIENCES CORP.,Listed,Rest,Sustainable Growth,0.0584173707544558,
+Equity,-,Nine Entertainment,159808.0,0.06,NEC AU,-,NINE ENTERTAINMENT CO. HOLDINGS LTD.,Listed,Rest,Sustainable Growth,0.0582497016592712,
+Equity,-,Henkel Ag & Kgaa,159573.0,0.06,HEN GR,-,HENKEL AG & CO. KGAA,Listed,Rest,Sustainable Growth,0.0581640446215138,
+Equity,-,Iress,156296.0,0.06,IRE AU,-,IRESS LTD.,Listed,Rest,Sustainable Growth,0.0569695845673399,
+Equity,-,Hermes International,155631.0,0.06,RMS FP,-,HERMES INTERNATIONAL,Listed,Rest,Sustainable Growth,0.0567271933753882,
+Equity,-,Resona,155451.0,0.05,8308 JP,-,"RESONA HOLDINGS, INC.",Listed,Rest,Sustainable Growth,0.0566615837294464,
+Equity,-,Webjet,153772.0,0.05,WEB AU,-,WEBJET LTD.,Listed,Rest,Sustainable Growth,0.0560495915320225,
+Equity,-,Trade Desk,152633.0,0.05,TTD US,-,"TRADE DESK, INC.",Listed,Rest,Sustainable Growth,0.055634428272424,
+Equity,-,Boc Hong Kong,152606.0,0.05,2388 HK,-,BOC HONG KONG HOLDINGS LTD.,Listed,Rest,Sustainable Growth,0.0556245868255327,
+Equity,-,Fujitsu,152096.0,0.05,6702 JP,-,FUJITSU LTD.,Listed,Rest,Sustainable Growth,0.0554386928286976,
+Equity,-,Hongkong Land,151372.0,0.05,HKL SP,-,HONGKONG LAND HOLDINGS LTD.,Listed,Rest,Sustainable Growth,0.0551747962527983,
+Equity,-,London Stock Exchange,150262.0,0.05,LSEG LN,-,LONDON STOCK EXCHANGE GROUP PLC,Listed,Rest,Sustainable Growth,0.0547702034361572,
+Equity,-,Westinghouse Air Brake Technologies,149870.0,0.05,WAB US,-,WESTINGHOUSE AIR BRAKE TECHNOLOGIES CORP.,Listed,Rest,Sustainable Growth,0.0546273202072172,
+Equity,-,Ferguson Enterprises,149397.0,0.05,FERG US,-,"FERGUSON ENTERPRISES, INC.",Listed,Rest,Sustainable Growth,0.0544549126376035,
+Equity,-,Coca-Cola Europacific Partners,147775.0,0.05,CCEP US,-,COCA-COLA EUROPACIFIC PARTNERS PLC,Listed,Rest,Sustainable Growth,0.0538636968280612,
+Equity,-,Bristol-Myers Squibb,147685.0,0.05,BMY US,-,BRISTOL-MYERS SQUIBB CO.,Listed,Rest,Sustainable Growth,0.0538308920050903,
+Equity,-,Sino Land,147522.0,0.05,83 HK,-,SINO LAND CO. LTD.,Listed,Rest,Sustainable Growth,0.0537714788257096,
+Equity,-,Ooh!Media,145448.0,0.05,OML AU,-,OOH!MEDIA LTD.,Listed,Rest,Sustainable Growth,0.0530155099052468,
+Equity,-,Sgs Sa,145424.0,0.05,SGSN SW,-,SGS SA,Listed,Rest,Sustainable Growth,0.0530067619524545,
+Equity,-,Fleetpartners,144224.0,0.05,FPR AU,-,FLEETPARTNERS GROUP LTD.,Listed,Rest,Sustainable Growth,0.0525693643128424,
+Equity,-,Asm International Nv,143439.0,0.05,ASM NA,-,ASM INTERNATIONAL NV,Listed,Rest,Sustainable Growth,0.0522832333569295,
+Equity,-,Idp Education,143234.0,0.05,IEL AU,-,IDP EDUCATION LTD.,Listed,Rest,Sustainable Growth,0.0522085112601625,
+Equity,-,Dr Ing Hc F Porsche Ag,142461.0,0.05,P911 GR,-,DR ING HC F PORSCHE AG,Listed,Rest,Sustainable Growth,0.0519267542806457,
+Equity,-,Nasdaq,142242.0,0.05,NDAQ US,-,"NASDAQ, INC.",Listed,Rest,Sustainable Growth,0.0518469292114165,
+Equity,-,Nordson,142062.0,0.05,NDSN US,-,NORDSON CORP.,Listed,Rest,Sustainable Growth,0.0517813195654747,
+Equity,-,Republic Services,141854.0,0.05,RSG US,-,"REPUBLIC SERVICES, INC.",Listed,Rest,Sustainable Growth,0.0517055039746086,
+Equity,-,Nomura,139550.0,0.05,8604 JP,-,"NOMURA HOLDINGS, INC.",Listed,Rest,Sustainable Growth,0.0508657005065534,
+Equity,-,Nn Nv,139127.0,0.05,NN NA,-,NN GROUP NV,Listed,Rest,Sustainable Growth,0.0507115178385902,
+Equity,-,Propel Funeral Partners,139114.0,0.05,PFP AU,-,PROPEL FUNERAL PARTNERS LTD.,Listed,Rest,Sustainable Growth,0.0507067793641611,
+Equity,-,Coca-Cola Hbc Ag,136414.0,0.05,CCH LN,-,COCA-COLA HBC AG,Listed,Rest,Sustainable Growth,0.0497226346750339,
+Equity,-,Qantas Airways,134976.0,0.05,QAN AU,-,QANTAS AIRWAYS LTD.,Listed,Rest,Sustainable Growth,0.0491984865035654,
+Equity,-,Owens Corning,134637.0,0.05,OC US,-,OWENS CORNING,Listed,Rest,Sustainable Growth,0.049074921670375,
+Equity,-,Lennox International,130901.0,0.05,LII US,-,"LENNOX INTERNATIONAL, INC.",Listed,Rest,Sustainable Growth,0.0477131570190495,
+Equity,-,Zoetis,130815.0,0.05,ZTS US,-,"ZOETIS, INC.",Listed,Rest,Sustainable Growth,0.0476818101882106,
+Equity,-,Vertiv,130801.0,0.05,VRT US,-,VERTIV HOLDINGS CO.,Listed,Rest,Sustainable Growth,0.0476767072157484,
+Equity,-,Keurig Dr Pepper,130669.0,0.05,KDP US,-,"KEURIG DR PEPPER, INC.",Listed,Rest,Sustainable Growth,0.0476285934753911,
+Equity,-,Mtr,130664.0,0.05,66 HK,-,MTR CORP. LTD.,Listed,Rest,Sustainable Growth,0.0476267709852261,
+Equity,-,Waste Management,130335.0,0.05,WM US,-,"WASTE MANAGEMENT, INC.",Listed,Rest,Sustainable Growth,0.0475068511323658,
+Equity,-,Paypal,130118.0,0.05,PYPL US,-,"PAYPAL HOLDINGS, INC.",Listed,Rest,Sustainable Growth,0.0474277550592026,
+Equity,-,East Japan Railway,129808.0,0.05,9020 JP,-,EAST JAPAN RAILWAY CO.,Listed,Rest,Sustainable Growth,0.0473147606689695,
+Equity,-,Ball,129677.0,0.05,BALL US,-,BALL CORP.,Listed,Rest,Sustainable Growth,0.0472670114266451,
+Equity,-,Smartgroup,129103.0,0.05,SIQ AU,-,SMARTGROUP CORP. LTD.,Listed,Rest,Sustainable Growth,0.0470577895556974,
+Equity,-,Chugai Pharmaceutical,128795.0,0.05,4519 JP,-,CHUGAI PHARMACEUTICAL CO. LTD.,Listed,Rest,Sustainable Growth,0.0469455241615303,
+Equity,-,Credit Agricole Sa,128573.0,0.05,ACA FP,-,CREDIT AGRICOLE SA,Listed,Rest,Sustainable Growth,0.046864605598202,
+Equity,-,Reliance,127561.0,0.05,RS US,-,"RELIANCE, INC.",Listed,Rest,Sustainable Growth,0.0464957335887959,
+Equity,-,Sumitomo Electric Industries,127524.0,0.05,5802 JP,-,SUMITOMO ELECTRIC INDUSTRIES LTD.,Listed,Rest,Sustainable Growth,0.0464822471615745,
+Equity,-,Vodafone,126905.0,0.04,VOD LN,-,VODAFONE GROUP PLC,Listed,Rest,Sustainable Growth,0.0462566228791413,
+Equity,-,Descartes Systems,126112.0,0.04,DSG CN,-,"DESCARTES SYSTEMS GROUP, INC.",Listed,Rest,Sustainable Growth,0.0459675759389643,
+Equity,-,De Grey Mining,125560.0,0.04,DEG AU,-,DE GREY MINING LTD.,Listed,Rest,Sustainable Growth,0.0457663730247427,
+Equity,-,Hong Kong Exchanges & Clearing,125435.0,0.04,388 HK,-,HONG KONG EXCHANGES & CLEARING LTD.,Listed,Rest,Sustainable Growth,0.0457208107706165,
+Equity,-,Costar,124324.0,0.04,CSGP US,-,"COSTAR GROUP, INC.",Listed,Rest,Sustainable Growth,0.0453158534559423,
+Equity,-,Manhattan Associates,124303.0,0.04,MANH US,-,"MANHATTAN ASSOCIATES, INC.",Listed,Rest,Sustainable Growth,0.0453081989972491,
+Equity,-,Molina Healthcare,123855.0,0.04,MOH US,-,"MOLINA HEALTHCARE, INC.",Listed,Rest,Sustainable Growth,0.0451449038784606,
+Equity,-,Sea,120985.0,0.04,SE US,-,SEA LTD.,Listed,Rest,Sustainable Growth,0.0440987945237217,
+Equity,-,Ebos,120757.0,0.04,EBO AU,-,EBOS GROUP LTD.,Listed,Rest,Sustainable Growth,0.0440156889721954,
+Equity,-,Darden Restaurants,120582.0,0.04,DRI US,-,"DARDEN RESTAURANTS, INC.",Listed,Rest,Sustainable Growth,0.0439519018164187,
+Equity,-,Domino'S Pizza,117928.0,0.04,DPZ US,-,"DOMINO'S PIZZA, INC.",Listed,Rest,Sustainable Growth,0.04298452403681,
+Equity,-,Olympus,116325.0,0.04,7733 JP,-,OLYMPUS CORP.,Listed,Rest,Sustainable Growth,0.0424002336898949,
+Equity,-,Arch Capital,115354.0,0.04,ACGL US,-,ARCH CAPITAL GROUP LTD.,Listed,Rest,Sustainable Growth,0.0420463060998421,
+Equity,-,Roblox,114186.0,0.04,RBLX US,-,ROBLOX CORP.,Listed,Rest,Sustainable Growth,0.0416205723972864,
+Equity,-,Vat Ag,114084.0,0.04,VACN SW,-,VAT GROUP AG,Listed,Rest,Sustainable Growth,0.0415833935979193,
+Equity,-,Fanuc,113413.0,0.04,6954 JP,-,FANUC CORP.,Listed,Rest,Sustainable Growth,0.0413388154177696,
+Equity,-,Gjensidige Forsikring Asa,112651.0,0.04,GJF NO,-,GJENSIDIGE FORSIKRING ASA,Listed,Rest,Sustainable Growth,0.0410610679166159,
+Equity,-,Swire Pacific,112410.0,0.04,19 HK,-,SWIRE PACIFIC LTD.,Listed,Rest,Sustainable Growth,0.0409732238906605,
+Equity,-,Ashtead,112267.0,0.04,AHT LN,-,ASHTEAD GROUP PLC,Listed,Rest,Sustainable Growth,0.04092110067194,
+Equity,-,Waters,111888.0,0.04,WAT US,-,WATERS CORP.,Listed,Rest,Sustainable Growth,0.0407829559174292,
+Equity,-,Goldman Sachs,111192.0,0.04,GS US,-,"GOLDMAN SACHS GROUP, INC.",Listed,Rest,Sustainable Growth,0.0405292652864542,
+Equity,-,Hexagon Ab,110047.0,0.04,HEXAB SS,-,HEXAGON AB,Listed,Rest,Sustainable Growth,0.0401119150386577,
+Equity,-,Knight-Swift Transportation,109641.0,0.04,KNX US,-,"KNIGHT-SWIFT TRANSPORTATION HOLDINGS, INC.",Listed,Rest,Sustainable Growth,0.0399639288372556,
+Equity,-,Telus,109122.0,0.04,T CN,-,TELUS CORP.,Listed,Rest,Sustainable Growth,0.0397747543581234,
+Equity,-,Atlas Copco Ab,108430.0,0.04,ATCOB SS,-,ATLAS COPCO AB,Listed,Rest,Sustainable Growth,0.0395225217192805,
+Equity,-,Expeditors International Of Washington,108157.0,0.04,EXPD US,-,"EXPEDITORS INTERNATIONAL OF WASHINGTON, INC.",Listed,Rest,Sustainable Growth,0.0394230137562687,
+Equity,-,Principal Financial,108099.0,0.04,PFG US,-,"PRINCIPAL FINANCIAL GROUP, INC.",Listed,Rest,Sustainable Growth,0.0394018728703541,
+Equity,-,Siemens Ag,107559.0,0.04,SIE GR,-,SIEMENS AG,Listed,Rest,Sustainable Growth,0.0392050439325287,
+Equity,-,Z,107314.0,0.04,4689 JP,-,Z HOLDINGS CORP.,Listed,Rest,Sustainable Growth,0.0391157419144412,
+Equity,-,West Fraser Timber,107100.0,0.04,WFG CN,-,WEST FRASER TIMBER CO. LTD.,Listed,Rest,Sustainable Growth,0.0390377393353771,
+Equity,-,Interpublic Of Cos,105076.0,0.04,IPG US,-,"INTERPUBLIC GROUP OF COS., INC.",Listed,Rest,Sustainable Growth,0.0382999953165647,
+Equity,-,Ucb Sa,104976.0,0.04,UCB BB,-,UCB SA,Listed,Rest,Sustainable Growth,0.0382635455132637,
+Equity,-,Wharf,104591.0,0.04,4 HK,-,WHARF HOLDINGS LTD.,Listed,Rest,Sustainable Growth,0.0381232137705548,
+Equity,-,Omnicom,102140.0,0.04,OMC US,-,"OMNICOM GROUP, INC.",Listed,Rest,Sustainable Growth,0.0372298290916472,
+Equity,-,Humana,102025.0,0.04,HUM US,-,"HUMANA, INC.",Listed,Rest,Sustainable Growth,0.037187911817851,
+Equity,-,Lendlease,101983.0,0.04,LLC AU,-,LENDLEASE CORP. LTD.,Listed,Rest,Sustainable Growth,0.0371726029004646,
+Equity,-,Magellan Financial,99515.0,0.04,MFG AU,-,MAGELLAN FINANCIAL GROUP LTD.,Listed,Rest,Sustainable Growth,0.0362730217549958,
+Equity,-,Edp Renovaveis Sa,99493.0,0.04,EDPR PL,-,EDP RENOVAVEIS SA,Listed,Rest,Sustainable Growth,0.0362650027982696,
+Equity,-,Atlassian,98877.0,0.03,TEAM US,-,ATLASSIAN CORP.,Listed,Rest,Sustainable Growth,0.0360404720099354,
+Equity,-,Fifth Third Bancorp,96715.0,0.03,FITB US,-,FIFTH THIRD BANCORP,Listed,Rest,Sustainable Growth,0.0352524272625676,
+Equity,-,Williams-Sonoma,95889.0,0.03,WSM US,-,"WILLIAMS-SONOMA, INC.",Listed,Rest,Sustainable Growth,0.0349513518873013,
+Equity,-,Komatsu,95296.0,0.03,6301 JP,-,KOMATSU LTD.,Listed,Rest,Sustainable Growth,0.0347352045537264,
+Equity,-,Ricoh,95243.0,0.03,7752 JP,-,RICOH CO. LTD.,Listed,Rest,Sustainable Growth,0.0347158861579768,
+Equity,-,Yakult Honsha,94229.0,0.03,2267 JP,-,YAKULT HONSHA CO. LTD.,Listed,Rest,Sustainable Growth,0.0343462851525046,
+Equity,-,Sompo,93845.0,0.03,8630 JP,-,"SOMPO HOLDINGS, INC.",Listed,Rest,Sustainable Growth,0.0342063179078288,
+Equity,-,Informa,93832.0,0.03,INF LN,-,INFORMA PLC,Listed,Rest,Sustainable Growth,0.0342015794333996,
+Equity,-,Bnp Paribas Sa,93741.0,0.03,BNP FP,-,BNP PARIBAS SA,Listed,Rest,Sustainable Growth,0.0341684101123957,
+Equity,-,Workday,93102.0,0.03,WDAY US,-,"WORKDAY, INC.",Listed,Rest,Sustainable Growth,0.0339354958693023,
+Equity,-,Nice,92977.0,0.03,NICE IT,-,NICE LTD.,Listed,Rest,Sustainable Growth,0.033889933615176,
+Equity,-,Capitaland Investment,92836.0,0.03,CLI SP,-,CAPITALAND INVESTMENT LTD.,Listed,Rest,Sustainable Growth,0.0338385393925216,
+Equity,-,Tractor Supply,91706.0,0.03,TSCO US,-,TRACTOR SUPPLY CO.,Listed,Rest,Sustainable Growth,0.0334266566152203,
+Equity,-,Rb Global,91685.0,0.03,RBA CN,-,"RB GLOBAL, INC.",Listed,Rest,Sustainable Growth,0.0334190021565271,
+Equity,-,American International,91435.0,0.03,AIG US,-,"AMERICAN INTERNATIONAL GROUP, INC.",Listed,Rest,Sustainable Growth,0.0333278776482745,
+Equity,-,Domino'S Pizza Enterprises,91145.0,0.03,DMP AU,-,DOMINO'S PIZZA ENTERPRISES LTD.,Listed,Rest,Sustainable Growth,0.0332221732187016,
+Equity,-,Doordash,91022.0,0.03,DASH US,-,"DOORDASH, INC.",Listed,Rest,Sustainable Growth,0.0331773399606414,
+Equity,-,Hubspot,90200.0,0.03,HUBS US,-,"HUBSPOT, INC.",Listed,Rest,Sustainable Growth,0.0328777225775071,
+Equity,-,Burlington Stores,89900.0,0.03,BURL US,-,"BURLINGTON STORES, INC.",Listed,Rest,Sustainable Growth,0.0327683731676041,
+Equity,-,M&T Bank,89846.0,0.03,MTB US,-,M&T BANK CORP.,Listed,Rest,Sustainable Growth,0.0327486902738216,
+Equity,-,Datadog,89340.0,0.03,DDOG US,-,"DATADOG, INC.",Listed,Rest,Sustainable Growth,0.0325642542691185,
+Equity,-,Avery Dennison,88910.0,0.03,AVY US,-,AVERY DENNISON CORP.,Listed,Rest,Sustainable Growth,0.0324075201149241,
+Equity,-,Advantest,88661.0,0.03,6857 JP,-,ADVANTEST CORP.,Listed,Rest,Sustainable Growth,0.0323167601047046,
+Equity,-,Bayerische Motoren Werke Ag,88527.0,0.03,BMW GR,-,BAYERISCHE MOTOREN WERKE AG,Listed,Rest,Sustainable Growth,0.0322679173682813,
+Equity,-,Allstate,86554.0,0.03,ALL US,-,ALLSTATE CORP.,Listed,Rest,Sustainable Growth,0.0315487627491524,
+Equity,-,Zensho,86405.0,0.03,7550 JP,-,ZENSHO HOLDINGS CO. LTD.,Listed,Rest,Sustainable Growth,0.031494452542234,
+Equity,-,Bt,85475.0,0.03,BTA LN,-,BT GROUP PLC,Listed,Rest,Sustainable Growth,0.0311554693715346,
+Equity,-,Zip,85310.0,0.03,ZIP AU,-,ZIP CO. LTD.,Listed,Rest,Sustainable Growth,0.0310953271960879,
+Equity,-,Marketaxess,85295.0,0.03,MKTX US,-,"MARKETAXESS HOLDINGS, INC.",Listed,Rest,Sustainable Growth,0.0310898597255928,
+Equity,-,Keycorp,84930.0,0.03,KEY US,-,KEYCORP,Listed,Rest,Sustainable Growth,0.0309568179435441,
+Equity,-,Super Micro Computer,84876.0,0.03,SMCI US,-,"SUPER MICRO COMPUTER, INC.",Listed,Rest,Sustainable Growth,0.0309371350497616,
+Equity,-,Pexa,84501.0,0.03,PXA AU,-,PEXA GROUP LTD.,Listed,Rest,Sustainable Growth,0.0308004482873828,
+Equity,-,United Therapeutics,84064.0,0.03,UTHR US,-,UNITED THERAPEUTICS CORP.,Listed,Rest,Sustainable Growth,0.0306411626469574,
+Equity,-,Temenos Ag,83577.0,0.03,TEMN SW,-,TEMENOS AG,Listed,Rest,Sustainable Growth,0.0304636521048815,
+Equity,-,Be Semiconductor Industries Nv,82259.0,0.03,BESI NA,-,BE SEMICONDUCTOR INDUSTRIES NV,Listed,Rest,Sustainable Growth,0.0299832436973742,
+Equity,-,Codan,81812.0,0.03,CDA AU,-,CODAN LTD.,Listed,Rest,Sustainable Growth,0.0298203130766188,
+Equity,-,Deutsche Post Ag,81748.0,0.03,DHL GR,-,DEUTSCHE POST AG,Listed,Rest,Sustainable Growth,0.0297969852025061,
+Equity,-,Vulcan Materials,81123.0,0.03,VMC US,-,VULCAN MATERIALS CO.,Listed,Rest,Sustainable Growth,0.0295691739318748,
+Equity,-,Coinbase Global,80700.0,0.03,COIN US,-,"COINBASE GLOBAL, INC.",Listed,Rest,Sustainable Growth,0.0294149912639116,
+Equity,-,Alnylam Pharmaceuticals,80691.0,0.03,ALNY US,-,"ALNYLAM PHARMACEUTICALS, INC.",Listed,Rest,Sustainable Growth,0.0294117107816145,
+Equity,-,Seiko Epson,80632.0,0.03,6724 JP,-,SEIKO EPSON CORP.,Listed,Rest,Sustainable Growth,0.0293902053976669,
+Equity,-,Brother Industries,80368.0,0.03,6448 JP,-,BROTHER INDUSTRIES LTD.,Listed,Rest,Sustainable Growth,0.0292939779169522,
+Equity,-,Cyberark Software,79373.0,0.03,CYBR US,-,CYBERARK SOFTWARE LTD.,Listed,Rest,Sustainable Growth,0.0289313023741072,
+Equity,-,Northern Trust,79050.0,0.03,NTRS US,-,NORTHERN TRUST CORP.,Listed,Rest,Sustainable Growth,0.028813569509445,
+Equity,-,Mizuho Financial,78059.0,0.03,8411 JP,-,"MIZUHO FINANCIAL GROUP, INC.",Listed,Rest,Sustainable Growth,0.028452351958732,
+Equity,-,Henkel Ag & Kgaa,77908.0,0.03,HEN3 GR,-,HENKEL AG & CO. KGAA,Listed,Rest,Sustainable Growth,0.0283973127557475,
+Equity,-,Adyen Nv,77871.0,0.03,ADYEN NA,-,ADYEN NV,Listed,Rest,Sustainable Growth,0.0283838263285261,
+Equity,-,Aptiv,77794.0,0.03,APTV US,-,APTIV PLC,Listed,Rest,Sustainable Growth,0.0283557599799843,
+Equity,-,Prudential,77479.0,0.03,PRU LN,-,PRUDENTIAL PLC,Listed,Rest,Sustainable Growth,0.0282409430995862,
+Equity,-,Cvs Health,76658.0,0.03,CVS US,-,CVS HEALTH CORP.,Listed,Rest,Sustainable Growth,0.0279416902144849,
+Equity,-,Kirin,75411.0,0.03,2503 JP,-,KIRIN HOLDINGS CO. LTD.,Listed,Rest,Sustainable Growth,0.0274871611673214,
+Equity,-,Telix Pharmaceuticals,74619.0,0.03,TLX AU,-,TELIX PHARMACEUTICALS LTD.,Listed,Rest,Sustainable Growth,0.0271984787251774,
+Equity,-,Factset Research Systems,74080.0,0.03,FDS US,-,"FACTSET RESEARCH SYSTEMS, INC.",Listed,Rest,Sustainable Growth,0.027002014285385,
+Equity,-,Infineon Technologies Ag,73929.0,0.03,IFX GR,-,INFINEON TECHNOLOGIES AG,Listed,Rest,Sustainable Growth,0.0269469750824005,
+Equity,-,Dexcom,73901.0,0.03,DXCM US,-,"DEXCOM, INC.",Listed,Rest,Sustainable Growth,0.0269367691374762,
+Equity,-,Insulet,73705.0,0.03,PODD US,-,INSULET CORP.,Listed,Rest,Sustainable Growth,0.0268653275230062,
+Equity,-,Eiffage Sa,72610.0,0.03,FGR FP,-,EIFFAGE SA,Listed,Rest,Sustainable Growth,0.0264662021768602,
+Equity,-,Galderma Ag,72186.0,0.03,GALD SW,-,GALDERMA GROUP AG,Listed,Rest,Sustainable Growth,0.0263116550108639,
+Equity,-,Ch Robinson Worldwide,71714.0,0.03,CHRW US,-,"CH ROBINSON WORLDWIDE, INC.",Listed,Rest,Sustainable Growth,0.0261396119392832,
+Equity,-,Pentair,71240.0,0.03,PNR US,-,PENTAIR PLC,Listed,Rest,Sustainable Growth,0.0259668398716364,
+Equity,-,Dai-Ichi Life,70510.0,0.02,8750 JP,-,"DAI-ICHI LIFE HOLDINGS, INC.",Listed,Rest,Sustainable Growth,0.0257007563075391,
+Equity,-,Dollar Tree,70489.0,0.02,DLTR US,-,"DOLLAR TREE, INC.",Listed,Rest,Sustainable Growth,0.0256931018488459,
+Equity,-,Toppan,70077.0,0.02,7911 JP,-,"TOPPAN, INC.",Listed,Rest,Sustainable Growth,0.0255429286592457,
+Equity,-,Ford Motor,69820.0,0.02,F US,-,FORD MOTOR CO.,Listed,Rest,Sustainable Growth,0.0254492526647622,
+Equity,-,Fujikura,68855.0,0.02,5803 JP,-,FUJIKURA LTD.,Listed,Rest,Sustainable Growth,0.0250975120629074,
+Equity,-,Jb Hunt Transport Services,68628.0,0.02,JBHT US,-,"JB HUNT TRANSPORT SERVICES, INC.",Listed,Rest,Sustainable Growth,0.0250147710094142,
+Equity,-,Gwa,68571.0,0.02,GWA AU,-,GWA GROUP LTD.,Listed,Rest,Sustainable Growth,0.0249939946215326,
+Equity,-,Isuzu Motors,68093.0,0.02,7202 JP,-,ISUZU MOTORS LTD.,Listed,Rest,Sustainable Growth,0.0248197645617538,
+Equity,-,Saab Ab,67636.0,0.02,SAABB SS,-,SAAB AB,Listed,Rest,Sustainable Growth,0.0246531889606682,
+Equity,-,Idex,67445.0,0.02,IEX US,-,IDEX CORP.,Listed,Rest,Sustainable Growth,0.0245835698363633,
+Equity,-,Ge Healthcare Technologies,67400.0,0.02,GEHC US,-,"GE HEALTHCARE TECHNOLOGIES, INC.",Listed,Rest,Sustainable Growth,0.0245671674248778,
+Equity,-,Rivian Automotive,67148.0,0.02,RIVN US,-,"RIVIAN AUTOMOTIVE, INC.",Listed,Rest,Sustainable Growth,0.0244753139205593,
+Equity,-,Bank Hapoalim Bm,66918.0,0.02,POLI IT,-,BANK HAPOALIM BM,Listed,Rest,Sustainable Growth,0.024391479372967,
+Equity,-,Lululemon Athletica,66884.0,0.02,LULU US,-,"LULULEMON ATHLETICA, INC.",Listed,Rest,Sustainable Growth,0.0243790864398446,
+Equity,-,Qorvo,66547.0,0.02,QRVO US,-,"QORVO, INC.",Listed,Rest,Sustainable Growth,0.0242562506027202,
+Equity,-,Dynatrace,66167.0,0.02,DT US,-,"DYNATRACE, INC.",Listed,Rest,Sustainable Growth,0.0241177413501764,
+Equity,-,Estee Lauder Cos,66086.0,0.02,EL US,-,"ESTEE LAUDER COS., INC.",Listed,Rest,Sustainable Growth,0.0240882170095026,
+Equity,-,Mitsubishi Electric,65928.0,0.02,6503 JP,-,MITSUBISHI ELECTRIC CORP.,Listed,Rest,Sustainable Growth,0.024030626320287,
+Equity,-,Thermo Fisher Scientific,65913.0,0.02,TMO US,-,"THERMO FISHER SCIENTIFIC, INC.",Listed,Rest,Sustainable Growth,0.0240251588497919,
+Equity,-,Sig Ag,65401.0,0.02,SIGN SW,-,SIG GROUP AG,Listed,Rest,Sustainable Growth,0.0238385358568907,
+Equity,-,Gartner,65385.0,0.02,IT US,-,"GARTNER, INC.",Listed,Rest,Sustainable Growth,0.0238327038883625,
+Equity,-,Dollar General,65052.0,0.02,DG US,-,DOLLAR GENERAL CORP.,Listed,Rest,Sustainable Growth,0.0237113260433702,
+Equity,-,Novartis Ag,64970.0,0.02,NOVN SW,-,NOVARTIS AG,Listed,Rest,Sustainable Growth,0.0236814372046634,
+Equity,-,Nintendo,64943.0,0.02,7974 JP,-,NINTENDO CO. LTD.,Listed,Rest,Sustainable Growth,0.0236715957577721,
+Equity,-,Resmed,64879.0,0.02,RMD US,-,"RESMED, INC.",Listed,Rest,Sustainable Growth,0.0236482678836595,
+Equity,-,Daiichi Sankyo,64831.0,0.02,4568 JP,-,DAIICHI SANKYO CO. LTD.,Listed,Rest,Sustainable Growth,0.023630771978075,
+Equity,-,Elia Sa,64508.0,0.02,ELI BB,-,ELIA GROUP SA,Listed,Rest,Sustainable Growth,0.0235130391134127,
+Equity,-,Quanta Services,64418.0,0.02,PWR US,-,"QUANTA SERVICES, INC.",Listed,Rest,Sustainable Growth,0.0234802342904418,
+Equity,-,Apollo Global Management,64369.0,0.02,APO US,-,"APOLLO GLOBAL MANAGEMENT, INC.",Listed,Rest,Sustainable Growth,0.0234623738868243,
+Equity,-,Mizrahi Tefahot Bank,63796.0,0.02,MZTF IT,-,MIZRAHI TEFAHOT BANK LTD.,Listed,Rest,Sustainable Growth,0.0232535165139096,
+Equity,-,Tokyo Electron,63579.0,0.02,8035 JP,-,TOKYO ELECTRON LTD.,Listed,Rest,Sustainable Growth,0.0231744204407464,
+Equity,-,Severn Trent,63458.0,0.02,SVT LN,-,SEVERN TRENT PLC,Listed,Rest,Sustainable Growth,0.0231303161787522,
+Equity,-,Watsco,63305.0,0.02,WSO US,-,"WATSCO, INC.",Listed,Rest,Sustainable Growth,0.0230745479797016,
+Equity,-,Alstom Sa,62875.0,0.02,ALO FP,-,ALSTOM SA,Listed,Rest,Sustainable Growth,0.0229178138255073,
+Equity,-,Allianz Se,62874.0,0.02,ALV GR,-,ALLIANZ SE,Listed,Rest,Sustainable Growth,0.0229174493274743,
+Equity,-,Straumann Ag,62329.0,0.02,STMN SW,-,STRAUMANN HOLDING AG,Listed,Rest,Sustainable Growth,0.0227187978994838,
+Equity,-,Mitsui Fudosan,62321.0,0.02,8801 JP,-,MITSUI FUDOSAN CO. LTD.,Listed,Rest,Sustainable Growth,0.0227158819152197,
+Equity,-,Global-E Online,61955.0,0.02,GLBE US,-,GLOBAL-E ONLINE LTD.,Listed,Rest,Sustainable Growth,0.022582475635138,
+Equity,-,Nippon Paint,61885.0,0.02,4612 JP,-,NIPPON PAINT HOLDINGS CO. LTD.,Listed,Rest,Sustainable Growth,0.0225569607728273,
+Equity,-,Wpp,61764.0,0.02,WPP LN,-,WPP PLC,Listed,Rest,Sustainable Growth,0.0225128565108331,
+Equity,-,Partners Ag,61682.0,0.02,PGHN SW,-,PARTNERS GROUP HOLDING AG,Listed,Rest,Sustainable Growth,0.0224829676721263,
+Equity,-,Epam Systems,60860.0,0.02,EPAM US,-,"EPAM SYSTEMS, INC.",Listed,Rest,Sustainable Growth,0.022183350288992,
+Equity,-,Franklin Resources,60300.0,0.02,BEN US,-,"FRANKLIN RESOURCES, INC.",Listed,Rest,Sustainable Growth,0.0219792313905064,
+Equity,-,Emcor,60009.0,0.02,EME US,-,"EMCOR GROUP, INC.",Listed,Rest,Sustainable Growth,0.0218731624629005,
+Equity,-,Lamb Weston,59731.0,0.02,LW US,-,"LAMB WESTON HOLDINGS, INC.",Listed,Rest,Sustainable Growth,0.0217718320097237,
+Equity,-,Ap Moller - Maersk As,59192.0,0.02,MAERSKB DC,-,AP MOLLER - MAERSK AS,Listed,Rest,Sustainable Growth,0.0215753675699313,
+Equity,-,Zurich Insurance Ag,58952.0,0.02,ZURN SW,-,ZURICH INSURANCE GROUP AG,Listed,Rest,Sustainable Growth,0.0214878880420088,
+Equity,-,United Overseas Bank,58681.0,0.02,UOB SP,-,UNITED OVERSEAS BANK LTD.,Listed,Rest,Sustainable Growth,0.0213891090750631,
+Equity,-,Societe Generale Sa,58098.0,0.02,GLE FP,-,SOCIETE GENERALE SA,Listed,Rest,Sustainable Growth,0.0211766067218183,
+Equity,-,Carvana,56852.0,0.02,CVNA US,-,CARVANA CO.,Listed,Rest,Sustainable Growth,0.0207224421726877,
+Equity,-,Pool,56813.0,0.02,POOL US,-,POOL CORP.,Listed,Rest,Sustainable Growth,0.0207082267494003,
+Equity,-,Toyota Industries,56367.0,0.02,6201 JP,-,TOYOTA INDUSTRIES CORP.,Listed,Rest,Sustainable Growth,0.0205456606266778,
+Equity,-,Ipsen Sa,56358.0,0.02,IPN FP,-,IPSEN SA,Listed,Rest,Sustainable Growth,0.0205423801443808,
+Equity,-,Aurizon,55639.0,0.02,AZJ AU,-,AURIZON HOLDINGS LTD.,Listed,Rest,Sustainable Growth,0.0202803060586465,
+Equity,-,Smc,54487.0,0.02,6273 JP,-,SMC CORP.,Listed,Rest,Sustainable Growth,0.0198604043246189,
+Equity,-,Yamaha Motor,54153.0,0.02,7272 JP,-,YAMAHA MOTOR CO. LTD.,Listed,Rest,Sustainable Growth,0.0197386619815936,
+Equity,-,Crown,54092.0,0.02,CCK US,-,"CROWN HOLDINGS, INC.",Listed,Rest,Sustainable Growth,0.01971642760158,
+Equity,-,Investor Ab,53373.0,0.02,INVEB SS,-,INVESTOR AB,Listed,Rest,Sustainable Growth,0.0194543535158457,
+Equity,-,Sumitomo Mitsui Trust,51764.0,0.02,8309 JP,-,"SUMITOMO MITSUI TRUST HOLDINGS, INC.",Listed,Rest,Sustainable Growth,0.0188678761807326,
+Equity,-,Nokia Oyj,51350.0,0.02,NOKIA FH,-,NOKIA OYJ,Listed,Rest,Sustainable Growth,0.0187169739950664,
+Equity,-,Dick'S Sporting Goods,50739.0,0.02,DKS US,-,"DICK'S SPORTING GOODS, INC.",Listed,Rest,Sustainable Growth,0.0184942656968972,
+Equity,-,Teradyne,50637.0,0.02,TER US,-,"TERADYNE, INC.",Listed,Rest,Sustainable Growth,0.0184570868975302,
+Equity,-,Astellas Pharma,49752.0,0.02,4503 JP,-,"ASTELLAS PHARMA, INC.",Listed,Rest,Sustainable Growth,0.0181345061383163,
+Equity,-,Zimmer Biomet,48733.0,0.02,ZBH US,-,"ZIMMER BIOMET HOLDINGS, INC.",Listed,Rest,Sustainable Growth,0.0177630826426791,
+Equity,-,Inpost Sa,48666.0,0.02,INPST NA,-,INPOST SA,Listed,Rest,Sustainable Growth,0.0177386612744674,
+Equity,-,Hub24,48358.0,0.02,HUB AU,-,HUB24 LTD.,Listed,Rest,Sustainable Growth,0.0176263958803003,
+Equity,-,Royalty Pharma,48201.0,0.02,RPRX US,-,ROYALTY PHARMA PLC,Listed,Rest,Sustainable Growth,0.0175691696891177,
+Equity,-,Telecom Italia Spa,48096.0,0.02,TIT IM,-,TELECOM ITALIA SPA,Listed,Rest,Sustainable Growth,0.0175308973956517,
+Equity,-,Lifestyle Communities,47362.0,0.02,LIC AU,-,LIFESTYLE COMMUNITIES LTD.,Listed,Rest,Sustainable Growth,0.0172633558394223,
+Equity,-,Ntt Data,45137.0,0.02,9613 JP,-,NTT DATA CORP.,Listed,Rest,Sustainable Growth,0.0164523477159749,
+Equity,-,Hansen Technologies,44348.0,0.02,HSN AU,-,HANSEN TECHNOLOGIES LTD.,Listed,Rest,Sustainable Growth,0.01616475876793,
+Equity,-,Mediobanca Banca Di Credito Finanziario Spa,44218.0,0.02,MB IM,-,MEDIOBANCA BANCA DI CREDITO FINANZIARIO SPA,Listed,Rest,Sustainable Growth,0.0161173740236387,
+Equity,-,Bouygues Sa,43996.0,0.02,EN FP,-,BOUYGUES SA,Listed,Rest,Sustainable Growth,0.0160364554603104,
+Equity,-,Futu,43844.0,0.02,FUTU US,-,FUTU HOLDINGS LTD.,Listed,Rest,Sustainable Growth,0.0159810517592929,
+Equity,-,Croda International,43496.0,0.02,CRDA LN,-,CRODA INTERNATIONAL PLC,Listed,Rest,Sustainable Growth,0.0158542064438054,
+Equity,-,Rogers Communications,43246.0,0.02,RCIB CN,-,"ROGERS COMMUNICATIONS, INC.",Listed,Rest,Sustainable Growth,0.0157630819355529,
+Equity,-,Dai Nippon Printing,42788.0,0.02,7912 JP,-,DAI NIPPON PRINTING CO. LTD.,Listed,Rest,Sustainable Growth,0.0155961418364343,
+Equity,-,Hang Seng Bank,42350.0,0.01,11 HK,-,HANG SENG BANK LTD.,Listed,Rest,Sustainable Growth,0.0154364916979759,
+Equity,-,Perkinelmer,40271.0,0.01,RVTY US,-,"PERKINELMER, INC.",Listed,Rest,Sustainable Growth,0.014678700287348,
+Equity,-,Associated British Foods,40170.0,0.01,ABF LN,-,ASSOCIATED BRITISH FOODS PLC,Listed,Rest,Sustainable Growth,0.0146418859860139,
+Equity,-,Neuren Pharmaceuticals,39607.0,0.01,NEU AU,-,NEUREN PHARMACEUTICALS LTD.,Listed,Rest,Sustainable Growth,0.0144366735934293,
+Equity,-,Unibail-Rodamco-Westfield,39488.0,0.01,URW AU,-,UNIBAIL-RODAMCO-WESTFIELD,Listed,Rest,Sustainable Growth,0.0143932983275011,
+Equity,-,Japan Post Bank,39288.0,0.01,7182 JP,-,JAPAN POST BANK CO. LTD.,Listed,Rest,Sustainable Growth,0.0143203987208991,
+Equity,-,Bunzl,39168.0,0.01,BNZL LN,-,BUNZL PLC,Listed,Rest,Sustainable Growth,0.0142766589569379,
+Equity,-,Mitsubishi Chemical,38542.0,0.01,4188 JP,-,MITSUBISHI CHEMICAL GROUP CORP.,Listed,Rest,Sustainable Growth,0.0140484831882736,
+Equity,-,Singapore Technologies Engineering,37634.0,0.01,STE SP,-,SINGAPORE TECHNOLOGIES ENGINEERING LTD.,Listed,Rest,Sustainable Growth,0.0137175189743004,
+Equity,-,Avantor,36532.0,0.01,AVTR US,-,"AVANTOR, INC.",Listed,Rest,Sustainable Growth,0.0133158421419234,
+Equity,-,Toromont Industries,36127.0,0.01,TIH CN,-,TOROMONT INDUSTRIES LTD.,Listed,Rest,Sustainable Growth,0.0131682204385543,
+Equity,-,Australian Ethical Investment,35657.0,0.01,AEF AU,-,AUSTRALIAN ETHICAL INVESTMENT LTD.,Listed,Rest,Sustainable Growth,0.0129969063630396,
+Equity,-,Asics,35428.0,0.01,7936 JP,-,ASICS CORP.,Listed,Rest,Sustainable Growth,0.0129134363134803,
+Equity,-,Iph,35168.0,0.01,IPH AU,-,IPH LTD.,Listed,Rest,Sustainable Growth,0.0128186668248976,
+Equity,-,Monash Ivf,33041.0,0.01,MVF AU,-,MONASH IVF GROUP LTD.,Listed,Rest,Sustainable Growth,0.0120433795086853,
+Equity,-,Nick Scali,32272.0,0.01,NCK AU,-,NICK SCALI LTD.,Listed,Rest,Sustainable Growth,0.0117630805213005,
+Equity,-,Henry Schein,32116.0,0.01,HSIC US,-,"HENRY SCHEIN, INC.",Listed,Rest,Sustainable Growth,0.0117062188281509,
+Equity,-,Idexx Laboratories,31885.0,0.01,IDXX US,-,"IDEXX LABORATORIES, INC.",Listed,Rest,Sustainable Growth,0.0116220197825256,
+Equity,-,Corporate Travel Management,31062.0,0.01,CTD AU,-,CORPORATE TRAVEL MANAGEMENT LTD.,Listed,Rest,Sustainable Growth,0.0113220379013583,
+Equity,-,Healius,29730.0,0.01,HLS AU,-,HEALIUS LTD.,Listed,Rest,Sustainable Growth,0.010836526521389,
+Equity,-,Eagers Automotive,29393.0,0.01,APE AU,-,EAGERS AUTOMOTIVE LTD.,Listed,Rest,Sustainable Growth,0.0107136906842646,
+Equity,-,Mondaycom,27560.0,0.01,MNDY US,-,MONDAY.COM LTD.,Listed,Rest,Sustainable Growth,0.0100455657897571,
+Equity,-,Polynovo,26907.0,0.01,PNV AU,-,POLYNOVO LTD.,Listed,Rest,Sustainable Growth,0.0098075485742016,
+Equity,-,Accent,24948.0,0.01,AX1 AU,-,ACCENT GROUP LTD.,Listed,Rest,Sustainable Growth,0.0090934969275349,
+Equity,-,Ofx,24612.0,0.01,OFX AU,-,OFX GROUP LTD.,Listed,Rest,Sustainable Growth,0.0089710255884435,
+Equity,-,Sbi,24426.0,0.01,8473 JP,-,"SBI HOLDINGS, INC.",Listed,Rest,Sustainable Growth,0.0089032289543036,
+Equity,-,Collins Foods,22953.0,0.01,CKF AU,-,COLLINS FOODS LTD.,Listed,Rest,Sustainable Growth,0.0083663233516798,
+Equity,-,Tis,22923.0,0.01,3626 JP,-,"TIS, INC.",Listed,Rest,Sustainable Growth,0.0083553884106895,
+Equity,-,Canal & France Sa,21778.0,0.01,YA3 GR,-,CANAL & FRANCE SA,Listed,Rest,Sustainable Growth,0.007938038162893,
+Equity,-,Amotiv,17457.0,0.01,AOV AU,-,AMOTIV LTD.,Listed,Rest,Sustainable Growth,0.0063630421622565,
+Equity,-,Stmicroelectronics Nv,16097.0,0.01,STMPA FP,-,STMICROELECTRONICS NV,Listed,Rest,Sustainable Growth,0.0058673248373628,
+Equity,-,Entegris,15279.0,0.01,ENTG US,-,"ENTEGRIS, INC.",Listed,Rest,Sustainable Growth,0.0055691654463606,
+Equity,-,Havas Nv,14391.0,0.01,HAVAS NA,-,HAVAS NV,Listed,Rest,Sustainable Growth,0.0052454911930477,
+Equity,-,Cettire,10620.0,0.0,CTT AU,-,CETTIRE LTD.,Listed,Rest,Sustainable Growth,0.0038709691105668,
+Equity,-,Judo Capital,7699.0,0.0,JDO AU,-,JUDO CAPITAL HOLDINGS LTD.,Listed,Rest,Sustainable Growth,0.0028062703561444,
+Property,-,SCENTRE GROUP,1394305.0,0.49,SCG AU,-,SCENTRE GROUP,Listed,Rest,Sustainable Growth,0.5082214299160879,
+Property,-,GOODMAN GROUP,920985.0,0.33,GMG AU,-,GOODMAN GROUP,Listed,Rest,Sustainable Growth,0.3356972209317675,
+Property,-,STOCKLAND,866950.0,0.31,SGP AU,-,STOCKLAND,Listed,Rest,Sustainable Growth,0.3160015697180691,
+Property,-,GPT GROUP,596250.0,0.21,GPT AU,-,GPT GROUP,Listed,Rest,Sustainable Growth,0.2173319521822466,
+Property,-,MIRVAC GROUP,531975.0,0.19,MGR AU,-,MIRVAC GROUP,Listed,Rest,Sustainable Growth,0.1939038411105252,
+Property,-,BWP TRUST,513506.0,0.18,BWP AU,-,BWP TRUST,Listed,Rest,Sustainable Growth,0.1871719269388624,
+Property,-,WAYPOINT REIT LTD.,512802.0,0.18,WPR AU,-,WAYPOINT REIT LTD.,Listed,Rest,Sustainable Growth,0.1869153203236233,
+Property,-,"PROLOGIS, INC.",315443.0,0.11,PLD US,-,"PROLOGIS, INC.",Listed,Rest,Sustainable Growth,0.1149783530267914,
+Property,-,AMERICAN TOWER CORP.,274056.0,0.1,AMT US,-,AMERICAN TOWER CORP.,Listed,Rest,Sustainable Growth,0.0998928729346042,
+Property,-,"SIMON PROPERTY GROUP, INC.",270602.0,0.1,SPG US,-,"SIMON PROPERTY GROUP, INC.",Listed,Rest,Sustainable Growth,0.0986338967285875,
+Property,-,PUBLIC STORAGE,242479.0,0.09,PSA US,-,PUBLIC STORAGE,Listed,Rest,Sustainable Growth,0.0883831185462456,
+Property,-,"ANNALY CAPITAL MANAGEMENT, INC.",213715.0,0.08,NLY US,-,"ANNALY CAPITAL MANAGEMENT, INC.",Listed,Rest,Sustainable Growth,0.0778986971247443,
+Property,-,ARENA REIT,210127.0,0.07,ARF AU,-,ARENA REIT,Listed,Rest,Sustainable Growth,0.0765908781823043,
+Property,-,"HOST HOTELS & RESORTS, INC.",171405.0,0.06,HST US,-,"HOST HOTELS & RESORTS, INC.",Listed,Rest,Sustainable Growth,0.0624767853480888,
+Property,-,"EQUINIX, INC.",164912.0,0.06,EQIX US,-,"EQUINIX, INC.",Listed,Rest,Sustainable Growth,0.0601100996197545,
+Property,-,CHARTER HALL LONG WALE REIT,156871.0,0.06,CLW AU,-,CHARTER HALL LONG WALE REIT,Listed,Rest,Sustainable Growth,0.0571791709363206,
+Property,-,"CROWN CASTLE, INC.",125492.0,0.04,CCI US,-,"CROWN CASTLE, INC.",Listed,Rest,Sustainable Growth,0.0457415871584981,
+Property,-,SBA COMMUNICATIONS CORP.,114793.0,0.04,SBAC US,-,SBA COMMUNICATIONS CORP.,Listed,Rest,Sustainable Growth,0.0418418227033235,
+Property,-,"IRON MOUNTAIN, INC.",96406.0,0.03,IRM US,-,"IRON MOUNTAIN, INC.",Listed,Rest,Sustainable Growth,0.0351397973703675,
+Property,-,KLEPIERRE SA,86504.0,0.03,LI FP,-,KLEPIERRE SA,Listed,Rest,Sustainable Growth,0.0315305378475019,
+Property,-,NATIONAL STORAGE REIT,85079.0,0.03,NSR AU,-,NATIONAL STORAGE REIT,Listed,Rest,Sustainable Growth,0.0310111281504626,
+Property,-,INGENIA COMMUNITIES GROUP,79666.0,0.03,INA AU,-,INGENIA COMMUNITIES GROUP,Listed,Rest,Sustainable Growth,0.0290381002977792,
+Property,-,RURAL FUNDS GROUP,75556.0,0.03,RFF AU,-,RURAL FUNDS GROUP,Listed,Rest,Sustainable Growth,0.0275400133821078,
+Property,-,"WELLTOWER, INC.",67690.0,0.02,WELL US,-,"WELLTOWER, INC.",Listed,Rest,Sustainable Growth,0.0246728718544507,
+Property,-,UNIBAIL-RODAMCO-WESTFIELD,56103.0,0.02,URW FP,-,UNIBAIL-RODAMCO-WESTFIELD,Listed,Rest,Sustainable Growth,0.0204494331459632,
+Property,-,LINK REIT,51833.0,0.02,823 HK,-,LINK REIT,Listed,Rest,Sustainable Growth,0.0188930265450102,
+Property,-,CHARTER HALL GROUP,51459.0,0.02,CHC AU,-,CHARTER HALL GROUP,Listed,Rest,Sustainable Growth,0.0187567042806645,
+Property,-,ABACUS GROUP,45474.0,0.02,ABG AU,-,ABACUS GROUP,Listed,Rest,Sustainable Growth,0.0165751835530993,
+Property,-,CROMWELL PROPERTY GROUP,37185.0,0.01,CMW AU,-,CROMWELL PROPERTY GROUP,Listed,Rest,Sustainable Growth,0.0135538593574789,
+Property,-,GROWTHPOINT PROPERTIES AUSTRALIA LTD.,32947.0,0.01,GOZ AU,-,GROWTHPOINT PROPERTIES AUSTRALIA LTD.,Listed,Rest,Sustainable Growth,0.0120091166935823,
+Property,-,CHARTER HALL SOCIAL INFRASTRUCTURE REIT,20924.0,0.01,CQE AU,-,CHARTER HALL SOCIAL INFRASTRUCTURE REIT,Listed,Rest,Sustainable Growth,0.0076267568427024,
+Property,Internally,REST 140 WILLIAM STREET TRUST,,,-,-,REST 140 WILLIAM STREET TRUST,Unlisted,Rest,Sustainable Growth,,
+Property,Internally,REST 52 MARTIN PLACE TRUST,,,-,-,REST 52 MARTIN PLACE TRUST,Unlisted,Rest,Sustainable Growth,,
+Property,Internally,REST 717 BOURKE STREET TRUST,,,-,-,REST 717 BOURKE STREET TRUST,Unlisted,Rest,Sustainable Growth,,
+Property,Internally,REST QQT TRUST,,,-,-,REST QQT TRUST,Unlisted,Rest,Sustainable Growth,,
+Property,Externally,-,2656009.0,0.94,-,-,-,Unlisted,Rest,Sustainable Growth,0.9681100561570092,
+Property,Externally,-,2443987.0,0.86,-,-,-,Unlisted,Rest,Sustainable Growth,0.8908284542021508,
+Property,Externally,-,2025647.0,0.72,-,-,-,Unlisted,Rest,Sustainable Growth,0.7383443470727235,
+Property,Externally,-,1612413.0,0.57,-,-,-,Unlisted,Rest,Sustainable Growth,0.5877213668998454,
+Property,Externally,-,207834.0,0.07,-,-,-,Unlisted,Rest,Sustainable Growth,0.0757550841926122,
+Infrastructure,Internally,COLLGAR RENEWABLES PTY LTD,,,-,-,COLLGAR RENEWABLES PTY LTD,Unlisted,Rest,Sustainable Growth,,
+Infrastructure,Internally,COLLGAR WIND FARM PTY LTD,,,-,-,COLLGAR WIND FARM PTY LTD,Unlisted,Rest,Sustainable Growth,,
+Infrastructure,Externally,-,12337663.0,4.37,-,-,-,Unlisted,Rest,Sustainable Growth,4.497053895440962,
+Infrastructure,Externally,-,2441104.0,0.86,-,-,-,Unlisted,Rest,Sustainable Growth,0.8897776063729829,
+Infrastructure,Externally,-,1558167.0,0.55,-,-,-,Unlisted,Rest,Sustainable Growth,0.5679488066011819,
+Alternatives,Externally,-,2839101.0,1.0,-,-,-,Unlisted,Rest,Sustainable Growth,1.0348467300168869,
+Alternatives,Externally,-,115590.0,0.04,-,-,-,Unlisted,Rest,Sustainable Growth,0.0421323276356325,
+,,,,,,,,,Rest,Sustainable Growth,,
+The Value (Aud) And Weighting (%) Sub Totals May Not Sum Due To The Rounding Of Individual Disclosure Values And Weightings.,,,,,,,,,Rest,Sustainable Growth,,

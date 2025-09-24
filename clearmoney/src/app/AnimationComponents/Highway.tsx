@@ -2,13 +2,17 @@
 
 import React from "react";
 import dynamic from "next/dynamic";
-import ICON from "../../../public/Pie.json";
+import ICON from "../../../public/Highway.json";
 
-export const Piee = React.memo(() => {
+type sizeProps = {
+  initialSize: number;
+};
+
+export const Highway = React.memo(({ initialSize }: sizeProps) => {
   const [windowsize, updatewindowsize] = React.useState<number | null>(null);
-  const [size, updatesize] = React.useState(200);
+  const [size, updatesize] = React.useState(initialSize);
 
-  // ✅ Dynamically import Player to avoid SSR errors
+  // ✅ Use dynamic import to avoid SSR issues
   const Player: any = dynamic(
     () => import("@lordicon/react").then((mod) => mod.Player),
     { ssr: false }
@@ -18,7 +22,7 @@ export const Piee = React.memo(() => {
 
   React.useEffect(() => {
     const handleResize = () => updatewindowsize(window.innerWidth);
-    handleResize(); // Set initial value once component mounts
+    handleResize();
     window.addEventListener("resize", handleResize);
     return () => window.removeEventListener("resize", handleResize);
   }, []);
@@ -33,9 +37,9 @@ export const Piee = React.memo(() => {
     } else if (windowsize >= 1920) {
       updatesize(300);
     } else if (windowsize >= 1536) {
-      updatesize(200);
+      updatesize(250);
     } else if (windowsize <= 1024) {
-      updatesize(200);
+      updatesize(170);
     }
   }, [windowsize]);
 
@@ -44,7 +48,7 @@ export const Piee = React.memo(() => {
       <Player
         size={size}
         icon={ICON}
-        ref={(instance: typeof Player) => {
+        ref={(instance: any) => {
           if (instance) {
             playerRef.current = instance;
             playerRef.current.playFromBeginning?.();
@@ -55,4 +59,4 @@ export const Piee = React.memo(() => {
   );
 });
 
-Piee.displayName = "Piee";
+Highway.displayName = "Highway";

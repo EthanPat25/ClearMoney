@@ -24,8 +24,7 @@ def fetch_logos(df):
         df["Asset_Class"].str.contains("Equity", case=False, na=False)
 
     # Filter dataframe
-    top_50_equities = df.loc[mask].sort_values("Weighting_Percentage", ascending=False).head(100)
-
+    top_50_equities = df.loc[mask].sort_values("Weighting_Percentage_Clean", ascending=False).head(120)
 
     for index, row in top_50_equities.iterrows():
         name = row["Name"] 

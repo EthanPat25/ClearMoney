@@ -21,7 +21,7 @@ export async function GET(Request: NextRequest) {
   const { data: public_companies, error: publicError } = await supabase
     .from("Holdings")
     .select(
-      "Super_Fund, Option_Name, Listing_Status, Dollar_Value, Weighting_Percentage, Asset_Class, Name, Domain, Source_Name"
+      "Super_Fund, Option_Name, Listing_Status, Dollar_Value, Weighting_Percentage, Asset_Class, Name, Domain, Source_Name, Weighting_Percentage_Clean"
     )
     .eq("Super_Fund", fund)
     .eq("Option_Name", option)
@@ -32,18 +32,21 @@ export async function GET(Request: NextRequest) {
   if (publicError) {
     console.error("Error fetching public companies:", publicError.message);
   }
-  {
-    /*
   const { data: Private_Investments, error: privateError } = await supabase
     .from("Holdings")
-    .select("Listing_Status, Weighting_Percentage, Domain, Name, Asset_Class")
+    .select(
+      "Super_Fund, Option_Name, Listing_Status, Dollar_Value, Weighting_Percentage, Asset_Class, Name, Domain, Source_Name, Weighting_Percentage_Clean"
+    )
     .eq("Super_Fund", fund)
-    .eq("Option_Type", option)
-    .eq("Listing_Status", "Unlisted");
+    .eq("Option_Name", option)
+    .eq("Listing_Status", "Unlisted")
+    .order("Dollar_Value", { ascending: false })
+    .range(0, 100);
 
   if (privateError) {
     console.error("Error fetching public companies:", privateError.message);
   }
+  /*
   const { data: Bonds, error: bondError } = await supabase
     .from("Holdings")
     .select("Weighting_Percentage, Name, Asset_Class")
@@ -67,11 +70,10 @@ export async function GET(Request: NextRequest) {
   }
 
   */
-  }
 
   const response = {
     public_companies,
-    //Private_Investments,
+    Private_Investments,
     //Bonds,
     //Cash,
   };

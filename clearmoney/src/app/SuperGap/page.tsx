@@ -22,22 +22,22 @@ export default function SuperContributions() {
       <section className="mt-16 w-screen">
         <div className="max-w-7xl mx-auto px-6 py-8">
           {/* Toggle */}
-          <div className="flex flex-wrap gap-2 mb-6">
+          <div className="flex justify-center flex-wrap gap-2 mb-6 w-full">
             <button
               onClick={() => setView("terms")}
-              className={`px-4 py-2 w-[9.7rem] rounded-3xl text-sm ${view === "terms" ? "bg-gray-900 text-white" : "border"}`}
+              className={`px-4 py-2 w-[9.8rem] rounded-3xl text-sm ${view === "terms" ? "bg-gray-900 text-white border" : "border"}`}
             >
               In Everyday Terms
             </button>
             <button
               onClick={() => setView("case")}
-              className={`px-4 py-2 w-[9.7rem] rounded-3xl text-sm ${view === "case" ? "bg-gray-900 text-white" : "border"}`}
+              className={`px-4 py-2 w-[9.8rem] rounded-3xl text-sm ${view === "case" ? "bg-gray-900 text-white border" : "border"}`}
             >
               Why Gaps Matter
             </button>
             <button
               onClick={() => setView("close")}
-              className={`px-4 py-2 w-[9.7rem] rounded-3xl text-sm ${view === "close" ? "bg-gray-900 text-white" : "border"}`}
+              className={`px-4 py-2 w-[9.8rem] rounded-3xl text-sm ${view === "close" ? "bg-gray-900 text-white border" : "border"}`}
             >
               Close the Gap
             </button>

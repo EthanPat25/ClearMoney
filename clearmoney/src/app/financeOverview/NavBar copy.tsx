@@ -24,6 +24,14 @@ const components: {
   icon: React.ReactNode;
 }[] = [
   {
+    title: "What Your Fund Invests In",
+    coming: "Coming Soon",
+    href: "/holdings",
+    description:
+      "See exactly which companies and assets your super fund owns, in dollars.",
+    icon: <Pie></Pie>,
+  },
+  {
     title: "Super Gap Calculator",
     href: "/SuperGap",
     description: "Learn How Breaks or Part Time Work Affect Your Super",
@@ -34,14 +42,6 @@ const components: {
     href: "/FHSS",
     description: "Compare FHSS vs. a savings account for your home deposit",
     icon: <House></House>,
-  },
-  {
-    title: "What Your Fund Invests In",
-    coming: "Coming Soon",
-    href: "/holdings",
-    description:
-      "See exactly which companies and assets your super fund owns, in dollars.",
-    icon: <Pie></Pie>,
   },
 ];
 

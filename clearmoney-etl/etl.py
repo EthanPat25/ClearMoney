@@ -26,6 +26,8 @@ def create_fund_parser(fund_name: str, file_path, output_directory):
         FundParser.normalise_company_names()
         FundParser.normalise_percentage()
         FundParser.normalise_dollar()
+        FundParser.remove_totals()
+        FundParser.recompute_percentages()
         FundParser.save_to_normalized_file(output_directory)
         print(fund_name + " " + os.path.splitext(os.path.basename(file_path))[0] + ": Completed")
     elif fund_name == "Rest":
@@ -34,6 +36,8 @@ def create_fund_parser(fund_name: str, file_path, output_directory):
         FundParser.normalise_company_names()
         FundParser.normalise_percentage()
         FundParser.normalise_dollar()
+        FundParser.remove_totals()
+        FundParser.recompute_percentages()
         FundParser.save_to_normalized_file(output_directory)
         print(fund_name + " " + os.path.splitext(os.path.basename(file_path))[0] + ": Completed")
 
@@ -109,6 +113,7 @@ class superFund(ABC):
             r"(?i)^downer.*": "Downer Group",
             r"(?i)^citi.*": "Citi Bank",
             r"(?i)^costco.*": "Costco",
+            r"(?i)^meta.*": "Meta",
             # Add more as needed
         }
 
@@ -123,6 +128,41 @@ class superFund(ABC):
         if "Asset_Class" in df.columns:
             df["Asset_Class"] = df["Asset_Class"].fillna("").str.title()
         self.df = df
+    
+    def recompute_percentages(self):
+        if "Dollar_Value" in self.df.columns:
+            # ensure numeric
+            self.df["Dollar_Value"] = pd.to_numeric(self.df["Dollar_Value"], errors="coerce")
+            total = self.df["Dollar_Value"].sum()
+            
+            if total > 0:
+                self.df["Weighting_Percentage_Clean"] = (self.df["Dollar_Value"] / total) * 100
+            else:
+                self.df["Weighting_Percentage_Clean"] = 0
+
+    def remove_totals(self):
+        """
+        Removes roll-up rows like 'Total', 'Total Investment',
+        'Sub Total ...', and 'Grand Total',
+        whether they appear in Name or Asset_Class.
+        Safe for companies like 'TOTALENERGIES SE'.
+        """
+        for col in ["Name", "Asset_Class"]:
+            if col in self.df.columns:
+                values = self.df[col].astype(str).str.strip()
+
+                mask = (
+                    values.str.fullmatch(r"(?i)total") |                   # exact 'Total'
+                    values.str.contains(r"(?i)^total(?:\s+investment.*)?$", na=False) |  # 'Total' or 'Total Investment...'
+                    values.str.contains(r"(?i)^sub\s*total", na=False) |   # 'Sub Total...'
+                    values.str.contains(r"(?i)^grand\s*total", na=False)   # 'Grand Total...'
+                )
+
+                self.df = self.df[~mask.fillna(False)]
+
+        self.df = self.df.reset_index(drop=True)
+        return self.df
+
 
 
 class AustralianSuper(superFund):
@@ -191,8 +231,9 @@ class Rest(superFund):
         df["ASSET CLASS"] = df["ASSET CLASS"].fillna("").str.title()
         df["Super_Fund"] = self.__class__.__name__
         file_name = os.path.splitext(os.path.basename(self.file_path))[0]
-        df["Option_Name"] = file_name
-
+        option_name = file_name.replace("_", " ").strip().title()
+        df["Option_Name"] = option_name
+        
         df.rename(columns = {
             "ASSET CLASS": "Asset_Class",
             "INTERNALLY MANAGED OR EXTERNALLY MANAGED": "Management_Type", 

@@ -2,7 +2,11 @@ import React from "react";
 import { Superannuation } from "../AnimationComponents/Superannuation";
 import { Button } from "@/components/ui/button";
 
-const HeroSection = () => {
+type referenceProp = {
+  reference: any;
+};
+
+const HeroSection = ({ reference }: referenceProp) => {
   return (
     <div className="bg-gradient-to-b from-[rgb(3,181,183)] to-[#9bdbdc] p-6 pb-16">
       <div className="mt-24 flex flex-col items-center p-10">
@@ -21,7 +25,16 @@ const HeroSection = () => {
       </div>
 
       <div className="flex justify-center mb-5">
-        <Button className="flex items-center justify-center gap-2 bg-[rgb(251,99,64)] w-[15rem] h-12 text-[0.9rem] font-bold text-white">
+        <Button
+          className="flex items-center justify-center gap-2 bg-[rgb(251,99,64)] hover:bg-[rgb(230,85,55)] active:bg-[rgb(200,70,40)] w-[15rem] h-12 text-[0.9rem] font-bold text-white"
+          onClick={() => {
+            reference.current?.scrollIntoView({
+              behavior: "smooth",
+              block: "center",
+              inline: "nearest",
+            });
+          }}
+        >
           Enter Your Details
           <svg
             xmlns="http://www.w3.org/2000/svg"

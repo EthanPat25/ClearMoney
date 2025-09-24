@@ -1,3 +1,4 @@
+import React from "react";
 import { cn } from "@/lib/utils";
 import { Button } from "@/components/ui/button";
 import {
@@ -50,11 +51,10 @@ type CalcProps = {
   onResults?: (data: any) => void; // parent callback
 };
 
-export function Calc({
-  className,
-  onResults,
-  ...props
-}: CalcProps & React.ComponentPropsWithoutRef<"div">) {
+export const Calc = React.forwardRef<
+  HTMLDivElement,
+  CalcProps & React.ComponentPropsWithoutRef<"div">
+>(({ className, onResults, ...props }, ref) => {
   const { register, handleSubmit, control } = useForm<Inputs>();
 
   const selectedFund = useWatch({
@@ -70,7 +70,12 @@ export function Calc({
 
     const data = await fetch_holdings(params);
 
-    if (onResults) onResults(data.public_companies);
+    if (onResults) {
+      onResults({
+        holdingsData: data,
+        balance: values.superBalance, // <-- this is from hook-form
+      });
+    }
   };
 
   const fetch_holdings = async (params: URLSearchParams) => {
@@ -82,7 +87,7 @@ export function Calc({
   };
 
   return (
-    <div className={cn("flex flex-col gap-4", className)} {...props}>
+    <div ref={ref} className={cn("flex flex-col gap-4", className)} {...props}>
       <Card className=" xs:w-[24rem] md:w-[35rem] relative flex flex-col">
         {/* Settings */}
 
@@ -197,4 +202,6 @@ export function Calc({
       </Card>
     </div>
   );
-}
+});
+
+Calc.displayName = "Calc";

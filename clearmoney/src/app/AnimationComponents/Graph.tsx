@@ -6,7 +6,7 @@ import ICON from "../../../public/Graph.json";
 
 export const Graph = React.memo(() => {
   const [windowsize, updatewindowsize] = React.useState<number | null>(null);
-  const [size, updatesize] = React.useState(200);
+  const [size, updatesize] = React.useState(160);
 
   // ✅ Dynamic import to disable SSR for the Player
   const Player: any = dynamic(

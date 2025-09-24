@@ -1,5 +1,7 @@
 // Using emoji icons instead of lucide-react to avoid import issues
 
+import Link from "next/link";
+
 export function Footer() {
   return (
     <footer className="w-full bg-slate-900 text-white px-6 py-16">
@@ -64,13 +66,19 @@ export function Footer() {
             <h4 className="font-semibold text-lg">Tools</h4>
             <div className="space-y-3">
               <div className="text-slate-400 hover:text-white cursor-pointer transition-colors">
-                Super Gap Calculator
+                <Link prefetch={false} href="/SuperGap">
+                  Super Gap Calculator
+                </Link>
               </div>
               <div className="text-slate-400 hover:text-white cursor-pointer transition-colors">
-                FHSS vs Savings
+                <Link prefetch={false} href="/FHSS">
+                  FHSS vs Savings
+                </Link>
               </div>
               <div className="text-slate-400 hover:text-white cursor-pointer transition-colors">
-                What Your Super Invests In
+                <Link prefetch={false} href="/holdings">
+                  What Your Super Invests In
+                </Link>
               </div>
             </div>
           </div>

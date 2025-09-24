@@ -9,7 +9,6 @@ import {
 } from "@/components/ui/card";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
-import Settings from "./Settings";
 
 export function CloseGapCalculator({
   className,
@@ -71,11 +70,6 @@ export function CloseGapCalculator({
             <Button type="submit" className="w-full mt-32">
               Calculate
             </Button>
-            <Settings
-              className={
-                "relative bottom-[30rem] left-[27rem] h-5 w-5 cursor-pointer"
-              }
-            ></Settings>
           </form>
         </CardContent>
       </Card>

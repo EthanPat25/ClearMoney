@@ -4,11 +4,15 @@ import React from "react";
 import dynamic from "next/dynamic";
 import ICON from "../../../public/Home.json";
 
-export const House = React.memo(() => {
-  const [windowsize, updatewindowsize] = React.useState<number | null>(null);
-  const [size, updatesize] = React.useState(200);
+type sizeProps = {
+  initialSize: number;
+};
 
-  // ✅ Dynamically import Player to disable SSR
+export const House = React.memo(({ initialSize }: sizeProps) => {
+  const [windowsize, updatewindowsize] = React.useState<number | null>(null);
+  const [size, updatesize] = React.useState(initialSize);
+
+  // ✅ Use dynamic import to avoid SSR issues
   const Player: any = dynamic(
     () => import("@lordicon/react").then((mod) => mod.Player),
     { ssr: false }
@@ -18,7 +22,7 @@ export const House = React.memo(() => {
 
   React.useEffect(() => {
     const handleResize = () => updatewindowsize(window.innerWidth);
-    handleResize(); // set initial value
+    handleResize();
     window.addEventListener("resize", handleResize);
     return () => window.removeEventListener("resize", handleResize);
   }, []);

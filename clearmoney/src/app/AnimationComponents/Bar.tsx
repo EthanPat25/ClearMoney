@@ -25,15 +25,15 @@ export const Bar = React.memo(() => {
     if (windowsize === null) return;
 
     if (windowsize >= 3200) {
-      updatesize(150);
+      updatesize(400);
     } else if (windowsize >= 2560) {
-      updatesize(150);
+      updatesize(350);
     } else if (windowsize >= 1920) {
-      updatesize(150);
+      updatesize(300);
     } else if (windowsize >= 1536) {
-      updatesize(150);
+      updatesize(250);
     } else if (windowsize <= 1024) {
-      updatesize(150);
+      updatesize(200);
     }
   }, [windowsize]);
 
