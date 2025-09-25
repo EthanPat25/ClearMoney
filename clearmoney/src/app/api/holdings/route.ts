@@ -26,8 +26,7 @@ export async function GET(Request: NextRequest) {
     .eq("Super_Fund", fund)
     .eq("Option_Name", option)
     .eq("Listing_Status", "Listed")
-    .order("Dollar_Value", { ascending: false })
-    .range(0, 100);
+    .order("Dollar_Value", { ascending: false });
 
   if (publicError) {
     console.error("Error fetching public companies:", publicError.message);
@@ -40,8 +39,7 @@ export async function GET(Request: NextRequest) {
     .eq("Super_Fund", fund)
     .eq("Option_Name", option)
     .eq("Listing_Status", "Unlisted")
-    .order("Dollar_Value", { ascending: false })
-    .range(0, 100);
+    .order("Dollar_Value", { ascending: false });
 
   if (privateError) {
     console.error("Error fetching public companies:", privateError.message);

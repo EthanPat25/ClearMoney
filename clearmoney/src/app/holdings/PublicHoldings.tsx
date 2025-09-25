@@ -3,6 +3,7 @@ import Info from "../FHSS/Info";
 import ArrowRight from "./ArrowRight";
 import ArrowLeft from "./ArrowLeft";
 import { motion } from "framer-motion";
+import { NumericFormat } from "react-number-format";
 
 type PublicHoldingsProps = {
   holdingsData: Holding[] | null;
@@ -31,10 +32,9 @@ const PublicHoldings: React.FC<PublicHoldingsProps> = ({
   const pager = holdingsData?.slice(startIndex, startIndex + pageSize);
 
   const listedPercentage =
-    holdingsData?.reduce(
-      (sum, h) => sum + (h.Weighting_Percentage_Clean ?? 0),
-      0
-    ) ?? 0;
+    holdingsData
+      ?.filter((h) => h.Listing_Status.toLowerCase() === "listed") // <-- This filter acts as a safeguard
+      .reduce((sum, h) => sum + (h.Weighting_Percentage_Clean ?? 0), 0) ?? 0;
 
   const listedAmount = (listedPercentage / 100) * balance;
 
@@ -52,9 +52,17 @@ const PublicHoldings: React.FC<PublicHoldingsProps> = ({
         </div>
         <div className="md:flex-1 flex justify-center lg:justify-end">
           <div className="mt-3 lg:mt-0 lg:w-[13rem] px-3 sm:px-5 py-1.5 sm:py-2 rounded-2xl bg-[RGB(82,105,127)] text-white font-semibold xs:text-md sm:text-lg">
-            {"$" + `${listedAmount.toFixed(2)} `}
-            <span className="text-[RGB(251,99,64)]">
-              ({/*listedPercentage.toFixed(2)*/}NA%)
+            <NumericFormat
+              value={listedAmount}
+              thousandSeparator
+              prefix="$"
+              decimalScale={2}
+              fixedDecimalScale
+              displayType="text"
+            />
+
+            <span className="ml-2 text-[RGB(251,99,64)]">
+              {`(${listedPercentage.toFixed(2)}%)`}
             </span>
           </div>
         </div>
@@ -132,8 +140,15 @@ const PublicHoldings: React.FC<PublicHoldingsProps> = ({
       {/* Footer */}
       <div className="flex flex-col justify-center items-center mt-12 text-center pb-10">
         <h1 className="text-xl font-semibold">
-          {"$" + `${listedAmount.toFixed(2)} `} of your super is invested across
-          NA Listed Companies
+          <NumericFormat
+            value={listedAmount}
+            thousandSeparator
+            prefix="$"
+            decimalScale={2}
+            fixedDecimalScale
+            displayType="text"
+          />{" "}
+          of your super is invested across NA Listed Companies
         </h1>
         <p className="mt-3 text-xs xxs:text-sm text-gray-500 max-w-[35rem] leading-relaxed">
           Based on official holdings data from

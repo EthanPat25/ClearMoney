@@ -20,6 +20,8 @@ import {
 
 import { useForm, SubmitHandler, Controller, useWatch } from "react-hook-form";
 
+import { NumericFormat } from "react-number-format";
+
 enum SuperFund {
   AustralianSuper = "AustralianSuper",
   REST = "Rest",
@@ -61,22 +63,26 @@ export const Calc = React.forwardRef<
     control,
     name: "superFund",
   });
-
   const onSubmit: SubmitHandler<Inputs> = async (values) => {
     const params = new URLSearchParams({
       fund: values.superFund,
       option: values.options,
     });
 
+    // 1. Fetch the main holdings data for your app
     const data = await fetch_holdings(params);
+
+    // 2. Fetch the verification data and log it to the console
 
     if (onResults) {
       onResults({
         holdingsData: data,
-        balance: values.superBalance, // <-- this is from hook-form
+        balance: Number(values.superBalance),
       });
     }
   };
+
+  // --- ADD THIS CONSOLE LOG ---
 
   const fetch_holdings = async (params: URLSearchParams) => {
     const res = await fetch(`/api/holdings?${params.toString()}`, {
@@ -115,14 +121,26 @@ export const Calc = React.forwardRef<
                   Your Super Balance
                 </Label>
                 <div className="relative">
-                  <Input
-                    id="balance"
-                    type="number"
-                    required
-                    placeholder="10,000"
-                    className="pl-[1.3rem] h-10 text-sm font-normal text-gray-900 placeholder:text-gray-400"
-                    {...register("superBalance", { required: true })}
+                  <Controller
+                    name="superBalance"
+                    control={control}
+                    rules={{ required: true }}
+                    render={({ field }) => (
+                      <NumericFormat
+                        thousandSeparator
+                        customInput={Input}
+                        placeholder="10,000"
+                        value={field.value ?? ""}
+                        className="pl-[1.1rem] h-10 text-sm font-normal text-gray-900 placeholder:text-gray-400"
+                        onValueChange={(values) =>
+                          field.onChange(values.floatValue ?? null)
+                        }
+                        onBlur={field.onBlur}
+                        name={field.name}
+                      />
+                    )}
                   />
+
                   <span className="absolute left-2 top-1/2 -translate-y-1/2 text-sm">
                     $
                   </span>
