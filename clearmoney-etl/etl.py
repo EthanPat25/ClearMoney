@@ -23,20 +23,21 @@ def create_fund_parser(fund_name: str, file_path, output_directory):
     if fund_name == "AustralianSuper":
         FundParser = AustralianSuper(file_path)          
         FundParser.parse() 
+        FundParser.remove_totals()
+        FundParser.remove_derivatives()
         FundParser.normalise_company_names()
         FundParser.normalise_percentage()
         FundParser.normalise_dollar()
-        FundParser.remove_totals()
         FundParser.recompute_percentages()
         FundParser.save_to_normalized_file(output_directory)
         print(fund_name + " " + os.path.splitext(os.path.basename(file_path))[0] + ": Completed")
     elif fund_name == "Rest":
         FundParser = Rest(file_path)
         FundParser.parse() 
+        FundParser.remove_totals()
         FundParser.normalise_company_names()
         FundParser.normalise_percentage()
         FundParser.normalise_dollar()
-        FundParser.remove_totals()
         FundParser.recompute_percentages()
         FundParser.save_to_normalized_file(output_directory)
         print(fund_name + " " + os.path.splitext(os.path.basename(file_path))[0] + ": Completed")
@@ -44,11 +45,17 @@ def create_fund_parser(fund_name: str, file_path, output_directory):
 class superFund(ABC):
     def __init__(self, file_path):
         self.df = None
+        self.totals_df = None 
+        self.derivatives_df = None
         self.file_path = file_path 
 
     @abstractmethod
     def parse(self):
         """Each child fund implements its own parsing logic."""
+        pass
+
+    @abstractmethod
+    def remove_totals(self):
         pass
 
     def save_to_normalized_file(self, output_directory):
@@ -140,37 +147,13 @@ class superFund(ABC):
             else:
                 self.df["Weighting_Percentage_Clean"] = 0
 
-    def remove_totals(self):
-        """
-        Removes roll-up rows like 'Total', 'Total Investment',
-        'Sub Total ...', and 'Grand Total',
-        whether they appear in Name or Asset_Class.
-        Safe for companies like 'TOTALENERGIES SE'.
-        """
-        for col in ["Name", "Asset_Class"]:
-            if col in self.df.columns:
-                values = self.df[col].astype(str).str.strip()
-
-                mask = (
-                    values.str.fullmatch(r"(?i)total") |                   # exact 'Total'
-                    values.str.contains(r"(?i)^total(?:\s+investment.*)?$", na=False) |  # 'Total' or 'Total Investment...'
-                    values.str.contains(r"(?i)^sub\s*total", na=False) |   # 'Sub Total...'
-                    values.str.contains(r"(?i)^grand\s*total", na=False)   # 'Grand Total...'
-                )
-
-                self.df = self.df[~mask.fillna(False)]
-
-        self.df = self.df.reset_index(drop=True)
-        return self.df
-
-
 
 class AustralianSuper(superFund):
     def parse(self):
         df = pd.read_csv(self.file_path)
 
         df = df[[
-            "Option Name", "Asset Class", "Name", "Filter", "Sub-Filter",
+            "Option Name", "Asset Class", "Name", "Filter", "Sub-Filter","Name Type",
             "Currency", "Security Identifier", "$ Value", "Weighting (%)"
         ]]
 
@@ -199,16 +182,37 @@ class AustralianSuper(superFund):
             "Option Name": "Option_Name",
             "Asset Class": "Asset_Class",
             "Name": "Name",
+            "Name Type": "Name_Type",
             "Currency": "Currency",
             "Security Identifier": "Security_Identifier",
             "$ Value": "Dollar_Value",
             "Weighting (%)": "Weighting_Percentage",
-            #"Location": "Location"    
         }, inplace=True)
 
         self.df = df
 
-       
+
+    def remove_totals(self):
+        if 'Name' in self.df.columns and 'Name_Type' in self.df.columns:
+            mask = (self.df['Name'].astype(str).str.strip().str.fullmatch(r"(?i)Total")) & \
+                   (self.df['Name_Type'].astype(str).str.strip().str.fullmatch(r"(?i)Total"))
+            
+            self.totals_df = self.df[mask]
+            self.df = self.df[~mask]
+            self.df = self.df.drop(columns=['Name_Type'])
+            # Rest Index
+            self.df = self.df.reset_index(drop=True)
+
+    def remove_derivatives(self):
+        if 'Asset_Class' in self.df.columns:
+            mask = self.df['Asset_Class'].astype(str).str.strip().str.contains(r'(?i)^Derivatives', na=False)
+            
+            self.derivatives_df = self.df[mask]
+            self.df = self.df[~mask]
+            
+            self.df = self.df.reset_index(drop=True)
+
+    
 class Rest(superFund):
     def parse(self):
         df = pd.read_excel(self.file_path, header=1, engine="openpyxl")
@@ -246,7 +250,19 @@ class Rest(superFund):
         df["Management_Type"] = df["Management_Type"].fillna("").str.title()
 
         self.df = df
-    
+
+
+    def remove_totals(self):
+      if 'Asset_Class' in self.df.columns:
+        values = self.df['Asset_Class'].astype(str).str.strip()
+        mask = values.str.contains(r'(?i)^(SUB TOTAL|TOTAL)', na=False)
+        clean_mask = mask.fillna(False)
+        
+        self.totals_df = self.df[clean_mask]
+        self.df = self.df[~clean_mask]
+        
+        self.df = self.df.reset_index(drop=True)
+
 
 class ART(superFund):
     def parse(self):
