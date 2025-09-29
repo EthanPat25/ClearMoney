@@ -70,72 +70,34 @@ class superFund(ABC):
                 .astype(str)
                 .str.replace('%', '', regex=False)
             )
-
+          
     def normalise_dollar(self):
         if "Dollar_Value" in self.df.columns:
-            self.df["Dollar_Value"] = (
+          self.df["Dollar_Value"] = (
                 self.df["Dollar_Value"]
                 .astype(str)
                 .str.replace(r'[$,]', '', regex=True)
+                .str.replace("-", "", regex=False)
             )
-        
-        
+
     def normalise_company_names(self):
-        if "Name" in self.df.columns:
-            suffixes = ["GROUP", "LTD", "LIMITED", "CORP", "CORPORATION",
-                    "INC", "HOLDINGS?", "PTY", "PLC", "CO", "LP"]
+        if "Name" not in self.df.columns:
+            return
 
-            pattern = r"\b(" + "|".join(suffixes) + r")\b"
+        mask = (
+            self.df["Listing_Status"].str.contains("Listed", case=False, na=False)
+            & self.df["Asset_Class"].str.contains("Equity", case=False, na=False)
+        )
 
-            mask = self.df["Listing_Status"].str.contains("Listed", case=False, na=False) & \
-               self.df["Asset_Class"].str.contains("Equity", case=False, na=False)
-            
-            self.df.loc[mask, "Name"] = (
-                self.df.loc[mask, "Name"]
-                .str.replace(pattern, "", regex=True, case=False)   # remove suffixes (GROUP, LTD, etc.)
-                .str.replace(",", "", regex=False)                 # remove commas
-                .str.replace(r"\.(?!com\b)(?!co\b)", "", regex=True)  # remove dots NOT followed by com/co
-                .str.replace(r"\s+", " ", regex=True)              # collapse multiple spaces into one
-                .str.strip()                                       # trim leading/trailing spaces
-                .str.title()
-            )
-
-                    # Custom overrides (case-insensitive patterns)
-        overrides = {
-            r"(?i)^amazon.*": "Amazon",
-            r"(?i)^eli lilly.*": "Eli Lilly",     # safely remove & Co
-            r"(?i)^booking holdings.*": "Booking Holdings",     # keep .com if it's relevant to the brand
-            r"(?i)^merck.*": "Merck",
-            r"(?i)^bhp$": "BHP",
-            r"(?i)^national.*australia.*bank.*": "NAB",
-            r"(?i)^westpac.*": "Westpac",  # leave Westpac as-is, already short
-            r"(?i)^taiwan semiconductor.*": "TSMC",
-            r"(?i)^commonwealth bank.*": "CommBank",
-            r"(?i)^auckland.*airport.*": "Auckland Airport",
-            r"(?i)^mirvac.*": "Mirvac",
-            r"(?i)^carsales.*": "Carsales",
-            r"(?i)^citigroup.*": "Citi",
-            r"(?i)^goodman.*": "Goodman",
-            r"(?i)^jpmorgan.*": "JPMORGAN",
-            r"(?i)^downer.*": "Downer Group",
-            r"(?i)^citi.*": "Citi Bank",
-            r"(?i)^costco.*": "Costco",
-            r"(?i)^meta.*": "Meta",
-            # Add more as needed
-        }
-
-        for pattern, replacement in overrides.items():
-            self.df.loc[mask, "Name"] = self.df.loc[mask, "Name"].str.replace(
-                pattern, replacement, regex=True
-            )
+        # Clean names
+        self.df.loc[mask, "Name"] = (
+            self.df.loc[mask, "Name"]
+            .str.replace(r"\s+", " ", regex=True)
+            .str.strip()
+            .str.title()
+        )
 
 
-    def normalize(self, df):
-    # Make Asset_Class consistent
-        if "Asset_Class" in df.columns:
-            df["Asset_Class"] = df["Asset_Class"].fillna("").str.title()
-        self.df = df
-    
     def recompute_percentages(self):
         if "Dollar_Value" in self.df.columns:
             # ensure numeric
@@ -147,7 +109,6 @@ class superFund(ABC):
             else:
                 self.df["Weighting_Percentage_Clean"] = 0
 
-
 class AustralianSuper(superFund):
     def parse(self):
         df = pd.read_csv(self.file_path)
@@ -158,7 +119,6 @@ class AustralianSuper(superFund):
         ]]
 
         df["combined"] = df["Filter"].fillna('') + " " + df["Sub-Filter"].fillna('')
-        df["Source_Name"] = df["Name"]
         df["Listing_Status"] = df["combined"].str.extract(r'(?i)(Listed|Unlisted)', expand=False)
         df["Management_Type"] = df["combined"].str.extract(r'(?i)(Internally Managed|Externally Managed)', expand=False)
         df.drop(columns=["combined"], inplace=True)
@@ -218,17 +178,17 @@ class Rest(superFund):
         df = pd.read_excel(self.file_path, header=1, engine="openpyxl")
 
         df["Name"] = (
-            df["NAME / KIND OF INVESTMENT ITEM"]
-            .fillna(df["NAME OF INSTITUTION"])
-            .fillna(df["NAME OF ISSUER / COUNTERPARTY"])
-            .fillna(df["NAME OF FUND MANAGER"])
+            df["NAME / KIND OF INVESTMENT ITEM"].replace("-", pd.NA)
+            .fillna(df["NAME OF INSTITUTION"].replace("-", pd.NA))
+            .fillna(df["NAME OF ISSUER / COUNTERPARTY"].replace("-", pd.NA))
+            .fillna(df["NAME OF FUND MANAGER"].replace("-", pd.NA))
         )
 
+       
         df = df[[
             "ASSET CLASS", "INTERNALLY MANAGED OR EXTERNALLY MANAGED", "Name", "VALUE(AUD)", "WEIGHTING(%)", "SECURITY IDENTIFIER", "CURRENCY"
         ]]
 
-        df["Source_Name"] = df["Name"]
         df["Listing_Status"] = df["ASSET CLASS"].str.extract(r'(?i)^(LISTED|UNLISTED)', expand=False)
         df["ASSET CLASS"] = df["ASSET CLASS"].str.replace(r'(?i)^(LISTED|UNLISTED)\s*', '', regex=True)
         df["Listing_Status"] = df["Listing_Status"].fillna("").str.title()
@@ -264,6 +224,79 @@ class Rest(superFund):
         self.df = self.df.reset_index(drop=True)
 
 
+
+class AwareSuper(superFund):
+    def parse(self):
+        df = pd.read_csv(self.file_path)
+
+
+        df["Name"] = (
+            df["NAME OF INSTITUTION"]
+            .fillna(df["NAME / KIND OF INVESTMENT ITEM"])
+            .fillna(df["NAME OF ISSUER / COUNTERPARTY"])
+            .fillna(df["NAME OF FUND MANAGER"])
+        )
+
+        df = df[[
+            "ASSET CLASS", "INTERNALLY MANAGED OR EXTERNALLY MANAGED", "VALUE(AUD)", "WEIGHTING(%)", "SECURITY IDENTIFIER"
+        ]]
+
+        df["combined"] = df["Filter"].fillna('') + " " + df["Sub-Filter"].fillna('')
+        df["Listing_Status"] = df["combined"].str.extract(r'(?i)(Listed|Unlisted)', expand=False)
+        df["Management_Type"] = df["combined"].str.extract(r'(?i)(Internally Managed|Externally Managed)', expand=False)
+        df.drop(columns=["combined"], inplace=True)
+        df.drop(columns=["Filter"], inplace=True)
+        df.drop(columns=["Sub-Filter"], inplace=True)
+
+
+        df["Management_Type"] = df["Management_Type"].fillna("").str.title()
+        df["Listing_Status"] = df["Listing_Status"].fillna("").str.title()
+        df["Super_Fund"] = self.__class__.__name__
+
+        df["Management_Type"] = (
+            df["Management_Type"]
+            .replace({
+                "Internally Managed": "Internally",
+                "Externally Managed": "Externally"
+            })
+        )
+
+        df.rename(columns = {
+            "Option Name": "Option_Name",
+            "Asset Class": "Asset_Class",
+            "Name": "Name",
+            "Name Type": "Name_Type",
+            "Currency": "Currency",
+            "Security Identifier": "Security_Identifier",
+            "$ Value": "Dollar_Value",
+            "Weighting (%)": "Weighting_Percentage",
+        }, inplace=True)
+
+        self.df = df
+
+
+    def remove_totals(self):
+        if 'Name' in self.df.columns and 'Name_Type' in self.df.columns:
+            mask = (self.df['Name'].astype(str).str.strip().str.fullmatch(r"(?i)Total")) & \
+                   (self.df['Name_Type'].astype(str).str.strip().str.fullmatch(r"(?i)Total"))
+            
+            self.totals_df = self.df[mask]
+            self.df = self.df[~mask]
+            self.df = self.df.drop(columns=['Name_Type'])
+            # Rest Index
+            self.df = self.df.reset_index(drop=True)
+
+    def remove_derivatives(self):
+        if 'Asset_Class' in self.df.columns:
+            mask = self.df['Asset_Class'].astype(str).str.strip().str.contains(r'(?i)^Derivatives', na=False)
+            
+            self.derivatives_df = self.df[mask]
+            self.df = self.df[~mask]
+            
+            self.df = self.df.reset_index(drop=True)
+
+
+
 class ART(superFund):
     def parse(self):
         df = pd.read_csv(self.file_path)
@@ -286,5 +319,53 @@ class ART(superFund):
         }, inplace=True)
 
         self.df = df
+
+
+def test(df):
+    suffixes = ["GROUP", "LTD", "LIMITED", "CORP", "CORPORATION",
+                    "INC", "HOLDINGS?", "PTY", "PLC", "CO", "LP"]
+
+    pattern = r"\b(" + "|".join(suffixes) + r")\b"
+
+    mask = df["Listing_Status"].str.contains("Listed", case=False, na=False) & \
+        df["Asset_Class"].str.contains("Equity", case=False, na=False)
+    
+    df.loc[mask, "Name"] = (
+        df.loc[mask, "Name"]
+        .str.replace(pattern, "", regex=True, case=False)   
+        .str.replace(",", "", regex=False)                
+        .str.replace(r"\.(?!com\b)(?!co\b)", "", regex=True)  
+        .str.replace(r"\s+", " ", regex=True)            
+        .str.strip()                                     
+        .str.title()
+    )
+
+      
+    overrides = {
+        r"(?i)^amazon.*": "Amazon",
+        r"(?i)^eli lilly.*": "Eli Lilly",     
+        r"(?i)^booking holdings.*": "Booking Holdings",     
+        r"(?i)^merck.*": "Merck",
+        r"(?i)^bhp$": "BHP",
+        r"(?i)^national.*australia.*bank.*": "NAB",
+        r"(?i)^westpac.*": "Westpac", 
+        r"(?i)^taiwan semiconductor.*": "TSMC",
+        r"(?i)^commonwealth bank.*": "CommBank",
+        r"(?i)^auckland.*airport.*": "Auckland Airport",
+        r"(?i)^mirvac.*": "Mirvac",
+        r"(?i)^carsales.*": "Carsales",
+        r"(?i)^citigroup.*": "Citi",
+        r"(?i)^goodman.*": "Goodman",
+        r"(?i)^jpmorgan.*": "JPMORGAN",
+        r"(?i)^downer.*": "Downer Group",
+        r"(?i)^citi.*": "Citi Bank",
+        r"(?i)^costco.*": "Costco",
+        r"(?i)^meta.*": "Meta",
+    }
+
+    for pattern, replacement in overrides.items():
+        df.loc[mask, "Name"] = df.loc[mask, "Name"].str.replace(
+            pattern, replacement, regex=True
+    )
 
 run_all_parsers()
