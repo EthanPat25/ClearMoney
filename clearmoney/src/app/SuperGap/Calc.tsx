@@ -17,7 +17,6 @@ import {
 } from "@/components/ui/accordion";
 import { Plus, Info } from "lucide-react";
 import { Slide } from "./Slider";
-import Settings from "./Settings";
 import { useForm, SubmitHandler } from "react-hook-form";
 import { projectInvestmentGrowth } from "./Forumula2";
 import { Calendar28 } from "./Calendar";
@@ -55,11 +54,12 @@ export function Calc({
     console.log(projectInvestmentGrowth(data));
 
   return (
-    <div className={cn("flex flex-col gap-4", className)} {...props}>
-      <Card className="xs:w-[22rem] md:w-[31.75rem] relative flex flex-col">
+    <div
+      className={cn("flex flex-col gap-4 xs:mb-16 md:mb-0", className)}
+      {...props}
+    >
+      <Card className="xs:w-[28rem] md:w-[31.75rem] relative flex flex-col">
         {/* Settings */}
-        <Settings className="absolute top-[1rem] left-[29.25rem] h-6 w-6 cursor-pointer" />
-
         <CardHeader>
           <CardTitle className="text-xl font-bold">
             Super Gap Calculator

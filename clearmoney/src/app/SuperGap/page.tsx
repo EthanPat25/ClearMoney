@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState } from "react";
+import React from "react";
 import EverydayTerms from "./EverydayTerms";
 import Graph from "./Graph";
 import UnderStand from "./UnderStand";
@@ -9,7 +9,7 @@ import HeroSection from "./HeroSection";
 import SuperGapCalcSection from "./SuperGapCalcSection";
 
 export default function SuperContributions() {
-  const [view, setView] = useState<"terms" | "case" | "close">("terms");
+  const [view, setView] = React.useState<"terms" | "case" | "close">("terms");
 
   return (
     <div className="w-screen min-h-screen flex flex-col">
@@ -17,7 +17,6 @@ export default function SuperContributions() {
       <div className="w-screen p-6 bg-[RGB(250,251,252)] relative">
         <div className="mt-10"></div>
         <SuperGapCalcSection></SuperGapCalcSection>
-        {/* FULL-WIDTH TOGGLE + CONTENT */}
       </div>
       <section className="mt-16 w-screen">
         <div className="max-w-7xl mx-auto px-6 py-8">

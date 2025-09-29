@@ -18,7 +18,7 @@ type Holding = {
   Listing_Status: string;
   Dollar_Value?: number;
   Domain?: string;
-  Source_Name: string;
+  Parsed_Name: string;
   Weighting_Percentage_Clean: number;
 };
 
@@ -33,7 +33,7 @@ const PublicHoldings: React.FC<PublicHoldingsProps> = ({
 
   const listedPercentage =
     holdingsData
-      ?.filter((h) => h.Listing_Status.toLowerCase() === "listed") // <-- This filter acts as a safeguard
+      ?.filter((h) => h.Listing_Status.toLowerCase() === "listed")
       .reduce((sum, h) => sum + (h.Weighting_Percentage_Clean ?? 0), 0) ?? 0;
 
   const listedAmount = (listedPercentage / 100) * balance;
@@ -44,7 +44,7 @@ const PublicHoldings: React.FC<PublicHoldingsProps> = ({
         <div className="md:flex-1"></div> {/* spacer */}
         <div className="md:flex-2">
           <p className="xs:text-[0.8em] md:text-sm text-[RGB(251,99,64)] font-semibold">
-            Top Holdings
+            Top Holdings (Listed Assets)
           </p>
           <h2 className="font-bold xs:text-[1.3rem] sm:text-[1.7rem] md:text-[2.3rem]">
             Where Your Money is Invested
@@ -61,8 +61,10 @@ const PublicHoldings: React.FC<PublicHoldingsProps> = ({
               displayType="text"
             />
 
+            <br></br>
+
             <span className="ml-2 text-[RGB(251,99,64)]">
-              {`(${listedPercentage.toFixed(2)}%)`}
+              {`(${listedPercentage.toFixed(1)}%)`}
             </span>
           </div>
         </div>
@@ -108,9 +110,9 @@ const PublicHoldings: React.FC<PublicHoldingsProps> = ({
                 {/* Original name in top-left */}
                 <p
                   className="absolute top-4 left-4 text-xs text-gray-400 font-medium leading-none truncate max-w-[65%]"
-                  title={holding.Source_Name}
+                  title={holding.Name}
                 >
-                  {holding.Source_Name}
+                  {holding.Name}
                 </p>
 
                 {/* Info icon */}
@@ -127,7 +129,7 @@ const PublicHoldings: React.FC<PublicHoldingsProps> = ({
 
                 {/* Company name + hard-coded dollar value */}
                 <h2 className="xs:text-sm md:text-base font-medium">
-                  {holding.Name}:{" "}
+                  {holding.Parsed_Name}:{" "}
                   <span className="font-semibold text-base">
                     ${scaledValue.toFixed(2)}
                   </span>

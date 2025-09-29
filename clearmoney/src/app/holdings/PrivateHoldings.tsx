@@ -8,6 +8,7 @@ import PiePrivate from "./PiePrivate";
 import { TablePrivate } from "./TablePrivate";
 import ArrowRight from "./ArrowRight";
 import ArrowLeft from "./ArrowLeft";
+import { NumericFormat } from "react-number-format";
 
 type PrivateHoldingsProps = {
   holdingsData: Holding[] | null;
@@ -79,7 +80,7 @@ const PrivateHoldings: React.FC<PrivateHoldingsProps> = ({
         <div className="md:flex-1"></div>
         <div className="md:flex-2">
           <p className="xs:text-[0.8em] md:text-sm text-[RGB(251,99,64)] font-semibold">
-            Top Holdings
+            Top Holdings (Unlisted Assets)
           </p>
           <h2 className="font-bold xs:text-[1.3rem] sm:text-[1.7rem] md:text-[2.3rem]">
             Where Your Money is Invested
@@ -87,9 +88,16 @@ const PrivateHoldings: React.FC<PrivateHoldingsProps> = ({
         </div>
         <div className="md:flex-1 flex justify-center lg:justify-end">
           <div className="mt-3 lg:mt-0 lg:w-[13rem] px-3 sm:px-5 py-1.5 sm:py-2 rounded-2xl bg-[RGB(82,105,127)] text-white font-semibold xs:text-md sm:text-lg">
-            {"$" + `${amount.toFixed(2)} `}
+            <NumericFormat
+              value={amount}
+              thousandSeparator
+              prefix="$"
+              decimalScale={2}
+              fixedDecimalScale
+              displayType="text"
+            />{" "}
             <span className="text-[RGB(251,99,64)]">
-              ({percentage.toFixed(2)}%)
+              {`(${percentage.toFixed(1)}%)`}
             </span>
           </div>
         </div>

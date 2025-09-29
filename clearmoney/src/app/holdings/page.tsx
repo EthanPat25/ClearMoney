@@ -5,10 +5,13 @@ import HeroSection from "./HeroSection";
 import { Calc } from "./Calc";
 import PublicHoldings from "./PublicHoldings";
 import PrivateHoldings from "./PrivateHoldings";
+import BondsandCashHoldings from "./BondsandCashHoldings";
 
 type HoldingsData = {
   public_companies: any[];
   Private_Investments: any[];
+  Bonds: any[];
+  Cash: any[];
 };
 
 type Results = {
@@ -68,18 +71,12 @@ export default function Page() {
               balance={ResultsData.balance}
             />
           )}
-          {view === "close" && (
-            <div className="flex justify-evenly mt-10">
-              <div className=" flex justify-center items-center w-[55%]">
-                <div className="bg-white rounded-2xl border border-gray-200 shadow-sm p-6 w-full">
-                  <h4 className="text-base font-medium mb-2">Impact</h4>
-                  <div className="h-[360px] bg-gray-50 rounded-xl p-3"></div>
-                  <p className="text-sm text-gray-600 mt-3">
-                    Adjust the weekly amount to see how your trajectory changes.
-                  </p>
-                </div>
-              </div>
-            </div>
+          {view === "close" && ResultsData && (
+            <BondsandCashHoldings
+              holdingsCashData={ResultsData.holdingsData.Cash}
+              holdingsbondsData={ResultsData.holdingsData.Bonds}
+              balance={ResultsData.balance}
+            ></BondsandCashHoldings>
           )}
         </div>
       </section>

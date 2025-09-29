@@ -29,9 +29,9 @@ export const Superannuation = React.memo(() => {
     if (windowsize >= 3200) {
       updatesize(450);
     } else if (windowsize >= 2560) {
-      updatesize(350);
+      updatesize(90);
     } else if (windowsize >= 1920) {
-      updatesize(300);
+      updatesize(90);
     } else if (windowsize >= 1536) {
       updatesize(90);
     } else if (windowsize <= 1024) {
