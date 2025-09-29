@@ -96,6 +96,7 @@ const PrivateHoldings: React.FC<PrivateHoldingsProps> = ({
               fixedDecimalScale
               displayType="text"
             />{" "}
+            <br className="xs:hidden lg:block"></br>
             <span className="text-[RGB(251,99,64)]">
               {`(${percentage.toFixed(1)}%)`}
             </span>

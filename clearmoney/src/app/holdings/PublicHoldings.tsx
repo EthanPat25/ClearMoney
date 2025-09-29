@@ -61,7 +61,7 @@ const PublicHoldings: React.FC<PublicHoldingsProps> = ({
               displayType="text"
             />
 
-            <br></br>
+            <br className="xs:hidden lg:block"></br>
 
             <span className="ml-2 text-[RGB(251,99,64)]">
               {`(${listedPercentage.toFixed(1)}%)`}
