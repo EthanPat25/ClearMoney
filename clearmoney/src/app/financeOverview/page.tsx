@@ -37,7 +37,7 @@ export default function SuperContributions() {
                 stroke="currentColor"
                 strokeWidth="2"
               >
-                <path d="M5 12h14M13 5l7 7-7 7" />
+                <path d="M19 9l-7 7-7-7" />
               </svg>
             </Button>
             {/*<Button className="flex items-center justify-center gap-2 bg-[rgb(251,99,64)] xs:w-[13.5rem] sm:w-[15rem] h-12 text-[0.9rem] font-bold text-white">
@@ -84,7 +84,7 @@ export default function SuperContributions() {
         </div>
         <div className="flex flex-wrap justify-center gap-5">
           <motion.div
-            className="bg-[RGB(82,105,127)] rounded-2xl p-6 shadow-md w-[24rem] h-[23.5rem] flex flex-col justify-between"
+            className="bg-[RGB(82,105,127)] rounded-2xl p-6 shadow-md w-[23rem] h-[21rem] flex flex-col justify-between"
             animate={{ scale: Basics ? 2 : 1 }}
             whileHover={{ scale: Basics ? 2 : 1.05 }}
             transition={{ type: "spring", stiffness: 200, damping: 10 }}
@@ -107,7 +107,7 @@ export default function SuperContributions() {
           </motion.div>
           {/* Card 1 */}
           <motion.div
-            className="bg-[RGB(82,105,127)] rounded-2xl p-6 shadow-md w-[24rem] h-[23.5rem] flex flex-col justify-between"
+            className="bg-[RGB(82,105,127)] rounded-2xl p-6 shadow-md w-[23rem] h-[21rem] flex flex-col justify-between"
             animate={{ scale: Basics ? 2 : 1 }}
             whileHover={{ scale: Basics ? 2 : 1.05 }}
             transition={{ type: "spring", stiffness: 200, damping: 10 }}
@@ -131,7 +131,7 @@ export default function SuperContributions() {
 
           {/* Card 2 */}
           <motion.div
-            className="bg-[RGB(82,105,127)] rounded-2xl p-6 shadow-md w-[24rem] h-[23.5rem] flex flex-col justify-between"
+            className="bg-[RGB(82,105,127)] rounded-2xl p-6 shadow-md w-[23rem] h-[21rem] flex flex-col justify-between"
             animate={{ scale: Basics ? 2 : 1 }}
             whileHover={{ scale: Basics ? 2 : 1.05 }}
             transition={{ type: "spring", stiffness: 200, damping: 10 }}
@@ -141,7 +141,7 @@ export default function SuperContributions() {
                 See How Super Can Boost Your First Home Deposit
               </h2>
               <div className="flex justify-center my-4">
-                <House />
+                <House initialSize={170} />
               </div>
             </div>
             <div className="flex justify-center">

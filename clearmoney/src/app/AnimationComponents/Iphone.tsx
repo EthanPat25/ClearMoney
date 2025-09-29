@@ -12,7 +12,6 @@ export const Iphone = React.memo(({ initialSize }: sizeProps) => {
   const [windowsize, updatewindowsize] = React.useState<number | null>(null);
   const [size, updatesize] = React.useState(initialSize);
 
-  // ✅ Use dynamic import to avoid SSR issues with @lordicon/react
   const Player: any = dynamic(
     () => import("@lordicon/react").then((mod) => mod.Player),
     { ssr: false }

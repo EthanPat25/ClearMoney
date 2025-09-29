@@ -5,13 +5,15 @@ import dynamic from "next/dynamic";
 import ICON from "../../../public/Learn.json";
 
 export const Learn = React.memo(() => {
-  const [windowsize, updatewindowsize] = React.useState<number | null>(null);
+  const [windowsize, updatewindowsize] = React.useState<number | null>(150);
   const [size, updatesize] = React.useState(150);
 
-  // ✅ Dynamic import disables SSR for Player, preventing "document is not defined"
-  const Player: any = dynamic(
+  const Player = dynamic(
     () => import("@lordicon/react").then((mod) => mod.Player),
-    { ssr: false }
+    {
+      ssr: false,
+      loading: () => <div style={{ width: size, height: size }} />,
+    }
   );
 
   const playerRef = React.useRef<any>(null);
@@ -26,7 +28,6 @@ export const Learn = React.memo(() => {
   React.useEffect(() => {
     if (windowsize === null) return;
 
-    // Since all cases set to 150, this is functionally a no-op
     updatesize(150);
   }, [windowsize]);
 

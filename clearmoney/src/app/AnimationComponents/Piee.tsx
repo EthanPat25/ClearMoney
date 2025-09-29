@@ -6,7 +6,7 @@ import ICON from "../../../public/Pie.json";
 
 export const Piee = React.memo(() => {
   const [windowsize, updatewindowsize] = React.useState<number | null>(null);
-  const [size, updatesize] = React.useState(200);
+  const [size, updatesize] = React.useState(170);
 
   // ✅ Dynamically import Player to avoid SSR errors
   const Player: any = dynamic(
@@ -29,13 +29,13 @@ export const Piee = React.memo(() => {
     if (windowsize >= 3200) {
       updatesize(450);
     } else if (windowsize >= 2560) {
-      updatesize(350);
+      updatesize(170);
     } else if (windowsize >= 1920) {
-      updatesize(300);
+      updatesize(170);
     } else if (windowsize >= 1536) {
-      updatesize(200);
+      updatesize(170);
     } else if (windowsize <= 1024) {
-      updatesize(200);
+      updatesize(170);
     }
   }, [windowsize]);
 

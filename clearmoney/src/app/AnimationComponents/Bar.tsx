@@ -6,7 +6,7 @@ import ICON from "../../../public/Bar.json";
 
 export const Bar = React.memo(() => {
   const [windowsize, updatewindowsize] = React.useState<number | null>(null);
-  const [size, updatesize] = React.useState(200);
+  const [size, updatesize] = React.useState(170);
 
   const Player: any = dynamic(
     () => import("@lordicon/react").then((mod) => mod.Player),
@@ -25,15 +25,15 @@ export const Bar = React.memo(() => {
     if (windowsize === null) return;
 
     if (windowsize >= 3200) {
-      updatesize(400);
+      updatesize(170);
     } else if (windowsize >= 2560) {
-      updatesize(350);
+      updatesize(170);
     } else if (windowsize >= 1920) {
-      updatesize(300);
+      updatesize(170);
     } else if (windowsize >= 1536) {
-      updatesize(250);
+      updatesize(170);
     } else if (windowsize <= 1024) {
-      updatesize(200);
+      updatesize(170);
     }
   }, [windowsize]);
 

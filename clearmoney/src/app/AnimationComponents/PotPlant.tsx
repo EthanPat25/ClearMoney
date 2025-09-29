@@ -8,7 +8,6 @@ export const PotPlant = React.memo(() => {
   const [windowsize, updatewindowsize] = React.useState<number | null>(null);
   const [size, updatesize] = React.useState(200);
 
-  // ✅ Dynamic import for Player to prevent SSR issues
   const Player: any = dynamic(
     () => import("@lordicon/react").then((mod) => mod.Player),
     { ssr: false }

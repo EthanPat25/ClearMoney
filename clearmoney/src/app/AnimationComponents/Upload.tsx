@@ -8,7 +8,6 @@ export const Upload = React.memo(() => {
   const [windowsize, updatewindowsize] = React.useState<number | null>(null);
   const [size, updatesize] = React.useState(200);
 
-  // ✅ Dynamic import to prevent "document is not defined" during SSR
   const Player: any = dynamic(
     () => import("@lordicon/react").then((mod) => mod.Player),
     { ssr: false }

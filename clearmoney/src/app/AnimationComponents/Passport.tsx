@@ -12,7 +12,6 @@ export const Passport = React.memo(({ initialSize }: sizeProps) => {
   const [windowsize, updatewindowsize] = React.useState<number | null>(null);
   const [size, updatesize] = React.useState(initialSize);
 
-  // ✅ Dynamically import Player to ensure client-only rendering
   const Player: any = dynamic(
     () => import("@lordicon/react").then((mod) => mod.Player),
     { ssr: false }

@@ -8,7 +8,6 @@ export const TaxGuidelines = React.memo(() => {
   const [windowsize, updatewindowsize] = React.useState<number | null>(null);
   const [size, updatesize] = React.useState(400);
 
-  // ✅ Use dynamic import to avoid SSR issues (`document is not defined`)
   const Player: any = dynamic(
     () => import("@lordicon/react").then((mod) => mod.Player),
     { ssr: false }

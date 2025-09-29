@@ -8,7 +8,6 @@ export const Finance = React.memo(() => {
   const [windowsize, updatewindowsize] = React.useState<number | null>(null);
   const [size, updatesize] = React.useState(150);
 
-  // ✅ Use dynamic import to disable SSR for this component
   const Player: any = dynamic(
     () => import("@lordicon/react").then((mod) => mod.Player),
     { ssr: false }

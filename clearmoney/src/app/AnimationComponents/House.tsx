@@ -31,13 +31,13 @@ export const House = React.memo(({ initialSize }: sizeProps) => {
     if (windowsize === null) return;
 
     if (windowsize >= 3200) {
-      updatesize(450);
+      updatesize(170);
     } else if (windowsize >= 2560) {
-      updatesize(350);
+      updatesize(170);
     } else if (windowsize >= 1920) {
-      updatesize(300);
+      updatesize(170);
     } else if (windowsize >= 1536) {
-      updatesize(250);
+      updatesize(170);
     } else if (windowsize <= 1024) {
       updatesize(170);
     }

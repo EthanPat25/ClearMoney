@@ -12,7 +12,6 @@ export const Hotelbed = React.memo(({ initialSize }: sizeProps) => {
   const [windowsize, updatewindowsize] = React.useState<number | null>(null);
   const [size, updatesize] = React.useState(initialSize);
 
-  // ✅ Dynamically import Player with SSR disabled
   const Player: any = dynamic(
     () => import("@lordicon/react").then((mod) => mod.Player),
     { ssr: false }
