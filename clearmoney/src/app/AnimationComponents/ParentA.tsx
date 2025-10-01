@@ -8,7 +8,7 @@ export const ParentA = React.memo(() => {
   const [windowsize, updatewindowsize] = React.useState<number | null>(null);
   const [size, updatesize] = React.useState(200);
 
-s  const Player: any = dynamic(
+  const Player: any = dynamic(
     () => import("@lordicon/react").then((mod) => mod.Player),
     { ssr: false }
   );
