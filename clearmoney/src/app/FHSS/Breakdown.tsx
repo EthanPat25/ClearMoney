@@ -1,6 +1,7 @@
 import React from "react";
 import TheDifference from "./TheDifference";
 import BarGraph from "./BarGraph";
+import InsightCard from "../SuperGap/InsightCard";
 
 const Breakdown = () => {
   return (
@@ -8,10 +9,11 @@ const Breakdown = () => {
       <div className="w-full flex justify-center">
         <TheDifference></TheDifference>
       </div>
-      <div className="flex justify-center">
-        <div className="w-[37rem] h-[27rem] mt-6 bg-gray-100 p-4 rounded-lg flex justify-center">
+      <div className="flex-col justify-center">
+        <div className="w-[37rem] h-[25rem] mt-6 bg-gray-100 p-4 rounded-lg flex justify-center">
           <BarGraph></BarGraph>
         </div>
+        <InsightCard></InsightCard>
       </div>
     </div>
   );

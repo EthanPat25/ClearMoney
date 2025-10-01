@@ -1,9 +1,9 @@
 import React from "react";
-import PiePrivate from "./PiePrivate";
-import { TablePrivate } from "./TablePrivate";
-import { TableCashandBonds } from "./TableCashandBonds";
-import PieCashandBonds from "./PieCashandBonds";
+
 import { NumericFormat } from "react-number-format";
+import { motion } from "framer-motion";
+import { Banknote } from "../AnimationComponents/Banknote";
+import { Bond } from "../AnimationComponents/Bond";
 
 export type BondsandCashHoldingsProps = {
   holdingsCashData: Holding[] | null;
@@ -65,6 +65,21 @@ const BondsandCashHoldings: React.FC<BondsandCashHoldingsProps> = ({
     totalpercentage: percentage,
   };
 
+  function getColorForAssetClass(assetClass: string) {
+    switch (assetClass) {
+      case "Infrastructure":
+        return "bg-blue-100 text-blue-700";
+      case "Property":
+        return "bg-green-100 text-green-700";
+      case "Equity":
+        return "bg-slate-100 text-slate-700";
+      case "Alternatives":
+        return "bg-yellow-100 text-yellow-700";
+      default:
+        return "bg-gray-100 text-gray-500";
+    }
+  }
+
   console.log(percentageCash);
   return (
     <div className="bg-gray-100 w-full rounded-[5rem]">
@@ -73,7 +88,7 @@ const BondsandCashHoldings: React.FC<BondsandCashHoldingsProps> = ({
         <div className="md:flex-1"></div>
         <div className="md:flex-2">
           <p className="xs:text-[0.8em] md:text-sm text-[RGB(251,99,64)] font-semibold">
-            Top Holdings (Bonds + Cash)
+            Cash & Fixed Interest (Bonds)
           </p>
           <h2 className="font-bold xs:text-[1.3rem] sm:text-[1.7rem] md:text-[2.3rem]">
             Where Your Money is Invested
@@ -97,26 +112,95 @@ const BondsandCashHoldings: React.FC<BondsandCashHoldingsProps> = ({
         </div>
       </div>
 
-      {/* Pie + Table */}
-      <div className="flex justify-evenly items-center w-full">
-        <div className="w-[25rem] h-[25rem] ml-[10rem]">
-          <PieCashandBonds dataforward={dataforward}></PieCashandBonds>
-        </div>
-        <div className="mr-[10rem]">
-          <TableCashandBonds dataforward={dataforward}></TableCashandBonds>
-        </div>
-      </div>
-
       {/* Cards + compact arrows */}
       <div className="flex items-center justify-center gap-4 mt-10">
+        <motion.div
+          initial={{ scale: 0.9, opacity: 0 }}
+          animate={{ scale: 1, opacity: 1 }}
+          transition={{ duration: 0.4, ease: "easeOut" }}
+          className="bg-white rounded-3xl p-6 pt-10 shadow-md text-center w-full max-w-[18rem] relative"
+        >
+          {/* Original name in top-left */}
+          <p className="absolute top-4 left-4 text-xs text-gray-400 font-medium leading-none truncate max-w-[65%]">
+            {}
+          </p>
+
+          {/* Info icon */}
+
+          {/* Logo container */}
+          <div className="flex flex-col justify-between items-center gap-6">
+            <Banknote></Banknote>
+          </div>
+
+          {/* Company name + hard-coded dollar value */}
+          <h2 className="xs:text-sm md:text-base font-medium">
+            <span
+              className={`mt-3 px-3 py-1 rounded-full text-xs font-semibold ${getColorForAssetClass(
+                "Property"
+              )}`}
+            >
+              {"Cash"}
+            </span>
+            {}
+          </h2>
+          <h2 className="xs:text-sm md:text-base font-medium mt-2">
+            <NumericFormat
+              value={dataforward.cashAmount}
+              thousandSeparator
+              prefix="$"
+              decimalScale={2}
+              fixedDecimalScale
+              displayType="text"
+            />
+          </h2>
+        </motion.div>
+
+        <motion.div
+          initial={{ scale: 0.9, opacity: 0 }}
+          animate={{ scale: 1, opacity: 1 }}
+          transition={{ duration: 0.4, ease: "easeOut" }}
+          className="bg-white rounded-3xl p-6 pt-10 shadow-md text-center w-full max-w-[18rem] relative"
+        >
+          {/* Original name in top-left */}
+          <p className="absolute top-4 left-4 text-xs text-gray-400 font-medium leading-none truncate max-w-[65%]">
+            {}
+          </p>
+
+          {/* Info icon */}
+
+          {/* Logo container */}
+          <div className="flex flex-col justify-between items-center">
+            <Bond></Bond>
+          </div>
+
+          {/* Company name + hard-coded dollar value */}
+          <h2 className="xs:text-sm md:text-base font-medium">
+            <span
+              className={`mt-3 px-3 py-1 rounded-full text-xs font-semibold ${getColorForAssetClass(
+                "Equity"
+              )}`}
+            >
+              {"Fixed Interest (Bonds)"}
+            </span>
+            {}
+          </h2>
+          <h2 className="xs:text-sm md:text-base font-medium mt-2">
+            <NumericFormat
+              value={dataforward.bondsAmount}
+              thousandSeparator
+              prefix="$"
+              decimalScale={2}
+              fixedDecimalScale
+              displayType="text"
+            />
+          </h2>
+        </motion.div>
         {/* Left arrow */}
 
         {/* Card grid */}
-        <div className="grid grid-cols-2 md:grid-cols-3 gap-y-6 gap-x-6 justify-items-center xs:px-5 sm:px-10 lg:px-32"></div>
 
         {/* Right arrow */}
       </div>
-
       {/* Footer */}
       <div className="flex flex-col justify-center items-center mt-12 text-center pb-10">
         <p className="mt-3 text-xs xxs:text-sm text-gray-500 max-w-[35rem] leading-relaxed">

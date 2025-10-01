@@ -10,7 +10,7 @@ import { motion } from "motion/react";
 
 const EverydayTerms = () => {
   return (
-    <div className=" bg-gray-100 h-[40%]">
+    <div className=" bg-gray-100 w-full pb-16">
       <div className="flex flex-col items-center p-14 w-full">
         <p className="text-sm text-[RGB(251,99,64)] font-semibold">
           Understand The Difference

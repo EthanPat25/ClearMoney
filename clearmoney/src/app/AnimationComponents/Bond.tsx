@@ -2,22 +2,22 @@
 
 import React from "react";
 import dynamic from "next/dynamic";
-import ICON from "../../../public/ParentA.json";
+import ICON from "../../../public/Bonds.json";
 
-export const ParentA = React.memo(() => {
+export const Bond = React.memo(() => {
   const [windowsize, updatewindowsize] = React.useState<number | null>(null);
-  const [size, updatesize] = React.useState(200);
+  const [size, updatesize] = React.useState(160);
 
-s  const Player: any = dynamic(
+  const Player: any = dynamic(
     () => import("@lordicon/react").then((mod) => mod.Player),
-    { ssr: false }
+    { ssr: false, loading: () => <div style={{ width: size, height: size }} /> }
   );
 
   const playerRef = React.useRef<any>(null);
 
   React.useEffect(() => {
     const handleResize = () => updatewindowsize(window.innerWidth);
-    handleResize(); // set initial value when mounted
+    handleResize(); // set initial size on mount
     window.addEventListener("resize", handleResize);
     return () => window.removeEventListener("resize", handleResize);
   }, []);
@@ -54,4 +54,4 @@ s  const Player: any = dynamic(
   );
 });
 
-ParentA.displayName = "ParentA";
+Bond.displayName = "Bond";

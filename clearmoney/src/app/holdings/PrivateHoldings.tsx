@@ -1,14 +1,12 @@
 import React from "react";
-import Info from "../FHSS/Info";
-import { motion } from "framer-motion";
+import PiePrivate from "./PiePrivate";
+import { TablePrivate } from "./TablePrivate";
+import { NumericFormat } from "react-number-format";
 import { Highway } from "../AnimationComponents/Highway";
 import { House } from "../AnimationComponents/House";
 import { MoneyBag } from "../AnimationComponents/MoneyBag";
-import PiePrivate from "./PiePrivate";
-import { TablePrivate } from "./TablePrivate";
-import ArrowRight from "./ArrowRight";
-import ArrowLeft from "./ArrowLeft";
-import { NumericFormat } from "react-number-format";
+import { Briefcase } from "../AnimationComponents/Briefcase";
+import { Puzzle } from "../AnimationComponents/Puzzle";
 
 type PrivateHoldingsProps = {
   holdingsData: Holding[] | null;
@@ -32,34 +30,23 @@ const PrivateHoldings: React.FC<PrivateHoldingsProps> = ({
   holdingsData,
   balance,
 }) => {
-  const [startIndex, setStartIndex] = React.useState(0);
-  const pageSize = 3;
-
-  const pager = holdingsData?.slice(startIndex, startIndex + pageSize);
-
-  function getIconForAssetClass(assetClass: string) {
-    switch (assetClass) {
-      case "Infrastructure":
-        return <Highway initialSize={130} />;
-      case "Property":
-        return <House initialSize={130} />;
-      case "Equity":
-        return <MoneyBag initialSize={130} />;
-      default:
-        return null;
-    }
-  }
+  const categories = [
+    { name: "Infrastructure", icon: <Highway initialSize={130} /> },
+    { name: "Property", icon: <House initialSize={130} /> },
+    { name: "Equity", icon: <Briefcase initialSize={130}></Briefcase> },
+    { name: "Alternatives", icon: <Puzzle initialSize={130} /> }, // placeholder
+  ];
 
   function getColorForAssetClass(assetClass: string) {
     switch (assetClass) {
       case "Infrastructure":
-        return "bg-blue-100 text-blue-700";
+        return "bg-sky-100 text-sky-700";
       case "Property":
         return "bg-green-100 text-green-700";
       case "Equity":
-        return "bg-purple-100 text-purple-700";
-      case "Alternatives":
         return "bg-yellow-100 text-yellow-700";
+      case "Alternatives":
+        return "bg-orange-100 text-orange-700";
       default:
         return "bg-gray-100 text-gray-500";
     }
@@ -80,7 +67,7 @@ const PrivateHoldings: React.FC<PrivateHoldingsProps> = ({
         <div className="md:flex-1"></div>
         <div className="md:flex-2">
           <p className="xs:text-[0.8em] md:text-sm text-[RGB(251,99,64)] font-semibold">
-            Top Holdings (Unlisted Assets)
+            Unlisted Assets
           </p>
           <h2 className="font-bold xs:text-[1.3rem] sm:text-[1.7rem] md:text-[2.3rem]">
             Where Your Money is Invested
@@ -96,7 +83,7 @@ const PrivateHoldings: React.FC<PrivateHoldingsProps> = ({
               fixedDecimalScale
               displayType="text"
             />{" "}
-            <br className="xs:hidden lg:block"></br>
+            <br></br>
             <span className="text-[RGB(251,99,64)]">
               {`(${percentage.toFixed(1)}%)`}
             </span>
@@ -114,74 +101,57 @@ const PrivateHoldings: React.FC<PrivateHoldingsProps> = ({
         </div>
       </div>
 
-      {/* Cards + compact arrows */}
-      <div className="flex items-center justify-center gap-4 mt-10">
-        {/* Left arrow */}
-        <button
-          className="p-2 rounded-full hover:bg-gray-200 transition"
-          onClick={() => setStartIndex((prev) => Math.max(0, prev - pageSize))}
-        >
-          <ArrowLeft />
-        </button>
+      {/* Category Cards */}
+      <div className="mx-auto mt-10 grid grid-cols-2 gap-10 max-w-2xl place-items-center">
+        {categories.map((cat, index) => (
+          <div
+            key={index}
+            className="bg-white rounded-3xl p-6 pt-10 shadow-md text-center w-full max-w-[18rem] relative"
+          >
+            {/* Icon */}
+            <div className="flex flex-col justify-between items-center gap-6">
+              {cat.icon}
+            </div>
 
-        {/* Card grid */}
-        <div className="grid grid-cols-2 md:grid-cols-3 gap-y-6 gap-x-6 justify-items-center xs:px-5 sm:px-10 lg:px-32">
-          {pager &&
-            pager.map((holding: Holding, index) => (
-              <motion.div
-                key={`${startIndex}-${index}`}
-                initial={{ scale: 0.9, opacity: 0 }}
-                animate={{ scale: 1, opacity: 1 }}
-                transition={{ duration: 0.4, ease: "easeOut" }}
-                className="bg-white rounded-3xl p-6 pt-10 shadow-md text-center w-full max-w-[18rem] relative"
+            {/* Category pill */}
+            <h2 className="xs:text-sm md:text-base font-medium mt-4">
+              <span
+                className={`px-3 py-1 rounded-full text-xs font-semibold ${getColorForAssetClass(
+                  cat.name
+                )}`}
               >
-                {/* Source name */}
-                <p
-                  className="absolute top-4 left-4 text-xs text-gray-400 font-medium leading-none truncate max-w-[65%]"
-                  title={holding.Source_Name}
-                >
-                  {holding.Source_Name}
-                </p>
+                {cat.name}
+              </span>
+            </h2>
 
-                {/* Info icon */}
-                <Info className="absolute top-4 right-4 w-8 h-8 flex justify-center items-center" />
-
-                {/* Logo + Label */}
-                <div className="flex flex-col justify-between items-center">
-                  {getIconForAssetClass(holding.Asset_Class)}
-
-                  <span
-                    className={`mt-3 px-3 py-1 rounded-full text-xs font-semibold ${getColorForAssetClass(
-                      holding.Asset_Class
-                    )}`}
-                  >
-                    {holding.Asset_Class}
-                  </span>
-                </div>
-
-                {/* Company name + $ value */}
-                <h2 className="xs:text-sm md:text-base font-medium mt-3">
-                  {holding.Name}:{" "}
-                  <span className="font-semibold text-base">$60.50</span>
-                </h2>
-              </motion.div>
-            ))}
-        </div>
-
-        {/* Right arrow */}
-        <button
-          className="p-2 rounded-full hover:bg-gray-200 transition"
-          onClick={() => setStartIndex((prev) => prev + pageSize)}
-        >
-          <ArrowRight />
-        </button>
+            {/* Dollar + percentage */}
+            <h2 className="xs:text-sm md:text-base font-medium mt-2">
+              <NumericFormat
+                value={0}
+                thousandSeparator
+                prefix="$"
+                decimalScale={2}
+                fixedDecimalScale
+                displayType="text"
+              />{" "}
+              <span className="text-[RGB(251,99,64)]">(0%)</span>
+            </h2>
+          </div>
+        ))}
       </div>
 
       {/* Footer */}
       <div className="flex flex-col justify-center items-center mt-12 text-center pb-10">
         <h1 className="text-xl font-semibold">
-          $2,579.50 of your super is invested across {holdingsData?.length ?? 0}{" "}
-          Privately Listed Assets
+          <NumericFormat
+            value={amount}
+            thousandSeparator
+            prefix="$"
+            decimalScale={2}
+            fixedDecimalScale
+            displayType="text"
+          />{" "}
+          of your super is invested across NA Privately Listed Assets
         </h1>
         <p className="mt-3 text-xs xxs:text-sm text-gray-500 max-w-[35rem] leading-relaxed">
           Based on official holdings data from

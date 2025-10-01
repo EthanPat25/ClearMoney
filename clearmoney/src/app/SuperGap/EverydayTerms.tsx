@@ -9,7 +9,7 @@ import Info from "../FHSS/Info";
 
 const EverydayTerms = () => {
   return (
-    <div className=" bg-gray-100 w-full rounded-[5rem]">
+    <div className=" bg-gray-100 w-full rounded-[5rem] pb-16">
       <div className="flex flex-col items-center p-10 w-full">
         <p className="text-sm text-[RGB(251,99,64)] font-semibold">
           Understand Your Gap

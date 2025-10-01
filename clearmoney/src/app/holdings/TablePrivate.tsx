@@ -8,10 +8,10 @@ import {
 } from "@/components/ui/table";
 
 const allocations = [
-  { name: "Property", value: "49.0%", color: "#2E7D32" }, // green
-  { name: "Infrastructure", value: "43.0%", color: "#1976D2" }, // blue
-  { name: "Private Equity", value: "5.0%", color: "#E65100" }, // orange
-  { name: "Alternatives", value: "3.0%", color: "#6A1B9A" }, // purple
+  { name: "Property", value: "49.0%", color: "#00C49F" },
+  { name: "Infrastructure", value: "43.0%", color: "#0088FE" },
+  { name: "Private Equity", value: "5.0%", color: "#FFBB28" },
+  { name: "Alternatives", value: "3.0%", color: "#FF8042" },
 ];
 
 export function TablePrivate() {

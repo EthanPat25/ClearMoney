@@ -5,7 +5,7 @@ import { motion } from "motion/react";
 const TheDifference = () => {
   return (
     <motion.div
-      className=" flex flex-col items-center w-[93%] bg-[RGB(82,105,127)] h-56 rounded-2xl relative"
+      className=" flex flex-col items-center w-[37rem] bg-[RGB(82,105,127)] h-56 rounded-2xl relative"
       initial={{ opacity: 0, scale: 0 }}
       animate={{ opacity: 1, scale: 1 }}
       transition={{
@@ -20,7 +20,7 @@ const TheDifference = () => {
           alt="Picture Displaying Downward Arrow"
         />
       </div>
-      <MoneyBag initialSize={250}></MoneyBag>
+      <MoneyBag initialSize={130}></MoneyBag>
       <p className="text-sm text-[RGB(251,99,64)] font-semibold">
         The Difference
       </p>

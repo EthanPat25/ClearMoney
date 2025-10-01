@@ -16,8 +16,8 @@ export default function SuperContributions() {
   //  bg-gray-100
 
   return (
-    <div className="w-screen p-6 bg-[RGB(250,251,252)] relative">
-      <div className="bg-gradient-to-b from-[rgb(3,181,183)] to-[#9bdbdc] p-6 pb-16">
+    <div className="w-full bg-[RGB(250,251,252)] relative">
+      <div className="bg-gradient-to-b from-[rgb(3,181,183)] to-[#9bdbdc] p-6 pb-16 w-full">
         <div className="mt-24 flex flex-col items-center p-10">
           <div className="flex rounded-full bg-[RGB(82,105,127)] w-24 h-24 justify-center items-center mb-5">
             <Superannuation />

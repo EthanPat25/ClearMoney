@@ -48,13 +48,13 @@ export default function Page() {
               onClick={() => setView("case")}
               className={`px-4 py-2 xs:w-[7rem] sm:w-[9rem] md:w-[11rem] rounded-3xl text-sm ${view === "case" ? "bg-gray-900 text-white" : "border"}`}
             >
-              Private Investments
+              Private Assets
             </button>
             <button
               onClick={() => setView("close")}
               className={`px-4 py-2 xs:w-[7rem] sm:w-[9rem] md:w-[11rem] rounded-3xl text-sm ${view === "close" ? "bg-gray-900 text-white" : "border"}`}
             >
-              Bonds and Cash
+              Bonds + Cash
             </button>
           </div>
 

@@ -44,7 +44,7 @@ const PublicHoldings: React.FC<PublicHoldingsProps> = ({
         <div className="md:flex-1"></div> {/* spacer */}
         <div className="md:flex-2">
           <p className="xs:text-[0.8em] md:text-sm text-[RGB(251,99,64)] font-semibold">
-            Top Holdings (Listed Assets)
+            Top Public Holdings
           </p>
           <h2 className="font-bold xs:text-[1.3rem] sm:text-[1.7rem] md:text-[2.3rem]">
             Where Your Money is Invested

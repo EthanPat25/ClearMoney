@@ -27,7 +27,7 @@ const data = [
 const BarGraph = ({}) => (
   <ResponsiveContainer width="100%" height="100%">
     <BarChart
-      width={200}
+      width={400}
       height={400}
       data={data}
       margin={{

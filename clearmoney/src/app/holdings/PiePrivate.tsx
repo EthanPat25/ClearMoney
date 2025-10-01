@@ -9,10 +9,10 @@ import {
 } from "recharts";
 
 const data = [
-  { name: "Property", value: 49, color: "#1A8C8C" }, // dark navy
-  { name: "Infrastructure", value: 43, color: "#FF6600" }, // blue
-  { name: "Private Equity", value: 5, color: "#FFBB28" }, // orange
-  { name: "Alternatives", value: 3, color: "#0A1F44" }, // teal
+  { name: "Property", value: 49, color: "#00C49F" },
+  { name: "Infrastructure", value: 43, color: "#0088FE" },
+  { name: "Private Equity", value: 5, color: "#FFBB28" },
+  { name: "Alternatives", value: 3, color: "#FF8042" },
 ];
 
 // Hover effect (enlarges slice)

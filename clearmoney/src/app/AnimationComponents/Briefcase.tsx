@@ -2,13 +2,17 @@
 
 import React from "react";
 import dynamic from "next/dynamic";
-import ICON from "../../../public/ParentA.json";
+import ICON from "../../../public/Briefcase.json";
 
-export const ParentA = React.memo(() => {
+type sizeProps = {
+  initialSize: number;
+};
+
+export const Briefcase = React.memo(({ initialSize }: sizeProps) => {
   const [windowsize, updatewindowsize] = React.useState<number | null>(null);
-  const [size, updatesize] = React.useState(200);
+  const [size, updatesize] = React.useState(initialSize);
 
-s  const Player: any = dynamic(
+  const Player: any = dynamic(
     () => import("@lordicon/react").then((mod) => mod.Player),
     { ssr: false }
   );
@@ -17,7 +21,7 @@ s  const Player: any = dynamic(
 
   React.useEffect(() => {
     const handleResize = () => updatewindowsize(window.innerWidth);
-    handleResize(); // set initial value when mounted
+    handleResize(); // set initial size on mount
     window.addEventListener("resize", handleResize);
     return () => window.removeEventListener("resize", handleResize);
   }, []);
@@ -54,4 +58,4 @@ s  const Player: any = dynamic(
   );
 });
 
-ParentA.displayName = "ParentA";
+Briefcase.displayName = "Briefcase";
